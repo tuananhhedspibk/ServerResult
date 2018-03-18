@@ -1,0 +1,125 @@
+hàng_hóa xuất_khẩu	186
+chất_lượng hàng_hoá	164
+đối_với hàng_hóa	120
+cá_nhân kinh_doanh hàng_hóa	86
+hàng hóa	77
+ghi nhãn	76
+vận_chuyển trái_phép hàng_hóa biên_giới	66
+chủ hàng	59
+đối_với hàng_hóa xuất_khẩu	54
+hàng xuất_khẩu	54
+tạm nhập	52
+hàng đóng_gói sẵn	49
+lưu_thông thị_trường	48
+kiểm_tra thực_tế	48
+hàng_hoá xuất_khẩu	46
+tạm nhập tái_xuất	46
+nhập_khẩu hàng_hoá	45
+đối_với hàng_hoá xuất_khẩu	43
+nhập_khẩu hàng_hóa	41
+kinh_doanh hàng_hóa	41
+đối_với hàng_hoá	40
+kiểm_tra chất_lượng	39
+kiểm_tra thực_tế hàng_hóa	38
+tạm xuất tái_nhập	37
+hoạt_động xuất_khẩu	37
+cơ_quan kiểm_tra chất_lượng sản_phẩm	36
+chủ hàng_hóa	36
+hàng_hoá nhập_khẩu	34
+vận_chuyển hàng_hóa	33
+nhãn hàng_hóa	32
+chất_lượng hàng_hóa	32
+đối_với hàng_hóa_nhập_khẩu	32
+danh_mục hàng_hóa	32
+cấm xuất_khẩu	31
+lô hàng	30
+hàng nhập_khẩu	30
+chất_lượng sản_phẩm	29
+kinh_doanh hàng_hoá	28
+tạm xuất	27
+kiểm_tra chất_lượng sản_phẩm	26
+cấm nhập_khẩu	25
+mua_bán hàng_hóa	25
+cửa_khẩu nhập	24
+quá_trình vận_chuyển	24
+hàng hóa tạm	23
+tạm nhập_khẩu	22
+tiến_hành kiểm_tra	21
+hàng_hóa quá_cảnh	20
+xuất_xứ hàng_hóa	20
+xuất_khẩu hàng_hóa	20
+kiểm_tra chất_lượng hàng_hoá	19
+sản_xuất hàng xuất_khẩu	19
+dán nhãn	19
+sản_xuất hàng_hóa xuất_khẩu	19
+đối_với hàng_hoá nhập_khẩu	18
+kém chất_lượng	17
+nhập_khẩu thông_quan	17
+vận_chuyển hàng	16
+vận_chuyển hàng_hoá	16
+cá_nhân nhập_khẩu	15
+thuế đối_với hàng_hóa xuất_khẩu	14
+phép nhập_khẩu	13
+quá_cảnh hàng_hóa	13
+danh_mục hàng_hoá	12
+danh_mục hàng	12
+thực_tế hàng_hoá	11
+thuế xuất_khẩu	11
+sản_xuất nhập_khẩu	11
+phương_tiện vận_chuyển	11
+sản_xuất hàng_hóa	10
+quá_trình kiểm_tra	9
+vận_chuyển trái_phép hàng_hoá	8
+hàng_hóa cửa_khẩu	8
+cấm lưu_thông	8
+mua hàng	7
+quá_cảnh lãnh_thổ	6
+cấm kinh_doanh	6
+lưu_thông hàng_hoá	6
+đối_với sản_phẩm	6
+hàng hàng	5
+hàng vận_chuyển	5
+thuế đối_với hàng_hóa	5
+nhà_nước chất_lượng hàng_hoá	5
+phép lưu_thông	5
+cá_nhân sản_xuất	5
+xuất_xứ hàng_hoá	5
+hàng cấm	4
+đổi hàng	4
+nhập_khẩu sản_phẩm	4
+hải_quan đối_với hàng_hóa xuất_khẩu	4
+sản_phẩm gia_công	4
+đóng_gói sẵn	4
+vận_chuyển trái_phép	3
+mua hàng_hoá	3
+quá_trình sản_xuất	3
+kiểm_tra thông_quan	3
+thực_tế hàng_hóa	3
+cá_nhân kinh_doanh	3
+xuất hàng	3
+đối_với phương_tiện	2
+cá_nhân phép	2
+niêm_phong tiến_hành	2
+nhập lậu	2
+kinh_doanh sản_phẩm	2
+nguồn_gốc xuất_xứ	2
+kiểm_tra hoạt_động	2
+hàng đóng_gói	2
+danh_mục phép	2
+nguyên_liệu sản_xuất	2
+mua_bán hàng_hoá	2
+trái_phép hàng_hóa	1
+nhập tái_xuất	1
+cơ_quan hải_quan	1
+chủ phương_tiện	1
+hải_quan đối_với hàng_hóa	1
+vận_chuyển trái_phép hàng_hóa	1
+sản_xuất trái_phép	1
+danh_mục sản_phẩm	1
+hàng_hóa biên_giới	1
+tiến_hành hoạt_động	1
+hoạt_động kinh_doanh	1
+vận_chuyển thực_tế	1
+thuế đối_với	1
+cấm hoạt_động	1
+hải_quan đối_với hàng_hoá	1

@@ -1,0 +1,27 @@
+căn_cứ hiến_pháp 1992 sửa_đổi	134
+luật sửa_đổi	110
+1992 sửa_đổi	107
+căn_cứ hiến_pháp 1992	89
+văn_bản sửa_đổi	57
+' '	49
+pháp_lệnh sửa_đổi	48
+sửa_đổi hiến_pháp	44
+căn_cứ hiến_pháp	43
+- sửa_đổi	37
+sửa_đổi bãi_bỏ	36
+căn_cứ 0 hiến_pháp	33
+sửa_đổi bãi_bỏ quyết_định	28
+hiến_pháp 1992	25
+căn_cứ nghị_quyết	24
+căn_cứ quyết_định	19
+sửa_đổi huỷ_bỏ	15
+bãi_bỏ quyết_định	6
+khuôn_khổ hiến_pháp	6
+bãi_bỏ văn_bản	5
+0 hiến_pháp	4
+thông_qua_ngày 19	3
+huỷ_bỏ quyết_định	3
+căn_cứ 0	2
+8 luật	2
+0 luật	1
+luật bãi_bỏ	1

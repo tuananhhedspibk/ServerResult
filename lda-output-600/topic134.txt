@@ -1,0 +1,47 @@
+liên_hiệp hợp_tác_xã	382
+hợp_tác_xã thành_viên	156
+đại_hội thành_viên	93
+đại_hội xã_viên	84
+hợptác xã	78
+điều_lệ hợp_tác_xã	72
+đối_với hợp_tác_xã	60
+vốn góp	59
+tác xã	51
+liên_minh hợp_tác_xã	32
+xã_viên hợp_tác_xã	31
+đại_hội đại_biểu	28
+vốn điều_lệ	26
+góp vốn	25
+chủ_nhiệm hợp_tác_xã	21
+hợp_nhất chia tách	18
+huy_động vốn	15
+phát_triển hợp_tác_xã	14
+vốn góp thành_viên	12
+triệu_tập đại_hội	8
+tách hợp_tác_xã	8
+trở_thành thành_viên	7
+điều_lệ mẫu	7
+số_lượng đại_biểu	5
+triệu_tập chủ_trì	5
+bãi_miễn thành_viên	4
+vốn huy_động	4
+tổng_số vốn	4
+thành_viên góp vốn	3
+tổng_số đại_biểu	3
+tổng_số thành_viên	3
+thành_viên tham_gia	3
+số_lượng thành_viên	3
+dự_thảo điều_lệ	3
+góp xã_viên	3
+nghị_quyết hội_nghị	2
+tham_gia hội_nghị	2
+bầu đại_biểu	2
+quản_trị hợp_tác_xã	2
+bầu thành_viên	1
+góp vốn góp	1
+hội_nghị đại_biểu	1
+nghị_quyết đại_hội	1
+triệu_tập hội_nghị	1
+tiêu_chuẩn đại_biểu	1
+thành_viên góp	1
+góp vốn điều_lệ	1

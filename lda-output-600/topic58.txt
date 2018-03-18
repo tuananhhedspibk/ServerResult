@@ -1,0 +1,49 @@
+lập biên_bản	423
+ghi biên_bản	142
+biên_bản ghi	80
+ký biên_bản	69
+ghi vào_sổ	62
+bảo lĩnh	54
+ghi lý_do	46
+ghi đầy_đủ	46
+ký xác_nhận	44
+biên_bản phiên_tòa	36
+kiểm_tra biên_bản	33
+biên_bản phiên_toà	33
+ghi biên_bản phiên_tòa	31
+lập biên_bản ghi	29
+ghi quyết_định	28
+ghi lý_do biên_bản	28
+nhược_điểm tâm_thần thể_chất	27
+lập thành_văn_bản	26
+biên_bản bàn_giao	25
+lập thành biên_bản	21
+ghi biên_bản phiên_toà	21
+nhược_điểm thể_chất	20
+ký_tên biên_bản	20
+kiểm_tra căn_cước	19
+câu trả_lời	18
+biên_bản lập	18
+lập thành	17
+biên_bản kê_biên	15
+biên_bản chữ_ký	15
+trả_lời câu	15
+biên_bản giao_nhận	14
+chữ_ký chủ_tịch	14
+biên_bản ghi kết_quả	13
+ký trang	13
+lý_do căn_cứ	12
+lập biên_bản vi_phạm	11
+biên_bản thành	9
+ghi sổ	8
+thành biên_bản	7
+biên_bản ghi khai	6
+biên_bản hỏi_cung	4
+biên_bản kết_quả	4
+căn_cứ quyết_định	3
+ghi thành	3
+biên_bản vi_phạm	3
+lập sổ	3
+nhược_điểm tâm_thần	2
+biên_bản xác_định	2
+kiểm_tra biên_bản xác_định kết_quả	2

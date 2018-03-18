@@ -1,0 +1,265 @@
+áp_dụng biện_pháp	498
+áp_dụng đối_với	264
+thực_hiện biện_pháp	239
+quyết_định áp_dụng	195
+áp_dụng biện_pháp khẩn_cấp tạm_thời	186
+biện_pháp bảo_đảm	162
+áp_dụng biện_pháp xử_lý hành_chính	142
+áp_dụng biện_pháp cần_thiết	137
+biện_pháp xử_lý	129
+quyết_định áp_dụng biện_pháp	119
+áp_dụng biện_pháp ngăn_chặn	116
+biện_pháp ngăn_chặn	106
+quyết_định biện_pháp	101
+quyết_định áp_dụng biện_pháp xử_lý hành_chính	98
+đối_tượng áp_dụng	93
+biện_pháp cần_thiết	90
+biện_pháp bảo_vệ	89
+hủy_bỏ biện_pháp khẩn_cấp tạm_thời	83
+quyết_định áp_dụng biện_pháp khẩn_cấp tạm_thời	80
+yêu_cầu áp_dụng biện_pháp khẩn_cấp tạm_thời	77
+biện_pháp khẩn_cấp tạm_thời	70
+áp_dụng biện_pháp khắc_phục hậu_quả quy_định a	68
+quyết_định xử_lý	61
+khắc_phục hậu_quả	59
+biện_pháp khắc_phục	57
+biện_pháp cưỡng_chế	56
+áp_dụng biện_pháp cưỡng_chế	55
+quyết_định cưỡng_chế	55
+biện_pháp phòng_ngừa	53
+thực_hiện biện_pháp khắc_phục	51
+biện_pháp khắc_phục hậu_quả	50
+thực_hiện biện_pháp bảo_đảm	50
+có_thể áp_dụng	48
+áp_dụng hình_thức	43
+tiến_hành biện_pháp	41
+quyết_định hành_chính	40
+biện_pháp xử_lý hành_chính	39
+chấp_hành quyết_định	35
+quyết_định áp_dụng thủ_tục rút_gọn	35
+hủy_bỏ biện_pháp ngăn_chặn	34
+thực_hiện cưỡng_chế	33
+thi_hành quyết_định	32
+áp_dụng biện_pháp xử_lý	31
+kiến_nghị biện_pháp xử_lý	30
+áp_dụng biện_pháp trường_giáo_dưỡng	29
+thực_hiện biện_pháp cần_thiết	29
+thực_hiện biện_pháp bảo_vệ	28
+tình_trạng khẩn_cấp	28
+biện_pháp thúc_đẩy	27
+biện_pháp tư_pháp	27
+kiến_nghị biện_pháp	27
+áp_dụng biện_pháp khẩn_cấp tạm_thời bắt_giữ tàu_biển	27
+áp_dụng biện_pháp khắc_phục hậu_quả	27
+cưỡng_chế thi_hành quyết_định hành_chính thuế	26
+huỷ_bỏ biện_pháp khẩn_cấp tạm_thời	25
+có_thể áp_dụng biện_pháp	25
+chấp_hành biện_pháp	25
+chấp_hành biện_pháp tư_pháp	23
+có_thể áp_dụng đối_với	23
+thực_hiện biện_pháp xử_lý	22
+biện_pháp nghiệp_vụ	22
+điều_luật áp_dụng	22
+thi_hành biện_pháp tư_pháp	22
+quyết_định cưỡng_chế thi_hành quyết_định hành_chính thuế	21
+biện_pháp trường_giáo_dưỡng	21
+tổ_chức hữu_quan áp_dụng biện_pháp khắc_phục	21
+thay_đổi hủy_bỏ biện_pháp ngăn_chặn	20
+áp_dụng hình_thức xử_phạt	19
+thực_hiện biện_pháp phòng_ngừa	19
+quyết_định xử_phạt	19
+quyết_định áp_dụng biện_pháp trường_giáo_dưỡng	19
+áp_dụng biện_pháp bảo_vệ	19
+cưỡng_chế thi_hành	19
+chấp_hành biện_pháp xử_lý hành_chính	18
+thi_hành quyết_định áp_dụng biện_pháp khẩn_cấp tạm_thời	18
+đối_với quyết_định hành_chính	18
+quyền áp_dụng biện_pháp điều_tra quy_định	18
+đối_tượng cưỡng_chế thi_hành quyết_định hành_chính thuế	18
+thực_hiện biện_pháp bảo_đảm tài_chính	18
+đối_tượng cưỡng_chế	18
+áp_dụng biện_pháp phòng_ngừa	17
+thay_đổi huỷ_bỏ biện_pháp ngăn_chặn	17
+biện_pháp khẩn_cấp	17
+quyết_định áp_dụng biện_pháp khẩn_cấp tạm_thời bắt_giữ tàu_biển	17
+nguyên_tắc áp_dụng	17
+thiếu_hụt tạm_thời	17
+áp_dụng thời_hiệu	16
+áp_dụng chế_độ	16
+áp_dụng biện_pháp cưỡng_chế thi_hành án	16
+áp_dụng thống_nhất	16
+hủy quyết_định áp_dụng biện_pháp khẩn_cấp tạm_thời bắt_giữ tàu_biển	15
+tổ_chức hữu_quan áp_dụng biện_pháp	14
+áp_dụng biện_pháp cần_thiết bảo_vệ	14
+áp_dụng biện_pháp khẩn_cấp	14
+áp_dụng phương_pháp	14
+biện_pháp ngăn_ngừa	13
+biện_pháp khẩn_cấp tạm_thời áp_dụng	13
+quyết_định trường_giáo_dưỡng	13
+đơn yêu_cầu áp_dụng biện_pháp khẩn_cấp tạm_thời bắt_giữ tàu_biển	13
+thay_đổi hủy_bỏ biện_pháp	13
+chấp_hành biện_pháp trường_giáo_dưỡng	13
+yêu_cầu áp_dụng biện_pháp khẩn_cấp tạm_thời bắt_giữ tàu_biển	12
+quyết_định thay_đổi	12
+biện_pháp bảo_đảm thi_hành	12
+chấp_hành quyết_định xử_lý	12
+một_số biện_pháp	12
+cưỡng_chế thi_hành quyết_định	11
+biện_pháp cưỡng_chế thi_hành án	11
+ngăn_chặn kịp_thời	11
+đơn yêu_cầu áp_dụng biện_pháp khẩn_cấp tạm_thời	11
+có_thể quyết_định	11
+áp_dụng một_số	11
+toà_án quyết_định áp_dụng biện_pháp khẩn_cấp tạm_thời	11
+thi_hành biện_pháp	11
+cá_nhân thẩm_quyền áp_dụng biện_pháp	11
+hủy_bỏ biện_pháp	11
+thay_đổi huỷ_bỏ biện_pháp	11
+biện_pháp bảo_đảm thay_thế	10
+bảo_đảm thực_hiện	10
+yêu_cầu áp_dụng biện_pháp	10
+áp_dụng biện_pháp khắc_phục	10
+yêu_cầu áp_dụng	9
+áp_dụng một_số biện_pháp	9
+áp_dụng quy_định	9
+đề_nghị áp_dụng biện_pháp	8
+tòa_án quyết_định áp_dụng biện_pháp	8
+biện_pháp ngăn_chặn bảo_đảm	8
+đối_với đối_tượng	8
+thi_hành quyết_định xử_phạt	8
+biện_pháp cần_thiết bảo_vệ	8
+hình_thức xử_phạt	8
+thẩm_quyền áp_dụng biện_pháp	8
+biện_pháp bảo_đảm tài_chính	7
+quy_định áp_dụng đối_với	7
+cưỡng_chế thi_hành quyết_định xử_phạt	7
+ngăn_chặn xử_lý	7
+chấp_hành quyết_định xử_phạt	7
+áp_dụng đối_với tổ_chức	7
+biện_pháp bảo_đảm thực_hiện	6
+xử_lý kịp_thời	6
+đối_với một_số	6
+có_thể áp_dụng hình_thức	6
+khắc_phục tình_trạng	6
+chấp_hành quyết_định áp_dụng biện_pháp xử_lý hành_chính	6
+biện_pháp cần_thiết bảo_đảm	6
+kịp_thời ngăn_chặn	6
+thay_thế biện_pháp	5
+huỷ_bỏ quyết_định	5
+áp_dụng biện_pháp cưỡng_chế thi_hành	5
+áp_dụng biện_pháp cần_thiết kịp_thời chấm_dứt	5
+thẩm_quyền quyết_định	5
+biện_pháp giáo_dục	5
+áp_dụng đối_với hành_vi	5
+áp_dụng thủ_tục rút_gọn	5
+quyết_định huỷ_bỏ	5
+khắc_phục kịp_thời	5
+thời_gian áp_dụng biện_pháp xử_lý hành_chính	5
+thi_hành quyết_định hành_chính	5
+chấp_hành quyết_định áp_dụng biện_pháp	5
+thực_hiện quy_định	5
+hữu_quan áp_dụng biện_pháp	5
+áp_dụng hình_thức xử_phạt bổ_sung	5
+thực_hiện hình_thức	5
+huỷ quyết_định	5
+thi_hành quyết_định áp_dụng	4
+bảo_đảm thay_thế	4
+biện_pháp cần_thiết ngăn_chặn	4
+bảo_vệ chế_độ	4
+quyết_định xử_lý thuế	4
+khẩn_cấp tạm_thời	4
+biện_pháp thích_hợp	4
+xử_lý thẩm_quyền	4
+thẩm_quyền áp_dụng biện_pháp cần_thiết	4
+quyết_định thi_hành	4
+hữu_quan áp_dụng biện_pháp phòng_ngừa	4
+quyết_định áp_dụng biện_pháp xử_lý	4
+huỷ_bỏ biện_pháp ngăn_chặn	4
+áp_dụng biện_pháp khắc_phục hậu_quả quy_định	4
+thời_hiệu thi_hành quyết_định	4
+xử_lý hành_chính	4
+áp_dụng hình_phạt	4
+biện_pháp khẩn_cấp tạm_thời bắt_giữ tàu_biển	4
+thẩm_quyền xử_lý	3
+biện_pháp cần_thiết kịp_thời chấm_dứt	3
+áp_dụng thủ_tục	3
+thủ_tục hành_chính	3
+biện_pháp cưỡng_chế quy_định	3
+tòa_án quyết_định áp_dụng	3
+huỷ_bỏ biện_pháp	3
+thực_hiện thủ_tục	3
+quyết_định cưỡng_chế thi_hành	3
+thi_hành quyết_định áp_dụng biện_pháp	3
+toà_án quyết_định áp_dụng biện_pháp	3
+áp_dụng biện_pháp cần_thiết kịp_thời	3
+áp_dụng biện_pháp ngăn_chặn bảo_đảm	3
+áp_dụng biện_pháp phòng_ngừa tội_phạm	3
+áp_dụng biện_pháp giáo_dục	3
+thực_hiện một_số	3
+quyết_định cưỡng_chế thi_hành quyết_định	2
+chấp_hành quyết_định trường_giáo_dưỡng	2
+cần_thiết bảo_vệ	2
+hành_chính áp_dụng	2
+thủ_tục rút_gọn	2
+hủy quyết_định áp_dụng biện_pháp khẩn_cấp tạm_thời	2
+đề_nghị áp_dụng	2
+hình_phạt áp_dụng	2
+thời_hiệu thi_hành	2
+thực_hiện nguyên_tắc	2
+áp_dụng biện_pháp cưỡng_chế quy_định	2
+hủy_bỏ biện_pháp khẩn_cấp	2
+thay_đổi hủy_bỏ	2
+kịp_thời xử_lý	2
+quyết_định áp_dụng biện_pháp giáo_dục	2
+bảo_đảm thi_hành	2
+xử_lý quy_định	2
+thực_hiện thống_nhất	2
+đối_tượng cưỡng_chế thi_hành quyết_định hành_chính	2
+biện_pháp khắc_phục hậu_quả quy_định	2
+áp_dụng biện_pháp cần_thiết ngăn_chặn	2
+đối_tượng áp_dụng chế_độ	2
+bảo_đảm tài_chính	1
+yêu_cầu thay_đổi	1
+quyền yêu_cầu	1
+thi_hành án	1
+biện_pháp phòng_ngừa tội_phạm	1
+quyết_định áp_dụng biện_pháp khẩn_cấp	1
+quyền áp_dụng biện_pháp điều_tra	1
+quyết_định bắt_giữ tàu_biển	1
+thẩm_quyền quy_định	1
+tiến_hành một_số	1
+tàu_biển bảo_đảm	1
+xử_phạt hành_chính	1
+hình_phạt đối_với	1
+chấp_hành quy_định	1
+áp_dụng biện_pháp điều_tra	1
+đối_tượng cưỡng_chế thi_hành quyết_định	1
+tổ_chức thực_hiện	1
+thẩm_quyền quyết_định bắt_giữ tàu_biển	1
+thuế đối_với	1
+tòa_án quyết_định	1
+yêu_cầu toà_án	1
+yêu_cầu thủ_tục	1
+quyết_định thay_đổi huỷ_bỏ	1
+quyết_định hủy	1
+quyết_định áp_dụng thủ_tục	1
+tiến_hành thủ_tục	1
+giáo_dục chấp_hành	1
+tổ_chức hữu_quan áp_dụng	1
+quyết_định đơn yêu_cầu	1
+quyết_định huỷ_bỏ quyết_định	1
+bảo_đảm yêu_cầu	1
+kịp_thời chấm_dứt	1
+cần_thiết kịp_thời	1
+tàu_biển thi_hành án	1
+quyền kiến_nghị	1
+thực_hiện biện_pháp vệ_sinh	1
+ngăn_chặn hành_vi	1
+đối_với hành_vi	1
+có_thể yêu_cầu	1
+có_thể tiến_hành	1
+toà_án quyết_định áp_dụng	1
+chấp_hành biện_pháp xử_lý	1
+bảo_đảm nguyên_tắc	1
+quy_định a	1
+thay_đổi huỷ_bỏ	1

@@ -1,0 +1,12 @@
+quân_nhân chuyên_nghiệp	253
+quân_nhân dự_bị	106
+hội_thẩm quân_nhân	95
+quân_nhân tại_ngũ	38
+trung_học chuyên_nghiệp	37
+trung_cấp chuyên_nghiệp	20
+­ ương	19
+quân_nhân chuyên_nghiệp dự_bị	19
+đối_với quân_nhân chuyên_nghiệp	15
+đối_với quân_nhân	6
+­ ­ ­ ­	5
+­ ­ ­	1

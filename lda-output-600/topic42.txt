@@ -1,0 +1,60 @@
+chống tham_nhũng	188
+chống khủng_bố	186
+nhiễm hiv	148
+chống hiv / aids	112
+hành_vi tham_nhũng	103
+chống mua_bán	91
+chống rửa_tiền	85
+chống mại_dâm	85
+chống tội_phạm	80
+chống ma_túy	71
+chống tác_hại thuốc_lá	58
+đấu_tranh chống	55
+nhiễm hiv / aids	50
+tài_trợ khủng_bố	49
+hiv / aids	45
+xét_nghiệm hiv	44
+xử_lý hành_vi tham_nhũng	37
+chống tội_phạm ma_túy	37
+chống nhiễm hiv / aids	35
+đấu_tranh chống tội_phạm	34
+chống chính_quyền nhân_dân	34
+đấu_tranh phòng_ngừa chống tội_phạm	33
+lây_nhiễm hiv	30
+hút thuốc_lá	26
+phát_hiện_hành_vi tham_nhũng	24
+cai_nghiện thuốc_lá	23
+cấm hút thuốc_lá	22
+thuốc_lá giả	19
+thuốc_lá nhập lậu	18
+phòng_ngừa tội_phạm	17
+tội_phạm tham_nhũng	17
+phòng_ngừa đấu_tranh chống tham_nhũng	17
+chủ_động phòng_ngừa	16
+chống quan_liêu	16
+chống buôn_lậu	16
+dấu_hiệu tội_phạm	13
+tác_hại thuốc_lá	10
+chống hành_vi	8
+phòng_ngừa chống tội_phạm	8
+hiv /	7
+tội_phạm ma_túy	7
+phòng_ngừa chống	6
+chống chính_quyền	6
+đấu_tranh chống hành_vi	4
+kết_quả xét_nghiệm	4
+chống tệ_nạn	4
+phát_hiện dấu_hiệu tội_phạm	4
+chống nhiễm	4
+xử_lý hành_vi	4
+hành_vi cấm	3
+đấu_tranh phòng_ngừa	3
+chính_quyền nhân_dân	3
+tố_giác tội_phạm	3
+phát_hiện tội_phạm	2
+hành_vi buôn_lậu	2
+phòng_ngừa đấu_tranh chống	1
+chống tác_hại	1
+/ aids	1
+cai_nghiện ma_túy	1
+đấu_tranh phòng_ngừa chống	1

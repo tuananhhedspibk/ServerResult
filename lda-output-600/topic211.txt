@@ -1,0 +1,45 @@
+thương_tích tổn_hại sức_khỏe	89
+thương_tích tổn_hại sức_khỏe 02	81
+thương_tích tổn_hại sức_khỏe 03 trở tổng_tỷ_lệ tổn_thương cơ_thể	77
+thương_tích tổn_hại sức_khoẻ	52
+hoạt_động cách_mạng 01 01 1945	44
+thương_tích tổn_hại sức_khỏe 01	42
+chết 01 thương_tích tổn_hại sức_khỏe 01	41
+thương_tích tổn_hại sức_khỏe 03 trở tổng_tỷ_lệ	40
+thương_tích tổn_hại sức_khỏe 03	36
+tổn_hại sức_khoẻ	32
+tổn_hại sức_khỏe	26
+tổn_hại sức_khoẻ nạn_nhân	18
+hoạt_động kháng_chiến nhiễm chất_độc_hóa học	17
+chết 03 trở	15
+nồng_độ cồn	11
+01 02	11
+thương_tích tổn_hại sức_khỏe 02 trở	9
+tổn_hại sức_khỏe 02 trở tổng_tỷ_lệ tổn_thương cơ_thể	8
+thương_tích tổn_hại	6
+chết 01	4
+thương_tích tổn_hại sức_khỏe 03 trở tổng_tỷ_lệ tổn_thương cơ_thể 122	4
+tổn_hại sức_khỏe 02 trở tổng_tỷ_lệ	4
+tổn_hại sức_khỏe 01	3
+tổn_hại sức_khỏe 03 trở tổng_tỷ_lệ	3
+tổn_hại sức_khỏe 03 trở tổng_tỷ_lệ tổn_thương cơ_thể 201	3
+cách_mạng 01 01 1945	3
+thương_tích tổn_hại sức_khỏe tỷ_lệ tổn_thương cơ_thể	3
+chết 02	3
+tổn_hại sức_khỏe 03 trở tổng_tỷ_lệ tổn_thương cơ_thể 122 %	3
+nhiễm chất_độc_hóa học	3
+tổn_hại sức_khỏe 02	3
+01 01	2
+tổn_hại sức_khỏe 02 trở	2
+thương_tích tổn_hại sức_khỏe 03 trở	2
+02 trở	2
+thương_tích tổn_hại sức_khỏe 02 trở tổng_tỷ_lệ tổn_thương cơ_thể	2
+01 03	2
+thương_tích tổn_hại sức_khỏe 02 trở tổng_tỷ_lệ	1
+kháng_chiến nhiễm chất_độc_hóa học	1
+01 1945	1
+sức_khỏe 01	1
+chất_độc_hóa học	1
+03 trở	1
+hoạt_động kháng_chiến	1
+tổn_hại sức_khỏe 03 trở	1

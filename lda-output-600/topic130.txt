@@ -1,0 +1,33 @@
+công_cụ hỗ_trợ	191
+xâm_phạm tính_mạng	61
+hành_vi xâm_phạm	61
+phục_hồi danh_dự	58
+chuyển_giao bắt_buộc	51
+bất_khả xâm_phạm	40
+phương_án phục_hồi	34
+xúc_phạm danh_dự	33
+danh_dự nhân_phẩm	30
+thực_hiện phương_án	23
+phương_án chuyển_giao bắt_buộc	21
+hành_vi xâm_hại	18
+sức_khoẻ xâm_phạm	18
+xâm_hại tính_mạng	17
+xúc_phạm uy_tín	17
+xâm_phạm danh_dự	17
+đe_doạ tính_mạng	16
+xâm_phạm thân_thể	16
+phê_duyệt phương_án	15
+xâm_phạm quyền	11
+quyền bất_khả xâm_phạm	10
+thực_hiện hành_vi	9
+đe_dọa tính_mạng	9
+phương_án cơ_cấu	9
+thời_hạn thực_hiện phương_án	8
+xây_dựng phương_án	8
+thực_hiện phương_án phục_hồi	5
+hành_vi xâm_phạm quyền	3
+xâm_phạm chỗ	3
+chuyển_giao quyền	3
+phương_án chuyển_giao	2
+thực_hiện quyền	2
+quyền bất_khả	1

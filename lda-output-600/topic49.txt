@@ -1,0 +1,153 @@
+cảng hàng_không	278
+chuyến bay	121
+hàng_không dân_dụng	114
+bắt_giữ tàu_biển	105
+bắt_giữ tàu_bay	98
+yêu_cầu bắt_giữ tàu_biển	72
+khiếu_nại hàng_hải	70
+đường hàng_không	65
+hoạt_động hàng_không dân_dụng	59
+quyết_định bắt_giữ tàu_biển	55
+yêu_cầu bắt_giữ tàu_bay	53
+an_toàn hàng_hải	49
+hoa_tiêu hàng_hải	47
+hoạt_động hàng_hải	46
+hãng hàng	43
+hoạt_động bay	43
+đối_với tàu_bay	41
+thả tàu_bay bắt_giữ	41
+an_ninh hàng_hải	41
+thuê tàu_bay	40
+quyết_định bắt_giữ tàu_bay	40
+tàu_biển bắt_giữ	39
+vận_chuyển hàng_không	38
+bắt_giữ tàu_biển bảo_đảm giải_quyết khiếu_nại hàng_hải	38
+bảo_đảm hoạt_động bay	37
+an_ninh hàng_không	37
+luồng hàng_hải	36
+bảo_đảm an_toàn hàng_hải	35
+tai_nạn tàu_bay	34
+giám_đốc cảng_vụ hàng	34
+an_ninh hàng	34
+tổ bay	34
+giám_đốc cảng_vụ	33
+cảng_vụ hàng	32
+tàu_bay bay	31
+khai_thác cảng hàng_không	31
+động_cơ tàu_bay	30
+đại_lý tàu_biển	30
+an_toàn hàng	30
+thả tàu_biển bắt_giữ	30
+hạ_cánh cảng hàng_không	29
+kháng_nghị hàng_hải	29
+thành_viên tổ bay	28
+đơn yêu_cầu bắt_giữ tàu_bay	27
+cảng_vụ hàng_hải	26
+khu_vực lân_cận cảng hàng_không	26
+bảo_đảm giải_quyết khiếu_nại hàng_hải	25
+yêu_cầu bắt_giữ	24
+cánh_quạt tàu_bay	23
+bảo_đảm an_toàn	23
+lợi_ích đối_với tàu_bay	23
+thực_hiện chuyến bay	23
+lai_dắt tàu_biển	22
+thế_chấp tàu_biển	22
+giám_đốc cảng_vụ hàng_hải	21
+quyết_định thả tàu_biển bắt_giữ	20
+đăng_ký tàu_biển	20
+khai_thác tàu_bay	20
+quyết_định thả tàu_bay bắt_giữ	19
+phép bay	19
+chuyến bay chuyên_cơ	19
+giàn di_động	19
+phá dỡ tàu_biển	18
+yêu_cầu thả tàu_biển bắt_giữ	18
+trục_vớt tài_sản chìm_đắm	18
+hãng hàng_không nước_ngoài	18
+văn_bản ủy_thác tư_pháp bắt_giữ tàu_biển	18
+trọng_tải đặc_điểm	16
+tàu_biển đóng	16
+khiếu_nại hàng_hải phát_sinh	16
+bảo_đảm an_ninh hàng	16
+đơn yêu_cầu bắt_giữ tàu_biển	15
+tài_sản chìm_đắm	15
+tàu_bay bắt_giữ	14
+thả tàu_bay	14
+văn_bản yêu_cầu thả tàu_biển bắt_giữ	14
+cảng hàng	13
+tàu_biển yêu_cầu bắt_giữ	13
+tai_nạn hàng_hải	13
+uy_hiếp an_toàn	12
+cảng_vụ hàng_không	12
+công_trình hàng_hải	11
+bến cảng tàu_biển	11
+bến cảng	11
+hoạt_động bay dân_dụng	11
+bảo_đảm tài_chính	10
+thẩm_quyền quyết_định bắt_giữ tàu_biển	10
+trục_vớt tài_sản	10
+chuyên_ngành hàng_không dân_dụng	10
+giải_quyết khiếu_nại hàng_hải	9
+bảo_đảm thay_thế	9
+đăng_ký thế_chấp	9
+lao_động hàng_hải	8
+hãng hàng_không	8
+bắt_giữ tàu_bay thi_hành án	7
+bắt_giữ tàu_biển thi_hành án	7
+đơn yêu_cầu thả tàu_bay	7
+thả tàu_biển	7
+tàu_biển bắt_giữ bảo_đảm giải_quyết khiếu_nại hàng_hải	7
+yêu_cầu bắt_giữ tàu_biển thi_hành án	7
+quyết_định thả tàu_bay	6
+yêu_cầu thả tàu_bay	6
+tài_sản bảo_đảm	6
+bảo_đảm an_ninh	6
+thành_viên tổ	6
+dịch_vụ bảo_đảm hoạt_động bay	6
+yêu_cầu thả tàu_bay bắt_giữ	6
+ủy_thác tư_pháp bắt_giữ tàu_biển	6
+hàng cảng	5
+giải_quyết khiếu_nại	5
+điều_kiện bay	5
+phép hoạt_động	5
+văn_bản yêu_cầu	5
+khai_thác cảng	4
+yêu_cầu bắt_giữ tàu_biển bảo_đảm giải_quyết khiếu_nại hàng_hải	4
+tàu_biển bảo_đảm	4
+quyết_định đơn yêu_cầu	3
+thực_hiện hoạt_động	3
+phép khai_thác	3
+hàng hàng	2
+dỡ hàng	2
+yêu_cầu thả	2
+cảng tàu_biển	2
+vận_chuyển hàng	2
+bảo_đảm yêu_cầu	2
+bay dân_dụng	2
+đại_lý vận_chuyển	2
+yêu_cầu thả tàu_biển	2
+vận_chuyển chuyến	2
+bảo_đảm giải_quyết	2
+bảo_đảm thực_hiện	2
+quyết_định thả tàu_biển	2
+khiếu_nại quyết_định	2
+văn_bản yêu_cầu thả tàu_biển	1
+quyết_định bắt_giữ	1
+phá dỡ	1
+khu_vực lân_cận	1
+nước_ngoài hoạt_động	1
+quyết_định giải_quyết	1
+chương_trình an_ninh hàng_không	1
+ủy_thác tư_pháp	1
+bảo_đảm lợi_ích	1
+chuyên_ngành hàng_không	1
+tàu_bay thi_hành án	1
+khiếu_nại đối_với	1
+trọng_tải đặc_điểm tàu_biển	1
+tàu_biển thi_hành án	1
+khu_vực khai_thác	1
+đối_với công_trình	1
+văn_bản ủy_thác	1
+khiếu_nại đối_với quyết_định	1
+đăng_ký hoạt_động	1
+thực_hiện chuyến	1

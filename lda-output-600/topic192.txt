@@ -1,0 +1,89 @@
+thuê vận_chuyển	170
+chủ tầu	119
+tầu biển	115
+vận_chuyển hàng	104
+bốc hàng	89
+giao hàng	88
+vận_chuyển hàng_hoá	71
+hành_lý ký_gửi	69
+vận_chuyển hành_khách	66
+tiền công cứu_hộ	66
+hợp_đồng vận_chuyển	62
+vận_chuyển quyền	53
+vận_chuyển nghĩa_vụ	42
+dỡ hàng	37
+thuê tầu	35
+vận_chuyển hàng_hóa	35
+vận_chuyển thực_tế	35
+vận_đơn hàng	31
+cước_phí vận_chuyển	31
+chứng_từ vận_chuyển	31
+quá_trình vận_chuyển	30
+quyền cầm_giữ hàng_hải	30
+tiền cước vận_chuyển	28
+vé hành_khách	26
+hành_khách hành_lý	25
+tiền thuê	24
+hành_lý xách	23
+tầu cảng	22
+thời_hạn bốc hàng	21
+vận_chuyển hàng nguy_hiểm	21
+quyền vận_chuyển hàng	21
+hợp_đồng thuê tầu	20
+hợp_đồng vận_chuyển hàng_hóa	20
+đối_với hàng_hoá	19
+hư_hỏng hàng_hoá	18
+ghi vận_đơn	17
+hợp_đồng vận_chuyển hành_khách	17
+hàng hàng	16
+giá_trị hàng_hoá	16
+cước vận_chuyển	15
+cảng đích	15
+tiền công	15
+hợp_đồng vận_chuyển hàng_hoá	15
+hành_lý hành_khách	15
+giá cước	15
+đại_lý vận_chuyển	15
+hàng nguy_hiểm	14
+hoa_tiêu hàng_hải	13
+cứu_hộ hàng_hải	13
+sức_khoẻ hành_khách	13
+hư_hỏng hành_lý	12
+hợp_đồng thuê	11
+vận_chuyển hành_khách hành_lý	11
+công cứu_hộ	10
+tiền công vận_chuyển	10
+cảng hàng	10
+tiền cước	9
+đối_với quan_hệ	7
+đường vận_chuyển	7
+tổng_số tiền	7
+đấu_giá hàng_hoá	6
+quyền cầm_giữ	6
+ghi điều_lệ	6
+thời_gian thuê	6
+cầm_giữ hàng_hải	6
+hàng vận_chuyển	6
+chở hàng	6
+cảng biển	6
+kiện hàng	6
+hàng cảng	5
+đối_với hàng_hóa	5
+tiền hàng	5
+nghĩa_vụ giao	4
+giao_nhận hàng_hoá	4
+dịch_vụ vận_chuyển	3
+đối_với vụ_việc	3
+chủ hàng	3
+giá_trị thực_tế	3
+thuê thuê	3
+ghi hợp_đồng	3
+rời cảng	2
+giá thuê	2
+đặc_tính nguy_hiểm	2
+giá dịch_vụ vận_chuyển	2
+đăng_ký tầu biển	1
+ghi lệnh	1
+giá_trị tương_đương	1
+nghĩa_vụ chủ	1
+thực_tế hàng_hóa	1

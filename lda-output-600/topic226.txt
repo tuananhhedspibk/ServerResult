@@ -1,0 +1,17 @@
+phương_tiện đo	158
+neo đậu	44
+đơn_vị đo	41
+phép đo	39
+khu neo đậu trú bão tàu cá	30
+đơn_vị tính_toán	29
+tàu_thuyền nước_ngoài	24
+đơn_vị quản_lý	21
+thử_nghiệm phương_tiện đo	20
+cá nhâ	17
+khu neo đậu trú bão	13
+khu neo đậu	10
+neo đậu trú bão	7
+tàu cá	2
+neo đậu trú bão tàu cá	1
+bão tàu cá	1
+điều_khiển phương_tiện	1

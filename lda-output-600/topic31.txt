@@ -1,0 +1,57 @@
+nghĩa_vụ quân_sự	157
+sẵn_sàng chiến_đấu	93
+đăng_ký nghĩa_vụ quân_sự	88
+thực_hiện nghĩa_vụ quân_sự	58
+huấn_luyện quân_sự	55
+phục_vụ chiến_đấu	45
+thực_hiện nghĩa_vụ tham_gia_công_an nhân_dân	38
+tập_trung huấn_luyện	31
+phương_tiện kỹ_thuật quân_sự	30
+hội_đồng_nghĩa_vụ quân_sự	27
+thực_hiện nghĩa_vụ	23
+kỹ_thuật quân_sự	22
+thời_gian tập_trung huấn_luyện	21
+phương_tiện kỹ_thuật	20
+cơ_quan quân_sự địa_phương	19
+quân_sự địa_phương	19
+luật nghĩa_vụ quân_sự	18
+hoàn_thành nghĩa_vụ	11
+quân_sự tỉnh	10
+trang_bị kỹ_thuật	9
+quân_sự huyện	8
+độ thực_hiện nghĩa_vụ quân_sự	8
+chế_độ nghĩa_vụ quân_sự	7
+thực_hiện chế_độ	7
+thời_hạn thực_hiện nghĩa_vụ	7
+công_dân độ	6
+công_dân độ thực_hiện nghĩa_vụ	4
+đăng_ký hộ_khẩu	4
+thực_hiện nghĩa_vụ tham_gia_công_an	3
+khu quân_sự	3
+trang_bị phương_tiện	3
+thời_gian công_tác	3
+kỹ_thuật phục_vụ	3
+nghĩa_vụ công_dân	3
+thời_gian tập_trung	2
+thực_hiện công_tác	2
+nhân_dân địa_phương	2
+công_dân nhập_ngũ thực_hiện nghĩa_vụ tham_gia_công_an nhân_dân	2
+thời_hạn phục_vụ	2
+công_tác quân_sự	2
+miễn thực_hiện nghĩa_vụ	2
+phó chỉ_huy_trưởng	2
+phục_vụ công_tác	2
+thực_hiện đường_lối	1
+thời_gian phục_vụ	1
+cản_trở thực_hiện	1
+cơ_quan đăng_ký	1
+độ thực_hiện nghĩa_vụ	1
+trốn_tránh nghĩa_vụ	1
+phục_vụ chế_độ	1
+đăng_ký nghĩa_vụ	1
+nhập_ngũ thực_hiện nghĩa_vụ tham_gia_công_an nhân_dân	1
+nghĩa_vụ tham_gia	1
+công_dân nhập_ngũ	1
+nghĩa_vụ tham_gia_công_an nhân_dân	1
+đăng_ký tham_gia	1
+trang_bị vũ_khí	1

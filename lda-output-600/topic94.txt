@@ -1,0 +1,107 @@
+thanh_tra chuyên_ngành	224
+quyết_định thanh_tra	222
+thanh_tra viên	156
+ban thanh_tra nhân_dân	117
+trưởng_đoàn thanh_tra	101
+thanh_tra nhà_nước	100
+kết_luận thanh_tra	90
+đoàn thanh_tra	83
+công_tác thanh_tra	81
+chánh thanh_tra	75
+hoạt_động thanh_tra	74
+tiến_hành thanh_tra	72
+giám_đốc sở	66
+cơ_quan thanh_tra	66
+thành_viên đoàn thanh_tra	53
+thanh_tra sở	53
+đoàn thanh_tra thanh_tra viên	52
+quá_trình thanh_tra	43
+thực_hiện chức_năng thanh_tra chuyên_ngành	41
+quyết_định xử_lý thanh_tra	38
+thanh_tra tỉnh	36
+chánh thanh_tra tỉnh	34
+thanh_tra chính_phủ	34
+thanh_tra chấp_hành	32
+thanh_tra huyện	32
+thanh_tra nhân_dân	32
+tổng thanh_tra	31
+tổng thanh_tra chính_phủ	29
+nội_dung thanh_tra	29
+tổng thanh_tra nhà_nước	29
+yêu_cầu đối_tượng_thanh_tra	27
+cơ_quan thanh_tra nhà_nước	25
+giao thực_hiện nhiệm_vụ thanh_tra chuyên_ngành	25
+cộng_tác_viên thanh_tra	25
+thực_hiện chức_năng thanh_tra	21
+thanh_tra thanh_tra	21
+chánh thanh_tra sở	21
+thanh_tra thực_hiện	21
+thanh_tra chấp_hành pháp_luật	20
+cơ_quan giao thực_hiện chức_năng thanh_tra chuyên_ngành	20
+nghiệp_vụ thanh_tra	20
+thanh_tra thực_hiện chính_sách	20
+nhiệm_vụ thanh_tra	19
+thành_viên ban thanh_tra nhân_dân	18
+thủ_trưởng cơ_quan giao thực_hiện chức_năng thanh_tra chuyên_ngành	18
+chánh thanh_tra huyện	18
+xuất_trình quyết_định thanh_tra	18
+thanh_tra viên chuyên_ngành	17
+kết_quả thanh_tra	16
+thanh_tra thanh_tra_viên	16
+thanh_tra vụ_việc	15
+ban thanh_tra nhân_dân xã	15
+hoạt_động thanh_tra chuyên_ngành	13
+thành_viên đoàn	13
+quyền_hạn thanh_tra	13
+thực_hiện kết_luận	12
+quyết_định xử_lý	10
+chấp_hành quyết_định	9
+lãnh_đạo cơ_quan	8
+hoạt_động ban thanh_tra nhân_dân	7
+nhiệm_vụ thanh_tra chuyên_ngành	6
+thanh_tra thực_hiện pháp_luật	6
+thực_hiện nhiệm_vụ	5
+giao thực_hiện chức_năng thanh_tra chuyên_ngành	5
+xuất_trình thẻ	5
+quyết_định giao	4
+nhà_nước giao	4
+đoàn kiểm_tra	4
+cơ_quan nhà_nước	4
+thực_hiện nhiệm_vụ thanh_tra	4
+chức_năng thanh_tra	4
+kết_quả hoạt_động	3
+thực_hiện chính_sách	3
+thanh_tra thanh_tra viên	3
+chức_năng thanh_tra chuyên_ngành	3
+thực_hiện chức_năng	3
+yêu_cầu cơ_quan	2
+quyết_định thành_lập	2
+ban thanh_tra	2
+phó_chánh thanh_tra	2
+hoạt_động ban thanh_tra	2
+cơ_quan chính_phủ	2
+cơ_quan giao thực_hiện chức_năng	2
+thành_lập ban	2
+thành_viên ban	2
+nhà_nước chuyên_ngành	1
+kết_luận nội_dung	1
+thực_hiện công_tác	1
+quá_trình thực_hiện	1
+xử_lý đoàn thanh_tra	1
+quyết_định thành_lập đoàn	1
+cơ_quan giao	1
+thành_viên chính_phủ	1
+quá_trình hoạt_động	1
+giao nhiệm_vụ	1
+tỉnh quyết_định	1
+quyết_định xử_lý cơ_quan	1
+quyền_hạn cơ_quan	1
+thành_lập hoạt_động	1
+thủ_trưởng cơ_quan	1
+tỉnh quyết_định thành_lập	1
+quyền_hạn giao	1
+xử_lý vụ_việc	1
+chấp_hành quyết_định xử_lý	1
+kiến_nghị cơ_quan	1
+kiểm_toán nhà_nước	1
+cơ_quan chuyên_ngành	1

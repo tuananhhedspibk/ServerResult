@@ -1,0 +1,68 @@
+cung_ứng dịch_vụ	335
+cung_cấp dịch_vụ	204
+kinh_doanh dịch_vụ	106
+sử_dụng dịch_vụ	99
+doanh_nghiệp dịch_vụ	88
+dịch_vụ công_ích	55
+cung_cấp sản_phẩm	52
+dịch_vụ tư_vấn	50
+hợp_đồng dịch_vụ	44
+giá dịch_vụ	43
+hoạt_động dịch_vụ	37
+cá_nhân kinh_doanh dịch_vụ	35
+phí dịch_vụ	34
+dịch_vụ công	32
+cung_ứng sản_phẩm	32
+thuê dịch_vụ	32
+cung_cấp dịch_vụ tư_vấn	31
+doanh_nghiệp cung_cấp dịch_vụ	29
+cơ_sở cung_cấp dịch_vụ không_lưu	26
+doanh_nghiệp kinh_doanh dịch_vụ	24
+cung_ứng dịch_vụ ngoại_hối	21
+cơ_sở cung_cấp dịch_vụ	21
+cung_ứng dịch_vụ thanh_toán	21
+dịch_vụ thanh_toán	19
+cá_nhân kinh_doanh	19
+chất_lượng dịch_vụ	16
+dịch_vụ cung_ứng	14
+dịch_vụ cung_cấp	13
+dịch_vụ phi tư_vấn	13
+tổ_chức cung_cấp dịch_vụ	10
+địa_điểm kinh_doanh	10
+thanh_toán giá	10
+sử_dụng phí	9
+cơ_sở kinh_doanh	9
+ngành_nghề kinh_doanh	8
+hợp_đồng cung_ứng	8
+cung_cấp hồ_sơ	8
+doanh_nghiệp kinh_doanh	7
+cá_nhân cung_cấp	7
+kinh_doanh dịch_vụ thẩm_định_giá	7
+hoạt_động kinh_doanh	7
+phi tư_vấn	6
+doanh_nghiệp cung_ứng	6
+từ_chối cung_cấp	6
+dịch_vụ không_lưu	6
+kinh_doanh sản_phẩm	6
+dịch_vụ khí_tượng	4
+* *	4
+dịch_vụ phụ_trợ	4
+hợp_đồng thuê	4
+sử_dụng sản_phẩm	3
+kinh_doanh ngành_nghề	3
+cá_nhân sử_dụng	3
+dịch_vụ ngoại_hối	3
+dịch_vụ môi_giới	3
+cung_ứng sử_dụng dịch_vụ	3
+hoạt_động công_ích	3
+dịch_vụ phi	2
+doanh_nghiệp cung_ứng dịch_vụ	2
+cá_nhân hoạt_động	1
+doanh_nghiệp cung_cấp	1
+tổ_chức tư_vấn	1
+từ_chối thanh_toán	1
+giá thuê	1
+hợp_đồng mẫu	1
+kinh_doanh doanh_nghiệp	1
+cung_cấp dịch_vụ không_lưu	1
+thuê thuê	1

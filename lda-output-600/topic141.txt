@@ -1,0 +1,44 @@
+nhãn_hiệu hàng_hoá	58
+sử_dụng sáng_chế	41
+trùng tương_tự	34
+đối_với cây_trồng	33
+sử_dụng nhãn_hiệu	33
+gọi xuất_xứ hàng_hoá	31
+mạch tích_hợp bán_dẫn	29
+chương_trình phát_sóng	27
+đối_với sáng_chế	25
+sản_xuất_bản ghi_âm	22
+đăng_ký nhãn_hiệu	20
+sử_dụng cây_trồng	19
+mục_đích thương_mại	16
+vật_liệu nhân_giống	16
+bất_kỳ hình_thức	14
+nguồn_gốc xuất_xứ	13
+đối_với hàng_hoá	9
+ngôn_ngữ sử_dụng	9
+sử_dụng mục_đích	9
+tiếp_tục sử_dụng	7
+phép sử_dụng	6
+chụp ảnh	5
+xuất_xứ hàng_hoá	4
+giá_trị hàng_hoá	4
+danh_mục loài	4
+tổ_chức đại_diện tập_thể	4
+phương_tiện sử_dụng	4
+phép khai_thác	4
+độc_quyền sử_dụng	4
+hàng_hoá giả_mạo	3
+sử_dụng chủ_yếu	3
+hàng_hoá tương_tự	2
+giá_trị sử_dụng	2
+sử_dụng sản_phẩm	2
+mục_đích sử_dụng	2
+khai_thác công_dụng	2
+gọi xuất_xứ	2
+danh_mục hàng_hoá	2
+đăng_ký sáng_chế	2
+sử_dụng vật_liệu	1
+cơ_sở khảo_nghiệm	1
+bắt_buộc đối_với	1
+đối_với sản_phẩm	1
+mạch tích_hợp	1

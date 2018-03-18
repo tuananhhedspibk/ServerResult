@@ -1,0 +1,145 @@
+giao hàng	199
+hoạt_động thương_mại	169
+triển_lãm thương_mại	118
+giao đại_lý	113
+quảng_cáo thương_mại	105
+mua_bán hàng_hoá	94
+thương_nhân nước_ngoài	93
+mua hàng	76
+trưng_bày giới_thiệu hàng_hoá	72
+dịch_vụ giao_nhận hàng_hoá	66
+bộ_trưởng thương_mại	63
+tham_gia hội_chợ	60
+hợp_đồng mua_bán hàng_hoá	54
+giới_thiệu hàng_hoá	47
+đối_với hàng_hoá	44
+giám_định hàng_hoá	40
+thương_nhân kinh_doanh dịch_vụ	33
+nhượng quyền thương_mại	32
+thuê dịch_vụ	32
+triển_lãm thương_mại nước_ngoài	31
+đấu_giá hàng_hoá	31
+thương_nhân kinh_doanh dịch_vụ logistics	30
+kinh_doanh hàng_hoá	30
+uỷ_thác mua_bán hàng_hoá	28
+hành_vi thương_mại	27
+chứng_thư giám_định	27
+sở giao_dịch hàng_hoá	27
+thanh_tra thương_mại	26
+xúc_tiến thương_mại	25
+hình_thức khuyến_mại	24
+chấp_nhận chào_hàng	24
+thương_nhân kinh_doanh dịch_vụ giám_định	23
+chi_nhánh thương_nhân	20
+trưng_bày giới_thiệu	20
+bộ_trưởng thương_mại quyết_định	19
+cấm kinh_doanh	19
+gia_công thương_mại	19
+đại_diện thương_nhân	19
+hàng_hoá trưng_bày giới_thiệu	18
+mua hàng_hoá	18
+hàng_hoá mua	18
+dịch_vụ trưng_bày	17
+đại_lý mua	16
+áp_dụng chế_tài	16
+sản_phẩm quảng_cáo thương_mại	16
+môi_giới thương_mại	16
+thương_mại thương_nhân	15
+dịch_vụ giám_định	15
+định_đoạt hàng_hoá	15
+dịch_vụ khuyến_mại	15
+tiền hàng	15
+hàng_hoá đấu_giá	15
+hoạt_động khuyến_mại	15
+ký_quỹ dự_thầu	14
+hợp_đồng dịch_vụ	14
+phương_tiện quảng_cáo thương_mại	14
+chất_lượng hàng_hoá	13
+đại_lý mua_bán hàng_hoá	13
+hàng giả	13
+hình_thức đại_lý	13
+dịch_vụ quảng_cáo thương_mại	12
+đại_lý đại_lý	12
+nhượng quyền	11
+tranh_chấp thương_mại	11
+thương_mại nước_ngoài	11
+giá_trị hàng_hoá	10
+lưu_thông hàng_hoá	10
+hư_hỏng hàng_hoá	10
+kinh_doanh dịch_vụ	10
+hợp_đồng uỷ_thác	10
+nhãn_hiệu hàng_hoá	9
+quyền cầm_giữ	9
+dịch_vụ quảng_cáo	8
+hợp_đồng môi_giới	8
+gian_lận thương_mại	8
+phép lưu_thông	8
+dịch_vụ trưng_bày giới_thiệu hàng_hoá	8
+hàng cấm	7
+hàng thoả_thuận	7
+thuê thuê	7
+hành_vi cấm	7
+sở giao_dịch	7
+hàng_hoá trưng_bày	7
+hợp_đồng gia_công	7
+thù_lao dịch_vụ	7
+tiền mua hàng	7
+phí giám_định	6
+dịch_vụ hội_chợ	6
+kinh_doanh dịch_vụ hội_chợ	6
+giao_nhận hàng_hoá	6
+điều_kiện kinh_doanh dịch_vụ	6
+mua_bán hàng_hoá thương_nhân nước_ngoài	6
+thương_nhân kinh_doanh	6
+áp_dụng đối_với	5
+uỷ_thác mua_bán	5
+sản_phẩm gia_công	5
+kinh_doanh điều_kiện	5
+hàng thoả_thuận hợp_đồng	5
+buôn_bán hàng giả	5
+dịch_vụ đấu_giá	5
+hoạt_động chi_nhánh	5
+hợp_đồng mua_bán	5
+hàng hàng	5
+dịch_vụ logistics	5
+hàng_hoá thương_nhân	4
+phí dịch_vụ	4
+buôn_bán hàng	4
+hàng_hoá thương_nhân nước_ngoài	4
+hoạt_động kinh_doanh	4
+sản_phẩm quảng_cáo	3
+hoạt_động xúc_tiến	3
+dịch_vụ quá_cảnh	3
+tiền ký_quỹ	3
+điều_kiện kinh_doanh	3
+số_lượng hàng	3
+thoả_thuận hợp_đồng	3
+tiền đặt_cọc	3
+chở hàng	2
+tiền thuê	2
+đại_lý mua_bán	2
+dịch_vụ giao_nhận	2
+mua_bán hàng_hoá thương_nhân	2
+tập_quán thương_mại	2
+vận_tải hàng_hoá	2
+kinh_doanh dịch_vụ quảng_cáo	2
+hoạt_động quảng_cáo	2
+quyền định_đoạt	2
+thuê quyền	2
+tiền mua	2
+phép hoạt_động	1
+áp_dụng hình_thức	1
+áp_dụng tập_quán	1
+tranh_chấp quyền	1
+hoạt_động văn_hoá	1
+chấp_nhận chấp_nhận	1
+giao_dịch mua_bán	1
+đối_với khách_hàng	1
+chi_nhánh thương_nhân nước_ngoài	1
+hợp_đồng thuê	1
+đối_với sản_phẩm	1
+hoạt_động thanh_tra	1
+cấm hoạt_động	1
+kinh_doanh dịch_vụ giám_định	1
+kinh_doanh dịch_vụ logistics	1
+hoa_hồng môi_giới	1

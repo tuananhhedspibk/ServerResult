@@ -1,0 +1,34 @@
+công_bố công_khai	136
+thông_báo công_khai	125
+địa_chỉ trụ_sở	124
+niêm_yết công_khai	101
+địa_chỉ thường_trú	101
+trụ_sở làm_việc	92
+bất_kỳ hình_thức	65
+lựa_chọn hình_thức	49
+trụ_sở chi_nhánh	42
+hình_thức sở_hữu	38
+cải_chính công_khai	31
+niêm_yết công_khai trụ_sở	31
+hình_thức công_khai	29
+chuyển_đổi hình_thức	25
+công_bố danh_sách	22
+địa_chỉ trụ_sở công_ty	22
+niêm_yết trụ_sở	22
+hình_thức thích_hợp	18
+công_bố công_khai quy_hoạch	18
+đóng trụ_sở	18
+chụp ảnh	14
+địa_điểm trụ_sở	14
+trụ_sở công_ty	8
+thỏa_thuận lựa_chọn	6
+chuyển_đổi sở_hữu	6
+lưu_giữ trụ_sở	5
+đầy_đủ địa_chỉ trụ_sở	5
+hình_thức biểu_quyết	5
+niêm_yết công_khai văn_bản	4
+hình_thức lựa_chọn	3
+đóng thầu	3
+niêm_yết danh_sách	2
+công_khai trụ_sở	1
+công_khai quy_hoạch	1

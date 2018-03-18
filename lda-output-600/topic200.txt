@@ -1,0 +1,33 @@
+cơ_sở giáo_dục	141
+cơ_sở cai_nghiện bắt_buộc	126
+cơ_sở giáo_dục bắt_buộc	112
+cai_nghiện ma_túy	71
+nghiện ma_túy	69
+giáo_dục xã	59
+áp_dụng biện_pháp giáo_dục xã	44
+thuốc nghiện	28
+cơ_sở cai_nghiện	27
+cơ_sở lưu_trú	23
+biện_pháp giáo_dục	23
+biện_pháp giáo_dục xã	22
+quyết_định giáo_dục xã	18
+quyết_định áp_dụng biện_pháp giáo_dục xã	17
+áp_dụng biện_pháp cơ_sở giáo_dục bắt_buộc	17
+nghiện ma_tuý	16
+cai_nghiện ma_tuý	14
+nhà_trường cơ_sở giáo_dục	12
+áp_dụng biện_pháp cơ_sở cai_nghiện bắt_buộc	9
+áp_dụng biện_pháp cơ_sở giáo_dục	8
+cai_nghiện bắt_buộc	5
+áp_dụng biện_pháp giáo_dục	5
+áp_dụng biện_pháp	4
+biện_pháp kiểm_soát	3
+dân_cư cơ_sở	3
+giáo_dục bắt_buộc	3
+tội_phạm ma_tuý	3
+tội_phạm ma_túy	2
+quyết_định áp_dụng biện_pháp	2
+cộng_đồng dân_cư	1
+biện_pháp cơ_sở giáo_dục bắt_buộc	1
+áp_dụng biện_pháp bắt_buộc	1
+biện_pháp cơ_sở cai_nghiện bắt_buộc	1

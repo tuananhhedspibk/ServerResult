@@ -1,0 +1,43 @@
+chính_quyền địa_phương	406
+chính_quyền xã	123
+địa_bàn tỉnh	91
+nhân_dân địa_phương	68
+địa_bàn xã	56
+trung_ương địa_phương	55
+địa_bàn huyện	39
+đơn_vị hành_chính xã	34
+chính_quyền nhân_dân	32
+tập_quán địa_phương	29
+đại_diện chính_quyền xã	27
+vốn trái_phiếu chính_quyền địa_phương	27
+quyền_hạn chính_quyền địa_phương	26
+phạm_vi phân_quyền	22
+quản_lý hành_chính trật_tự xã_hội	21
+địa_bàn phường	19
+đại_diện chính_quyền	18
+đóng quân	17
+thực_hiện dân_chủ xã	17
+đơn_vị hành_chính	15
+xây_dựng chính_quyền	13
+xã_hội địa_phương	12
+dân_chủ xã	12
+đơn_vị hành_chính huyện	11
+phạm_vi địa_phương	11
+dân_cư địa_bàn	9
+chính_quyền địa_phương đơn_vị hành_chính	8
+công_ích xã	6
+phối_hợp chính_quyền	5
+hành_chính xã	5
+đô_thị địa_bàn	5
+tư_pháp địa_phương	4
+thực_tế địa_phương	3
+cảnh_sát quản_lý hành_chính trật_tự xã_hội	3
+địa_phương phân_cấp	3
+trái_phiếu chính_quyền địa_phương	3
+đơn_vị hành_chính tỉnh	2
+quyền_hạn chính_quyền	2
+hành_chính tỉnh	2
+chính_quyền địa_phương đơn_vị	2
+trật_tự xã_hội	1
+thực_hiện dân_chủ	1
+đơn_vị quản_lý	1

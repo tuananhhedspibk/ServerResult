@@ -1,0 +1,38 @@
+tàu cá	234
+chủ tàu	205
+cảng cá	111
+thuê tàu	89
+lái tàu	51
+khai_thác tàu	47
+thuê tàu trần	40
+hợp_đồng thuê tàu	31
+thuyền_viên làm_việc	31
+tàu công_vụ	28
+tàu quân_sự	27
+chủ tàu trách_nhiệm	24
+cải hoán tàu cá	22
+trưởng tàu	22
+quản_lý cảng cá	20
+làm_việc tàu cá	20
+rời tàu	19
+đăng_kiểm tàu cá	18
+nghề cá	18
+tàu lặn	18
+thuê tàu khai_thác tàu	17
+thuyền_viên tàu	13
+cải hoán	11
+khai_thác cảng	10
+rời cảng	8
+đăng_ký tàu cá	8
+đăng_ký tàu	8
+tàu trần	8
+làm_việc tàu	6
+vùng_đất cảng	6
+xóa đăng_ký	5
+công_bố danh_sách	3
+hợp_đồng thuê	3
+đăng_kiểm tàu	2
+phân_cấp quản_lý	1
+tàu thuê tàu	1
+tàu khai_thác tàu	1
+hợp_đồng làm_việc	1

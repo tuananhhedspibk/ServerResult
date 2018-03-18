@@ -1,0 +1,219 @@
+giải_quyết khiếu_nại	1213
+quyền khiếu_nại	322
+quyết_định giải_quyết khiếu_nại	304
+tiếp công_dân	224
+thẩm_quyền giải_quyết	208
+giải_quyết tố_cáo	202
+thẩm_quyền giải_quyết khiếu_nại	120
+khiếu_nại quyết_định	106
+giải_quyết tranh_chấp	105
+đơn khiếu_nại	101
+nội_dung khiếu_nại	94
+giải_quyết kiến_nghị	91
+quyết_định giải_quyết	78
+tố_cáo công_dân	74
+quyết_định giải_quyết khiếu_nại đầu	66
+giải_quyết khiếu_nại đầu	66
+nội_dung tố_cáo	66
+giải_quyết kịp_thời	63
+thời_hạn giải_quyết khiếu_nại	60
+kết_quả giải_quyết	58
+khiếu_nại giải_quyết	56
+cá_nhân quyền khiếu_nại	56
+thời_hiệu khiếu_nại	52
+khiếu_nại giải_quyết khiếu_nại	51
+trách_nhiệm giải_quyết	51
+thời_hạn giải_quyết	48
+giải_quyết tố_giác	47
+xét giải_quyết khiếu_nại	46
+quá_trình giải_quyết	46
+trụ_sở tiếp công_dân	46
+đồng_ý quyết_định	44
+thụ_lý giải_quyết	43
+giải_quyết vấn_đề	43
+quyền kiến_nghị	43
+công_tác giải_quyết khiếu_nại	41
+tố_cáo giải_quyết khiếu_nại	41
+giám_sát giải_quyết khiếu_nại	40
+giải_quyết khiếu_nại hai	39
+thẩm_quyền quyết_định	39
+quyết_định giải_quyết khiếu_nại hiệu_lực pháp_luật	39
+quyết_định hành_chính	39
+kết_luận nội_dung tố_cáo	38
+cá_nhân thẩm_quyền	37
+tố_cáo giải_quyết tố_cáo	36
+kết_quả giải_quyết khiếu_nại	36
+khiếu_nại đối_với quyết_định	33
+kết_quả xác_minh	33
+giải_quyết khiếu_nại đối_với quyết_định	31
+quyết_định giải_quyết khiếu_nại hai	30
+tố_cáo giải_quyết	29
+đối_với vụ_việc	28
+khiếu_nại quyền khiếu_nại	27
+thông_báo kết_quả giải_quyết	27
+cơ_quan thẩm_quyền giải_quyết	27
+thẩm_quyền giải_quyết tố_cáo	27
+trực_tiếp giải_quyết	27
+đối_với vụ_việc phức_tạp	26
+hành_vi hành_chính khiếu_nại	26
+thời_hạn giải_quyết tố_cáo	26
+giải_quyết vụ_việc	25
+giải_quyết trả_lời	25
+thông_báo kết_quả	23
+đồng_ý quyết_định giải_quyết	23
+quyết_định giải_quyết khiếu_nại cuối_cùng	23
+thẩm_quyền giải_quyết cuối_cùng	23
+địa_điểm tiếp công_dân	22
+chờ giải_quyết	22
+thời_hạn giải_quyết khiếu_nại đầu	22
+thời_hạn giải_quyết khiếu_nại có_thể kéo_dài	21
+tiếp công_dân cơ_quan	21
+quyết_định cuối_cùng	21
+kiến_nghị thẩm_quyền	21
+giải_quyết khiếu_nại đối_với quyết_định hành_chính	20
+đồng_ý kết_quả giải_quyết khiếu_nại quyền khiếu_nại	19
+thẩm_quyền xem_xét	19
+ban tiếp công_dân	19
+khiếu_nại đầu	18
+khiếu_nại đồng_ý	18
+khiếu_nại đối_với	18
+đối_với vụ_việc phức_tạp thời_hạn	18
+tiếp công_dân thường_xuyên	18
+đồng_ý kết_quả giải_quyết	17
+cá_nhân quyền tố_cáo	17
+căn_cứ pháp_luật giải_quyết khiếu_nại	17
+thẩm_quyền thời_hạn giải_quyết khiếu_nại đối_với	17
+kết_luận nội_dung khiếu_nại	17
+khiếu_nại thẩm_quyền giải_quyết	17
+giải_quyết tranh_chấp thẩm_quyền	17
+thẩm_quyền giải_quyết khiếu_nại hai	16
+tiếp công_dân trụ_sở tiếp công_dân	16
+khiếu_nại thẩm_quyền giải_quyết khiếu_nại	16
+cá_nhân thẩm_quyền giải_quyết	15
+công_tác tiếp công_dân	15
+công_dân quyền tố_cáo	15
+trách_nhiệm xác_minh	14
+quá_trình giải_quyết khiếu_nại	14
+tố_cáo kiến_nghị	13
+khiếu_nại đồng_ý quyết_định	13
+giải_quyết việc_làm	13
+tranh_chấp thẩm_quyền	13
+xác_minh nội_dung tố_cáo	13
+khiếu_nại quyết_định hành_chính	13
+quyền kiến_nghị cơ_quan	12
+giải_quyết khiếu_nại quyết_định	12
+quyền khiếu_nại cơ_quan	12
+khiếu_nại đồng_ý quyết_định giải_quyết khiếu_nại	12
+quyền khiếu_nại quyết_định	11
+đối_với quyết_định hành_chính	11
+đồng_ý nội_dung	11
+khiếu_nại hai	11
+đồng_ý quyết_định giải_quyết khiếu_nại	11
+căn_cứ quyết_định	10
+khiếu_nại bất_kỳ giai_đoạn quá_trình	10
+kiến_nghị công_dân	10
+xem_xét giải_quyết	10
+trực_tiếp xem_xét	10
+thẩm_quyền giải_quyết thông_báo	9
+tố_cáo hành_vi	9
+thẩm_quyền kiến_nghị	9
+trường_hợp khiếu_nại đồng_ý	9
+phức_tạp thời_hạn	9
+xác_minh nội_dung khiếu_nại	9
+quyền công_dân	9
+xem_xét quyết_định	8
+cá_nhân quyền	7
+liên_quan nội_dung khiếu_nại	7
+xem_xét kiến_nghị	7
+tranh_chấp quyền	7
+khiếu_nại bất_kỳ giai_đoạn	7
+kết_quả giải_quyết kiến_nghị	7
+giải_quyết khiếu_nại đối_với	6
+giải_quyết khiếu_nại quyền khiếu_nại	6
+thẩm_quyền giải_quyết tranh_chấp	6
+quyết_định giải_quyết khiếu_nại quyết_định	6
+giải_quyết khiếu_nại tiếp_theo	6
+trả_lời kiến_nghị	6
+bảo_đảm giải_quyết khiếu_nại	6
+vụ_việc phức_tạp thời_hạn giải_quyết khiếu_nại	6
+giai_đoạn quá_trình	6
+xét giải_quyết	6
+vụ_việc phức_tạp	5
+cá_nhân thẩm_quyền xem_xét	5
+cơ_quan thẩm_quyền	5
+công_dân quyền	5
+chấp_hành nghiêm_chỉnh quyết_định giải_quyết khiếu_nại	5
+căn_cứ kết_quả	5
+cuối_cùng thời_hạn	5
+thông_báo thụ_lý	5
+thẩm_quyền thời_hạn giải_quyết khiếu_nại	5
+tranh_chấp thẩm_quyền giải_quyết	4
+thời_hạn trả_lời	4
+khiếu_nại đồng_ý quyết_định giải_quyết	4
+xác_minh trả_lời	4
+khiếu_nại tiếp_theo	4
+cá_nhân quyền tố_cáo hành_vi	4
+đối_với vụ_việc phức_tạp thời_hạn giải_quyết	4
+giải_quyết yêu_cầu	4
+vụ_việc phức_tạp thời_hạn	4
+quyền yêu_cầu	4
+quyết_định giải_quyết khiếu_nại thủ_trưởng cơ_quan	4
+giải_quyết khiếu_nại thủ_trưởng cơ_quan	4
+đồng_ý kết_quả	3
+kết_luận kiến_nghị	3
+đồng_ý kết_quả giải_quyết khiếu_nại	3
+trách_nhiệm pháp_luật	3
+thụ_lý vụ_việc	3
+khiếu_nại bất_kỳ	3
+trường_hợp khiếu_nại đồng_ý quyết_định	3
+có_thể quyết_định	3
+bảo_đảm giải_quyết	3
+xác_minh nội_dung	3
+kết_luận nội_dung	3
+trách_nhiệm trả_lời	3
+trách_nhiệm pháp_luật nội_dung	3
+thông_báo nội_dung	2
+quyết_định vấn_đề	2
+kết_quả giải_quyết tố_cáo	2
+quá_trình giải_quyết tranh_chấp	2
+nội_dung liên_quan	2
+đối_với hành_vi	2
+trụ_sở cơ_quan	2
+thông_báo cơ_quan	2
+hành_vi hành_chính	2
+khiếu_nại đối_với quyết_định hành_chính	2
+trường_hợp khiếu_nại đồng_ý quyết_định giải_quyết	2
+địa_điểm tiếp	2
+kiến_nghị cơ_quan	2
+kết_luận cuối_cùng	2
+xem_xét trả_lời	2
+chấp_hành nghiêm_chỉnh quyết_định giải_quyết	2
+bảo_đảm quyền	2
+thẩm_quyền kiến_nghị thẩm_quyền	2
+thẩm_quyền giải_quyết yêu_cầu	2
+trả_lời thời_hạn	2
+xem_xét trách_nhiệm	1
+trách_nhiệm pháp_luật quyết_định	1
+trách_nhiệm cơ_quan	1
+tranh_chấp liên_quan	1
+chấp_hành quyết_định	1
+thông_báo cơ_quan thẩm_quyền	1
+trách_nhiệm tiếp	1
+kiến_nghị giám_sát	1
+kết_quả giám_sát	1
+giải_quyết khiếu_nại có_thể kéo_dài	1
+nhân_phẩm công_dân	1
+liên_quan giải_quyết	1
+thụ_lý đơn	1
+thẩm_quyền kiến_nghị cơ_quan	1
+thời_hạn hai	1
+trách_nhiệm pháp_luật kết_quả	1
+kéo_dài thời_hạn	1
+khiếu_nại bất_kỳ giai_đoạn quá_trình giải_quyết	1
+khiếu_nại thủ_trưởng cơ_quan	1
+trực_tiếp thẩm_quyền giải_quyết	1
+quyền yêu_cầu cơ_quan	1
+yêu_cầu cơ_quan	1
+trường_hợp đơn	1
+căn_cứ kết_luận	1
+giải_quyết tố_cáo hành_vi	1

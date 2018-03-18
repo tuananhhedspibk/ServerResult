@@ -1,0 +1,196 @@
+chủ sở_hữu	986
+quyền sở_hữu	479
+kiểu_dáng công_nghiệp	228
+văn_bằng bảo_hộ	142
+quyền tác_giả	141
+quyền sử_dụng	122
+quyền sở_hữu_trí_tuệ	121
+quyền sở_hữu công_nghiệp	116
+chỉ_dẫn địa_lý	109
+cơ_quan đại_diện chủ sở_hữu	105
+sở_hữu nhà_nước	100
+đại_diện chủ sở_hữu	94
+chủ sở_hữu tài_sản	88
+chuyển_giao quyền sử_dụng	87
+quyền sở_hữu tài_sản	84
+chủ sở_hữu quyền tác_giả	82
+bảo_hộ cây_trồng	80
+quyền yêu_cầu	78
+đối_tượng sở_hữu công_nghiệp	68
+xâm_phạm quyền sở_hữu_trí_tuệ	55
+tài_sản sở_hữu	55
+đăng_ký quyền sở_hữu	54
+chuyển_giao quyền	53
+sở_hữu công_nghiệp	52
+quyền sở_hữu đối_với	52
+quyền sở_hữu đối_với tài_sản	51
+quyền đối_với cây_trồng	50
+xác_lập quyền sở_hữu	46
+bảo_hộ quyền	46
+chủ sở_hữu quyền	46
+đăng_k ‎	45
+đơn đăng_ký	45
+quyền nhân_thân	43
+bảo_hộ quyền tác_giả	42
+chuyển_giao quyền yêu_cầu	41
+trường_hợp chủ sở_hữu	40
+chủ văn_bằng bảo_hộ	40
+chủ_thể quyền sở_hữu_trí_tuệ	39
+cơ_quan quản_lý nhà_nước quyền đối_với cây_trồng	39
+đơn đăng_ký sở_hữu công_nghiệp	39
+bất_động_sản liền kề	38
+chuyển_giao quyền sở_hữu	38
+thời_hạn bảo_hộ	36
+địa chủ	36
+xác_định chủ sở_hữu	35
+chủ bảo_hộ	34
+cơ_quan quản_lý nhà_nước quyền sở_hữu công_nghiệp	34
+nghĩa_vụ chủ sở_hữu	33
+cây_trồng bảo_hộ	33
+sở_hữu hợp_nhất	32
+sử_dụng đối_tượng sở_hữu công_nghiệp	31
+nhà_nước bảo_hộ	31
+hành_vi xâm_phạm quyền sở_hữu_trí_tuệ	31
+đại_diện xác_lập	30
+chủ sở_hữu sở_hữu	30
+hình_thức sở_hữu	29
+xâm_phạm quyền	28
+chủ sở_hữu tác_phẩm	28
+chủ sở_hữu sáng_chế	27
+chủ sở_hữu nhà_chung_cư	27
+sở_hữu chủ sở_hữu	27
+chỉ_dẫn địa_lý bảo_hộ	26
+đơn đăng_ký bảo_hộ	26
+đại_diện sở_hữu công_nghiệp	25
+tác_giả chủ sở_hữu tác_phẩm	25
+dịch_vụ đại_diện sở_hữu công_nghiệp	24
+đơn đăng_ký sáng_chế	24
+chủ sở_hữu bất_động_sản liền kề	24
+hiệu_lực văn_bằng bảo_hộ	23
+chủ sở_hữu tàu_bay	23
+chủ sở_hữu quyền liên_quan	23
+bảo_hộ quyền sở_hữu_trí_tuệ	23
+sở_hữu cây_trồng	21
+chủ sở_hữu nhãn_hiệu	21
+bảo_hộ quyền sở_hữu công_nghiệp	20
+chủ sở_hữu bất_động_sản	20
+tác_giả sáng_chế	20
+giả_mạo sở_hữu_trí_tuệ	19
+chuyển_giao quyền sử_dụng sáng_chế	19
+chuyển_nhượng quyền	19
+thời_điểm quyền sở_hữu	19
+thực_hiện quyền chủ sở_hữu	18
+tài_sản quyền sở_hữu	18
+văn_bằng bảo_hộ giốngcây trồng	18
+định_đoạt tài_sản sở_hữu	18
+sở_hữu quyền	18
+đăng_ký bảo_hộ	18
+tác_giả chủ sở_hữu quyền tác_giả	17
+đối_với tài_sản	16
+quyền đối_với tài_sản	16
+tất_cả chủ sở_hữu	16
+thực_hiện quyền	16
+sở_hữu tư_nhân	16
+sở_hữu tập_thể	15
+quyền chiếm_hữu	15
+quyền sử_dụng đối_tượng sở_hữu công_nghiệp	15
+quyền định_đoạt	14
+chủ sở_hữu đối_với	14
+sở_hữu nhà_chung_cư	14
+sử_dụng tài_sản	14
+xác_lập quyền sở_hữu đối_với	13
+quyền ưu_tiên	13
+nhà_chung_cư chủ sở_hữu	13
+từ_bỏ quyền sở_hữu	12
+quyền nghĩa_vụ chủ sở_hữu	12
+nhà_nước bảo_hộ quyền	12
+quyền sử_dụng sáng_chế	12
+chủ_thể quyền	12
+quyền sở_hữu quyền sử_dụng	11
+quyền nghĩa_vụ	11
+quyền tác_giả đối_với	11
+đối_với sáng_chế	11
+bảo_hộ quyền sở_hữu	11
+công_nhận quyền sở_hữu	10
+sở_hữu tài_sản	10
+đăng_ký quyền	10
+tranh_chấp quyền sở_hữu	10
+liền kề	9
+đối_với cây_trồng	9
+đồng_ý chủ sở_hữu	9
+từ_bỏ quyền	8
+trở_thành chủ sở_hữu	8
+quyền sở_hữu công_nghiệp đối_với	8
+hành_vi xâm_phạm	8
+sử_dụng sáng_chế	8
+đăng_ký quyền tác_giả	8
+tài_sản đăng_ký quyền sở_hữu	8
+đối_tượng sở_hữu	7
+trường_hợp chủ	7
+sử_dụng cây_trồng	7
+quyền nghĩa_vụ chủ	7
+hành_vi xâm_phạm quyền	7
+tác_giả chủ sở_hữu	7
+sở_hữu sở_hữu	7
+trao quyền sử_dụng	6
+chuyển_nhượng quyền sở_hữu	6
+xác_lập quyền	5
+đại_diện chủ	5
+bảo_hộ giốngcây trồng	5
+đơn yêu_cầu bảo_hộ	5
+sở_hữu đối_với tài_sản	5
+đối_với đối_tượng	5
+đối_với tác_phẩm	4
+tài_sản nhà_nước	4
+nghĩa_vụ chủ	4
+quyền sử_dụng đối_tượng	4
+tranh_chấp quyền	4
+quyền yêu_cầu cơ_quan	4
+xác_định chủ	3
+trở_thành chủ	3
+cơ_quan nhà_nước	3
+sở_hữu đối_với	3
+sử_dụng nhà_chung_cư	3
+đối_với tất_cả	3
+trao quyền	3
+cơ_quan đại_diện chủ	2
+bảo_hộ đối_tượng	2
+xâm_phạm quyền sở_hữu	2
+đơn yêu_cầu	2
+tài_sản tranh_chấp	2
+đăng_ký quyền liên_quan	2
+trả_thù_lao tác_giả	2
+cơ_quan đăng_ký	2
+yêu_cầu chuyển_giao	2
+sử_dụng dịch_vụ	2
+đăng_ký chào_bán	2
+đồng_ý chủ	2
+đăng_ký sáng_chế	2
+đại_diện sở_hữu	2
+đại_diện cơ_quan	2
+sở_hữu quyền tác_giả	1
+đối_với tàu_bay	1
+công_nhận quyền	1
+trường_hợp đơn	1
+chiếm_hữu tài_sản	1
+chuyển_nhượng quyền sử_dụng	1
+tranh_chấp liên_quan	1
+sở_hữu bất_động_sản	1
+quản_lý sử_dụng	1
+nghĩa_vụ tài_sản	1
+sử_dụng đối_tượng sở_hữu	1
+dịch_vụ đại_diện sở_hữu	1
+sử_dụng tài_sản nhà_nước	1
+hiệu_lực văn_bằng	1
+thực_hiện quyền nghĩa_vụ	1
+định_đoạt tài_sản	1
+đại_diện tập_thể	1
+sở_hữu tàu_bay	1
+giốngcây trồng	1
+thời_điểm đăng_ký	1
+yêu_cầu cơ_quan	1
+đối_với trường_hợp	1
+đăng_ký sở_hữu công_nghiệp	1
+quyền tác_giả đối_với tác_phẩm	1
+tất_cả chủ	1
+sử_dụng tác_phẩm	1

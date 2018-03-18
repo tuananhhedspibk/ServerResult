@@ -1,0 +1,113 @@
+phá dỡ	187
+kinh_doanh bất_động_sản	116
+môi_giới bất_động_sản	84
+sàn giao_dịch bất_động_sản	76
+thuê_mua xã_hội	63
+quản_lý vận_hành nhà_chung_cư	48
+hợp_đồng thuê	48
+thuê_mua bất_động_sản	45
+xây_dựng nhà_chung_cư	40
+định_giá bất_động_sản	39
+giá thuê	38
+yêu_cầu thuê	38
+ủy_quyền quản_lý	34
+hợp_đồng mua_bán	34
+tiền thuê	34
+trường_hợp thuê	33
+hoạt_động kinh_doanh bất_động_sản	30
+hội_nghị nhà_chung_cư	30
+thuê công_vụ	29
+sử_dụng nhà_chung_cư	28
+thị_trường bất_động_sản	26
+chuyển_nhượng hợp_đồng mua_bán	25
+thời_hạn thuê	23
+quản_lý vận_hành	22
+kinh_phí bảo_trì	22
+thuê thuê	21
+đối_tượng diện	20
+cá_nhân kinh_doanh bất_động_sản	20
+đấu_giá bất_động_sản	19
+kinh_doanh dịch_vụ bất_động_sản	18
+diện_tích nhà_chung_cư	18
+chuyển_nhượng toàn_bộ dự_án bất_động_sản	18
+kết_cấu_hạ tầng	17
+hợp_đồng thuê_mua	17
+tư_vấn bất_động_sản	15
+thỏa_thuận hợp_đồng	14
+sở_hữu nhà_chung_cư	13
+diện_tích sàn	13
+thừa_kế hợp_pháp	12
+chuyển_nhượng hợp_đồng	11
+giao_dịch bất_động_sản	10
+tiền thuê_mua	10
+chuyển_nhượng toàn_bộ dự_án	10
+chuyển_nhượng bất_động_sản	10
+thực_hiện giao_dịch	10
+đơn_vị quản_lý vận_hành	10
+tiền mua	10
+sử_dụng kinh_phí	9
+thuê tiếp_tục thuê hạn	9
+thuê tiếp_tục thuê hạn hợp_đồng	9
+giao_dịch mua_bán	9
+bảo_trì sở_hữu	8
+cưỡng_chế phá dỡ	8
+tiếp_tục thuê	7
+dự_án bất_động_sản	7
+chi_phí quản_lý	6
+sàn giao_dịch	6
+dịch_vụ môi_giới bất_động_sản	6
+pháp_luật kinh_doanh bất_động_sản	6
+hợp_tác kinh_doanh	6
+toàn_bộ dự_án	5
+thời_gian thuê	5
+giá dịch_vụ	5
+trường_hợp thừa_kế	5
+trường_hợp thỏa_thuận	4
+thuê thời_hạn thuê	4
+hoa_hồng môi_giới	4
+thuê tiền thuê	4
+thực_hiện dự_án	4
+thuê tiếp_tục thuê	4
+dự_án phát_triển	3
+báo thuê	3
+thời_hạn bảo_hành	3
+giá chuyển_nhượng	3
+thực_hiện cưỡng_chế	3
+dịch_vụ bất_động_sản	3
+phép chuyển_nhượng	3
+hợp_đồng chuyển_nhượng	3
+kinh_doanh dịch_vụ	3
+chi_phí cưỡng_chế	3
+cơ_chế thị_trường	2
+thỏa_thuận lựa_chọn	2
+hoạt_động kinh_doanh	2
+yêu_cầu định_giá	2
+vận_hành nhà_chung_cư	2
+quản_lý sử_dụng	2
+giá mua	2
+hợp_đồng ủy_quyền	2
+chuyển_nhượng toàn_bộ	2
+cá_nhân kinh_doanh	2
+phát_triển thị_trường	2
+đơn_vị quản_lý	2
+giao_dịch thị_trường	1
+dịch_vụ môi_giới	1
+quản_lý dự_án	1
+thuê dịch_vụ	1
+xã_hội địa_bàn	1
+hạn hợp_đồng	1
+chết thừa_kế	1
+hợp_đồng môi_giới	1
+hợp_đồng dịch_vụ	1
+bất_động_sản bao_gồm	1
+tư_vấn xác_định_giá	1
+tiến_độ thực_hiện	1
+chỗ hợp_pháp	1
+giá thị_trường	1
+quản_lý thị_trường	1
+cá_nhân sử_dụng	1
+tiến_độ thực_hiện dự_án	1
+hai thỏa_thuận	1
+hoạt_động hợp_tác	1
+thuê tiếp_tục	1
+thực_hiện hợp_đồng thuê	1

@@ -1,0 +1,15 @@
+bậc :	34
+chủ_nhiệm tổng_cục chính_trị	24
+bốn bậc :	23
+tổng_cục_trưởng tổng_cục	23
+quy_định :	16
+phẩm_chất chính_trị	15
+nâng lương	12
+chủ_nhiệm tổng_cục	12
+tổng_cục chính_trị	12
+bậc lương	12
+tặng_thưởng huân_chương	10
+phụ_cấp thâm_niên	9
+tốt_nghiệp đào_tạo	4
+lương phụ_cấp	2
+lương tối_thiểu	1

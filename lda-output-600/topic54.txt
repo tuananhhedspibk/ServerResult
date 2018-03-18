@@ -1,0 +1,17 @@
+hội_đồng_bộ_trưởng quy_định	160
+điều_khoản cuối_cùng	70
+chủ_tịch hội_đồng_bộ_trưởng	60
+quy_định hội_đồng_bộ_trưởng	56
+xí_nghiệp liên_doanh	51
+cơ_quan hội_đồng_bộ_trưởng	44
+thủ_trưởng cơ_quan hội_đồng_bộ_trưởng	30
+hội_đồng_bộ_trưởng quy_định chi_tiết thi_hành_pháp_lệnh	22
+thành_viên hội_đồng_bộ_trưởng	19
+chủ_tịch hội_đồng_bộ_trưởng quyết_định	14
+thủ_trưởng cơ_quan	12
+quyết_định cuối_cùng	11
+hội_đồng_bộ_trưởng quy_định chi_tiết	2
+gọi cơ_quan	2
+quy_định chi_tiết thi_hành_pháp_lệnh	2
+hướng_dẫn thi_hành_pháp_lệnh	2
+hướng_dẫn cơ_quan	1

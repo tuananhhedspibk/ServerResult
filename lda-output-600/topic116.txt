@@ -1,0 +1,65 @@
+giá_trị tài_sản	182
+tài_sản giá_trị	104
+sử_dụng tài_sản	90
+giá_trị pháp_lý	87
+tài_sản cố_định	69
+tịch_thu tài_sản	66
+đối_với tài_sản	63
+toàn_bộ tài_sản	53
+tổng giá_trị	53
+chiếm_đoạt tài_sản	53
+kê_khai tài_sản	52
+tịch_thu toàn_bộ tài_sản	50
+nghĩa_vụ tài_sản	48
+giá_trị sử_dụng	46
+chiếm_đoạt tài_sản giá_trị	43
+chiếm_đoạt tài_sản trị_giá	43
+kiểm_kê tài_sản	43
+tài_sản xã_hội chủ_nghĩa	29
+môi_giới hối_lộ	28
+tài_sản công	27
+giá_trị tài_sản doanh_nghiệp	27
+hậu_quả pháp_lý	25
+kê_biên tài_sản	23
+phân_chia tài_sản	22
+tổng giá_trị tài_sản	21
+tài_sản hình_thành	20
+khả_năng thực_tế	20
+xác_định_giá_trị tài_sản	20
+tài_sản doanh_nghiệp	19
+giá_trị thực_tế	19
+tài_sản thế_chấp	19
+giá_trị pháp_lý tương_đương	17
+giảm_sút giá_trị	17
+giấy_tờ giá_trị	17
+vụ_lợi động_cơ cá_nhân	16
+quyền_hạn chiếm_đoạt tài_sản	16
+tài_sản cầm_cố	15
+lừa_đảo chiếm_đoạt tài_sản	14
+trăm năm_mươi	14
+cầm_cố tài_sản	14
+chênh_lệch giá_trị	12
+nghĩa_vụ tài_sản doanh_nghiệp	12
+tài_sản trị_giá	12
+khả_năng thực_tế hậu_quả	11
+tẩu_tán tài_sản	11
+vật giá_trị	11
+hối_lộ giá_trị	10
+thế_chấp tài_sản	9
+giá_trị đặc_biệt	8
+chiếm_đoạt tài_sản xã_hội chủ_nghĩa	8
+vụ_lợi động_cơ	7
+giá_trị tương_đương	7
+khả_năng nhận_thức	7
+tịch_thu toàn_bộ	7
+quyền_hạn chiếm_đoạt	7
+tài_sản kê_biên	6
+huỷ_hoại tài_sản	5
+giá_trị năm_mươi_triệu	5
+pháp_lý tương_đương	4
+chiếm_đoạt tài_sản xã_hội	3
+giá_trị trăm	3
+giá_trị thực	2
+lừa_đảo chiếm_đoạt	2
+sử_dụng dấu	1
+động_cơ cá_nhân	1

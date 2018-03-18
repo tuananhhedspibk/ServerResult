@@ -1,0 +1,82 @@
+quản_lý sử_dụng	102
+sử_dụng quỹ	89
+quỹ dự_trữ	67
+sử_dụng mục_đích	65
+sử_dụng hiệu_quả	62
+quỹ dự_trữ tài_chính	53
+quản_lý ngoại_hối	47
+chi_phí quản_lý	45
+quản_lý quỹ	44
+dự_trữ ngoại_hối nhà_nước	44
+tỷ_giá hối_đoái	42
+sung quỹ nhà_nước	42
+uỷ_quyền quản_lý	39
+quản_lý rủi_ro	39
+trích_lập quỹ	38
+quản_lý sử_dụng quỹ	37
+mục_đích sử_dụng	35
+nhu_cầu sử_dụng	32
+quỹ xã_hội	31
+quản_lý thị_trường	31
+mục_đích lợi_nhuận	29
+hoạt_động ngoại_hối	29
+sử_dụng nguồn_lực	26
+hạch_toán độc_lập	26
+mức_độ rủi_ro	25
+sai mục_đích	25
+sử_dụng vốn	25
+lợi_nhuận thuế	24
+dự_phòng rủi_ro	23
+mục_đích sinh_lợi	23
+lợi_nhuận thu	22
+dự_trữ bắt_buộc	22
+cơ_chế thị_trường	21
+thị_trường tiền_tệ	21
+ngân quỹ	19
+quỹ dự_phòng	18
+quỹ từ_thiện	18
+sử_dụng lợi_nhuận	17
+phát_triển thị_trường	17
+sử_dụng con_dấu	16
+phương_án sử_dụng	16
+phân_chia lợi_nhuận	16
+thị_trường ngoại_tệ	16
+đơn_vị phụ_thuộc	15
+đơn_vị quản_lý	15
+hình_thành quỹ	13
+hiệu_quả hoạt_động	13
+mục_đích nhân_đạo	12
+quỹ phúc_lợi	12
+đơn_vị tiền_tệ	11
+bù_đắp chi_phí	11
+đánh_giá rủi_ro	10
+bộ_máy quản_lý	10
+lưu_thông thị_trường	10
+quản_lý nhà_nước	7
+sử_dụng vốn nhà_nước	7
+viện_trợ nhân_đạo	6
+thành_lập quỹ	5
+vốn quỹ	5
+bảo_toàn phát_triển	4
+bổ_sung quỹ dự_trữ tài_chính	4
+đánh_giá hiệu_quả	4
+thu hợp_pháp	4
+dự_trữ tài_chính	3
+ngoại_hối nhà_nước	3
+quản_lý nhà_nước hoạt_động	3
+quản_lý nhà_nước hoạt_động đấu_thầu	3
+thành_lập đơn_vị	3
+quỹ phát_triển	2
+nguồn_lực phát_triển	2
+bảo_toàn phát_triển vốn	2
+pháp_luật quản_lý ngoại_hối	2
+quản_lý dự_trữ ngoại_hối	2
+vốn thu	2
+hoạt_động đấu_thầu	1
+tài_chính đơn_vị	1
+hình_thành phát_triển	1
+quản_lý thuế	1
+vốn nhà_nước	1
+sung quỹ	1
+bộ_máy nhà_nước	1
+phân_công quản_lý	1

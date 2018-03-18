@@ -1,0 +1,14 @@
+giải_thích từ_ngữ	209
+từ_ngữ :	44
+định_kỳ hằng	40
+dựa căn_cứ :	17
+định_kỳ 06	14
+đa phương_thức	12
+phương_thức :	10
+khóa xii	9
+khoá xiii	7
+can_thiệp bất_hợp_pháp	6
+khóa xiii	6
+khoá xii	3
+hằng tuần	2
+dựa căn_cứ	1

@@ -1,0 +1,98 @@
+đứng đầu_cơ_quan	468
+văn_phòng đại_diện	302
+đại_diện pháp_luật	286
+đại_diện cơ_quan	285
+đứng đầu	260
+cơ_quan đại_diện ngoại_giao	182
+cơ_quan lãnh_sự	168
+cơ_quan đại_diện	148
+đại_diện uỷ_quyền	103
+đại_diện ủy_quyền	99
+đứng đầu_cơ_sở	76
+cử đại_diện	74
+viên_chức lãnh_sự	50
+đại_diện lãnh_đạo	50
+bộ_trưởng ngoại_giao	49
+đứng đầu tổ_chức	46
+đại_diện tổ_chức	44
+đại_diện pháp_luật doanh_nghiệp	43
+đại_diện pháp_luật pháp_nhân	42
+phạm_vi đại_diện	42
+suy cử	41
+viên_chức ngoại_giao	38
+cơ_quan đại_diện tổ_chức quốc_tế	37
+phái_đoàn đại_diện thường_trực	36
+đứng đầu đơn_vị sự_nghiệp công_lập	34
+tổ_chức quốc_tế tiếp_nhận	34
+miễn_trừ ngoại_giao	33
+đại_diện ít_nhất	33
+thành_viên cơ_quan đại_diện	32
+đứng đầu_cơ_quan đại_diện	30
+đứng đầu_cơ_quan đại_diện ngoại_giao	29
+hoạt_động văn_phòng đại_diện	24
+khu_vực lãnh_sự	24
+tổ_chức nước_ngoài chức_năng ngoại_giao	23
+phó đứng đầu_cơ_quan	23
+trụ_sở cơ_quan	23
+túi lãnh_sự	22
+túi ngoại_giao	22
+đại_diện ý_chí	22
+văn_phòng đại_diện doanh_nghiệp	21
+đại_diện tổ_chức vi_phạm	21
+đại_diện thân_thích	20
+tổ_chức quốc_tế	20
+chánh văn_phòng	19
+ủy_quyền đại_diện	19
+thực_hiện chức_năng lãnh_sự	18
+thông_qua đại_diện	17
+chi_nhánh văn_phòng đại_diện	15
+thành_lập văn_phòng đại_diện	15
+cơ_quan đại_diện tổ_chức	15
+cử đi	14
+đứng đầu đơn_vị	14
+tổ_chức thành_viên	13
+lãnh_sự danh_dự	12
+đường ngoại_giao	12
+lãnh_đạo cơ_quan	12
+giấy_phép văn_phòng đại_diện	12
+có_mặt đại_diện	11
+ủy_viên đại_diện	11
+chữ_ký đại_diện pháp_luật	11
+chức_năng lãnh_sự	11
+đại_diện ngoại_giao	11
+cơ_quan đại_diện lãnh_sự	11
+giấy_phép thành_lập văn_phòng đại_diện	10
+chữ_ký đại_diện	9
+mời đại_diện	9
+văn_phòng đại_diện tổ_chức	9
+tôn_trọng pháp_luật	7
+phạm_vi chức_năng	7
+lãnh_sự nước_ngoài	6
+uỷ_viên đại_diện	6
+đại_diện lãnh_đạo cơ_quan	5
+cơ_quan ban_hành_văn_bản	5
+đại_diện thường_trực	5
+đại_diện pháp_luật đại_diện	4
+nước_ngoài chức_năng ngoại_giao	4
+chức_năng ngoại_giao	4
+xây_dựng trụ_sở cơ_quan	4
+đứng dậy	4
+đại_diện tổ_chức quốc_tế	4
+thành_lập văn_phòng	4
+trụ_sở cơ_quan đại_diện	4
+thành_lập đơn_vị	4
+đứng đầu_cơ_quan chuyên_môn	3
+tổ_chức hoạt_động	3
+thực_hiện chức_năng	2
+phái_đoàn đại_diện	2
+tổ_chức sự_nghiệp	2
+phó trưởng_phòng	1
+thành_lập doanh_nghiệp	1
+lãnh_đạo tổ_chức	1
+vi_phạm pháp_luật	1
+đơn_vị sự_nghiệp	1
+thành_lập khu_vực	1
+hoạt_động chi_nhánh	1
+tổ_chức sự_nghiệp công_lập	1
+trụ_sở doanh_nghiệp	1
+đầu_cơ_quan đại_diện	1

@@ -1,0 +1,169 @@
+tòa_án nhân_dân	467
+toà_án nhân_dân tối_cao	427
+toà_án nhân_dân	329
+tòa_án nhân_dân tối_cao	274
+chánh_án tòa_án nhân_dân tối_cao	272
+hội_thẩm nhân_dân	237
+chánh_án tòa_án	210
+chánh_án toà_án nhân_dân tối_cao	185
+thư_ký tòa_án	168
+tòa_án nhân_dân tỉnh	159
+hội_đồng thẩm_phán tòa_án nhân_dân tối_cao	139
+tòa_án nhân_dân huyện	127
+toà_án nhân_dân tỉnh	115
+phó chánh_án	114
+chánh_án tòa_án nhân_dân	88
+hội_đồng thẩm_phán toà_án nhân_dân tối_cao	81
+chánh_án toà_án	73
+toà_án nhân_dân huyện	70
+uỷ_ban thẩm_phán	65
+toà_án nhân_dân địa_phương	64
+thẩm_phán tòa_án nhân_dân tối_cao	58
+phó chánh_án tòa_án	58
+thẩm_phán toà_án nhân_dân tối_cao	52
+quyết_định hội_đồng thẩm_phán tòa_án nhân_dân tối_cao	52
+nhân_dân tỉnh	45
+xem_xét quyết_định hội_đồng thẩm_phán tòa_án nhân_dân tối_cao	45
+chánh_án tòa_án nhân_dân tỉnh	44
+thẩm_phán phân_công	43
+đề_nghị chánh_án tòa_án nhân_dân tối_cao	43
+phúc_thẩm toà_án nhân_dân tối_cao	42
+thẩm_phán hội_thẩm	39
+uỷ_ban thẩm_phán toà_án nhân_dân tối_cao	38
+phân_công thẩm_phán	36
+thẩm_phán xem_xét	34
+chánh_án toà_án nhân_dân	32
+quyết_định tòa_án	32
+chánh_án tòa_án nhân_dân tối_cao quyết_định	32
+đề_nghị chánh_án toà_án nhân_dân tối_cao	31
+chánh_án tòa_án phân_công thẩm_phán	30
+thẩm_phán hội_thẩm nhân_dân	29
+hội_đồng nhân_dân	29
+chánh_án toà_án nhân_dân tỉnh	28
+chánh_án tòa_án quyết_định	28
+phó chánh_án toà_án	26
+thẩm_phán toà_án nhân_dân tỉnh	23
+giúp chánh_án	23
+ủy_ban thẩm_phán	22
+thẩm_phán tòa_án	22
+thư_ký toà_án	22
+xét_xử toà_án nhân_dân	21
+kiến_nghị chánh_án tòa_án	21
+đề_nghị chánh_án tòa_án	20
+đề_nghị chánh_án toà_án	19
+toà_án tỉnh	19
+cử giới_thiệu	19
+ủy_ban thẩm_phán tòa_án nhân_dân	19
+chánh_án tòa_án phân_công	19
+uỷ_ban thẩm_phán toà_án nhân_dân tỉnh	18
+uỷ_ban thẩm_phán toà_án tỉnh	18
+tòa_án quyết_định	18
+đề_nghị tòa_án	18
+phó chánh_án toà_án nhân_dân tối_cao	18
+thẩm_phán toà_án nhân_dân	17
+hội_thẩm nhân_dân tham_gia	17
+thẩm_phán toà_án nhân_dân huyện	17
+phó chánh_án chánh_án	16
+chánh_án tòa_án xem_xét	16
+nhiệm_vụ phân_công chánh_án	16
+chánh_án tòa_án trực_tiếp	15
+phó chánh_án tòa_án nhân_dân	14
+thẩm_phán tòa_án nhân_dân	14
+hội_đồng thẩm_phán tòa_án nhân_dân tối	14
+thẩm_phán phân_công giải_quyết	14
+chánh_án tòa_án nhân_dân huyện	14
+thẩm_phán quyết_định	13
+nghị_quyết hội_đồng thẩm_phán tòa_án nhân_dân tối_cao	13
+quyết_định hội_đồng thẩm_phán toà_án nhân_dân tối_cao	13
+toà_án quân_sự	12
+cử hội_thẩm	12
+văn_bản chánh_án tòa_án quyết_định	12
+xét_xử toà_án	12
+chánh_án tòa_án quyết_định cuối_cùng	12
+phân_công thẩm_phán xem_xét	11
+tòa_án phúc_thẩm	10
+ủy_ban thẩm_phán tòa_án	10
+toà_án nhân_dân tối_cao giám_đốc	9
+hội_đồng thẩm_phán	9
+quyết_định toà_án	9
+thẩm_phán toà_án tỉnh	9
+nhân_dân địa_phương	9
+phân_công chánh_án	8
+phân_công chánh_án tòa_án	8
+quyết_định phân_công	8
+hội_thẩm nhân_dân toà_án nhân_dân	8
+hội_đồng xét_xử	7
+thẩm_phán toà_án	7
+thẩm_quyền toà_án	7
+ủy_ban nhân_dân	7
+phiên họp hội_đồng thẩm_phán tòa_án nhân_dân tối_cao	7
+phó chánh_án toà_án nhân_dân	6
+tòa_án xem_xét	6
+tòa_án quân_sự	6
+đề_nghị chánh_án tòa_án nhân_dân	6
+nhiệm_kỳ chánh_án	6
+nhân_dân tỉnh quyết_định	6
+nhân_dân tối_cao	5
+toà_án phúc_thẩm	5
+hội_đồng nhân_dân tỉnh	5
+tỉnh quyết_định	5
+toà_án xét_xử	5
+hội_đồng tuyển_chọn thẩm_phán toà_án nhân_dân	5
+hội_đồng thẩm_phán tòa_án nhân_dân tối_cao xem_xét	5
+thẩm_phán chánh_án tòa_án	5
+chánh_án toà_án trực_tiếp	4
+tòa_án phân_công	4
+uỷ_ban nhân_dân tỉnh	4
+đề_nghị chánh_án	4
+uỷ_ban nhân_dân	4
+kiến_nghị chánh_án	4
+đề_nghị chánh_án toà_án nhân_dân	4
+thư_ký hội_đồng	4
+tòa_án nhân_dân tối_cao quyết_định	4
+thông_tư liên_tịch chánh_án tòa_án nhân_dân tối_cao	3
+xem_xét kiến_nghị	3
+xét_xử tòa_án	3
+- uỷ_ban thẩm_phán	3
+thẩm_phán tòa_án nhân_dân tối	3
+tòa_án giải_quyết	3
+đề_nghị xem_xét quyết_định hội_đồng thẩm_phán tòa_án nhân_dân	3
+tòa_án thẩm_quyền	3
+giám_đốc xét_xử	3
+thẩm_quyền xét_xử toà_án nhân_dân	3
+uỷ_ban thẩm_phán toà_án nhân_dân	3
+nhiệm_kỳ hội_đồng nhân_dân	3
+toà_án quyết_định	3
+phúc_thẩm toà_án nhân_dân	2
+chánh_án toà_án quyết_định	2
+hội_đồng nhân_dân xem_xét	2
+đề_nghị xem_xét	2
+- toà_án quân_sự	2
+xét_xử thẩm_phán	2
+đề_nghị hội_đồng	2
+tòa_án nhân_dân tối	2
+chánh_án tòa_án quân_sự	2
+tỉnh xem_xét	2
+tòa_án nhân_dân tối_cao xem_xét	2
+thẩm_phán tòa_án quân_sự	2
+giám_đốc xét_xử toà_án	2
+họp hội_đồng thẩm_phán	2
+nhân_dân tối_cao quyết_định	1
+quyết_định phúc_thẩm	1
+thẩm_quyền xem_xét	1
+tòa_án xét_xử	1
+phân_công giải_quyết	1
+hội_đồng giám_đốc	1
+phân_công thẩm_phán giải_quyết	1
+xem_xét quyết_định	1
+quyết_định cuối_cùng	1
+hội_đồng nhân_dân quyết_định	1
+đề_nghị xem_xét quyết_định hội_đồng thẩm_phán	1
+uỷ_ban nhân_dân huyện	1
+nghị_quyết hội_đồng thẩm_phán	1
+nhiệm_kỳ hội_thẩm	1
+quyết_định hội_đồng	1
+ủy_ban nhân_dân tỉnh	1
+nhân_dân huyện	1
+phiên họp hội_đồng thẩm_phán	1
+uỷ_ban thẩm_phán toà_án	1
+phúc_thẩm toà_án	1

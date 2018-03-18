@@ -1,0 +1,55 @@
+di_sản văn_hóa	104
+danh_lam thắng_cảnh	98
+văn_hoá - thông_tin	79
+di_tích lịch_sử - văn_hóa	69
+di_tích lịch_sử	59
+văn_hóa - thông_tin	58
+bảo_vệ phát_huy giá_trị di_sản văn_hóa	41
+di_tích lịch_sử - văn_hoá	39
+truyền_thống lịch_sử	31
+di_tích quốc_gia	28
+cảnh_quan thiên_nhiên	26
+di_sản văn_hóa phi vật_thể	24
+phát_huy giá_trị	24
+giá_trị lịch_sử	22
+bộ_trưởng văn_hóa	21
+bản_sắc văn_hoá dân_tộc	20
+di_sản văn_hoá	19
+khai_quật khảo_cổ	19
+anh_hùng dân_tộc	18
+bản_sắc văn_hóa	18
+bảo_vệ di_tích lịch_sử	18
+bộ_trưởng văn_hóa - thông_tin	16
+phát_huy giá_trị di_sản văn_hóa	16
+bảo_vệ phát_huy giá_trị	15
+phi vật_thể	14
+văn_hoá danh_lam thắng_cảnh	11
+xếp_hạng di_tích	11
+giá_trị đặc_biệt	10
+bản_sắc dân_tộc	8
+bản_sắc văn_hoá	8
+bảo_vệ di_tích	7
+phát_huy truyền_thống	7
+bảo_vệ phát_huy giá_trị di_sản	7
+văn_hoá -	6
+bảo_vệ cảnh_quan	4
+đất di_tích lịch_sử	4
+văn_hoá dân_tộc	4
+- văn_hóa	3
+văn_hóa -	3
+phát_huy sáng_kiến	3
+văn_hóa phi vật_thể	2
+giữ_gìn phát_huy	2
+văn_hoá danh_lam	2
+giá_trị di_sản	2
+phát_huy giá_trị di_sản	2
+trao_đổi thông_tin	2
+tiếng_nói chữ_viết	1
+giá_trị di_sản văn_hóa	1
+- thông_tin	1
+- văn_hoá	1
+lịch_sử - văn_hoá	1
+- thông_tin giấy_phép	1
+giấy_phép thăm_dò	1
+bảo_vệ phát_huy	1
+chữ_viết dân_tộc	1

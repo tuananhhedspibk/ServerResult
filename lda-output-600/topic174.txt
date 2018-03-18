@@ -1,0 +1,101 @@
+khai_thác khoáng_sản	218
+hoạt_động khoáng_sản	146
+tài_nguyên khoáng_sản	127
+thăm_dò khoáng_sản	122
+chế_biến khoáng_sản	86
+cá_nhân khai_thác	84
+giấy_phép khai_thác khoáng_sản	79
+khai_thác mỏ	63
+điều_tra cơ_bản	59
+giấy_phép thăm_dò khoáng_sản	58
+điều_tra cơ_bản địa_chất khoáng_sản	58
+khai_thác tài_nguyên	58
+bảo_vệ tài_nguyên khoáng_sản	46
+điều_tra cơ_bản tài_nguyên	45
+phép khai_thác	43
+tìm_kiếm thăm_dò	43
+khoáng_sản khai_thác	34
+điều_tra địa_chất	33
+thu_hồi giấy_phép	31
+trữ_lượng khoáng_sản	30
+cá_nhân khai_thác khoáng_sản	28
+diện_tích khu_vực	27
+đóng cửa mỏ	26
+giấy_phép khai_thác	26
+giấy_phép khai_thác tận_thu khoáng_sản	25
+cá_nhân phép khai_thác khoáng_sản	24
+tạm_thời cấm hoạt_động khoáng_sản	24
+khu_vực cấm	23
+khu_vực khoáng_sản	21
+tài_nguyên thiên_nhiên	21
+khảo_sát khoáng_sản	20
+cá_nhân khai_thác tài_nguyên	20
+quy_hoạch tài_nguyên	19
+bảo_vệ khoáng_sản khai_thác	19
+khu_vực thăm_dò	19
+cá_nhân phép	18
+đề_án thăm_dò khoáng_sản	17
+phê_duyệt trữ_lượng khoáng_sản	17
+khai_thác tận_thu	17
+đấu_giá quyền khai_thác khoáng_sản	17
+cá_nhân phép khai_thác	17
+quyền khai_thác khoáng_sản	17
+hoạt_động điều_tra	16
+quy_hoạch khoáng_sản	15
+chiến_lược khai_thác	14
+giấy_phép thăm_dò	14
+điều_tra cơ_bản địa_chất tài_nguyên khoáng_sản	14
+giấy_phép hoạt_động khoáng_sản	13
+khai_thác dầu_khí	13
+hoạt_động điều_tra cơ_bản	13
+khu_vực khai_thác mỏ	12
+khai_thác tận_thu khoáng_sản	12
+cá_nhân thăm_dò	12
+giao khu_vực	10
+khu_vực khai_thác khoáng_sản	10
+cơ_bản tài_nguyên	10
+kết_quả điều_tra cơ_bản	9
+cấm khai_thác	9
+tận_thu khoáng_sản	9
+khu_vực khai_thác	8
+diện_tích khu_vực thăm_dò	7
+thẩm_quyền giấy_phép	7
+chuyển_nhượng quyền	7
+giấy_phép khai_thác tận_thu	7
+khu_vực thăm_dò khoáng_sản	6
+tài_nguyên khoáng_sản khai_thác	6
+đề_án thăm_dò	6
+kết_quả điều_tra	5
+khai_thác bảo_vệ	5
+hoạt_động tìm_kiếm	5
+phép khai_thác khoáng_sản	5
+phép thăm_dò khoáng_sản	5
+phép thăm_dò	5
+chuyển_nhượng quyền thăm_dò	5
+khoáng_sản khu_vực	4
+khai_thác trái_phép	4
+cá_nhân phép thăm_dò	4
+tạm_thời cấm	4
+bảo_vệ tài_nguyên	4
+cơ_bản địa_chất tài_nguyên khoáng_sản	4
+gia_hạn giấy_phép	3
+cơ_bản địa_chất khoáng_sản	3
+điều_tra cơ_bản địa_chất	3
+phép chuyển_nhượng	3
+giấy_phép hoạt_động	3
+phép hoạt_động	3
+khai_thác chế_biến	3
+kết_quả hoạt_động	2
+mỏ khoáng_sản	2
+địa_chất khoáng_sản	2
+phê_duyệt đề_án	2
+phê_duyệt trữ_lượng	1
+nhà_nước tài_nguyên khoáng_sản	1
+khu_vực tạm_thời cấm	1
+phép hoạt_động khoáng_sản	1
+thẩm_quyền phê_duyệt	1
+chuyển_nhượng quyền khai_thác	1
+đấu_giá quyền	1
+cấm hoạt_động	1
+địa_chất tài_nguyên khoáng_sản	1
+thu_hồi giấy_phép hoạt_động	1

@@ -1,0 +1,150 @@
+đại_hội_đồng cổ_đông	191
+cổ_đông sáng_lập	130
+họp đại_hội_đồng cổ_đông	82
+biểu_quyết tán_thành	77
+quyền biểu_quyết	68
+phiếu biểu_quyết	68
+cổ_phần phổ_thông	68
+dự họp	66
+quyết_định đại_hội_đồng cổ_đông	54
+triệu_tập_họp đại_hội_đồng cổ_đông	53
+chào_bán cổ_phần	47
+thông_qua quyết_định	44
+nửa tổng_số thành_viên biểu_quyết tán_thành	43
+cổ_đông cổ_đông	41
+thành_viên dự họp	40
+phiếu ý_kiến	40
+tổng_số cổ_phần	37
+nửa tổng_số thành_viên	32
+kiểm phiếu	32
+cổ_đông phổ_thông	31
+nghị_quyết đại_hội_đồng cổ_đông	29
+cổ_phần ưu_đãi	28
+thông_qua nghị_quyết	28
+tất_cả cổ_đông	27
+cổ_đông sở_hữu_cổ_phần	26
+thông_báo mời họp	26
+tất_cả thành_viên	24
+chương_trình họp	24
+số_lượng thành_viên	24
+chuẩn_bị chương_trình	24
+số_lượng cổ_phần	23
+cổ_phần cổ_đông	22
+quyền chào_bán	22
+ít_nhất hai tổng_số thành_viên	20
+cổ_phần ưu_đãi biểu_quyết	20
+cổ_đông dự họp	19
+thông_qua nửa tổng_số thành_viên	19
+ít_nhất hai tổng_số thành_viên tham_gia	19
+cổ_phần ưu_đãi cổ_tức	18
+họp thường_niên	18
+mệnh_giá cổ_phần	18
+biểu_quyết thông_qua	18
+dự họp đại_hội_đồng cổ_đông	18
+cổ_phần quyền chào_bán	17
+phiếu bầu	17
+tất_cả chủ_nợ	17
+biên_bản họp đại_hội_đồng cổ_đông	17
+danh_sách cổ_đông quyền dự họp đại_hội_đồng cổ_đông	17
+cổ_phần ưu_đãi hoàn	17
+địa_điểm họp	16
+hai tổng_số	16
+đại_hội_đồng cổ_đông thông_qua	16
+tổng_số phiếu biểu_quyết	15
+ưu_đãi cổ_tức	15
+tổng_số thành_viên	15
+biên_bản họp	15
+danh_sách thành_viên	15
+nửa tổng_số	14
+ít_nhất hai tổng_số	14
+biểu_quyết họp	13
+thông_qua nửa tổng_số	13
+ít_nhất tổng_số thành_viên	13
+ưu_đãi biểu_quyết	13
+cổ_phần chào_bán	12
+thảo_luận biểu_quyết	12
+cổ_phần tổng_số cổ_phần	12
+mời họp	12
+bầu thành_viên	12
+cổ_phần quyền biểu_quyết	12
+danh_sách cổ_đông	11
+cổ_đông quyền	11
+% tổng_số cổ_phần	11
+thảo_luận thông_qua	11
+% tổng_số	11
+ý_kiến thành_viên	10
+hình_thức biểu_quyết	10
+thông_qua phương_án	10
+nội_dung chương_trình	10
+nghị_quyết thông_qua	10
+ưu_đãi hoàn	9
+biên_bản kiểm phiếu	9
+chữ_ký thành_viên	9
+họp bất_thường	9
+cổ_phần quyền	9
+dự_thảo nghị_quyết	8
+phát_hành trái_phiếu	8
+yêu_cầu triệu_tập_họp	8
+cổ_đông quyền dự họp	8
+quyền yêu_cầu	6
+mời dự	6
+bầu bổ_sung	6
+ít_nhất hai	6
+quyền dự họp	5
+quyết_định đại_hội_đồng	5
+thể_thức tiến_hành	5
+thông_qua hình_thức	5
+tham_dự họp	5
+quyền kiến_nghị	5
+chính_xác nội_dung	5
+nửa tổng_số thành_viên uỷ_ban	5
+thông_qua nửa	4
+tổng_số phiếu	4
+dự_thảo quyết_định	4
+biểu_quyết đa_số	4
+hai tổng_số thành_viên	4
+dự_kiến chương_trình	4
+bí_quyết kỹ_thuật	3
+đồng_thời thành_viên	3
+sở_hữu_cổ_phần ưu_đãi	3
+cổ_đông quyền dự họp đại_hội_đồng cổ_đông	3
+quyền tham_dự	3
+danh_sách cổ_đông quyền dự họp	3
+thông_báo mời	3
+quyết_định bổ_nhiệm	3
+tổng_số thành_viên uỷ_ban	3
+cổ_phần tổng_số	3
+thay_thế thành_viên	3
+ít_nhất tổng_số	3
+đa_số thành_viên	3
+họp đầu_tiên	2
+quyền dự họp đại_hội_đồng cổ_đông	2
+mời tham_dự	2
+hạn_chế số_lượng	2
+danh_sách chủ_nợ	2
+trình dự_thảo	2
+cổ_đông thông_qua	2
+thành_viên tham_gia	2
+cổ_phần cổ_phần	2
+danh_sách cổ_đông quyền dự họp đại_hội_đồng	1
+biểu_quyết cổ_đông	1
+thành_viên dự	1
+thông_qua chương_trình	1
+hai thành_viên	1
+tổng_số cổ_phần quyền	1
+tổng_số thành_viên biểu_quyết tán_thành	1
+cổ_đông quyền dự họp đại_hội_đồng	1
+thông_báo nội_dung	1
+thành_viên biểu_quyết tán_thành	1
+triệu_tập hợp_lệ hai	1
+quyết_định trưng_mua	1
+số_lượng tham_dự	1
+quyền ưu_đãi	1
+tổng_số thành_viên tham_gia	1
+thành_viên uỷ_ban	1
+quyền dự	1
+nửa tổng_số thành_viên biểu_quyết	1
+thảo_luận quyết_định	1
+phiếu hợp_lệ	1
+họp đại_hội_đồng	1
+triệu_tập chủ_toạ	1

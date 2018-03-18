@@ -1,0 +1,27 @@
+chống dịch	99
+công_bố dịch	77
+đăng báo	65
+đăng công_báo	47
+dịch uy_hiếp	27
+báo điện_tử	23
+báo địa_phương	19
+mẫu bệnh_phẩm	19
+quyết_định công_bố dịch	19
+đăng báo địa_phương	18
+báo hàng trung_ương	15
+tờ báo	14
+báo in	12
+biện_pháp chống dịch	11
+bãi_bỏ quyết_định	8
+mẫu thống_nhất	8
+công_bố danh_mục	7
+động_vật công_bố dịch	6
+giấy_tờ giả	6
+báo hàng	5
+hàng giả	4
+trung_ương địa_phương	4
+dịch tiếng	4
+bỏ_phiếu kín	3
+khai_báo gian_dối	2
+danh_mục động_vật	1
+biện_pháp chống	1

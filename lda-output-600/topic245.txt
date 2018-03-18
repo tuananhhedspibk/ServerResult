@@ -1,0 +1,16 @@
+hợp_đồng dầu_khí	73
+hoạt_động dầu_khí	40
+chất ma_tuý thể rắn	23
+chất ma_tuý thể lỏng	23
+khí thiên_nhiên	22
+khai_thác dầu_khí	21
+tiến_hành hoạt_động dầu_khí	18
+cá_nhân tiến_hành hoạt_động dầu_khí	17
+phục_vụ hoạt_động	14
+thể rắn	12
+thể lỏng	10
+thể rắn khối_lượng	8
+thể lỏng thể_tích	7
+tiến_hành hoạt_động	4
+hợp_đồng liên_doanh	3
+cá_nhân tiến_hành	2

@@ -1,0 +1,133 @@
+tổ_chức hữu_quan	275
+trách_nhiệm tổ_chức	269
+quyền_hạn trách_nhiệm	203
+trách_nhiệm phối_hợp	201
+phối_hợp cơ_quan	191
+trách_nhiệm cơ_quan	188
+chủ_trì phối_hợp	186
+cơ_quan công_an	145
+quyền_hạn trách_nhiệm phối_hợp	118
+cơ_quan chủ_trì soạn_thảo	117
+trách_nhiệm xem_xét	111
+cơ_quan chủ_trì thẩm_tra	89
+cơ_quan hữu_quan	87
+trách_nhiệm thông_báo	81
+thông_báo cơ_quan	76
+trách_nhiệm tiếp_nhận	68
+trách_nhiệm nghiên_cứu	66
+tổ_chức nghiên_cứu	63
+trách_nhiệm giúp	60
+quyền_hạn cơ_quan	59
+trách_nhiệm báo_cáo	58
+trách_nhiệm phối_hợp cơ_quan	55
+phối_hợp cơ_quan liên_quan	55
+trách_nhiệm chỉ_đạo	54
+phối_hợp cơ_quan hữu_quan	52
+phối_hợp chặt_chẽ	52
+trách_nhiệm chủ_trì	51
+chủ_trì soạn_thảo	49
+trách_nhiệm chính_phủ	49
+chỉ_đạo cơ_quan	49
+phối_hợp công_an	48
+gửi cơ_quan	47
+cơ_quan chính_phủ	46
+trách_nhiệm kiểm_tra	40
+triệu_tập chủ_trì	37
+báo_cáo cơ_quan	36
+tinh_thần trách_nhiệm	34
+trách_nhiệm gửi	34
+xem_xét trách_nhiệm	33
+tư_pháp trách_nhiệm	33
+trách_nhiệm bảo_quản	32
+cơ_quan đề_xuất	32
+trách_nhiệm tuyên_truyền	32
+chủ_trì thẩm_tra	31
+phối_hợp hoạt_động	31
+ngành hữu_quan	30
+tổ_chức chủ_trì soạn_thảo	29
+trách_nhiệm theo_dõi	29
+cơ_quan đề_xuất trách_nhiệm	29
+cơ_quan trung_ương tổ_chức	28
+phối_hợp tư_pháp	27
+tổ_chức đối_thoại	26
+trách_nhiệm bố_trí	25
+trách_nhiệm giúp_đỡ	25
+cơ_quan soạn_thảo	24
+tổ_chức tuyên_truyền	24
+trách_nhiệm liên_đới	24
+quyền_hạn trách_nhiệm tuyên_truyền	23
+cơ_quan thẩm_tra	22
+trách_nhiệm bồi_hoàn	22
+soạn_thảo trách_nhiệm	20
+tổ_chức bộ_máy	19
+phối_hợp cơ_quan_chức_năng	19
+tổ_chức hoạt_động	19
+phụ_cấp trách_nhiệm	18
+trách_nhiệm chủ_động	18
+hoạt_động cơ_quan hữu_quan	18
+tổ_chức phi chính_phủ	18
+cơ_quan chủ_trì	16
+phối_hợp ngoại_giao	16
+cơ_quan công_an tỉnh	16
+cơ_quan báo_chí	16
+tỉnh trách_nhiệm	15
+phối_hợp y_tế	14
+liên_đới trách_nhiệm	13
+công_an trách_nhiệm	13
+báo_cáo thẩm_tra	13
+tổ_chức bộ_máy cơ_quan	12
+tổ_chức chỉ_đạo	12
+xem_xét báo_cáo	11
+tổ_chức liên chính_phủ	11
+chủ_động phối_hợp	11
+xem_xét trách_nhiệm cơ_quan	11
+trách_nhiệm gửi văn_bản	11
+báo cơ_quan	11
+quy_chế phối_hợp	10
+bộ_trưởng công_an	10
+y_tế trách_nhiệm	9
+chủ_trì soạn_thảo trách_nhiệm	9
+hữu_quan trách_nhiệm	8
+cơ_quan trung_ương	8
+cơ_quan chính_phủ trách_nhiệm	8
+giúp bộ_trưởng	7
+chủ_trì phối_hợp cơ_quan	7
+báo_cáo chính_phủ	7
+chỉ_đạo tổ_chức	7
+chính_phủ xem_xét	7
+cơ_quan chính_phủ liên_quan	7
+trách_nhiệm phối_hợp tư_pháp	6
+phối_hợp bộ_trưởng	6
+báo_cáo đề_xuất	6
+cơ_quan chủ_trì soạn_thảo trách_nhiệm	6
+quyền_hạn trách_nhiệm phối_hợp cơ_quan	6
+chỉ_đạo soạn_thảo	5
+quyền_hạn bao_che	5
+tổ_chức hữu_quan trách_nhiệm	5
+kiểm_tra hoạt_động	5
+văn_bản cơ_quan	5
+thông_báo văn_bản cơ_quan	5
+trách_nhiệm gửi báo_cáo	4
+gửi báo_cáo	4
+gửi thông_báo	3
+yêu_cầu_thủ_trưởng cơ_quan	3
+phi chính_phủ	3
+tỉnh xem_xét	3
+ngành liên_quan	2
+chỉ_đạo hoạt_động	2
+hoạt_động báo_chí	2
+tư_pháp trách_nhiệm chính_phủ	2
+ngành trung_ương	2
+giúp chính_phủ	2
+gửi tư_pháp	2
+công_an tỉnh	1
+quy_chế hoạt_động	1
+gửi văn_bản	1
+hoạt_động nghiên_cứu	1
+chỉ_đạo kiểm_tra	1
+soạn_thảo gửi	1
+bộ_trưởng ngoại_giao	1
+soạn_thảo văn_bản	1
+bộ_trưởng y_tế	1
+thẩm_tra báo_cáo	1
+liên tỉnh	1

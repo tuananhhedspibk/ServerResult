@@ -1,0 +1,71 @@
+bao_gồm :	1501
+bổ_sung :	1327
+quyền_hạn :	529
+trách_nhiệm :	486
+nội_dung :	410
+bổ_sung một_số luật	261
+nhiệm_vụ quyền_hạn :	260
+từ_ngữ :	194
+nội_dung chủ_yếu :	185
+/ qh11	117
+bổ_sung nghị_quyết số51 / 2001 / qh10	108
+bổ_sung một_số pháp_lệnh	98
+bao_gồm nội_dung :	87
+bổ_sung a :	81
+quyền_hạn trách_nhiệm	74
+bổ_sung một_số	74
+bổ_sung một_số nghị_quyết 51/2001 / qh10	72
+/ qh12	69
+quyền_hạn trách_nhiệm :	60
+hình_thức :	59
+/ qh13	49
+bổ_sung một_số nghị_quyết số51 / 2001 / qh10	48
+/ qh10	45
+nhiệm_vụ quyền_hạn	39
+1 /	38
+2 /	37
+thứ_tự :	37
+nội_dung chủ_yếu	36
+bao_gồm nội_dung	33
+3 /	30
+quyền_hạn cụ_thể	30
+/ pl-ubtvqh10	28
+phương_thức :	28
+chương 1 :	28
+chương 5 :	27
+chủ_yếu :	27
+chương 2 :	27
+chương 3 :	27
+chương 4 :	27
+/ pl-ubtvqh11	27
+/ qh12 sửa_đổi	25
+chương 6 :	23
+/ qh11 sửa_đổi	23
+a :	22
+bao_gồm nội_dung chủ_yếu :	22
+sauđây :	20
+bổ_sung a	18
+bổ_sung nghị_quyết	16
+một_số luật	12
+sửa_đổi một_số	9
+pháp_lệnh bao_gồm	8
+10 :	6
+một_số pháp_lệnh	5
+3 luật	5
+quốc_tế bao_gồm :	4
+bổ_sung nghị_quyết số51 / 2001 /	3
+khoáng_sản bao_gồm :	3
+2 3	3
+cụ_thể nội_dung	2
+một_số nhiệm_vụ	2
+/ 2001 / qh10	2
+luật sửa_đổi	2
+51/2001 / qh10	2
+4 luật	2
+2 3 luật	2
+/ 2001 /	2
+nghị_quyết số51 / 2001 / qh10	1
+6 luật	1
+nghị_quyết số51 / 2001 /	1
+5 6	1
+bổ_sung một_số nghị_quyết	1

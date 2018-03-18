@@ -1,0 +1,11 @@
+bảo_hộ cây_trồng	20
+gen cây_trồng	17
+văn_bằng bảo_hộ	17
+gen vật_nuôi	17
+cơ_sở khảo_nghiệm	15
+vật_liệu nhân_giống	6
+ban_hành danh_mục	4
+hiệu_lực văn_bằng	3
+cơ_sở kinh_doanh	1
+bộ_trưởng thuỷ_sản	1
+cây_trồng bảo_hộ	1

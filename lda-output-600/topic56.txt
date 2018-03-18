@@ -1,0 +1,61 @@
+trình_độ chuyên_môn	162
+bồi_dưỡng nghiệp_vụ	130
+chuyên_môn kỹ_thuật	109
+nâng chất_lượng	95
+bồi_dưỡng chuyên_môn	82
+phổ_biến kiến_thức	74
+nâng cao_trình_độ	73
+nâng hiệu_quả	66
+hướng_dẫn nghiệp_vụ	57
+nâng năng_lực	54
+nâng nhận_thức	49
+bồi_dưỡng kiến_thức	44
+nâng lương	42
+kiến_thức chuyên_môn	34
+nâng ngạch	34
+bồi_dưỡng nâng cao_trình_độ	33
+cập_nhật kiến_thức	30
+năng_lực chuyên_môn	29
+chuyên_môn nghiệp_vụ	27
+chỉ_đạo nghiệp_vụ	23
+chuyên_môn phù_hợp	23
+bồi_dưỡng kiến_thức cần_thiết	22
+bồi_dưỡng nhân_lực	22
+bồi_dưỡng nhân_tài	22
+học_tập nâng cao_trình_độ	22
+công_tác phổ_biến	21
+hoạt_động chuyên_môn	20
+nâng dân_trí	19
+mở_rộng quy_mô	18
+nâng cao_trình_độ chuyên_môn	17
+trình_độ học_vấn	17
+kiến_thức pháp_lý	17
+kiến_thức cần_thiết	16
+trình_độ chuyên_môn phù_hợp	16
+nâng kiến_thức	15
+kỹ_thuật nghiệp_vụ	15
+nâng ý_thức	14
+mở_rộng giao_lưu	14
+nâng năng_suất	14
+bồi_dưỡng đội_ngũ	13
+khả_năng chuyên_môn	13
+bộ_phận chuyên_môn	13
+phù_hợp quy_mô	12
+bồi_dưỡng nâng	10
+nghiệp_vụ công_tác	9
+góp_phần nâng	8
+bồi_dưỡng cán_bộ	7
+hướng_dẫn công_tác	6
+phổ_biến nội_quy	5
+phù_hợp khả_năng	3
+hướng_dẫn hoạt_động	3
+học_tập nâng	3
+hoạt_động nghiệp_vụ	3
+đội_ngũ cán_bộ	2
+kinh_nghiệm công_tác	2
+năng_lực hoạt_động	2
+khả_năng nhận_thức	2
+lớp bồi_dưỡng	1
+chất_lượng hiệu_quả	1
+nâng cao_trình_độ kỹ_năng	1
+chỉ_đạo công_tác	1

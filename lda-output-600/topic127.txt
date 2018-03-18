@@ -1,0 +1,31 @@
+gửi hàng	122
+bảo_hiểm_tiền gửi	109
+bưu gửi	97
+bao gửi	69
+tổ_chức tham_gia_bảo_hiểm_tiền gửi	61
+tổ_chức bảo_hiểm_tiền gửi	59
+gửi thông_báo	54
+đồng_thời gửi	51
+gửi giấy	41
+tiền gửi	39
+gửi kèm	28
+gửi thư	22
+gửi bưu_điện	22
+chứng_nhận tham_gia_bảo_hiểm_tiền gửi	22
+kiện hàng	19
+phát bưu gửi	18
+gửi ngân_hàng	13
+sơ_thẩm đồng_thời chung_thẩm	13
+đồng_thời chung_thẩm	12
+đồng_thời thông_báo	10
+định_kỳ hàng	10
+phí bảo_hiểm_tiền gửi	9
+gửi tiền	8
+tham_gia_bảo_hiểm_tiền gửi	6
+gửi ban	5
+tiền gửi ngân_hàng	4
+gửi bản_sao	3
+tiền hàng	2
+gửi tất_cả	2
+hàng hàng	1
+gửi bản_sao giấy	1

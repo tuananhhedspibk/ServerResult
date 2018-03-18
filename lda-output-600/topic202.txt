@@ -1,0 +1,27 @@
+quyết_định kỷ_luật buộc thôi_việc	84
+buộc thôi_việc	54
+quyết_định kỷ_luật	38
+quyết_định buộc	30
+toàn_vẹn lãnh_thổ tổ_quốc	26
+buộc rời	25
+nhận_biết giọng	24
+cấm buộc	23
+tách rời	23
+thu_giữ thư_tín	20
+cấm lưu_hành	17
+buộc tháo_dỡ	17
+kỷ_luật buộc thôi_việc	17
+tuyệt_đối trung_thành tổ_quốc	15
+thống_nhất toàn_vẹn lãnh_thổ	13
+toàn_vẹn lãnh_thổ	11
+trung_thành tổ_quốc	11
+rời lãnh_thổ	9
+buộc chấm_dứt	7
+buộc chấp_hành	5
+nhập tách	5
+nghiêm_chỉnh thống_nhất	5
+chấp_hành quyết_định	2
+quyết_định nhập	2
+kỷ_luật buộc	1
+thống_nhất toàn_vẹn	1
+tuyệt_đối trung_thành	1

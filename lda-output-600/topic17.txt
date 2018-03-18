@@ -1,0 +1,40 @@
+phạm_vi điều_chỉnh	283
+phạm_vi quản_lý	162
+phạm_vi địa_phương	134
+ngành liên_quan	130
+ảnh_hưởng xấu	108
+quản_lý trực_tiếp	80
+liên_quan trực_tiếp	69
+ngành địa_phương	58
+ban quản_lý	50
+trực_tiếp gián_tiếp	48
+quản_lý ngành	45
+ảnh_hưởng nghiêm_trọng	45
+trực_tiếp tham_gia	41
+ảnh_hưởng trực_tiếp	37
+tham_gia quản_lý	34
+phạm_vi toàn_quốc	32
+ảnh_hưởng xấu an_ninh	31
+phạm_vi ảnh_hưởng	28
+ảnh_hưởng an_toàn	25
+quyền quản_lý trực_tiếp	23
+quản_lý chặt_chẽ	23
+phạm_vi quản_lý địa_phương	20
+quy_mô phạm_vi	17
+điều_chỉnh cơ_cấu	15
+ảnh_hưởng xấu môi_trường	14
+phân_cấp quản_lý	13
+nguy_cơ ảnh_hưởng	11
+quyết_định điều_chỉnh	10
+ngành quản_lý	10
+liên_quan trực_tiếp quyền	9
+điều_chỉnh quan_hệ	9
+trực_tiếp chỉ_định	8
+trực_tiếp nuôi	8
+ảnh_hưởng quyền	7
+tác_động xấu	5
+quản_lý vận_hành	4
+nguy_cơ an_toàn	2
+địa_phương phân_cấp	2
+tham_gia quan_hệ	2
+tác_động trực_tiếp	1

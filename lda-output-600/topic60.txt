@@ -1,0 +1,283 @@
+dự_án đầu_tư	440
+đầu_tư nước_ngoài	286
+vốn đầu_tư	264
+chủ đầu_tư	230
+góp vốn	194
+doanh_nghiệp vốn đầu_tư nước_ngoài	192
+kế_hoạch đầu_tư	172
+vay vốn	158
+thực_hiện dự_án đầu_tư	137
+thực_hiện dự_án	137
+quyết_định đầu_tư	130
+vốn đầu_tư nước_ngoài	125
+đối_với dự_án	118
+sử_dụng vốn	108
+huy_động vốn	103
+đầu_tư công	100
+ưu_đãi đầu_tư	99
+quyết_định chủ_trương đầu_tư	90
+đầu_tư phát_triển	90
+đầu_tư vốn	78
+vốn vay	72
+hoạt_động đầu_tư	71
+dự_án sử_dụng vốn	69
+kế_hoạch đầu_tư công	67
+khuyến_khích đầu_tư	62
+đầu_tư dự_án	61
+dự_án quan_trọng quốc_gia	59
+thực_hiện chương_trình	54
+sử_dụng vốn vay	53
+vốn trái_phiếu chính_phủ	51
+vốn góp	50
+vốn công_trái quốc_gia	48
+đối_với dự_án đầu_tư	48
+chương_trình mục_tiêu quốc_gia	47
+chi đầu_tư phát_triển	46
+kế_hoạch đầu_tư công trung_hạn giai_đoạn	44
+tổng đầu_tư	43
+vốn pháp_định	42
+danh_mục dự_án	41
+hình_thức đầu_tư	37
+kế_hoạch đầu_tư công trung_hạn	35
+báo_cáo đề_xuất chủ_trương đầu_tư	35
+vốn nhà_nước	35
+xí_nghiệp vốn đầu_tư nước_ngoài	35
+sử_dụng vốn nhà_nước	35
+chủ đầu_tư dự_án	34
+chủ_trương đầu_tư	34
+đầu_tư thành_lập	34
+thu_hồi vốn	32
+vốn đầu_tư công	31
+đầu_tư dự_án đầu_tư	31
+đầu_tư vốn nhà_nước	31
+tiến_độ thực_hiện	31
+vốn tín_dụng đầu_tư phát_triển nhà_nước	31
+kế_hoạch đầu_tư chủ_trì	30
+bố_trí vốn	30
+thẩm_quyền quyết_định chủ_trương đầu_tư	28
+kế_hoạch đầu_tư công trung_hạn hằng	26
+vốn đầu_tư xây_dựng	26
+dự_án đầu_tư nước_ngoài	26
+vốn nhà_nước đầu_tư	25
+nhà_nước đầu_tư	25
+thực_hiện mục_tiêu	24
+hoạt_động đầu_tư nước_ngoài	23
+kế_hoạch đầu_tư trung_hạn	23
+vốn đầu_tư ban_đầu	23
+đối_với dự_án sử_dụng vốn	23
+gửi kế_hoạch đầu_tư	22
+phối_hợp kế_hoạch đầu_tư	22
+vốn oda vốn vay ưu_đãi tài_trợ nước_ngoài	21
+kế_hoạch đầu_tư trung_hạn hằng	21
+hỗ_trợ đầu_tư	20
+quyết_định chủ_trương	20
+thẩm_định vốn khả_năng cân_đối vốn	20
+dự_án đầu_tư công	20
+vay vốn sản_xuất	20
+vay vốn ưu_đãi	20
+đầu_tư kinh_doanh	20
+dự_án lĩnh_vực	20
+quyết_định chủ_trương đầu_tư dự_án	20
+hình_thức đối_tác công tư	19
+tiến_độ thực_hiện dự_án	19
+quyết_định chủ_trương đầu_tư chương_trình	19
+giấy_phép đầu_tư	19
+kế_hoạch đầu_tư phát_triển	19
+vốn huy_động	18
+thu_hồi vốn đầu_tư	18
+hồ_sơ dự_án đầu_tư	17
+đầu_tư kinh_doanh vốn nhà_nước	17
+quốc_hội quyết_định chủ_trương đầu_tư	17
+quyết_định đầu_tư chương_trình	17
+thẩm_định báo_cáo đề_xuất chủ_trương đầu_tư	17
+doanh_nghiệp nhà_nước	17
+sở kế_hoạch đầu_tư	17
+mở_rộng quy_mô	16
+đầu_tư gián_tiếp	16
+phương_án huy_động vốn	16
+khả_năng cân_đối	16
+chương_trình mục_tiêu	16
+vốn khả_năng cân_đối vốn	16
+chương_trình quốc_gia	16
+bảo_toàn phát_triển vốn	16
+tỷ đồng	16
+đầu_tư nước_ngoài đầu_tư	16
+thẩm_định dự_án	15
+thực_hiện hoạt_động đầu_tư	15
+sử_dụng vốn đầu_tư công	15
+dự_án phát_triển	14
+bộ_trưởng kế_hoạch đầu_tư	14
+vốn thu đầu_tư cân_đối	14
+thu_hút đầu_tư	14
+kế_hoạch phát_triển	14
+vốn tín_dụng	14
+quyết_định điều_chỉnh	13
+lựa_chọn chủ đầu_tư	13
+tổng vốn	13
+oda vốn vay ưu_đãi tài_trợ nước_ngoài	13
+đầu_tư thực_hiện dự_án	13
+đề_xuất chủ_trương đầu_tư	13
+thẩm_quyền quyết_định đầu_tư	13
+tín_dụng ưu_đãi	12
+vay vốn vay nước_ngoài chính_phủ	12
+vay nước_ngoài	12
+đầu_tư xây_dựng	12
+cơ_cấu vốn	12
+thực_hiện kế_hoạch	12
+tín_dụng đầu_tư phát_triển nhà_nước	12
+tài_trợ nước_ngoài	11
+sử_dụng vốn đầu_tư	11
+đầu_tư chương_trình	11
+dự_án b	11
+giao kế_hoạch đầu_tư	11
+quan_trọng quốc_gia	11
+đầu_tư mở_rộng	11
+thủ_tục quyết_định chủ_trương đầu_tư	10
+toàn_bộ vốn	10
+lựa_chọn đầu_tư	10
+tín_dụng đầu_tư	10
+kế_hoạch sử_dụng	10
+thực_hiện dự_án đầu_tư xây_dựng	10
+sử_dụng vốn nhà_nước doanh_nghiệp	9
+vốn chủ sở_hữu	9
+cân_đối vốn	9
+vốn góp nhà_nước	9
+dự_án quan_trọng	8
+vốn hỗ_trợ phát_triển chính_thức	8
+vay ưu_đãi	8
+thẩm_định dự_án đầu_tư	8
+đặc_biệt khuyến_khích đầu_tư	8
+thẩm_định chương_trình	8
+triển_khai thực_hiện	7
+sử_dụng vốn oda vốn vay ưu_đãi tài_trợ nước_ngoài	7
+chủ_trương đầu_tư dự_án	7
+công_trái quốc_gia	7
+vốn oda	7
+đề_xuất giải_pháp	6
+đối_với lĩnh_vực	6
+lập kế_hoạch đầu_tư	6
+nước_ngoài đầu_tư	6
+dự_án sử_dụng	6
+điều_chỉnh chương_trình	6
+vay nước_ngoài chính_phủ	6
+thực_hiện hoạt_động	6
+vốn vay ưu_đãi	6
+vốn nước_ngoài	6
+khả_năng huy_động	6
+vốn góp nhà_nước doanh_nghiệp	6
+rút vốn	5
+vốn vay nước_ngoài chính_phủ	5
+dự_án đầu_tư xây_dựng	5
+lập kế_hoạch	5
+chuẩn_bị dự_án	5
+thẩm_quyền quyết_định	5
+đầu_tư đối_với dự_án	5
+bảo_toàn phát_triển	5
+tín_dụng vay	5
+chủ_trương đầu_tư chương_trình	5
+dự_án thẩm_quyền quyết_định	5
+định_hướng phát_triển	5
+vay vốn vay	5
+thẩm_định kế_hoạch	4
+vốn doanh_nghiệp	4
+đối_với dự_án sử_dụng	4
+thực_hiện chủ_trương	4
+đề_xuất chủ_trương	4
+điều_chỉnh dự_án	4
+đặc_biệt quan_trọng	4
+lựa_chọn hình_thức	4
+dự_án đầu_tư địa_bàn	4
+khuyến_khích doanh_nghiệp	4
+vốn vay ưu_đãi tài_trợ	4
+giải_pháp thực_hiện	4
+mục_tiêu phát_triển	4
+kế_hoạch hằng	4
+hỗ_trợ phát_triển chính_thức	4
+thực_hiện hình_thức	4
+lập dự_án	4
+đầu_tư trung_hạn	4
+khuyến_khích phát_triển	3
+hoạt_động đầu_tư kinh_doanh	3
+quyết_định thu_hồi	3
+quốc_hội quyết_định chủ_trương	3
+công tư	3
+chủ_trì thẩm_định	3
+lập chương_trình	3
+lập dự_án đầu_tư	3
+kinh_doanh vốn nhà_nước	3
+trung_hạn hằng	3
+ưu_đãi đặc_biệt	3
+phương_án bố_trí	3
+phương_án sử_dụng	3
+vốn nhà_nước doanh_nghiệp	3
+hồ_sơ dự_án	3
+doanh_nghiệp vốn đầu_tư	3
+đầu_tư địa_bàn	3
+toàn_bộ dự_án	3
+thành_lập doanh_nghiệp	2
+khả_năng cân_đối vốn	2
+chi đầu_tư xây_dựng	2
+đầu_tư nước_ngoài nước_ngoài	2
+mục_tiêu quốc_gia	2
+vốn vay ưu_đãi tài_trợ nước_ngoài	2
+đối_tác công tư	2
+tín_dụng đầu_tư phát_triển	2
+chi đầu_tư	2
+nhà_nước khuyến_khích	2
+dự_án sử_dụng vốn ngân_sách	2
+nước_ngoài thực_hiện dự_án đầu_tư	2
+giao kế_hoạch	2
+dự_án xây_dựng	2
+sở kế_hoạch	2
+hình_thức đối_tác	2
+sở_hữu nhà_nước	1
+vốn góp vốn	1
+quốc_hội quyết_định	1
+thu đầu_tư cân_đối	1
+nhà_nước giao	1
+báo_cáo chính_phủ	1
+đối_với doanh_nghiệp	1
+nước_ngoài hoạt_động	1
+vốn ngân_sách nhà_nước	1
+trung_hạn giai_đoạn	1
+chương_trình phát_triển	1
+vốn trái_phiếu	1
+giai_đoạn phát_triển	1
+lập danh_mục	1
+công trung_hạn hằng	1
+vốn đầu_tư nước_ngoài nước_ngoài	1
+chủ doanh_nghiệp	1
+lĩnh_vực năng_lượng	1
+chương_trình quốc_gia phát_triển	1
+sử_dụng vốn oda	1
+quan_trọng đối_với	1
+hỗ_trợ phát_triển	1
+vốn thu	1
+thực_hiện thủ_tục	1
+oda vốn vay ưu_đãi tài_trợ	1
+đầu_tư ban_đầu	1
+nhà_nước hỗ_trợ	1
+xây_dựng phát_triển	1
+vốn vay nước_ngoài	1
+trái_phiếu chính_phủ	1
+quyết_định thành_lập	1
+thẩm_tra dự_án	1
+doanh_nghiệp vốn	1
+lựa_chọn chủ	1
+xây_dựng dự_án	1
+ưu_đãi đối_với	1
+địa_bàn ưu_đãi	1
+thẩm_định báo_cáo	1
+xây_dựng chương_trình	1
+oda vốn vay ưu_đãi	1
+thực_hiện phương_án	1
+phương_án huy_động	1
+giai_đoạn chuẩn_bị	1
+ưu_đãi công	1
+thẩm_định hồ_sơ	1
+thẩm_quyền nước_ngoài	1
+điều_chỉnh cơ_cấu	1
+vốn oda vốn vay ưu_đãi	1
+kinh_doanh hằng	1
+chuẩn_bị chương_trình	1
+ưu_đãi đối_với hoạt_động	1

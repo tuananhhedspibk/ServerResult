@@ -1,0 +1,31 @@
+bảo_vệ quyền_lợi tiêu_dùng	123
+bảo_vệ quyền_lợi	88
+bảo_vệ quyền_lợi đương_sự	57
+bảo_vệ tính_mạng	42
+quyền_lợi chính_đáng	29
+quyền_lợi tiêu_dùng	26
+bảo_vệ trật_tự	25
+bảo_hộ tính_mạng	22
+tôn_trọng quy_tắc	19
+nhiệm_vụ bảo_vệ	18
+công_tác bảo_vệ	16
+lợi íích	16
+tôn_trọng pháp_luật	15
+hướng lợi	15
+tôn_trọng bảo_vệ	14
+góp_phần bảo_vệ	12
+pháp_luật bảo_vệ	11
+bảo_hộ quyền_lợi	8
+tôn_trọng độc_lập	6
+bảo_vệ an_toàn	5
+pháp_luật bảo_vệ quyền_lợi tiêu_dùng	5
+kiên_quyết bảo_vệ	5
+nhà_nước bảo_hộ quyền_lợi	4
+bảo_vệ chế_độ	4
+bảo_vệ lợi	3
+độc_lập quyền_lợi	2
+nhà_nước bảo_hộ	2
+pháp_luật bảo_vệ quyền_lợi	2
+quản_lý nhà_nước bảo_vệ quyền_lợi tiêu_dùng	1
+quản_lý nhà_nước bảo_vệ	1
+quyền_lợi đương_sự	1

@@ -1,0 +1,93 @@
+hoạt_động xuất_bản	140
+phát_hành xuất_bản_phẩm	92
+cơ_sở in	85
+in xuất_bản_phẩm	68
+đối_với xuất_bản_phẩm	55
+nhập_khẩu xuất_bản_phẩm	43
+xuất_bản_phẩm điện_tử	40
+liên_kết xuất_bản	38
+in gia_công	35
+nộp lưu_chiểu	35
+giấy_phép hoạt_động in xuất_bản_phẩm	34
+phát_hành xuất_bản_phẩm điện_tử	34
+cấm lưu_hành	32
+giấy_phép thành_lập xuất_bản	32
+nội_dung xuất_bản_phẩm	32
+giấy_phép xuất_bản	31
+chất ma_tuý trở tổng_số_lượng chất tương_đương số_lượng chất ma_tuý	30
+xuất_bản_phẩm nhập_khẩu	25
+khu bảo_tồn loài - sinh cảnh	24
+xuất_bản_phẩm lưu_chiểu	23
+tổng_biên_tập xuất_bản	23
+số_lượng in	22
+thẩm_định nội_dung	22
+hội_chợ xuất_bản_phẩm	22
+nhập_khẩu xuất_bản_phẩm kinh_doanh	21
+cơ_sở nhập_khẩu xuất_bản_phẩm	21
+kế_hoạch xuất_bản	20
+tài_liệu xuất_bản	20
+đình_chỉ phát_hành	19
+phép xuất_bản	19
+thành_lập xuất_bản	18
+lĩnh_vực xuất_bản	18
+cơ_sở phát_hành	17
+đối_tác liên_kết	16
+xuất_bản tác_phẩm	16
+giấy_phép xuất_bản tài_liệu kinh_doanh	16
+xuất_bản giấy_phép xuất_bản	15
+hoạt_động in xuất_bản_phẩm	14
+đăng_ký xuất_bản	14
+xuất_bản phát_hành	12
+tổ_chức phát_hành	12
+cơ_sở phát_hành xuất_bản_phẩm	12
+giấy_phép nhập_khẩu	11
+in phát_hành	11
+giấy_phép hoạt_động kinh_doanh nhập_khẩu xuất_bản_phẩm	10
+thu_hồi giấy_phép	9
+hoạt_động kinh_doanh nhập_khẩu xuất_bản_phẩm	9
+xuất_bản tài_liệu kinh_doanh	9
+đổi giấy_phép	9
+xuất_bản_phẩm in	8
+xuất_bản_phẩm in gia_công	8
+đối_với cơ_sở	7
+tổ_chức hoạt_động	7
+đối_với lĩnh_vực	6
+đối_với tác_phẩm	6
+tổ_chức thẩm_định	6
+đăng_ký hoạt_động	6
+giấy_phép hoạt_động	6
+ghi giấy_phép	5
+nội_dung ghi giấy_phép	5
+nội_dung giấy_phép	5
+xuất_bản tài_liệu	5
+thu_hồi giấy_phép hoạt_động	5
+tài_liệu phục_vụ	4
+giấy_phép thành_lập	4
+xuất_bản_phẩm kinh_doanh	4
+tám 1945	3
+hoạt_động lĩnh_vực	3
+thành_lập cơ_sở	3
+liên_kết tổ_chức	3
+nội_dung ghi	3
+mạng_lưới cơ_sở	2
+xuất_bản phát_hành xuất_bản_phẩm	2
+cấm kinh_doanh	2
+giấy_phép xuất_bản tài_liệu	2
+sách giáo_khoa	2
+kinh_doanh nhập_khẩu xuất_bản_phẩm	2
+đình_chỉ hoạt_động	2
+phép nhập_khẩu	1
+phục_vụ hoạt_động	1
+nội_dung đăng_ký hoạt_động	1
+mục_đích kinh_doanh	1
+tương_đương trở	1
+giấy_phép kinh_doanh	1
+phép thành_lập	1
+danh_mục tài_liệu	1
+cách_mạng tám	1
+thành_lập hoạt_động	1
+nội_dung thẩm_định	1
+danh_mục cấm	1
+tài_liệu đọc	1
+phép hoạt_động	1
+phép lưu_hành	1

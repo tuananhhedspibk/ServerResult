@@ -1,0 +1,78 @@
+thực_hiện thủ_tục	149
+tạm dừng	121
+trình_tự :	118
+thủ_tục hành_chính	104
+thủ_tục rút_gọn	99
+tạm ngừng	86
+hình_thức :	82
+tiến_hành thủ_tục	74
+hành_vi nghiêm_cấm	69
+thực_hiện thông_qua	61
+thông_qua hình_thức	55
+thực_hiện hành_vi :	54
+hoàn_thành thủ_tục	46
+nguyên_tắc :	43
+trình_tự xem_xét	40
+thực_hiện hình_thức	40
+trình_tự thủ_tục	39
+thủ_tục giải_quyết	32
+nghiêm_cấm hành_vi :	31
+thực_hiện nguyên_tắc	29
+thực_hiện hành_vi	28
+tạm ngừng phiên_tòa	28
+tiến_hành trình_tự :	27
+thực_hiện nguyên_tắc :	26
+tiến_hành công_việc	26
+thực_hiện hình_thức :	26
+tiếp_tục thực_hiện	25
+tạm thủ_tục hành_chính	25
+thực_hiện cam_kết	25
+thông_qua hoạt_động :	24
+thông_qua hoạt_động	23
+giải_quyết thủ_tục rút_gọn	22
+thực_hiện hoạt_động	21
+giải_quyết thủ_tục	19
+nghiêm_cấm hành_vi	18
+thủ_tục công_nhận	17
+hành_vi cản_trở	16
+áp_dụng thủ_tục rút_gọn	15
+thông_qua 20	15
+tiến_hành hoạt_động	14
+thủ_tục đăng_ký	14
+thực_hiện công_việc	12
+tạm ngừng hoạt_động	11
+giải_quyết công_việc	11
+trực_tiếp thông_qua	10
+hoàn_thành khóa	10
+nguyên_tắc hoạt_động	9
+thông_qua 21	9
+tiếp_tục hoạt_động	8
+thủ_tục bắt_đầu	7
+cản_trở thực_hiện	7
+tiến_hành trình_tự	6
+tiếp_tục tiến_hành	6
+cản_trở hoạt_động	5
+địa_điểm thủ_tục	5
+thông_qua 26 11	5
+nghiêm_cấm hành_vi cản_trở	5
+thông_qua 26	5
+áp_dụng hình_thức	4
+ngừng phiên_tòa	4
+thông_qua 14	4
+hành_vi pháp_lý_do	4
+hành_vi hành_chính	3
+địa_điểm tiến_hành	3
+nguyên_tắc áp_dụng	3
+yêu_cầu tạm dừng	3
+hành_vi cản_trở hoạt_động	3
+tiếp_tục giải_quyết	3
+11 2003	2
+áp_dụng thủ_tục	2
+ngừng hoạt_động	2
+bắt_đầu hoạt_động	2
+đăng_ký hoạt_động	2
+bắt_đầu tiến_hành	2
+26 11	2
+dừng thủ_tục	1
+thủ_tục giải_quyết yêu_cầu	1
+xem_xét giải_quyết	1

@@ -1,0 +1,80 @@
+1 -	3429
+2 -	3176
+3 -	1937
+4 -	1099
+5 -	613
+6 -	386
+7 -	236
+2 - trường_hợp	193
+lao_động - thương_binh xã_hội	178
+8 -	159
+9 -	120
+3 - trường_hợp	113
+10 -	86
+1 - trường_hợp	81
+2 3	64
+11 -	63
+đơn_vị hành_chính - kinh_tế đặc_biệt	57
+2 - thời_hạn	38
+12 -	36
+2 - phạm_tội trường_hợp	36
+lao_động – thương_binh xã_hội	32
+3 - phạm_tội trường_hợp	31
+đoạn 1	30
+2 - phạm tộithuộc trường_hợp	28
+1 - hợp_đồng	27
+3 4	27
+2 - phạm tộigây	27
+1 - thương_nhân	26
+13 -	25
+bộ_trưởng lao_động - thương_binh xã_hội	25
+1 - toà_án	25
+danh_mục lao_động - thương_binh xã_hội	24
+4 - phạm_tội trường_hợp	23
+2 - trườnghợp	23
+14 -	20
+đoạn 2	20
+2 - phạm	19
+mác -	18
+sở lao_động - thương_binh xã_hội	15
+2 - phạm tộitrong trường_hợp	14
+3 - phạm tộitrong trường_hợp	14
+bộ_trưởng lao_động - thương_binh xã_hội quy_định chi_tiết	13
+4 5	13
+lao_động - thương_binh xã_hội quy_định	12
+5 6	12
+thương_binh xã_hội	9
+trường_hợp đặc_biệt	9
+lao_động - thương_binh xã_hội chủ_trì	9
+phối_hợp lao_động - thương_binh xã_hội	7
+2 - phạm tộigây hậu_quả nghiêm_trọng	7
+6 7	7
+2 - phạm tộitrong	7
+3 - phạm tộitrong trường_hợp đặc_biệt nghiêm_trọng	7
+bộ_trưởng lao_động - thương_binh xã_hội quy_định	6
+5 7	6
+- thương_binh xã_hội	5
+3 - phạm tộitrong	4
+3 - phạm_tội	4
+3 - phạm	4
+phạm tộitrong	3
+- xã_hội	3
+1 - chính_phủ thống_nhất	2
+- đoạn	2
+2 - phạm_tội	2
+- nghiêm_cấm	2
+quy_định 5	2
+thương_binh xã_hội quy_định	2
+lao_động - thương_binh	2
+- trường_hợp	2
+phối_hợp lao_động - thương_binh	1
+lao_động -	1
+lao_động - thương_binh xã_hội quy_định chi_tiết	1
+đơn_vị hành_chính	1
+trường_hợp quy_định	1
+3 - phạm tộitrong trường_hợp đặc_biệt	1
+đặc_biệt nghiêm_trọng	1
+6 1990	1
+kinh_tế -	1
+8 9	1
+phạm tộithuộc	1

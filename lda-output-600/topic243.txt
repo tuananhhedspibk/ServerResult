@@ -1,0 +1,32 @@
+thẻ căn_cước công_dân	123
+cơ_sở dữ_liệu quốc_gia dân_cư cơ_sở dữ_liệu căn_cước công_dân	48
+căn_cước công_dân	46
+gọi nhập_ngũ	41
+cơ_sở dữ_liệu quốc_gia dân_cư	40
+cơ_sở dữ_liệu	36
+cơ_sở dữ_liệu quốc_gia	34
+gọi công_dân nhập_ngũ	33
+lệnh gọi nhập_ngũ	20
+tạm hoãn gọi nhập_ngũ	20
+công_dân gọi nhập_ngũ	19
+miễn gọi nhập_ngũ	18
+cơ_sở dữ_liệu căn_cước công_dân	16
+cơ_quan quản_lý căn_cước công_dân	15
+lệnh gọi	14
+công_dân độ	13
+hoãn gọi nhập_ngũ	11
+quản_lý căn_cước công_dân	11
+thông_tin cơ_sở dữ_liệu quốc_gia dân_cư	10
+quản_lý cơ_sở dữ_liệu	9
+thẻ căn_cước	6
+cơ_sở dữ_liệu quốc_gia dân_cư cơ_sở dữ_liệu	6
+gọi công_dân	4
+kiểm_tra căn_cước	4
+tạm hoãn	3
+công_dân nhập_ngũ	3
+dữ_liệu quốc_gia dân_cư	3
+quốc_gia dân_cư	2
+hoãn gọi	2
+đổi thẻ	1
+dữ_liệu căn_cước công_dân	1
+dân_cư cơ_sở	1

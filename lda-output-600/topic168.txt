@@ -1,0 +1,17 @@
+địa_chỉ quốc_tịch	54
+quốc_tịch nước_ngoài	36
+trẻ_em sinh	26
+thay_đổi quốc_tịch	24
+nước_ngoài quốc_tịch	21
+yếu_tố nước_ngoài	17
+cư_trú nước_ngoài	9
+giấy_tờ chứng_minh	7
+nhập quốc_tịch	7
+công_dân nước_ngoài	7
+tước quốc_tịch	6
+quyết_định nhập	5
+quốc_tịch quốc_tịch	4
+địa_chỉ cư_trú	3
+hộ_chiếu giấy_tờ	1
+trở_lại quốc_tịch	1
+quyết_định nhập quốc_tịch	1

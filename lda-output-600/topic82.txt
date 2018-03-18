@@ -1,0 +1,45 @@
+cộng_đồng dân_cư	262
+khu công_nghiệp	199
+khu công_nghệ_cao	145
+khu kinh_tế	142
+khu dân_cư	142
+khu bảo_tồn	134
+khu chế_xuất	134
+tập_trung kinh_tế	64
+cụm công_nghiệp	51
+dân_cư nông_thôn	45
+phân khu	43
+khu chức_năng đặc_thù	42
+khu bảo_tồn thiên_nhiên	32
+thành_lập khu bảo_tồn	31
+quản_lý khu bảo_tồn	29
+khu dân_cư tập_trung	29
+khu chức_năng	29
+khu dân_cư nông_thôn	28
+khu dự_trữ thiên_nhiên	22
+khu bảo_tồn biển	22
+cộng_đồng dân_cư thôn	20
+bảo_tồn thiên_nhiên	20
+phân khu phục_hồi_sinh_thái	17
+đất khu dân_cư	13
+ý_kiến cộng_đồng dân_cư	13
+dân_cư tập_trung	13
+khu du_lịch	12
+xây_dựng khu chức_năng đặc_thù	9
+cộng_đồng dân_cư sử_dụng	8
+lợi_ích cộng_đồng	6
+đất khu công_nghiệp	6
+quản_lý khu	5
+chức_năng đặc_thù	5
+chức_năng quản_lý	5
+khu dự_trữ	4
+xây_dựng khu	3
+thành_lập khu	3
+ý_kiến cộng_đồng	2
+dự_án thành_lập khu bảo_tồn	2
+phân khu xây_dựng	2
+quản_lý dự_án	2
+bảo_tồn biển	1
+đất khu	1
+khu bảo_tồn loài	1
+xây_dựng dân_cư nông_thôn	1

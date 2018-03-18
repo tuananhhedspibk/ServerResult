@@ -1,0 +1,144 @@
+sở tư_pháp	324
+trưng_cầu giám_định	265
+kết_luận giám_định	238
+giám_định tư_pháp	200
+yêu_cầu giám_định	166
+bộ_trưởng tư_pháp	147
+yêu_cầu dẫn_độ	115
+tương_trợ tư_pháp	110
+phiếu lý_lịch tư_pháp	102
+thực_hiện giám_định	89
+lý_lịch tư_pháp	83
+kết_quả giám_định	70
+xóa_án tích	70
+giám_định_viên tư_pháp	70
+ủy_thác tư_pháp	67
+đối_tượng giám_định	59
+quyết_định trưng_cầu giám_định	57
+hoạt_động tư_pháp	55
+tổ_chức giám_định	46
+thực_hiện ủy_thác tư_pháp	44
+trung_tâm_lý_lịch tư_pháp quốc_gia	43
+sơ_yếu lý_lịch	43
+tổ_chức giám_định tư_pháp	42
+tiến_hành giám_định	41
+gửi tư_pháp	40
+giám_đốc sở tư_pháp	38
+hoạt_động giám_định tư_pháp	38
+chi_phí giám_định	37
+thông_tin lý_lịch tư_pháp	36
+từ_chối dẫn_độ	34
+kiểm_sát hoạt_động tư_pháp	34
+pháp_y tâm_thần	33
+giám_định viên	32
+hỗ_trợ tư_pháp	31
+giám_định pháp_y	31
+hội_đồng giám_định y_khoa	28
+đề_nghị bộ_trưởng tư_pháp	28
+tổ_chức giám_định tư_pháp công_lập	28
+uỷ_thác tư_pháp	28
+tóm_tắt lý_lịch	27
+giám_định tư_pháp vụ_việc	27
+yêu_cầu chuyển_giao	27
+cá_nhân thực_hiện giám_định	27
+giám_định bổ_sung	25
+thực_hiện giám_định tư_pháp	24
+tương_trợ tư_pháp hình_sự	24
+giám_định giám_định	23
+lĩnh_vực giám_định	22
+ủy_thác tư_pháp hình_sự	22
+cơ_sở dữ_liệu lý_lịch tư_pháp	21
+từ_chối giám_định	20
+thực_hiện tương_trợ tư_pháp	19
+giám_định bổ_sung giám_định	19
+chi_phí ủy_thác tư_pháp nước_ngoài	19
+yêu_cầu phiếu lý_lịch tư_pháp	19
+xem_xét yêu_cầu dẫn_độ	18
+văn_phòng giám_định tư_pháp	18
+bổ_nhiệm giám_định_viên tư_pháp	18
+thay_đổi giám_định	17
+quyết_định dẫn_độ	17
+căn_cứ kết_luận giám_định	17
+yêu_cầu trưng_cầu giám_định	17
+thực_hiện ủy_thác	17
+yêu_cầu tương_trợ tư_pháp	17
+kết_luận giám_định tư_pháp	17
+ủy_thác tư_pháp nước_ngoài	17
+kết_luận hội_đồng giám_định y_khoa	15
+thông_tin lý_lịch tư_pháp án tích	15
+giám_định pháp_y tâm_thần	15
+ủy_thác tư_pháp tòa_án nước_ngoài	15
+liên_quan đối_tượng giám_định	13
+hoạt_động tương_trợ tư_pháp	13
+văn_bản yêu_cầu	12
+hội_đồng giám_định	11
+giám_định y_khoa	11
+sở tư_pháp trách_nhiệm	11
+lý_lịch tư_pháp án tích	10
+hồ_sơ ủy_thác tư_pháp	9
+giám_định kết_luận	9
+quyết_định trưng_cầu	8
+sở tư_pháp tòa_án quyết_định	8
+cung_cấp thông_tin lý_lịch tư_pháp	7
+tổ_chức trưng_cầu	7
+văn_bản ủy_thác tư_pháp	7
+chi_phí ủy_thác tư_pháp	7
+từ_chối thực_hiện	6
+tòa_án trưng_cầu giám_định	6
+kết_quả giám_định chứng_minh yêu_cầu	6
+tư_pháp trách_nhiệm	6
+yêu_cầu thay_đổi	5
+án tích	5
+kết_luận hội_đồng	5
+trách_nhiệm thực_hiện yêu_cầu	5
+xâm_phạm hoạt_động tư_pháp	5
+kết_quả thực_hiện	5
+sở tư_pháp tòa_án	4
+giám_đốc sở	4
+gửi văn_bản	4
+căn_cứ yêu_cầu	4
+thực_hiện hoạt_động	4
+bộ_trưởng tư_pháp thống_nhất	4
+thay_đổi bổ_sung	3
+hội_đồng giám_đốc	3
+chi_phí xem_xét	3
+kết_quả xét_nghiệm	3
+tư_pháp hình_sự	3
+kết_quả thực_hiện kết_luận	3
+hồ_sơ yêu_cầu	3
+quyết_định ủy_thác	3
+ủy_thác tư_pháp tòa_án	2
+kết_luận hội_đồng giám_định	2
+kết_quả giám_định chứng_minh	2
+liên_quan hoạt_động	2
+chi_phí mẫu	2
+mẫu thống_nhất	2
+đề_nghị thay_đổi	2
+đề_nghị bổ_nhiệm	2
+đề_nghị giám_đốc	2
+căn_cứ quyết_định	1
+yêu_cầu tòa_án	1
+tư_pháp tòa_án quyết_định	1
+xem_xét quyết_định	1
+thống_nhất bộ_trưởng	1
+đề_nghị hội_đồng	1
+chi_trả chi_phí	1
+đề_nghị trưng_cầu	1
+thực_hiện văn_bản	1
+tư_pháp tòa_án	1
+dữ_liệu lý_lịch tư_pháp	1
+tổ_chức thực_hiện	1
+kết_quả hoạt_động	1
+giám_định chứng_minh yêu_cầu	1
+gửi văn_bản yêu_cầu	1
+căn_cứ kết_luận	1
+gửi quyết_định	1
+hoạt_động văn_phòng	1
+quyết_định bổ_nhiệm	1
+tổ_chức hoạt_động	1
+đề_nghị bộ_trưởng	1
+tòa_án tiến_hành	1
+hỗ_trợ hoạt_động	1
+căn_cứ kết_quả	1
+thực_hiện kết_luận	1
+trách_nhiệm hình_sự	1

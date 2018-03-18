@@ -1,0 +1,78 @@
+phục_vụ tại_ngũ	142
+sĩ_quan dự_bị	122
+hạ_sĩ_quan binh_sĩ	100
+cấp_bậc quân_hàm	99
+cấp_bậc hàm	78
+sĩ_quan tại_ngũ	69
+đối_với sĩ_quan	56
+bổ_nhiệm chức_vụ	41
+phục_vụ quân_đội	38
+thăng cấp_bậc hàm	37
+ngạch dự_bị	35
+đối_với chức_vụ	31
+thời_hạn phục_vụ tại_ngũ	31
+thời_hạn xét thăng quân_hàm	29
+binh_sĩ dự_bị	27
+phục_vụ chế_độ	26
+hạn phục_vụ	26
+thăng quân_hàm	25
+thời_hạn xét thăng cấp_bậc hàm	25
+phục_vụ ngạch dự_bị	24
+thăng cấp_bậc	24
+dự_bị hạng	24
+xét phong	22
+đối_với hạ_sĩ_quan	21
+hàm_cấp tướng	21
+dự_bị hạng hai	20
+cấp_bậc quân_hàm sĩ_quan	18
+hạ_sĩ_quan nghiệp_vụ	18
+sĩ_quan quân_đội tại_ngũ có_thể tuyển_chọn bổ_nhiệm	18
+xét thăng	16
+sĩ_quan quân_đội tại_ngũ	16
+thời_gian phục_vụ tại_ngũ	16
+hạng hai	16
+binh_sĩ tại_ngũ	15
+chức_vụ tương_đương	15
+quân_đội nhu_cầu	14
+xét thăng quân_hàm	13
+cấp_bậc hàm sĩ_quan	13
+giải ngạch	13
+binh_sĩ xuất_ngũ	12
+quân_hàm sĩ_quan	12
+thăng cấp_bậc quân_hàm	11
+xét thăng cấp_bậc hàm	11
+chức_vụ sĩ_quan	10
+phong cấp_bậc	9
+tư_lệnh quân_khu	9
+giáng cấp_bậc	9
+xét tuyển	8
+chức_vụ đảm_nhiệm	8
+xét thăng cấp_bậc	7
+sĩ_quan quân_đội tại_ngũ có_thể tuyển_chọn bổ_nhiệm kiểm_sát_viên	7
+phục_vụ sĩ_quan	6
+đảm_nhiệm chức_vụ	6
+kéo_dài thời_hạn	5
+quân_đội tại_ngũ	5
+thời_hạn xét	5
+thời_hạn phục_vụ	5
+quân_đội tại_ngũ có_thể tuyển_chọn	5
+ngạch sĩ_quan	4
+mệnh_lệnh chỉ_huy	4
+có_thể kéo_dài	4
+phục_vụ tại_ngũ hạ_sĩ_quan	4
+tại_ngũ có_thể	4
+hạ_sĩ_quan chuyên_môn	4
+có_thể tuyển_chọn	4
+tước cấp_bậc	4
+sĩ_quan quân_đội tại_ngũ có_thể	2
+hậu_phương quân_đội	2
+sĩ_quan quân_đội	2
+thời_gian phục_vụ	2
+binh_sĩ phục_vụ	1
+đối_với nữ	1
+sĩ_quan cấp_bậc	1
+kéo_dài thời_gian	1
+thời_hạn xét thăng	1
+tuyển_chọn bổ_nhiệm	1
+quân_hàm đối_với	1
+trung_đoàn tương_đương	1

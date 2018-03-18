@@ -1,0 +1,30 @@
+giấy_tờ có_giá	96
+phong_tỏa tài_khoản	50
+tài_khoản ngân_hàng	43
+đối_với khách_hàng	36
+thực_hiện giao_dịch	33
+tài_khoản ngoại_tệ	30
+giấy_tờ chứng_minh	28
+giấy_tờ giao_dịch	25
+lừa_dối khách_hàng	21
+thương_phiếu giấy_tờ có_giá	21
+phong_toả tài_khoản	20
+ngoại_tệ tiền_mặt	20
+khách_hàng vay	20
+sở giao_dịch	18
+một_số tất_cả	17
+đối_với tất_cả	16
+giấy_tờ xác_nhận	15
+đối_với một_số	13
+ngoại_tệ nước_ngoài	11
+giấy_tờ có_giá ngắn_hạn	10
+xuất_trình giấy_tờ	10
+thông_tin khách_hàng	9
+ngân_hàng nước_ngoài	2
+hệ_thống tài_khoản	2
+sàn giao_dịch	2
+đối_với pháp_nhân	2
+xuất_trình thẻ	2
+thực_hiện một_số	2
+liên ngân_hàng	1
+thực_hiện ủy_thác	1

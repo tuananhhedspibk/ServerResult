@@ -1,0 +1,316 @@
+tổ bầu_cử	287
+hội_đồng bầu_cử	251
+ban bầu_cử	233
+đơn_vị bầu_cử	199
+bầu_cử đại_biểu hội_đồng nhân_dân	176
+bầu_cử đại_biểu quốc_hội	174
+khu_vực bỏ_phiếu	143
+danh_sách cử_tri	143
+ứng_cử đại_biểu quốc_hội	120
+bầu_cử bổ_sung	116
+phiếu bầu	113
+hội_đồng bầu_cử quốc_gia	100
+ủy ban bầu_cử	98
+giới_thiệu ứng_cử	97
+ứng_cử đại_biểu hội_đồng nhân_dân	94
+đại_biểu quốc_hội	85
+đại_biểu hội_đồng nhân_dân	76
+uỷ_ban bầu_cử	71
+phiếu hợp_lệ	68
+hội_nghị hiệp_thương	65
+danh_sách ứng_cử	65
+kiểm phiếu	65
+ghi danh_sách cử_tri	63
+hòm phiếu	61
+tổng_số cử_tri	59
+bỏ_phiếu kín	58
+giới_thiệu ứng_cử đại_biểu quốc_hội	53
+bầu đại_biểu	52
+cơ_quan lập danh_sách cử_tri	51
+kết_quả bầu_cử	50
+phòng bỏ_phiếu	49
+hội_nghị cử_tri	46
+phiếu tín_nhiệm	43
+cử_tri đi bầu	40
+bầu_cử đầu_tiên	40
+giới_thiệu ứng_cử đại_biểu hội_đồng nhân_dân	38
+tổ_chức phụ_trách bầu_cử	38
+- phiếu hợp_lệ	38
+ban lãnh_đạo	37
+tổ đại_biểu hội_đồng nhân_dân	37
+biên_bản hội_nghị hiệp_thương	36
+vận_động bầu_cử	35
+chỉ_huy đơn_vị	34
+ủy ban bầu_cử tỉnh	34
+bỏ_phiếu tín_nhiệm	33
+ý_kiến cử_tri	32
+bầu_cử bổ_sung đại_biểu hội_đồng nhân_dân	31
+chứng_kiến kiểm phiếu	31
+công_tác bầu_cử	30
+ban bầu_cử bổ_sung	30
+biên_bản tổng_kết bầu_cử	29
+thành_lập khu_vực bỏ_phiếu	29
+thẻ cử_tri	29
+trở bầu	28
+tổ_chức hội_nghị	28
+danh_sách trúng_cử	27
+lập danh_sách cử_tri	26
+phiếu bầu ứng_cử	26
+lập danh_sách	26
+nghìn bầu đại_biểu	26
+biên_bản tổng_kết	25
+ban bầu_cử giải_quyết	25
+mươi lăm đại_biểu	25
+phiếu bầu_cử	24
+tổ phó	24
+mươi đại_biểu	24
+gửi hội_đồng bầu_cử	24
+cử_tri địa_phương	24
+cử_tri tham_gia bỏ_phiếu	23
+bỏ_phiếu tín_nhiệm đối_với chức_vụ quốc_hội bầu phê_chuẩn	23
+tiểu_sử tóm_tắt	23
+kết_quả hội_nghị	23
+biên_bản kiểm phiếu	22
+biên_bản kết_quả kiểm phiếu	22
+tham_gia bỏ_phiếu	22
+bố_trí phòng bỏ_phiếu	21
+hội_nghị đại_biểu	21
+thành_lập khu_vực bỏ_phiếu tổ bầu_cử	21
+cử_tri bầu	21
+xứng_đáng tín_nhiệm nhân_dân	21
+ghi thành_phần	21
+- tổng_số cử_tri	20
+số_lượng tham_dự	20
+tiếp_xúc cử_tri	20
+danh_sách đề_cử chức_vụ	20
+báo_cáo hội_đồng bầu_cử	20
+hội_nghị cử_tri công_tác	20
+niêm_yết danh_sách cử_tri	19
+công_bố danh_sách	19
+bỏ_phiếu tín_nhiệm đối_với chức_vụ hội_đồng nhân_dân bầu	19
+ban bầu_cử tổ bầu_cử	19
+hội_nghị hiệp_thương hai	19
+lập khu_vực bỏ_phiếu	19
+bầu_cử đơn_vị bầu_cử	19
+đơn_vị bầu_cử ban bầu_cử	19
+xác_định kết_quả bầu_cử	19
+danh_sách ứng_cử đại_biểu quốc_hội	18
+khiếu_kiện danh_sách cử_tri	18
+nội_quy phòng bỏ_phiếu	18
+đơn_vị bầu_cử đại_biểu hội_đồng nhân_dân	18
+bầu đại_biểu quốc_hội	18
+nghìn trở bầu	17
+phát phiếu	17
+hồ_sơ ứng_cử	17
+gửi hội_đồng bầu_cử quốc_gia	17
+danh_sách chính_thức	17
+cơ_sở ý_kiến hội_nghị cử_tri	17
+kiểm phiếu tổ bầu_cử	17
+số_lượng đại_biểu bầu	16
+tổ bầu_cử bổ_sung	16
+bầu bãi_miễn	16
+cử_tri bỏ_phiếu	16
+mươi bầu_cử	16
+bầu tổ_trưởng	15
+danh_sách đơn_vị	15
+lập danh_sách ứng_cử	15
+bầu_cử đại_biểu	15
+bầu_cử quốc_gia	15
+bầu_cử đại_biểu quốc_hội đại_biểu hội_đồng nhân_dân tỉnh	15
+tuyên_truyền vận_động bầu_cử	14
+cử_tri ghi danh_sách	14
+bầu_cử đại_biểu quốc_hội đại_biểu hội_đồng nhân_dân	14
+số_lượng đại_biểu hội_đồng nhân_dân	14
+phân_bổ số_lượng	14
+danh_sách ứng_cử đại_biểu hội_đồng nhân_dân	14
+biên_bản hội_nghị cử_tri	14
+công_bố kết_quả bầu_cử	14
+tổng_kết bầu_cử	14
+ấn_định đơn_vị bầu_cử	14
+kiểm_tra biên_bản xác_định kết_quả bầu_cử	13
+hội_đồng nhân_dân	13
+nửa tổng_số	13
+bỏ_phiếu bãi_miễn	13
+đại_biểu quốc_hội bầu	13
+ban bầu_cử ghi biên_bản	13
+tín_nhiệm đối_với	13
+biên_bản xác_định kết_quả bầu_cử	13
+kết_quả kiểm phiếu	13
+mươi lăm bầu_cử	12
+kết_quả bầu_cử đơn_vị bầu_cử	12
+tổ đại_biểu	12
+cử_tri đi	12
+tổng_số đại_biểu hội_đồng nhân_dân	12
+danh_sách cử_tri bầu_cử	12
+chậm mươi bầu_cử	12
+đại_biểu hội_đồng nhân_dân bầu	12
+đại_biểu bầu	12
+- phiếu	11
+viết phiếu	11
+cử_tri bầu_cử	11
+địa_phương giới_thiệu ứng_cử	11
+bầu_cử đại_biểu hội_đồng nhân_dân tỉnh	10
+lập biên_bản	10
+tổ bầu_cử có_thể	10
+bỏ_phiếu bỏ_phiếu	10
+tổng_số đại_biểu quốc_hội	10
+phiếu phát	10
+niêm_yết danh_sách	9
+biên_bản hội_nghị	9
+đơn_vị bầu_cử bầu	9
+khu_vực bỏ_phiếu tổ bầu_cử	9
+cử_tri đơn_vị	9
+biên_bản xác_định kết_quả	9
+đơn_vị ứng_cử	9
+ghi danh_sách	9
+quốc_hội bỏ_phiếu tín_nhiệm đối_với chức_vụ quốc_hội bầu phê_chuẩn	8
+bầu_cử ban bầu_cử	8
+cử_tri ứng_cử	8
+cử_tri đơn_vị bầu_cử	8
+thành_lập đơn_vị bầu_cử	8
+hội_đồng nhân_dân cử_tri	8
+danh_sách cử_tri niêm_yết	8
+cử_tri cử_tri	8
+bầu_cử đại_biểu hội_đồng nhân_dân huyện	8
+đơn_vị bầu_cử đại_biểu	8
+bầu đơn_vị	7
+bầu_cử ứng_cử	7
+hội_nghị tiếp_xúc cử_tri	7
+ứng_cử đại_biểu	7
+hội_đồng nhân_dân bầu	7
+tập_thể cử_tri	7
+bầu_cử tổ bầu_cử	7
+thực_hiện công_tác bầu_cử	7
+bầu bổ_sung	7
+ban chỉ_huy	7
+ứng_cử đơn_vị bầu_cử	7
+số_lượng đại_biểu	7
+mươi nghìn	7
+trình quốc_hội bỏ_phiếu tín_nhiệm	7
+bầu_cử bổ_sung đại_biểu	6
+công_bố kết_quả	6
+bỏ_phiếu tổ bầu_cử	6
+bầu đơn_vị bầu_cử	6
+bầu_cử khu_vực bỏ_phiếu	6
+kết_quả bầu_cử đại_biểu quốc_hội	6
+mời tham_dự hội_nghị	6
+lăm bầu_cử	6
+báo_cáo cử_tri	5
+biên_bản ghi	5
+nhân_dân bầu	5
+uỷ_ban nhân_dân	5
+đi bầu	5
+xác_định kết_quả	5
+ban hội_đồng nhân_dân	5
+ứng_cử ứng_cử	5
+công_tác bầu_cử đại_biểu quốc_hội	5
+khuyết đại_biểu	5
+đại_biểu quốc_hội đại_biểu hội_đồng nhân_dân tỉnh	5
+tuyên_truyền vận_động	5
+chức_vụ quốc_hội bầu phê_chuẩn	5
+ban bầu_cử đại_biểu hội_đồng nhân_dân	4
+thành_lập khu_vực bỏ_phiếu tổ	4
+tổng_số đại_biểu	4
+hai tổng_số đại_biểu	4
+kiểm_tra biên_bản xác_định kết_quả	4
+bắt_đầu bỏ_phiếu	4
+tín_nhiệm đối_với chức_vụ	4
+kiểm_tra biên_bản	4
+danh_sách chính_thức ứng_cử	4
+quốc_hội bỏ_phiếu tín_nhiệm	4
+đại_biểu quốc_hội đơn_vị bầu_cử	4
+nửa tổng_số đại_biểu hội_đồng nhân_dân	4
+bầu_cử đại_biểu hội_đồng	4
+tỷ_lệ tổng_số	4
+hai tổng_số	4
+tổ_trưởng tổ	4
+báo_cáo kết_quả	4
+đại_biểu hội_đồng	4
+nghìn trở	4
+đại_biểu quốc_hội đại_biểu hội_đồng nhân_dân	4
+vận_động nhân_dân	3
+thành_lập ban	3
+ủy ban	3
+trúng_cử đại_biểu	3
+cơ_quan lập danh_sách	3
+tổ_chức phụ_trách	3
+tổng_kết công_tác	3
+hiệp_thương hai	3
+cử_tri tham_gia	3
+gửi hội_đồng	3
+tổ_chức ý_kiến nhận_xét hội_nghị cử_tri	3
+bãi_miễn đại_biểu	3
+danh_sách thành_viên	3
+đại_biểu hội_đồng nhân_dân tỉnh	3
+chỉ_huy trực_tiếp	3
+báo_cáo ban	2
+hai trăm	2
+bỏ_phiếu tín_nhiệm đối_với	2
+ban lãnh_đạo tổ_chức	2
+quốc_hội bầu	2
+thành_viên tổ	2
+trình quốc_hội	2
+thích_đáng hội_đồng nhân_dân	2
+hai nghìn	2
+kết_quả bầu_cử đơn_vị	2
+gửi ban	2
+nghìn bầu	2
+đại_biểu hội_đồng nhân_dân đơn_vị	2
+danh_sách ứng_cử đại_biểu	2
+tham_dự hội_nghị	2
+bỏ_phiếu tín_nhiệm đối_với chức_vụ hội_đồng nhân_dân	2
+số_lượng thành_viên	2
+ghi ý_kiến	2
+giới_thiệu ứng_cử đại_biểu	2
+ban thư_ký	2
+công_bố chậm	2
+bầu ứng_cử	2
+bầu mươi đại_biểu	2
+báo_cáo tổng_kết	2
+phiếu ý_kiến	2
+hai mươi bầu_cử	2
+bỏ_phiếu tín_nhiệm đối_với chức_vụ	2
+bắt_đầu kết_thúc	2
+ghi biên_bản	1
+hội_đồng nhân_dân đơn_vị	1
+tổ_chức ý_kiến	1
+tham_gia phòng	1
+danh_sách đề_cử	1
+ban bầu_cử ghi	1
+đơn_vị bầu_cử đại_biểu hội_đồng	1
+phụ_trách bầu_cử	1
+bổ_sung đại_biểu hội_đồng nhân_dân	1
+bỏ_phiếu tổ	1
+tham_gia hội_nghị	1
+tổ đại_biểu hội_đồng	1
+cử_tri đại_diện	1
+thành_lập cơ_sở	1
+chức_vụ hội_đồng nhân_dân bầu	1
+hội_đồng nhân_dân tỉnh	1
+bố_trí phòng	1
+đề_cử hội_đồng	1
+uỷ_ban nhân_dân trực_tiếp	1
+bổ_sung đại_biểu	1
+báo_cáo hội_đồng	1
+ý_kiến cơ_quan	1
+- kiểm_tra	1
+tổng_số thành_viên hội_đồng	1
+phó_chủ_tịch quốc_hội	1
+tín_nhiệm đối_với chức_vụ quốc_hội bầu phê_chuẩn	1
+lãnh_đạo cơ_quan	1
+địa_phương giới_thiệu	1
+đại_diện tập_thể	1
+lập báo_cáo	1
+quốc_hội đại_biểu hội_đồng nhân_dân	1
+ban hội_đồng	1
+tài_liệu hồ_sơ	1
+bỏ_phiếu tín_nhiệm đối_với chức_vụ quốc_hội	1
+biên_bản xác_định	1
+bầu hai mươi	1
+quốc_hội phê_chuẩn	1
+chính_thức ứng_cử	1
+quốc_hội thành_lập	1
+thành_lập khu_vực	1
+chuẩn_bị hồ_sơ	1
+hai mươi	1
+bầu_cử bầu	1

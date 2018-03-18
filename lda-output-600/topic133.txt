@@ -1,0 +1,267 @@
+uỷ_ban nhân_dân	1084
+hội_đồng nhân_dân	972
+ủy_ban nhân_dân tỉnh	792
+uỷ_ban nhân_dân tỉnh	714
+ủy_ban nhân_dân	659
+đại_biểu hội_đồng nhân_dân	553
+ủy_ban nhân_dân xã	491
+uỷ_ban nhân_dân xã	448
+thường_trực hội_đồng nhân_dân	440
+hội_đồng nhân_dân tỉnh	259
+ủy_ban nhân_dân huyện	246
+chủ_tịch ủy_ban nhân_dân tỉnh	224
+chủ_tịch uỷ_ban nhân_dân tỉnh	213
+chủ_tịch uỷ_ban nhân_dân	201
+ban hội_đồng nhân_dân	194
+uỷ_ban nhân_dân huyện	192
+nghị_quyết hội_đồng nhân_dân	159
+chủ_tịch ủy_ban nhân_dân	156
+chủ_tịch uỷ_ban nhân_dân huyện	139
+chủ_tịch hội_đồng nhân_dân	134
+chủ_tịch uỷ_ban nhân_dân xã	118
+trình hội_đồng nhân_dân	106
+chủ_tịch ủy_ban nhân_dân huyện	103
+chủ_tịch ủy_ban nhân_dân xã	97
+hội_đồng nhân_dân huyện	94
+văn_bản quy_phạm pháp_luật hội_đồng nhân_dân	92
+hội_đồng nhân_dân xã	80
+toà_án nhân_dân	73
+thành_viên uỷ_ban nhân_dân	69
+hội_đồng nhân_dân quyết_định	65
+phó_chủ_tịch hội_đồng nhân_dân	65
+nghị_quyết hội_đồng nhân_dân tỉnh	60
+uỷ_ban nhân_dân trực_tiếp	60
+hội_đồng nhân_dân uỷ_ban nhân_dân	59
+hội_đồng nhân_dân bầu	57
+vận_động nhân_dân	55
+động_viên nhân_dân	55
+ủy_ban nhân_dân phạm_vi nhiệm_vụ	53
+uỷ_ban nhân_dân phạm_vi nhiệm_vụ	52
+báo_cáo hội_đồng nhân_dân	51
+nhân_dân địa_phương	51
+uỷ_ban nhân_dân trách_nhiệm	48
+ủy_ban nhân_dân xã cư_trú	47
+chủ_tịch hội_đồng	47
+thường_trực hội_đồng nhân_dân tỉnh	46
+đại_biểu hội_đồng nhân_dân tỉnh	44
+cơ_quan chuyên_môn uỷ_ban nhân_dân	43
+đời_sống nhân_dân	40
+ủy_ban nhân_dân tỉnh quyết_định	36
+bãi_nhiệm đại_biểu hội_đồng nhân_dân	35
+uỷ_ban nhân_dân xã cư_trú	34
+ủy_ban nhân_dân tỉnh trách_nhiệm	33
+trình hội_đồng nhân_dân quyết_định	32
+phó_chủ_tịch ủy_ban nhân_dân	32
+quyền_hạn hội_đồng nhân_dân	31
+chủ_tịch uỷ_ban	30
+nhân_dân tỉnh	29
+chủ_tịch uỷ_ban nhân_dân tỉnh quyết_định	29
+trình hội_đồng nhân_dân thông_qua	28
+nhân_dân ta	28
+chủ_tịch ủy_ban nhân_dân tỉnh quyết_định	28
+hội_đồng nhân_dân xem_xét	27
+gửi thường_trực hội_đồng nhân_dân	27
+ban thường_trực uỷ_ban	26
+nhiệm_vụ đại_biểu	26
+báo_cáo ủy_ban nhân_dân	25
+hội_đồng nhân_dân trực_tiếp	25
+đại_biểu hội_đồng nhân_dân hoạt_động chuyên_trách	25
+cơ_quan chuyên_môn ủy_ban nhân_dân tỉnh	25
+giúp uỷ_ban nhân_dân	24
+hội_đồng nhân_dân thông_qua	24
+thường_trực hội_đồng	24
+nhân_dân bàn quyết_định	23
+hội_đồng nhân_dân uỷ_ban_hành_chính	23
+địa_phương_trình hội_đồng nhân_dân	22
+trách_nhiệm báo_cáo công_tác hội_đồng nhân_dân	22
+hướng_dẫn hoạt_động hội_đồng nhân_dân	22
+thống_nhất thường_trực hội_đồng nhân_dân	22
+hội_đồng nhân_dân thảo_luận	22
+thành_viên ban hội_đồng nhân_dân	22
+chứng_thực uỷ_ban nhân_dân xã	21
+nhiệm_kỳ hội_đồng nhân_dân	21
+trường_hợp hội_đồng nhân_dân thiệt_hại nghiêm_trọng lợi_ích nhân_dân	20
+báo_cáo ủy_ban nhân_dân tỉnh	20
+trình hội_đồng	20
+đại_biểu hội_đồng nhân_dân bầu	20
+tổ_chức hội_đồng nhân_dân uỷ_ban nhân_dân	19
+đại_biểu hội_đồng nhân_dân huyện	19
+chỉ_thị uỷ_ban nhân_dân	19
+đại_biểu hội_đồng nhân_dân xã	19
+nghị_quyết hội_đồng nhân_dân trực_tiếp	19
+thực_hiện nghị_quyết hội_đồng nhân_dân	19
+nguyện_vọng nhân_dân	18
+héc ta	18
+phối_hợp uỷ_ban nhân_dân	18
+đại_biểu hội_đồng nhân_dân biểu_quyết tán_thành	18
+ủy_ban nhân_dân tỉnh xem_xét	18
+thường_trực ủy_ban	18
+thủ_trưởng cơ_quan ngang chánh_án tòa_án nhân_dân tối_cao	17
+ủy_viên ủy_ban nhân_dân	17
+ủy_ban nhân_dân tỉnh trách_nhiệm :	17
+giải_tán hội_đồng nhân_dân tỉnh	17
+trình ủy_ban nhân_dân	16
+trụ_sở ủy_ban nhân_dân xã	16
+trình chủ_tịch	15
+trưởng ban hội_đồng nhân_dân	15
+chỉ_định uỷ_ban nhân_dân lâm_thời	15
+chủ_tịch ủy_ban	15
+cơ_quan chuyên_môn ủy_ban nhân_dân	15
+báo_cáo thường_trực hội_đồng nhân_dân	15
+nhân_dân bàn	15
+vận_động nhân_dân thực_hiện	14
+trình hội_đồng nhân_dân tỉnh	14
+nghị_quyết hội_đồng nhân_dân xã	14
+trình ủy_ban nhân_dân tỉnh	14
+giải_tán hội_đồng nhân_dân trực_tiếp	14
+ban hội_đồng nhân_dân đại_biểu hội_đồng nhân_dân	14
+nghị_quyết hội_đồng nhân_dân huyện	13
+tỉnh quyết_định	13
+tầng_lớp nhân_dân	13
+luật tổ_chức hội_đồng nhân_dân uỷ_ban nhân_dân	13
+ban thường_trực	12
+giúp ủy_ban nhân_dân	12
+hội_đồng nhân_dân thường_trực hội_đồng nhân_dân	12
+tổng_số đại_biểu hội_đồng nhân_dân	12
+chỉ_đạo uỷ_ban nhân_dân	11
+hội_đồng nhân_dân thị_xã	11
+quyền_hạn hội_đồng	11
+thủ_trưởng cơ_quan chuyên_môn uỷ_ban nhân_dân	11
+giải_tán hội_đồng nhân_dân	10
+phối_hợp ủy_ban	10
+hội_đồng nhân_dân phường	10
+ủy_ban nhân_dân tỉnh phê_duyệt	10
+hội_đồng nhân_dân đại_biểu hội_đồng nhân_dân	10
+uỷ_ban nhân_dân tỉnh trách_nhiệm	10
+chuyên_môn ủy_ban nhân_dân tỉnh	9
+trình uỷ_ban nhân_dân	9
+báo_cáo công_tác hội_đồng nhân_dân	9
+hội_đồng nhân_dân thông_qua trình	8
+nghị_quyết hội_đồng	8
+hội_đồng nhân_dân khoá	8
+chủ_tịch phó_chủ_tịch	8
+ủy_ban nhân_dân tỉnh trình	8
+chất_vấn đại_biểu hội_đồng nhân_dân	8
+hội_đồng nhân_dân phê_chuẩn	8
+phối_hợp uỷ_ban	8
+nhân_dân phạm_vi	7
+phối_hợp ủy_ban nhân_dân	7
+ủy_ban nhân_dân thành_phố	7
+ủy_ban lâm_thời	7
+tòa_án nhân_dân	7
+công_tác hội_đồng nhân_dân	7
+dự_thảo nghị_quyết hội_đồng nhân_dân	7
+hội_đồng nhân_dân thành_phố	7
+quyền_hạn chủ_tịch	7
+xã trách_nhiệm	7
+chuyên_môn ủy_ban nhân_dân	7
+sức_khoẻ nhân_dân	7
+trụ_sở ủy_ban nhân_dân	7
+bãi_nhiệm chủ_tịch	7
+hội_đồng nhân_dân khóa	6
+nhân_dân bầu	6
+báo_cáo uỷ_ban	6
+uỷ_ban nhân_dân tỉnh quyết_định	6
+toà_án nhân_dân tỉnh	6
+uỷ_ban nhân_dân lâm_thời	6
+ban thường_trực ủy_ban	6
+nhân_dân xã	6
+huyện trách_nhiệm	5
+ủy_ban nhân_dân xã trách_nhiệm	5
+trực_tiếp chỉ_định	5
+hội_đồng nhân_dân thiệt_hại nghiêm_trọng	5
+khoá hội_đồng nhân_dân	5
+ủy_ban nhân_dân huyện trách_nhiệm	5
+toà_án nhân_dân huyện	5
+tỉnh trách_nhiệm	4
+trực_tiếp thông_qua	4
+nhân_dân thông_qua	4
+thành_viên hội_đồng	4
+ban hội_đồng	4
+thường_trực uỷ_ban	4
+cơ_quan chuyên_môn	4
+nhân_dân trực_tiếp	3
+tòa_án nhân_dân tỉnh	3
+bầu chủ_tịch	3
+tỉnh trình	3
+hội_đồng nhân_dân biểu_quyết	3
+báo_cáo hội_đồng	3
+quyền_hạn ủy_ban	3
+giúp hội_đồng	3
+ủy_viên thường_trực	3
+báo_cáo ban	2
+báo_cáo ủy_ban	2
+thành_viên ủy_ban	2
+phối_hợp công_tác	2
+trách_nhiệm báo_cáo công_tác hội_đồng	2
+trách_nhiệm giúp	2
+phạm_vi nhiệm_vụ	2
+giúp ủy_ban	2
+giúp chủ_tịch	2
+báo_cáo văn_bản	2
+chỉ_đạo ủy_ban	2
+thiệt_hại nghiêm_trọng	2
+phó_chủ_tịch ủy_viên	2
+thành_viên ban	2
+phó_chủ_tịch hội_đồng	2
+nhân_dân đại_biểu hội_đồng nhân_dân	2
+nhân_dân tỉnh quyết_định	2
+báo_cáo chủ_tịch	2
+trực_tiếp xem_xét	2
+gửi chủ_tịch uỷ_ban nhân_dân	2
+báo_cáo chủ_tịch ủy_ban nhân_dân	2
+quyết_định hội_đồng	2
+thành_viên uỷ_ban	2
+bàn quyết_định	2
+nhân_dân thực_hiện nhiệm_vụ	2
+hội_đồng nhân_dân đại_biểu	2
+sai_trái hội_đồng nhân_dân	2
+phó_chủ_tịch thành_viên	2
+hội_đồng nhân_dân thiệt_hại nghiêm_trọng lợi_ích nhân_dân	2
+bầu đại_biểu	2
+nhân_dân huyện	2
+tỉnh trình hội_đồng	1
+hội_đồng nhân_dân ban	1
+hướng_dẫn hoạt_động hội_đồng	1
+thành_viên ban hội_đồng	1
+nhân_dân trình hội_đồng nhân_dân	1
+dự_thảo nghị_quyết	1
+thực_hiện nhiệm_vụ	1
+nghị_quyết ủy_ban	1
+thông_qua trình	1
+thông_qua quyết_định	1
+trách_nhiệm báo_cáo	1
+trực_tiếp phê_chuẩn	1
+trách_nhiệm báo_cáo công_tác	1
+chủ_tịch hội_đồng thành_viên	1
+xã cư_trú	1
+phạm_vi hoạt_động	1
+nhân_dân huyện quyết_định	1
+nhiệm_kỳ hội_đồng	1
+tỉnh trách_nhiệm :	1
+thành_phố tỉnh	1
+tổng_số thành_viên uỷ_ban	1
+chỉ_đạo uỷ_ban	1
+giải_tán hội_đồng	1
+hội_đồng nhân_dân uỷ_ban	1
+tỉnh xem_xét	1
+giúp uỷ_ban	1
+trách_nhiệm xem_xét	1
+đại_biểu hội_đồng nhân_dân biểu_quyết	1
+biểu_quyết thông_qua	1
+chứng_thực uỷ_ban nhân_dân	1
+nhân_dân tỉnh phê_duyệt	1
+ủy_ban nhân_dân phạm_vi	1
+trách_nhiệm gửi báo_cáo	1
+huyện thực_hiện nhiệm_vụ	1
+báo_cáo cơ_quan	1
+thông_qua nghị_quyết	1
+đại_biểu hội_đồng	1
+trách_nhiệm thực_hiện	1
+đại_biểu bầu	1
+quyền_hạn trách_nhiệm	1
+quy_phạm pháp_luật hội_đồng nhân_dân	1
+luật tổ_chức hội_đồng nhân_dân uỷ_ban nhân_dân văn_bản	1
+trường_hợp hội_đồng nhân_dân thiệt_hại nghiêm_trọng lợi_ích	1
+gửi uỷ_ban	1
+gửi báo_cáo	1

@@ -1,0 +1,65 @@
+thay_đổi nội_dung	99
+thời_gian hợp_lý	66
+thời_gian địa_điểm	59
+nội_dung cơ_bản	55
+thời_gian làm_việc	54
+thời_gian nhất_định	43
+thời_gian gia_hạn	41
+ít_nhất hai	39
+thời_gian thử_thách	38
+nguyên_tắc cơ_bản	36
+toàn_bộ nội_dung	34
+một_cách trung_thực	32
+nội_dung chủ_yếu	32
+tương_ứng thời_gian	31
+rút ngắn	31
+rút ngắn thời_gian thử_thách	29
+ghi thời_gian	28
+vi rút	27
+ghi nội_dung	27
+suốt thời_gian	26
+tỷ_lệ phần_trăm	25
+thời_gian ít_nhất	25
+thời_gian tối_đa	23
+thay_đổi mục_tiêu	22
+thời_gian chờ	22
+nội_dung giấy_phép	19
+một_cách hợp_lý	19
+thời_gian hai	19
+có_thể thay_đổi cơ_bản nội_dung	19
+nội_dung ghi	18
+ghi lệnh	17
+thời_gian thử	17
+sai_lệch nội_dung	17
+thời_gian chậm	17
+tỷ_lệ tương_ứng	17
+toàn_bộ thời_gian	16
+kéo_dài thời_gian	15
+có_thể gia_hạn	15
+thay_đổi hiện_trạng	15
+tương_ứng tỷ_lệ	15
+thay_đổi hiện_trạng tài_sản	13
+bàn_giao toàn_bộ	12
+nội_dung ghi giấy_phép	12
+thay_đổi cơ_bản nội_dung	12
+ghi giấy_phép	12
+thời_gian điều_trị	10
+thay_đổi cơ_bản	10
+ít_nhất 02	9
+hủy toàn_bộ	8
+thời_gian nghỉ	8
+rút ngắn thời_gian	6
+tương_ứng giá_trị	6
+tóm_tắt nội_dung	6
+ghi chữ	6
+rút toàn_bộ	6
+ngắn thời_gian	5
+có_thể kéo_dài	5
+thời_gian tập_trung	3
+tỷ_lệ giá_trị	3
+02 làm_việc	3
+có_thể thay_đổi	2
+toàn_bộ tài_sản	1
+hiện_trạng tài_sản	1
+nguyên_tắc tập_trung	1
+thời_gian công_tác	1

@@ -1,0 +1,79 @@
+tái_phạm nguy_hiểm	225
+sử_dụng vũ_khí	116
+chất phóng_xạ	87
+sử_dụng trái_phép	83
+tiền chất	79
+phương_tiện vận_chuyển	72
+chất độc_hại	69
+chất ma_túy	69
+vũ_khí quân_dụng	67
+chất kích_thích	55
+yếu_tố nguy_hiểm	44
+mua_bán trái_phép chiếm_đoạt	42
+sử_dụng phương_tiện	41
+yếu_tố hại	39
+chất ma_tuý	36
+nguy_hiểm xã_hội	35
+trang_bị phương_tiện	34
+vũ_khí thể_thao	30
+mua_bán trái_phép	27
+vận_chuyển trái_phép	26
+sử_dụng trái_phép chất ma_túy	26
+trái_phép chất ma_túy	26
+hạn sử_dụng	24
+nguy_hiểm cao_độ	24
+trang_bị vũ_khí	23
+sử_dụng vũ_lực	22
+văn_hoá_phẩm độc_hại	21
+khai_thác trái_phép	21
+thực_hiện_hành_vi nguy_hiểm xã_hội	19
+hành_vi nguy_hiểm xã_hội	19
+mức_độ nguy_hiểm	18
+trái_phép chất ma_tú	18
+trang_bị vũ_khí thể_thao	17
+chất ma_tuý )	17
+sử_dụng con_dấu	13
+sử_dụng trái_phép chất ma_tuý	13
+thủ_đoạn nguy_hiểm	13
+chất ô_nhiễm	13
+phép sử_dụng	13
+giấy_phép sử_dụng	12
+chất cháy	12
+giấy_phép vận_chuyển	11
+sử_dụng trái_phép chất	10
+dịch_bệnh nguy_hiểm	9
+chạy trốn	9
+vận_chuyển trái_phép hàng_hoá	9
+sử_dụng thuốc	9
+mức_độ nguy_hiểm xã_hội	9
+chứa_chất phóng_xạ	9
+phương_tiện sử_dụng	8
+giấy_phép sử_dụng vũ_khí	8
+quỹ trái_phép	8
+chiếm_đoạt tiền	8
+trái_phép chất ma_tuý )	7
+vũ_khí thô_sơ	7
+đường vận_chuyển	7
+mức_độ nguy_hiểm xã_hội hành_vi	6
+trái_phép chất ma_tuý	6
+chất ma_tú	5
+sử_dụng trái_phép tài_sản	5
+sử_dụng giấy_phép	4
+sử_dụng nguyên_liệu	4
+hành_vi nguy_hiểm	4
+nguy_hiểm cháy	4
+trái_phép chất	3
+sử_dụng quỹ	3
+nghiện ma_tuý	3
+mua_bán trái_phép chiếm_đoạt vũ_khí	2
+ma_tuý )	2
+phép khai_thác	2
+thuốc nghiện	1
+quỹ xã_hội	1
+mua_bán tài_sản	1
+chiếm_đoạt vũ_khí quân_dụng	1
+trái_phép chiếm_đoạt vũ_khí	1
+tiền sử_dụng	1
+vận_chuyển hàng_hoá	1
+vũ_lực thủ_đoạn	1
+mua_bán hàng_hoá	1

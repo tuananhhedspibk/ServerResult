@@ -1,0 +1,57 @@
+tỷ_lệ tổn_thương cơ_thể 61 % trở	155
+bộ_phận cơ_thể	116
+tỷ_lệ tổn_thương cơ_thể 31 % 60 %	115
+tổn_thương cơ_thể 61 % 121 %	46
+% trở	40
+bộ_phận cơ_thể hiến	39
+02 trở tổng_tỷ_lệ tổn_thương cơ_thể 31 % 60 %	38
+201 % trở	37
+tỷ_lệ thương_tật	36
+122 % 200 %	36
+suy_giảm khả_năng lao_động 81 % trở	34
+tỷ_lệ phần_trăm ( % ) phân_chia	30
+ghép bộ_phận cơ_thể	30
+suy_giảm khả_năng lao_động 61 % trở	28
+bộ_phận cơ_thể chết	27
+bộ_phận cơ_thể sống	27
+46 % trở	21
+31 % 60 %	20
+tỷ_lệ phần_trăm ( % )	20
+11 % 45 %	19
+11 %	15
+khoản thu_phân_chia tỷ_lệ phần_trăm ( % )	15
+tỷ_lệ tổn_thương cơ_thể 31	12
+61 % trở	9
+200 %	9
+tỷ_lệ phần_trăm	8
+% 60 %	8
+31 % trở	7
+61 % trở chết	7
+tổn_hại sức_khỏe 01 tỷ_lệ tổn_thương cơ_thể 61 % trở	6
+60 %	4
+suy_giảm khả_năng lao_động	4
+81 % trở	4
+45 %	4
+31 %	4
+tổn_hại sức_khỏe 02 tỷ_lệ tổn_thương cơ_thể 61 % trở	3
+01 tỷ_lệ tổn_thương cơ_thể 61 % trở	3
+suy_giảm khả_năng	3
+suy_giảm khả_năng lao_động 61 %	3
+tỷ_lệ tổn_thương cơ_thể	3
+thu_phân_chia tỷ_lệ phần_trăm ( % )	2
+tổn_thương cơ_thể 61 % trở	2
+% 121 %	2
+tổn_hại sức_khỏe 03 tỷ_lệ tổn_thương cơ_thể 61 % trở	2
+61 %	2
+02 trở tỷ_lệ	1
+khả_năng lao_động	1
+suy_giảm khả_năng lao_động 81 %	1
+121 %	1
+cơ_thể hiến	1
+( )	1
+tổn_thương cơ_thể	1
+81 %	1
+tỷ_lệ tổn_thương cơ_thể 31 %	1
+tỷ_lệ phần_trăm ( % ) ngân_sách	1
+02 trở	1
+phần_trăm ( % )	1

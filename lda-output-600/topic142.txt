@@ -1,0 +1,7 @@
+nâng chất_lượng dân_số	21
+công_tác dân_số	21
+quy_mô dân_số	11
+nâng chất_lượng	5
+bảo lĩnh	5
+chất_lượng dân_số	5
+hỗ_trợ sinh_sản	2

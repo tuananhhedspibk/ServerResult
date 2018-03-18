@@ -1,0 +1,75 @@
+thành_phố trực_thuộc trung_ương	1399
+thành_phố tỉnh	514
+đơn_vị sự_nghiệp công_lập	211
+đơn_vị hành_chính	184
+thành_phố trực_thuộc trung_ương tương_đương	136
+đơn_vị sự_nghiệp	132
+đơn_vị trực_thuộc	104
+địa_giới hành_chính	98
+thành_phố trực_thuộc trung_ương ( gọi	63
+thành_phố trực_thuộc trung_ương đơn_vị hành_chính tương_đương	57
+thành_phố thành_phố trực_thuộc trung_ương	51
+thành_phố trực_thuộc trung_ương biển	51
+thành_phố trực_thuộc trung_ương ( gọi tỉn	48
+thành_phố tỉnh tương_đương	45
+ủy_ban nhân_dân thành_phố hà_nội	43
+thành_phố tỉnh ( gọi	39
+điều_chỉnh địa_giới đơn_vị hành_chính	38
+phạm_vi địa_giới hành_chính	34
+đơn_vị hành_chính tương_đương	33
+thành_phố hà_nội	33
+đơn_vị hữu_quan	32
+thành_phố trực_thuộc trung_ương phạm_vi nhiệm_vụ	28
+trực_thuộc trung_ương	27
+thành_phố trực_thuộc trung_ương ( gọi uỷ_ban nhân_dân tỉn	26
+thành_phố trực_thuộc trung_ương ( gọi ủy_ban nhân_dân tỉn	25
+thành_phố tỉnh ( gọi huyệ	24
+điều_chỉnh địa_giới hành_chính	24
+đơn_vị hành_chính sự_nghiệp	22
+thành_phố trực_thuộc	21
+địa_giới đơn_vị hành_chính	21
+điều_chỉnh địa_giới đơn_vị hành_chính tỉnh	19
+đơn_vị hành_chính tỉnh	18
+thành_phố trực_thuộc trung_ương thường_trú	18
+cải_cách hành_chính	18
+( gọi	18
+hồ_sơ địa_giới hành_chính	17
+hội_đồng nhân_dân đơn_vị hành_chính	16
+sự_nghiệp công_lập tự_chủ tài_chính	16
+điều_chỉnh địa_giới	15
+tỉnh tương_đương	14
+nhân_dân đơn_vị hành_chính	13
+thành đơn_vị hành_chính	12
+đơn_vị phụ_thuộc	11
+thành_phố trực_thuộc trung_ương phạm_vi	11
+địa_giới đơn_vị hành_chính tỉnh	8
+hành_chính tỉnh	8
+ủy_ban nhân_dân thành_phố	8
+phạm_vi điều_chỉnh	5
+hành_chính sự_nghiệp	5
+trực_thuộc trung_ương tương_đương	4
+thành_phố trực_thuộc trung_ương (	4
+thành_phố trực_thuộc trung_ương thực_hiện quản_lý	3
+hành_chính tương_đương	2
+tài_chính đơn_vị	2
+uỷ_ban nhân_dân tỉn	2
+trung_ương phạm_vi nhiệm_vụ	2
+thành_phố trực_thuộc trung_ương đơn_vị hành_chính	2
+hội_đồng nhân_dân thành_phố	2
+nhân_dân thành_phố hà_nội	2
+sự_nghiệp công_lập	2
+thành đơn_vị	2
+thành_phố tỉnh (	2
+phạm_vi địa_giới	1
+thành_phố thành_phố trực_thuộc	1
+trung_ương ( gọi	1
+trung_ương đơn_vị hành_chính	1
+trực_thuộc trung_ương phạm_vi nhiệm_vụ	1
+tỉnh ( gọi	1
+trung_ương đơn_vị	1
+( gọi uỷ_ban nhân_dân	1
+tỉnh ( gọi huyệ	1
+uỷ_ban nhân_dân	1
+hội_đồng nhân_dân	1
+nhân_dân huyệ	1
+trực_thuộc trung_ương ( gọi	1

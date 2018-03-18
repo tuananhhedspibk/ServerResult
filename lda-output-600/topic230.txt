@@ -1,0 +1,58 @@
+đơn_vị kế_toán	269
+sổ kế_toán	156
+chứng kế_toán	134
+kỳ kế_toán	95
+tài_liệu kế_toán	76
+ghi sổ kế_toán	66
+chế_độ kế_toán	54
+kiểm_tra kế_toán	52
+kinh_doanh dịch_vụ kế_toán	51
+số_liệu kế_toán	44
+nghiệp_vụ kinh_tế	40
+đơn_vị sự_nghiệp	37
+sổ_sách kế_toán	35
+dịch_vụ kế_toán	35
+tài_khoản kế_toán	30
+công_việc kế_toán	27
+doanh_nghiệp kinh_doanh dịch_vụ kế_toán	26
+kế_toán_viên hành_nghề	23
+khóa sổ kế_toán	22
+chuẩn_mực kế_toán	21
+chuẩn_mực đạo_đức nghề_nghiệp kế_toán	21
+báo_cáo tài_chính đơn_vị kế_toán	20
+tài_chính phát_sinh	20
+đoàn kiểm_tra	19
+ghi sổ	18
+hạch_toán kế_toán	17
+thực_hiện chế_độ kế_toán	17
+tài_chính đơn_vị kế_toán	16
+nghề_nghiệp kế_toán	15
+hộ kinh_doanh	14
+kế_toán đơn_vị kế_toán	9
+sổ kế_toán ghi	9
+hành_nghề dịch_vụ kế_toán	9
+đơn_vị tiền_tệ	8
+đạo_đức nghề_nghiệp	8
+đơn_vị phụ_thuộc	7
+sổ kế_toán công_ty	6
+kế_toán đơn_vị	6
+khóa sổ	6
+thực_hiện công_việc	6
+chứng_chỉ hành_nghề	5
+báo_cáo tài_chính	4
+đơn_vị đo_lường	4
+thuê tài_chính	3
+đơn_vị đo	3
+công_việc kinh_doanh	3
+trật_tự_quản_lý kinh_tế	2
+lập sổ	2
+bố_trí công_việc	2
+tài_chính đơn_vị	1
+báo_cáo tài_chính hợp_nhất	1
+kế_toán lập báo_cáo	1
+kiểm_tra thực_hiện	1
+ghi báo_cáo tài_chính	1
+chế_độ tài_chính	1
+thuê dịch_vụ	1
+lập báo_cáo tài_chính	1
+chuẩn_mực đạo_đức nghề_nghiệp	1

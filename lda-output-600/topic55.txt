@@ -1,0 +1,165 @@
+quy_hoạch xây_dựng	273
+quy_hoạch đô_thị	218
+lập quy_hoạch	209
+phù_hợp quy_hoạch	157
+điều_chỉnh quy_hoạch	111
+quy_hoạch phát_triển	94
+thực_hiện quy_hoạch	84
+quy_hoạch chi_tiết	81
+phê_duyệt quy_hoạch	70
+phát_triển đô_thị	67
+đồ_án quy_hoạch đô_thị	60
+xây_dựng quy_hoạch	50
+cảnh_quan đô_thị	49
+đồ_án quy_hoạch xây_dựng	46
+phù_hợp chiến_lược	45
+thiết_kế đô_thị	44
+tổ_chức lập quy_hoạch	43
+quy_hoạch chi_tiết xây_dựng	43
+đồ_án quy_hoạch	41
+căn_cứ quy_hoạch	39
+quy_hoạch xây_dựng đô_thị	38
+quy_hoạch tổng_thể	38
+khu_vực nông_thôn	38
+thực_hiện dự_án	35
+quy_hoạch tổng_thể khai_thác	33
+lập dự_án	32
+xây_dựng đô_thị	31
+chi_tiết xây_dựng	30
+tổ_chức thẩm_định	29
+lập quy_hoạch xây_dựng	29
+căn_cứ lập quy_hoạch	29
+quy_hoạch phân khu	28
+tổ_chức không_gian	27
+quy_hoạch phát_triển ngành	27
+tổ_chức tư_vấn	27
+phù_hợp quy_hoạch phát_triển	27
+khu_vực đô_thị	26
+cắm mốc_giới	26
+quy_hoạch phê_duyệt	26
+lập quy_hoạch đô_thị	25
+phê_duyệt dự_án	24
+khu_vực quy_hoạch	24
+kỳ quy_hoạch	23
+phù_hợp quy_hoạch xây_dựng	23
+phê_duyệt phương_án	23
+nội_dung quy_hoạch	23
+nhiệm_vụ đồ_án quy_hoạch xây_dựng	22
+quy_hoạch mạng_lưới	21
+điều_chỉnh tổng_thể	21
+thẩm_định dự_án	20
+kiến_trúc đô_thị	20
+định_hướng phát_triển	20
+quy_hoạch tổng_thể phát_triển	20
+phù_hợp mục_tiêu	19
+phù_hợp quy_mô	19
+quy_hoạch xây_dựng dân_cư nông_thôn	19
+căn_cứ lập	19
+dự_án phê_duyệt	18
+xây_dựng phương_án	18
+quy_mô dân_số	18
+lập bản_đồ	18
+cắm mốc chỉ_giới	18
+quy_hoạch chuyên_ngành	16
+tổ_chức thực_hiện quy_hoạch	16
+quy_hoạch tổng_thể hệ_thống	16
+kỹ_thuật đô_thị	14
+quy_hoạch hệ_thống	14
+dự_án phát_triển	13
+kết_quả thực_hiện quy_hoạch	13
+thẩm_quyền phê_duyệt	13
+quy_hoạch phát_triển viễn_thông quốc_gia	13
+chiến_lược phát_triển	13
+xây_dựng phát_triển	13
+công_bố quy_hoạch	13
+thẩm_quyền phê_duyệt quy_hoạch	13
+xác_định khu_vực	12
+quy_hoạch đô_thị phê_duyệt	12
+tuân_thủ quy_hoạch	12
+quy_hoạch xây_dựng phê_duyệt	12
+giai_đoạn phát_triển	11
+lập quy_hoạch chi_tiết	11
+nhiệm_vụ đồ_án quy_hoạch	11
+xác_định vị_trí	11
+xây_dựng hệ_thống	11
+thẩm_định quy_hoạch	11
+cắm mốc	10
+nội_dung đồ_án quy_hoạch	10
+tổ_chức thực_hiện	9
+tổng_thể phát_triển	9
+mục_tiêu phát_triển	9
+xác_định mục_tiêu	8
+căn_cứ quy_mô	8
+dân_cư đô_thị	8
+phù_hợp nội_dung	8
+tư_vấn lập quy_hoạch	7
+đồ_án quy_hoạch chi_tiết	7
+xây_dựng chiến_lược	7
+quy_hoạch phân khu xây_dựng	7
+thẩm_định thiết_kế	7
+nội_dung thẩm_định	6
+phát_triển nông_thôn	6
+tuyến đường	6
+xây_dựng trình	6
+thực_hiện phương_án	6
+xây_dựng phê_duyệt	6
+phê_duyệt kế_hoạch	6
+phê_duyệt tổ_chức thực_hiện	6
+tổng_thể khai_thác	5
+mốc chỉ_giới	5
+đất đô_thị	5
+tư_vấn lập	5
+xây_dựng khu	5
+lập kế_hoạch	5
+thẩm_định nội_dung	5
+dân_cư nông_thôn	5
+phát_triển hệ_thống	5
+lập phương_án	5
+bản_đồ quy_hoạch	5
+lập trình	5
+nội_dung dự_án	5
+triển_khai thực_hiện	4
+phát_triển ngành	4
+điều_chỉnh dự_án	4
+xây_dựng dự_án	4
+phù_hợp quy_hoạch tổng_thể	4
+giải_pháp thực_hiện	4
+xây_dựng kế_hoạch	4
+đường đô_thị	3
+phê_duyệt thiết_kế	3
+dự_án xây_dựng	3
+đô_thị phê_duyệt	3
+quy_hoạch phân	3
+xây_dựng tổ_chức thực_hiện	3
+thực_hiện chiến_lược	3
+tổ_chức triển_khai	3
+hệ_thống tổ_chức	2
+kế_hoạch xây_dựng	2
+giải_pháp tổ_chức	2
+tổ_chức tư_vấn lập	2
+công_bố kết_quả	2
+thẩm_định kế_hoạch	2
+thực_hiện nhiệm_vụ	2
+phê_duyệt kết_quả	2
+kết_quả thẩm_định	2
+phát_triển mạng_lưới	2
+nội_dung đồ_án	2
+khu dân_cư	2
+tổ_chức triển_khai thực_hiện	1
+chỉ_tiêu kế_hoạch	1
+xác_định căn_cứ	1
+tổ_chức thực_hiện chiến_lược	1
+xây_dựng tổ_chức thực_hiện chiến_lược	1
+quy_hoạch xây_dựng khu	1
+chính_phủ phê_duyệt	1
+tổng_thể hệ_thống	1
+chiến_lược khai_thác	1
+thiết_kế xây_dựng	1
+chính_phủ phê_duyệt quy_hoạch	1
+xây_dựng dân_cư nông_thôn	1
+thiết_kế kiến_trúc	1
+kết_quả thực_hiện	1
+căn_cứ kết_quả	1
+trình dự_án	1
+xây_dựng tổ_chức thực_hiện kế_hoạch	1
+phân khu	1

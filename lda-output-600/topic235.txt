@@ -1,0 +1,38 @@
+phạm_tội 02 trở	77
+18 trở	71
+huyện trở	45
+trở đi	44
+16 18	42
+đối_với 02 trở	39
+chết 02	39
+kilôgam trở	35
+14 16	33
+đối_với nữ	28
+đối_với thành_niên	28
+13 16	27
+không_thể trì_hoãn	26
+chết 03 trở	26
+tương_đương trở	25
+02 trở	25
+18 phạm_tội	25
+đối_với 16	23
+đối_với 18	22
+ha trở	22
+đối_với 18 phạm_tội	21
+tiếp_tục đi học	20
+chết 02 trở	20
+nữ 55	17
+đối_với thân_nhân	14
+15 trở	13
+chết thân_nhân	13
+không_thể tiếp_tục	13
+03 trở	10
+tiếp_tục phạm_tội	9
+đi học	9
+20 trở	7
+24 25	4
+thành_niên phạm_tội	3
+trở tiếp_tục	3
+trở chết	2
+chết 03	1
+đối_với 02	1

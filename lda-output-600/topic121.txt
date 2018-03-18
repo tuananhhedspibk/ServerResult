@@ -1,0 +1,119 @@
+phương_tiện vận_tải	297
+giao_thông vận_tải	244
+giao_thông đường_bộ	142
+kết_cấu_hạ_tầng đường_sắt	114
+phương_tiện giao_thông	112
+kinh_doanh vận_tải	110
+tham_gia giao_thông	95
+điều_khiển phương_tiện	94
+bộ_trưởng giao_thông vận_tải	83
+an_toàn giao_thông	81
+thuê vận_tải	76
+phương_tiện giao_thông đường_sắt	70
+doanh_nghiệp kinh_doanh vận_tải đường_sắt	56
+phương_tiện vận_tải xuất_cảnh	52
+bộ_trưởng giao_thông vận_tải quy_định	52
+giao_thông đường_sắt	47
+tham_gia giao_thông đường_bộ	42
+đường_sắt đô_thị	41
+vận_tải hành_khách	38
+đèn tín_hiệu	38
+đèn trắng	37
+bộ_trưởng giao_thông - vận_tải bưu_điện	37
+chủ phương_tiện	35
+ga đường_sắt	34
+kết_cấu_hạ_tầng giao_thông đường_bộ	33
+điều_khiển giao_thông	32
+xe_máy chuyên_dùng	31
+chủ phương_tiện vận_tải	30
+giao_thông vận_tải đường_sắt	30
+phương_tiện giao_thông vận_tải	29
+vận_tải đường_bộ	29
+khám phương_tiện vận_tải	28
+phương_tiện giao_thông cơ_giới	28
+đường giao_thông	28
+vật chướng_ngại	27
+phương_tiện tham_gia giao_thông đường_bộ	26
+điều_khiển phương_tiện vận_tải	26
+công_trình đường_bộ	26
+trọng_tải toàn_phần	25
+kinh_doanh vận_tải hành_khách	24
+báo_hiệu đường_bộ	23
+an_toàn giao_thông đường_bộ	23
+an_toàn giao_thông vận_tải đường_sắt	23
+hè phố	22
+hành_lang an_toàn đường_bộ	22
+công_trình đường_sắt	22
+cột đèn thắp	21
+bộ_trưởng giao_thông vận_tải quy_định cụ_thể	21
+biểu_đồ chạy_tàu	20
+vận_tải hàng_hoá	19
+điều_khiển phương_tiện giao_thông	19
+vạch kẻ	19
+bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	18
+điều_khiển xe_máy chuyên_dùng	18
+cột đèn treo	18
+phương_tiện giao_thông đường_bộ	17
+chạy_tàu ga	17
+điều_hành giao_thông vận_tải đường_sắt	17
+cước_phí vận_tải	17
+cản_trở giao_thông	17
+vận_tải đa phương_thức	17
+tai_nạn giao_thông	16
+đường_sắt quốc_gia	15
+phối_hợp giao_thông vận_tải	14
+hành_lang an_toàn giao_thông đường_sắt	14
+sử_dụng phương_tiện	13
+sử_dụng phương_tiện giao_thông	13
+quy_tắc giao_thông	13
+giao_thông vận_tải đường_bộ	13
+thắp đèn	12
+giao_thông vận_tải quy_định	12
+vận_tải đường_sắt	11
+đối_với phương_tiện vận_tải	11
+phương_tiện tham_gia giao_thông	10
+đối_với phương_tiện	10
+kinh_doanh vận_tải đường_sắt	10
+phương_tiện tham_gia	10
+an_toàn công_trình	9
+an_toàn giao_thông đường_sắt	9
+công_trình giao_thông	9
+pháp_luật giao_thông đường_bộ	9
+giao_thông đường	8
+kinh_doanh đường_sắt	8
+cảnh_sát giao_thông đường_bộ	7
+kết_cấu_hạ_tầng giao_thông	7
+phát_triển kết_cấu_hạ_tầng	6
+phát tín_hiệu	6
+cảnh_sát giao_thông	6
+hành_lang an_toàn giao_thông	6
+giao_thông vận_tải trách_nhiệm	5
+kinh_doanh kết_cấu_hạ_tầng đường_sắt	5
+quản_lý nhà_nước giao_thông đường_bộ	5
+tín_hiệu phương_tiện	5
+vận_tải hàng_hóa	5
+doanh_nghiệp kinh_doanh	4
+đối_với công_trình	4
+phát_triển kết_cấu_hạ_tầng đường_sắt	4
+quy_định cụ_thể	4
+phương_tiện đi_lại	4
+doanh_nghiệp kinh_doanh vận_tải	4
+cột đèn	3
+kinh_doanh kết_cấu_hạ_tầng	2
+hành_lang an_toàn	2
+bảo_vệ kết_cấu_hạ_tầng	2
+vận_tải chuyên_dùng	2
+công_trình kết_cấu_hạ_tầng	2
+bảo_vệ kết_cấu_hạ_tầng giao_thông	2
+bảo_vệ công_trình giao_thông	2
+giao_thông - vận_tải bưu_điện	1
+điều_hành giao_thông	1
+kinh_doanh hàng_hoá	1
+hành_lang bảo_vệ	1
+chủ hàng_hóa	1
+an_toàn giao_thông vận_tải	1
+vận_tải xuất_cảnh	1
+đường đô_thị	1
+phương_tiện sử_dụng	1
+an_toàn đường_bộ	1
+bảo_vệ an_toàn	1

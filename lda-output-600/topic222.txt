@@ -1,0 +1,65 @@
+định_giá tài_sản	213
+đấu_giá tài_sản	212
+tham_gia đấu_giá	136
+kê_biên tài_sản	135
+tài_sản đấu_giá	135
+tổ_chức đấu_giá tài_sản	113
+đấu_giá viên	111
+tổ_chức đấu_giá	109
+tài_sản kê_biên	83
+trúng đấu_giá	73
+đối_với tài_sản	71
+chi_phí định_giá tài_sản	46
+doanh_nghiệp đấu_giá tài_sản	46
+kết_quả đấu_giá tài_sản	40
+bảo_quản tài_sản	33
+điều_hành đấu_giá	33
+giao tài_sản	33
+đăng_ký tham_gia đấu_giá	31
+yêu_cầu định_giá tài_sản	31
+hội_đồng đấu_giá tài_sản	30
+hội_đồng định_giá	30
+dịch_vụ đấu_giá tài_sản	30
+khôi_phục tình_trạng ban_đầu	29
+mua tài_sản đấu_giá	27
+yêu_cầu định_giá	26
+giá tài_sản	25
+giao bảo_quản tài_sản	23
+đấu_giá thành	22
+kết_quả định_giá	20
+hội_đồng định_giá tài_sản	19
+phương_thức trả_giá	18
+dịch_vụ đấu_giá	17
+tình_trạng tài_sản	17
+giao bảo_quản	16
+tiến_hành kê_biên	15
+tài_sản bảo_đảm	14
+mua_bán tài_sản đấu_giá	13
+hợp_đồng dịch_vụ đấu_giá tài_sản	13
+giao trực_tiếp	12
+tài_sản doanh_nghiệp	10
+mua tài_sản	10
+tẩu_tán tài_sản	10
+hợp_đồng mua_bán tài_sản đấu_giá	9
+kết_luận định_giá	9
+huỷ_hoại tài_sản	8
+khối tài_sản	7
+niêm_yết đấu_giá	6
+đối_với doanh_nghiệp	6
+tài_sản tranh_chấp	6
+kết_quả đấu_giá	6
+chi_phí định_giá	5
+tiến_hành định_giá	5
+chi_phí cưỡng_chế	5
+khôi_phục tình_trạng	4
+tình_trạng ban_đầu	3
+doanh_nghiệp đấu_giá	3
+chi_phí bảo_quản	2
+trực_tiếp tham_gia	2
+xấu đối_với	1
+đấu_giá tổ_chức đấu_giá	1
+chấp_nhận giá	1
+yêu_cầu chuyển_giao	1
+thù_lao chi_phí	1
+buộc khôi_phục tình_trạng	1
+đăng_ký tham_gia	1

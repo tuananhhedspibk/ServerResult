@@ -1,0 +1,111 @@
+quyết_định truy_tố	89
+khởi_tố bị_can	76
+quyết_định khởi_tố bị_can	70
+quyết_định truy_nã	70
+hỏi_cung bị_can	69
+lệnh bắt	53
+đối_với bị_can	48
+bị_cáo tội	39
+quyết_định khởi_tố	39
+đề_nghị truy_tố	39
+đối_với bị_cáo	35
+tội nhẹ	30
+bảo_quản vật_chứng	30
+khai làm_chứng	29
+tuyên bị_cáo tội	29
+bị_cáo phạm_tội	29
+xử_lý vật_chứng	28
+xét_xử bị_cáo	26
+cử bào_chữa	23
+bị_cáo có_thể	23
+bắt khẩn_cấp	22
+truy bắt	22
+bắt trường_hợp khẩn_cấp	22
+bào_chữa bào_chữa	22
+truy_nã bị_can	22
+bào_chữa tham_gia_tố_tụng	21
+tuyên tội	19
+chụp ảnh	19
+tình_tiết ý_nghĩa	18
+quyết_định thay_đổi bổ_sung quyết_định khởi_tố bị_can	18
+giai_đoạn truy_tố	18
+trường_hợp khẩn_cấp	17
+xem_xét dấu_vết	17
+đối_với pháp_nhân	16
+xem_xét tại_chỗ	16
+triệu_tập bị_can	15
+rút toàn_bộ quyết_định truy_tố	15
+truy_tố bị_can	15
+ra_lệnh bắt	15
+bị_cáo trình_bày	15
+đề_nghị thay_đổi	15
+tư_cách bào_chữa	14
+rút quyết_định truy_tố	14
+có_thể quyết_định	14
+quyết_định thay_đổi bổ_sung	14
+khám chỗ	13
+truy_tố xét_xử	13
+trình_bày tình_tiết	13
+triệu_tập xét_hỏi	12
+thay_đổi điều_tra_viên	12
+xem_xét vật_chứng	12
+bị_can điều_tra_viên	11
+thay_đổi bổ_sung quyết_định khởi_tố bị_can	11
+quyết_định thay_đổi	11
+triệu_tập làm_chứng	10
+cử kiểm_sát_viên	10
+xác_định bị_cáo tội	10
+bổ_sung quyết_định khởi_tố bị_can	9
+làm_chứng trình_bày	9
+có_thể triệu_tập	9
+căn_cứ quyết_định	8
+trường_hợp kết_án	8
+trường_hợp kiểm_sát_viên	8
+liên_quan bào_chữa	8
+kiểm_sát_viên dự_khuyết	8
+thay_đổi kiểm_sát_viên	7
+bào_chữa bị_cáo	7
+tình_tiết phát_hiện	7
+quyết_định nhập	6
+tình_tiết quan_trọng	6
+đối_với tất_cả	6
+kiểm_sát_viên trình_bày	6
+đối_với kết_án	5
+làm_chứng làm_chứng	5
+trường_hợp làm_chứng	5
+quyết_định xử_lý	4
+thay_đổi bổ_sung	4
+ý_nghĩa quan_trọng	4
+hình_phạt nhẹ	4
+phát_hiện xử_lý	3
+đồ_vật liên_quan	3
+xét_xử có_thể	3
+hình_phạt bổ_sung	3
+đề_nghị xét	3
+kiểm_sát_viên thay_đổi	3
+trường_hợp xét	3
+bắt phạm_tội	3
+giai_đoạn xét_xử	3
+lệnh bắt trường_hợp	3
+xem_xét trường_hợp kiểm_sát_viên	2
+làm_chứng thành_niên	2
+ý_nghĩa đối_với	2
+đối_với thành_niên	2
+xét quyết_định	2
+đối_với trường_hợp	2
+tình_tiết liên_quan	2
+có_thể ảnh_hưởng	2
+thay_đổi bổ_sung quyết_định khởi_tố	1
+trình_bày bổ_sung	1
+căn_cứ xác_định	1
+tội tội	1
+bắt trường_hợp	1
+dấu_vết thân_thể	1
+đối_với thành_niên phạm_tội	1
+hình_phạt tiền	1
+tình_tiết phức_tạp	1
+kết_án tội	1
+phạm_tội có_thể	1
+đối_với tội	1
+trường_hợp phát_hiện	1
+trường_hợp thay_đổi	1

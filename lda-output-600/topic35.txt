@@ -1,0 +1,39 @@
+ban_hành quy_chế	91
+liền kề	90
+ban_hành danh_mục	71
+quy_chế quản_lý	38
+phân_cấp quản_lý	32
+gắn liền	27
+công_bố danh_mục	23
+y_tế ban_hành	22
+đi kèm	21
+ban_hành kèm	21
+ban_hành quy_chế quản_lý	21
+nguyên_tắc tập_trung dân_chủ	20
+thời_kỳ ổn_định	18
+viện_trợ hoàn	15
+quy_chế quản_lý nội_bộ công_ty	13
+chính_phủ ban_hành quy_chế	11
+thực_hiện quy_chế dân_chủ	10
+ban_hành chính_sách	10
+tập_trung dân_chủ	8
+thực_hiện quy_chế	8
+danh_mục cấm	8
+cử đi	6
+danh_mục đối_tượng	6
+nguyên_tắc tập_trung	4
+chính_phủ ban_hành	4
+quy_chế quản_lý nội_bộ	4
+công_bố dịch_bệnh	3
+nguyên_tắc đi	3
+ổn_định lâu_dài	3
+quy_chế dân_chủ	2
+thực_hiện nguyên_tắc	2
+thực_hiện quy_chế quản_lý	2
+phân_cấp chính_phủ	2
+quản_lý nội_bộ	2
+thực_hiện dân_chủ	2
+nội_bộ công_ty	1
+cấm đi	1
+thực_hiện quản_lý	1
+mua_sắm tập_trung	1

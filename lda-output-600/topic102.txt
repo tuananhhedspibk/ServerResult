@@ -1,0 +1,74 @@
+nuôi_trồng thủy_sản	263
+nuôi_trồng thuỷ_sản	173
+lợi thủy_sản	112
+lợi thuỷ_sản	82
+khai_thác thủy_sản	71
+khai_thác thuỷ_sản	67
+bảo_vệ phát_triển lợi thuỷ_sản	57
+loài thủy_sản	52
+loài danh_mục loài nguy_cấp	48
+sản_phẩm xử_lý môi_trường nuôi_trồng thủy_sản	47
+thức_ăn thủy_sản	44
+loài thuỷ_sản	38
+danh_mục loài nguy_cấp	33
+loài động_vật	28
+mặt_nước biển nuôi_trồng thuỷ_sản	27
+hoạt_động thuỷ_sản	27
+bộ_trưởng thuỷ_sản	25
+danh_mục loài	24
+khu_vực biển giao	23
+hoạt_động thủy_sản	22
+bảo_vệ lợi thủy_sản	22
+giấy_phép khai_thác thủy_sản	21
+danh_mục loài thủy_sản	19
+môi_trường sống	19
+cấm khai_thác	19
+ương dưỡng thủy_sản	19
+khai_thác thủy_sản bất_hợp_pháp	18
+sản_phẩm thủy_sản	17
+khu_vực biển	17
+giao khu_vực biển nuôi_trồng thủy_sản	15
+mặt_nước biển	15
+giao khu_vực biển	13
+loài thủy_sản nguy_cấp	13
+bảo_vệ phát_triển lợi thủy_sản	12
+môi_trường sống loài thủy_sản	12
+khu_vực cấm	11
+môi_trường nuôi_trồng thủy_sản	10
+khai_thác bảo_vệ	9
+khu_vực biển nuôi_trồng thủy_sản	9
+phép khai_thác	9
+khai_thác lợi	9
+phát_triển lợi thuỷ_sản	9
+giấy_phép khai_thác	8
+bảo_vệ môi_trường	8
+cấm sử_dụng	7
+sống loài thủy_sản	6
+danh_mục cấm	5
+truy_xuất nguồn_gốc	5
+phát_triển lợi thủy_sản	4
+sản_xuất thức_ăn thủy_sản	3
+loài danh_mục loài	3
+động_vật thủy_sản	3
+thủy_sản địa_bàn	3
+tái_tạo lợi	3
+danh_mục phép	2
+loài nguy_cấp	2
+sử_dụng khu_vực biển	2
+bảo_vệ phát_triển	1
+giao khu_vực	1
+nguồn_gốc động_vật	1
+hướng lợi	1
+danh_mục động_vật	1
+sử_dụng sản_phẩm	1
+thủy_sản vùng_biển	1
+sản_phẩm xử_lý môi_trường	1
+bảo_vệ lợi	1
+sản_xuất thức_ăn	1
+sản_phẩm xử_lý môi_trường nuôi_trồng	1
+dưỡng thủy_sản	1
+hoạt_động vùng_biển	1
+ương dưỡng	1
+sản_phẩm động_vật thủy_sản	1
+thuê mặt_nước biển	1
+khai_thác chế_biến	1

@@ -1,0 +1,93 @@
+nông_nghiệp phát_triển nông_thôn	248
+phòng cháy chữa_cháy	211
+công_tác phòng	127
+phòng cháy	125
+bộ_trưởng nông_nghiệp phát_triển nông_thôn	121
+biện_pháp phòng	103
+đấu_tranh phòng	71
+hoạt_động phòng	68
+thực_hiện biện_pháp phòng	49
+ban chỉ_huy phòng	45
+pháp_luật phòng	43
+ban chỉ_đạo phòng	36
+tham_gia phòng	34
+truyền_thông phòng	34
+kế_hoạch phòng	33
+ban chỉ_đạo trung_ương phòng	32
+bộ_trưởng nông_nghiệp phát_triển nông_thôn quy_định chi_tiết	28
+phát_triển nông_thôn	28
+nguy_hiểm cháy	26
+phương_án phòng	24
+hoạt_động phòng cháy chữa_cháy	24
+phòng cháy chữa_cháy rừng	24
+bộ_trưởng nông_nghiệp phát_triển nông_thôn quy_định	23
+lồng_ghép nội_dung phòng	23
+chỉ_huy chữa_cháy	23
+an_toàn phòng cháy chữa_cháy	21
+công_trình phòng	19
+lực_lượng cảnh_sát phòng cháy chữa_cháy	19
+cảnh_sát phòng cháy chữa_cháy	18
+đội phòng cháy chữa_cháy cơ_sở	17
+ban chỉ_đạo	16
+tổng_cục tiêu_chuẩn - đo_lường - chất_lượng	16
+thực_hiện biện_pháp	15
+quy_hoạch phòng	15
+phương_tiện phòng cháy chữa_cháy	14
+xảy cháy	14
+báo cháy	14
+chất cháy	14
+bảo_đảm an_toàn phòng cháy chữa_cháy	13
+chỉ_huy phòng	13
+nông_nghiệp phát_triển nông_thôn chủ_trì	13
+chỉ_đạo công_tác	12
+phòng cháy chữa_cháy cơ_sở	11
+phối_hợp nông_nghiệp phát_triển nông_thôn	10
+phòng thử_nghiệm	10
+thực_hiện kế_hoạch phòng	10
+cảnh_sát phòng cháy	10
+chỉ_đạo phòng	9
+thực_hiện công_tác phòng	8
+đội phòng cháy chữa_cháy	8
+kiến_thức phòng	8
+bộ_trưởng nông_nghiệp	8
+nông_nghiệp phát_triển nông_thôn quy_định	7
+công_tác phòng_ngừa	7
+cháy chữa_cháy	7
+nông_nghiệp phát_triển	7
+nông_nghiệp phát_triển nông_thôn trách_nhiệm	6
+nông_nghiệp phát_triển nông_thôn ban_hành	6
+biện_pháp phòng_ngừa	4
+kế_hoạch phát_triển	4
+thực_hiện phương_án	4
+chỉ_đạo thực_hiện	4
+an_toàn phòng	3
+lồng_ghép nội_dung	3
+phát_triển nông_thôn ban_hành	2
+đấu_tranh phòng_ngừa	2
+phát_triển rừng	2
+chỉ_đạo thực_hiện quy_hoạch	2
+phối_hợp lực_lượng	2
+lực_lượng phòng cháy	2
+cảnh_sát phòng	2
+tham_gia hoạt_động	2
+phương_án huy_động	2
+an_toàn phòng cháy	2
+chữa_cháy rừng	1
+biện_pháp bảo_đảm an_toàn	1
+an_toàn công_trình	1
+kế_hoạch công_tác	1
+nguy_cơ xảy	1
+huy_động lực_lượng	1
+chữa_cháy cơ_sở	1
+chỉ_đạo trung_ương phòng	1
+thực_hiện quy_hoạch	1
+công_tác thông_tin	1
+phát_triển nông_thôn trách_nhiệm	1
+chỉ_đạo công_tác thông_tin	1
+cháy rừng	1
+thực_hiện biện_pháp phòng_ngừa	1
+quy_hoạch chi_tiết	1
+thực_hiện biện_pháp bảo_đảm	1
+thực_hiện hoạt_động	1
+chỉ_đạo hoạt_động	1
+quy_định pháp_luật	1

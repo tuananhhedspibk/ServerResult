@@ -1,0 +1,137 @@
+chữa bệnh	1032
+khám bệnh	465
+sản_phẩm động_vật	417
+cơ_sở khám bệnh	342
+bệnh nghề_nghiệp	317
+cơ_sở chữa bệnh	178
+chống dịch_bệnh động_vật	140
+dịch_bệnh động_vật	93
+chữa bệnh bảo_hiểm_y_tế	90
+bắt_buộc chữa bệnh	81
+mắc bệnh	78
+chống bệnh truyền_nhiễm	63
+bệnh truyền_nhiễm	53
+áp_dụng biện_pháp bắt_buộc chữa bệnh	52
+mắc bệnh truyền_nhiễm	47
+thuốc chữa bệnh	45
+động_vật mắc bệnh	43
+chi_phí khám bệnh	42
+giết_mổ động_vật	42
+tác_nhân bệnh truyền_nhiễm	39
+thức_ăn chăn_nuôi	36
+đối_với cơ_sở khám bệnh	35
+danh_mục bệnh	34
+cơ_sở an_toàn dịch_bệnh động_vật	33
+lây_lan dịch_bệnh	32
+sản_phẩm động_vật cạn	32
+sản_phẩm động_vật thủy_sản	32
+mắc bệnh hiểm_nghèo	32
+công_bố dịch_bệnh động_vật	31
+thanh_toán chi_phí khám bệnh	31
+chống dịch_bệnh	30
+bệnh nghề_nghiệp lao_động	30
+kiểm_soát giết_mổ động_vật	29
+quyết_định áp_dụng biện_pháp bắt_buộc chữa bệnh	25
+điều_trị nội_trú	25
+bệnh tâm_thần	24
+ổ dịch_bệnh động_vật	23
+bệnh động_vật	21
+động_vật thủy_sản	21
+chữa bệnh động_vật	20
+bệnh nghề_nghiệp hằng	20
+rủi_ro nghề_nghiệp	20
+bệnh tâm_thần mắc bệnh không_thể nhận_thức	19
+mầm bệnh	19
+chế_biến động_vật	19
+kiểm_soát giết_mổ	19
+khả_năng nhận_thức	19
+chẩn_đoán bệnh	19
+động_vật hoang_dã	18
+mắc bệnh tâm_thần	18
+phòng_bệnh bắt_buộc	18
+biện_pháp bắt_buộc chữa bệnh	17
+chữa bệnh cơ_sở khám bệnh	17
+bệnh hiểm_nghèo	17
+chủ cơ_sở chăn_nuôi	17
+dấu_hiệu mắc bệnh	17
+quyết_định cơ_sở chữa bệnh	16
+nguy_hiểm động_vật	16
+mắc bệnh tâm_thần bệnh khả_năng nhận_thức khả_năng điều_khiển hành_vi	16
+cơ_sở giết_mổ	16
+giám_sát bệnh truyền_nhiễm	16
+chữa bệnh cơ_sở y_tế	16
+bệnh nguy_hiểm	16
+bệnh truyền_nhiễm nguy_hiểm động_vật	16
+danh_mục động_vật	15
+dịch_bệnh nguy_hiểm	15
+dịch_vụ khám bệnh	15
+giết_mổ bắt_buộc	15
+tai_nạn lao_động bệnh nghề_nghiệp	14
+danh_mục bệnh động_vật công_bố dịch	14
+cơ_sở chăn_nuôi	14
+sản_phẩm động_vật_mang mầm bệnh	14
+loài động_vật	14
+truyền lây động_vật	13
+chữa bệnh cơ_sở	13
+bệnh truyền_nhiễm nguy_hiểm	12
+điều_trị bệnh	12
+mầm bệnh truyền_nhiễm	12
+chống bệnh	12
+bệnh truyền lây động_vật	11
+đi khám	10
+tác_nhân bệnh	10
+khả_năng nhận_thức khả_năng điều_khiển hành_vi	10
+đạo_đức nghề_nghiệp	10
+bắt_buộc đối_với	9
+đối_với cơ_sở	9
+biện_pháp kiểm_soát	7
+cơ_sở chế_biến	6
+truyền_nhiễm nguy_hiểm động_vật	6
+bệnh danh_mục bệnh	6
+chi_phí khám	6
+cơ_sở an_toàn dịch_bệnh	5
+bệnh khả_năng	5
+giám_sát dịch_bệnh	5
+– nghề_nghiệp	5
+chủ cơ_sở	5
+khả_năng điều_khiển hành_vi	4
+khả_năng lao_động	4
+sản_phẩm động_vật_mang mầm	4
+động_vật công_bố	4
+động_vật cạn	4
+bệnh khả_năng nhận_thức khả_năng điều_khiển hành_vi	3
+cơ_sở khám	3
+an_toàn dịch_bệnh động_vật	3
+chống dịch	3
+động_vật danh_mục	3
+mắc bệnh tâm_thần bệnh khả_năng nhận_thức	3
+bệnh tâm_thần bệnh khả_năng nhận_thức khả_năng điều_khiển hành_vi	2
+bệnh tâm_thần bệnh khả_năng nhận_thức	2
+bệnh cơ_sở y_tế	2
+biện_pháp phòng_bệnh	2
+truyền_nhiễm nguy_hiểm	2
+biện_pháp phòng_bệnh bắt_buộc	2
+an_toàn dịch_bệnh	2
+danh_mục bệnh động_vật	2
+tâm_thần bệnh khả_năng nhận_thức khả_năng điều_khiển hành_vi	2
+lao_động bệnh nghề_nghiệp	1
+khả_năng nhận_thức khả_năng điều_khiển	1
+cơ_sở y_tế	1
+động_vật_mang mầm bệnh	1
+sản_phẩm thủy_sản	1
+tâm_thần bệnh khả_năng nhận_thức khả_năng điều_khiển	1
+bệnh tâm_thần bệnh	1
+bệnh khả_năng nhận_thức	1
+áp_dụng đối_với	1
+lây động_vật	1
+bệnh khả_năng nhận_thức khả_năng điều_khiển	1
+động_vật_mang mầm	1
+áp_dụng biện_pháp chống	1
+thanh_toán chi_phí khám	1
+mắc bệnh tâm_thần bệnh	1
+bệnh động_vật công_bố dịch	1
+công_bố áp_dụng	1
+nhận_thức khả_năng điều_khiển hành_vi	1
+sản_phẩm động_vật_mang	1
+bệnh truyền lây	1
+biện_pháp bắt_buộc	1

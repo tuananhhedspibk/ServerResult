@@ -1,0 +1,42 @@
+thời_hạn 30	257
+thời_hạn 15	208
+thời_hạn 03	80
+thời_hạn 07	76
+31 12	75
+thời_hạn 12	70
+thời_hạn 60	52
+thời_hạn 01	51
+thời_hạn 06	34
+ít_nhất 30	30
+tái cấp_vốn	27
+đi_lại khó_khăn	26
+thời_hạn 90	25
+ít_nhất 03	23
+khó_khăn nhận_thức	22
+giải_quyết thời_hạn 15	21
+thời_hạn nhất_định	20
+đặc_biệt nặng_nhọc	20
+thời_hạn giải_quyết	19
+thời_hạn 15 hồ_sơ	16
+15 11	15
+nuôi 36	15
+01 01	11
+thời_hạn ít_nhất	10
+21 12	10
+đặc_biệt khó_khăn	9
+thời_hạn 48	7
+03 12	7
+định_kỳ 06	6
+định_kỳ đột_xuất	5
+25 11	5
+khó_khăn đặc_biệt	5
+đi_lại khó_khăn thời_hạn	5
+hoàn_cảnh khó_khăn	4
+01 03	4
+30 6	4
+01 07	3
+hoàn_cảnh đặc_biệt khó_khăn	3
+thời_hạn 10	3
+03 07	3
+15 hồ_sơ	1
+01 10	1

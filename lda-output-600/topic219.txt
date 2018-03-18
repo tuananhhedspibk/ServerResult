@@ -1,0 +1,49 @@
+lưu_vực sông	152
+xả nước_thải	105
+xử_lý chất_thải	85
+chất_thải nguy_hại	78
+liên tỉnh	54
+xử_lý nước_thải	44
+chất_thải rắn	36
+chất_thải rắn thông_thường	34
+phát thải	32
+quản_lý chất_thải	31
+bãi sông	29
+dịch_vụ tập_trung	25
+hệ_thống xử_lý nước_thải	25
+địa_bàn tỉnh	22
+xử_lý chất_thải nguy_hại	22
+độ rung	21
+sức chịu_tải	19
+lưu_vực sông liên tỉnh	19
+tái_chế chất_thải	17
+suy_giảm chức_năng	17
+năng_lượng tái_tạo	17
+hệ_thống thu_gom	16
+quản_lý chất_thải nguy_hại	16
+chôn lấp	15
+khí nhà_kính	15
+năng_lượng sạch	12
+khu chôn lấp	12
+hệ_thống xử_lý	11
+xử_lý chất_thải rắn	11
+hệ_thống quan_trắc	10
+theo_dõi diễn_biến	9
+biện_pháp giảm_thiểu	9
+rắn thông_thường	8
+thải khí	7
+chôn lấp chất_thải	7
+phân_tích nguy_cơ	6
+biện_pháp xử_lý	5
+quy_định quản_lý chất_thải	5
+quản_lý hệ_thống	5
+vui_chơi giải_trí	5
+lắp_đặt thiết_bị	5
+xử_lý quy_định	4
+khu chôn lấp chất_thải	4
+quản_lý vận_hành	2
+vận_hành hệ_thống	2
+quản_lý khu	1
+mức_độ suy_giảm	1
+sông liên tỉnh	1
+hệ_thống quản_lý	1

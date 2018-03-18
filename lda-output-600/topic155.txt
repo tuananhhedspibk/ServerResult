@@ -1,0 +1,120 @@
+an_toàn thông_tin mạng	169
+mạng viễn_thông	154
+doanh_nghiệp viễn_thông	130
+dịch_vụ bưu_chính	126
+dịch_vụ viễn_thông	81
+sử_dụng dịch_vụ viễn_thông	76
+môi_trường mạng	71
+tài_nguyên internet	68
+giá cước	68
+mạng máy_tính	64
+cung_cấp dịch_vụ viễn_thông	57
+kho viễn_thông	55
+dịch_vụ mật_mã dân_sự	55
+sử_dụng dịch_vụ bưu_chính	51
+tem bưu_chính	43
+cung_cấp dịch_vụ	43
+dịch_vụ an_toàn thông_tin mạng	42
+doanh_nghiệp cung_ứng dịch_vụ bưu_chính	41
+mạng viễn_thông công_cộng	37
+mạng bưu_chính công_cộng	34
+cơ_sở hạ_tầng viễn_thông	33
+kinh_doanh dịch_vụ viễn_thông	31
+sản_phẩm mật_mã	31
+hệ_thống mạng đấu_thầu quốc_gia	31
+bảo_đảm an_toàn thông_tin mạng	31
+thiết_bị đầu_cuối	30
+giấy_phép viễn_thông	28
+thiết_bị viễn_thông	28
+cung_ứng dịch_vụ bưu_chính	27
+mạng internet	26
+sử_dụng dịch_vụ	26
+giá cước dịch_vụ bưu_chính	25
+mạng bưu_chính	25
+sản_phẩm mật_mã dân_sự	24
+cung_cấp dịch_vụ viễn_thông công_ích	23
+dịch_vụ chuyển_phát thư	23
+mạng thông_tin	23
+doanh_nghiệp cung_cấp dịch_vụ	22
+thông_tin mạng	21
+mạng dịch_vụ viễn_thông	20
+giấy_phép bưu_chính	20
+chuyển_phát thư	20
+đường truyền_dẫn	19
+bảo_đảm an_toàn	19
+hệ_thống thông_tin	18
+tài_nguyên viễn_thông	18
+đại_lý_dịch_vụ viễn_thông	18
+mật_mã dân_sự	18
+hoạt_động bưu_chính	17
+viễn_thông công_ích	16
+dịch_vụ viễn_thông công_ích	16
+thiết_lập mạng viễn_thông	15
+sử_dụng thông_tin	15
+cung_ứng sử_dụng dịch_vụ bưu_chính	15
+cung_cấp sản_phẩm	14
+dịch_vụ bưu_chính công_ích	13
+an_toàn thông_tin	12
+sử_dụng tài_nguyên	12
+cung_cấp dịch_vụ bưu_chính	11
+kỹ_thuật viễn_thông	11
+thiết_lập mạng	10
+sử_dụng kho viễn_thông	9
+viễn_thông công_cộng	9
+sản_phẩm an_toàn thông_tin mạng	9
+kinh_doanh dịch_vụ	9
+doanh_nghiệp kinh_doanh dịch_vụ	8
+cung_cấp thông_tin	7
+cơ_sở hạ_tầng thông_tin	7
+chất_lượng dịch_vụ	6
+bưu_chính công_ích	6
+giá cước dịch_vụ	5
+bảo_vệ an_toàn	5
+doanh_nghiệp cung_cấp	5
+bảo_đảm an_toàn thông_tin	5
+sử_dụng thiết_bị	5
+cước dịch_vụ bưu_chính	5
+thanh_toán giá cước	5
+cước viễn_thông	5
+dịch_vụ cung_cấp	4
+hệ_thống mạng	4
+mật_mã bảo_vệ thông_tin	4
+dịch_vụ chuyển_phát	4
+sử_dụng sản_phẩm	4
+thông_tin phục_vụ	3
+cung_ứng dịch_vụ	3
+bưu_chính công_cộng	2
+lắp_đặt thiết_bị	2
+địa_chỉ thư	2
+hạ_tầng kỹ_thuật	2
+cước dịch_vụ	2
+sử_dụng giấy_phép	2
+chất_lượng sản_phẩm	2
+viễn_thông doanh_nghiệp viễn_thông	2
+mạng đấu_thầu	1
+kiểm_soát chất_lượng	1
+doanh_nghiệp kinh_doanh	1
+dịch_vụ môi_trường	1
+dịch_vụ an_toàn thông_tin	1
+giấy_phép kinh_doanh	1
+doanh_nghiệp cung_ứng dịch_vụ	1
+bảo_đảm an_ninh	1
+hệ_thống cơ_sở	1
+giấy_phép kinh_doanh sản_phẩm	1
+bảo_đảm chất_lượng	1
+hạn sử_dụng	1
+thông_tin máy_tính	1
+thông_tin liên_lạc	1
+bảo_đảm hoạt_động	1
+thông_tin cung_cấp	1
+thanh_toán giá cước dịch_vụ	1
+kỹ_thuật phục_vụ	1
+an_toàn hệ_thống	1
+công_ích hằng	1
+dịch_vụ cung_ứng	1
+an_ninh quốc_gia	1
+dịch_vụ công_ích	1
+mạng đấu_thầu quốc_gia	1
+kinh_doanh sản_phẩm	1
+sản_phẩm an_toàn thông_tin	1
+hoạt_động dịch_vụ	1

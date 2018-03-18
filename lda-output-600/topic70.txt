@@ -1,0 +1,31 @@
+khí_tượng thủy_văn	188
+cảnh_báo khí_tượng thủy_văn	103
+khí_tượng thuỷ_văn	73
+dữ_liệu khí_tượng thủy_văn	50
+mạng_lưới trạm khí_tượng thủy_văn quốc_gia	34
+công_trình khí_tượng thuỷ_văn	34
+khai_thác bảo_vệ công_trình khí_tượng thuỷ_văn	29
+tác_động thời_tiết	29
+hoạt_động khí_tượng thủy_văn	18
+mạng_lưới trạm khí_tượng thủy_văn	18
+công_trình khí_tượng thủy_văn	16
+quan_trắc khí_tượng thủy_văn	13
+hoạt_động dự_báo	11
+trạm khí_tượng thủy_văn chuyên_dùng	10
+khí_tượng thủy_văn quốc_gia	9
+bảo_vệ công_trình khí_tượng thuỷ_văn	8
+trạm khí_tượng thủy_văn	8
+công_trình khí_tượng	8
+khí_tượng thủy_văn chuyên_dùng	7
+trạm khí_tượng	6
+khai_thác công_trình	5
+dữ_liệu khí_tượng	4
+mạng_lưới trạm	3
+bảo_vệ công_trình	3
+quan_trắc khí_tượng	3
+chuyên_dùng phục_vụ	2
+phục_vụ hoạt_động	1
+khai_thác bảo_vệ	1
+cảnh_báo khí_tượng	1
+tư_liệu khí_tượng	1
+khai_thác bảo_vệ công_trình	1

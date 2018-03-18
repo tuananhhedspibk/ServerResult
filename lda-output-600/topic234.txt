@@ -1,0 +1,36 @@
+áp_dụng biện_pháp tự_vệ	64
+khu phi thuế_quan	44
+áp_dụng biện_pháp chống trợ_cấp	33
+số_lượng trị_giá	33
+áp_dụng biện_pháp chống phá_giá	32
+thuế_chống trợ_cấp	32
+biện_pháp tự_vệ	31
+thuế_chống phá_giá	30
+yêu_cầu áp_dụng biện_pháp chống phá_giá	30
+chống trợ_cấp	28
+chống phá_giá	26
+hàng_hoá tương_tự	24
+thuế_suất ưu_đãi	21
+yêu_cầu áp_dụng biện_pháp chống trợ_cấp	20
+áp_dụng thuế_chống phá_giá	19
+áp_dụng đối_với	18
+áp_dụng thuế_chống trợ_cấp	18
+áp_dụng thuế_suất	15
+hồ_sơ yêu_cầu áp_dụng biện_pháp	14
+áp_dụng biện_pháp	13
+số_lượng trị_giá hàng_hoá	8
+biện_pháp chống trợ_cấp	5
+biện_pháp chống phá_giá	5
+đối_với hàng_hoá	5
+đối_với hàng_hóa_nhập_khẩu	5
+hồ_sơ yêu_cầu	5
+ưu_đãi đặc_biệt	5
+thuế_suất đối_với	5
+áp_dụng phương_pháp	4
+tạm_thời áp_dụng	3
+thuế_nhập_khẩu đối_với	2
+áp_dụng biện_pháp chống	2
+trị_giá hàng_hóa	1
+rà_soát áp_dụng	1
+ưu_đãi đối_với	1
+yêu_cầu áp_dụng biện_pháp	1

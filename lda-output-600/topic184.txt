@@ -1,0 +1,170 @@
+cơ_sở giáo_dục đại_học	302
+dạy nghề	289
+học nghề	238
+cơ_sở giáo_dục nghề_nghiệp	188
+giáo_dục nghề_nghiệp	188
+cơ_sở giáo_dục	184
+giáo_dục đào_tạo	179
+giáo_dục đại_học	154
+chương_trình đào_tạo	149
+trường đại_học	128
+trường cao_đẳng	119
+cơ_sở dạy nghề	98
+bộ_trưởng giáo_dục đào_tạo	94
+chương_trình giáo_dục	84
+tốt_nghiệp đại_học	69
+trung_tâm dạy nghề	68
+đào_tạo nghề	67
+trường cao_đẳng nghề	65
+cơ_sở đào_tạo	60
+trung_học cơ_sở	59
+trình_độ đào_tạo	58
+trường trung_cấp nghề	58
+trình_độ cao_đẳng	51
+trường trung_cấp	50
+giáo_dục phổ_thông	49
+trung_học phổ_thông	48
+hoạt_động giáo_dục	46
+đào_tạo trình_độ	44
+trình_độ trung_cấp	42
+cán_bộ quản_lý giáo_dục	40
+trình_độ đại_học	40
+giáo_dục tiểu_học	40
+kiểm_định chất_lượng giáo_dục nghề_nghiệp	39
+cơ_sở hoạt_động giáo_dục nghề_nghiệp	37
+chứng_chỉ kỹ_năng nghề quốc_gia	36
+chương_trình khung	34
+hoạt_động đào_tạo	33
+phổ_cập giáo_dục tiểu_học	32
+giáo_dục mầm_non	32
+trung_cấp nghề	31
+tốt_nghiệp cao_đẳng	30
+hoạt_động giáo_dục nghề_nghiệp	30
+đào_tạo trình_độ cao_đẳng	29
+chi_phí đào_tạo	29
+phổ_cập giáo_dục	28
+trường phổ_thông	27
+kiểm_định chất_lượng giáo_dục	27
+tập nghề	27
+hội_đồng trường	26
+kỹ_năng nghề	26
+liên_kết đào_tạo	25
+chứng_chỉ đào_tạo	25
+hợp_đồng_học nghề	25
+đào_tạo trình_độ tiến_sĩ	25
+trường dạy nghề	24
+chương_trình dạy nghề	24
+nghề đào_tạo	24
+giáo_viên dạy nghề	23
+trung_tâm giáo_dục nghề_nghiệp	23
+kiểm_định chất_lượng dạy nghề	23
+kỹ_năng nghề quốc_gia	23
+giáo_dục thường_xuyên	22
+cao_đẳng nghề	21
+đào_tạo trình_độ thạc_sĩ	21
+tốt_nghiệp đại_học trở	21
+trường tư_thục	21
+trường dân_lập	20
+tốt_nghiệp trung_học phổ_thông	20
+trường phổ_thông dân_tộc nội_trú	20
+nội_dung giáo_dục	19
+trình_độ đại_học trở	19
+tốt_nghiệp trung_cấp	19
+hỗ_trợ học nghề	18
+chuyên_ngành đào_tạo	18
+hiệu_trưởng trường	18
+kiểm_định chất_lượng giáo_dục đại_học	18
+khóa đào_tạo	18
+nâng cao_trình_độ kỹ_năng nghề	18
+học trình_độ đào_tạo	17
+phương_pháp giáo_dục	17
+lĩnh_vực giáo_dục	17
+trình_độ sơ_cấp	17
+trình_độ kỹ_năng nghề	17
+trình_độ chuẩn	17
+dạy học	17
+nhà_trường cơ_sở giáo_dục	17
+giáo_dục chính_quy	16
+dạy nghề trình_độ sơ_cấp	16
+phối_hợp giáo_dục đào_tạo	16
+học lớp	16
+trình_độ tiến_sĩ	16
+hiệu_trưởng trường trung_cấp	16
+kỹ_năng thực_hành	16
+hoạt_động dạy nghề	15
+tổ_chức kiểm_định chất_lượng giáo_dục	15
+dạy thực_hành	15
+trình_độ thạc_sĩ	15
+học chương_trình	14
+kiểm_định chất_lượng	14
+thực_hiện chương_trình giáo_dục	13
+hiệu_trưởng trường cao_đẳng	13
+giám_đốc trung_tâm	13
+thời_gian đào_tạo	12
+khóa học	12
+chất_lượng đào_tạo	12
+trường năng_khiếu	11
+trường phổ_thông dân_tộc	11
+đối_với trường	11
+học_sinh trường	11
+hoàn_thành chương_trình	11
+nội_dung chương_trình	11
+giáo_dục thể_chất	11
+trung_tâm giáo_dục	11
+đào_tạo thường_xuyên	11
+mục_tiêu giáo_dục	10
+giáo_viên dạy	10
+năng_lực thực_hành	10
+đào_tạo nhân_lực	10
+tốt_nghiệp trung_học	9
+học trường	9
+nâng chất_lượng	8
+đánh_giá kỹ_năng nghề	8
+nghề học	7
+học trình_độ	7
+sự_nghiệp giáo_dục	7
+quản_lý giáo_dục	7
+chương_trình đào_tạo trình_độ	6
+chất_lượng giáo_dục	6
+hỗ_trợ học	6
+chương_trình quốc_gia	6
+lớp đào_tạo	6
+đào_tạo cán_bộ	6
+dân_tộc nội_trú	6
+chứng_chỉ kỹ_năng nghề	5
+trình_độ giáo_dục	5
+phối_hợp bộ_trưởng	5
+tốt_nghiệp đào_tạo	5
+trường trung_học	4
+trình_độ kỹ_năng	4
+hoạt_động nghề_nghiệp	4
+hoàn_thành khóa	4
+chất_lượng giáo_dục đại_học	4
+hoạt_động dạy	3
+chuẩn quốc_gia	3
+nghề quốc_gia	3
+hoạt_động kiểm_định	3
+giáo_dục đào_tạo trách_nhiệm	3
+phổ_thông dân_tộc nội_trú	3
+tốt_nghiệp đào_tạo nghề	3
+quy_hoạch mạng_lưới cơ_sở giáo_dục	2
+đánh_giá chất_lượng	2
+thành_lập trung_tâm	2
+hoạt_động nhà_trường	2
+bộ_trưởng giáo_dục	2
+chương_trình dạy	2
+đại_học trở	2
+miễn đào_tạo nghề	2
+thực_hiện chương_trình	2
+chất_lượng giáo_dục nghề_nghiệp	2
+chương_trình mục_tiêu quốc_gia	2
+nghề trình_độ	1
+nhà_trường cơ_sở	1
+cơ_sở hoạt_động giáo_dục	1
+dạy nghề trình_độ	1
+đại_học đại_học	1
+thành_lập hoạt_động	1
+thành_lập cơ_sở	1
+thực_hiện mục_tiêu	1
+phương_pháp đánh_giá	1
+giám_đốc cơ_sở	1

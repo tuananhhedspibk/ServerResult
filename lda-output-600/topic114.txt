@@ -1,0 +1,53 @@
+có_lý_do chính_đáng	180
+vắng_mặt có_lý_do chính_đáng	96
+cư_trú làm_việc	86
+cấm cư_trú	76
+thị_trấn cư_trú	50
+thông_báo tìm_kiếm vắng_mặt cư_trú	42
+cư_trú cuối_cùng	36
+trường_hợp có_lý_do chính_đáng	35
+cấm đi cư_trú	31
+giới_hạn phòng_vệ chính_đáng	25
+phạt quản_chế cấm cư_trú	24
+địa_chỉ cư_trú	22
+cư_trú trụ_sở	22
+nguyên_tắc đi	22
+trừ trường_hợp có_lý_do chính_đáng	21
+lý_do chính_đáng	21
+có_lý_do chính_đáng vắng_mặt	19
+trốn đi nước_ngoài	19
+trụ_sở cư_trú	18
+phòng_vệ chính_đáng	18
+vắng_mặt cư_trú	18
+thay_đổi cư_trú	17
+nước_ngoài cư_trú	17
+đi cư_trú	16
+cư_trú nước_ngoài	16
+bị_đơn cư_trú	16
+cư_trú cư_trú	13
+thông_báo tìm_kiếm	12
+cư_trú giám_hộ	10
+yêu_cầu chính_đáng	9
+quản_lý_tài_sản vắng_mặt	9
+trụ_sở làm_việc	7
+yêu_cầu thông_báo tìm_kiếm vắng_mặt cư_trú	7
+trường_hợp vắng_mặt	7
+phạt cấm cư_trú	5
+vắng_mặt lý_do	5
+quản_chế cấm cư_trú	5
+đi đường	4
+nước_ngoài làm_việc	4
+tìm_kiếm việc_làm	3
+đường đi	3
+vắng_mặt có_lý_do	3
+trốn đi	3
+yêu_cầu thông_báo tìm_kiếm	2
+trường_hợp thay_đổi	2
+địa_chỉ trụ_sở	2
+tìm_kiếm vắng_mặt cư_trú	1
+yêu_cầu thay_đổi	1
+quản_chế cấm	1
+trừ trường_hợp có_lý_do	1
+lý_do yêu_cầu	1
+đi làm_việc	1
+làm_việc nước_ngoài	1

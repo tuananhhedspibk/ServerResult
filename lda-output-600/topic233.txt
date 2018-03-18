@@ -1,0 +1,32 @@
+bảo_đảm trật_tự	90
+vệ_sinh môi_trường	73
+trật_tự công_cộng	62
+giữ_gìn trật_tự	59
+bảo_đảm an_ninh	39
+giữ_gìn vệ_sinh	30
+dập tắt	25
+gây_rối trật_tự công_cộng	24
+giữ_gìn an_ninh	21
+vệ_sinh công_cộng	19
+giữ_gìn vệ_sinh môi_trường	17
+bảo_đảm vệ_sinh	17
+bảo_đảm vệ_sinh môi_trường	17
+gây_rối trật_tự	16
+bảo_đảm tiêu_chuẩn	14
+bảo_đảm tiêu_chuẩn vệ_sinh	13
+an_ninh trật_tự	12
+môi_trường sống	11
+công_trình công_cộng	11
+bảo_vệ môi_trường	10
+bảo_vệ an_ninh	9
+bảo_vệ trật_tự	7
+môi_trường xung_quanh	6
+cấm lưu_thông	6
+tiêu_chuẩn vệ_sinh	6
+biện_pháp bảo_đảm	5
+biện_pháp bảo_đảm trật_tự	4
+chiếu công_cộng	4
+giao_thông công_cộng	3
+cấm hút	2
+tiêu_chuẩn môi_trường	2
+biện_pháp bảo_vệ	1

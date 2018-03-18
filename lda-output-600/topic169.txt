@@ -1,0 +1,16 @@
+thẻ bảo_hiểm_y_tế	92
+đóng bảo_hiểm_y_tế	77
+ghép mô	67
+tổ_chức bảo_hiểm_y_tế	59
+quỹ bảo_hiểm_y_tế	52
+hiến mô	42
+chết tổ_chức mai_táng	24
+đăng_ký hiến	21
+xác_định chết_não	19
+hiến xác	18
+đơn đăng_ký	16
+đăng_ký hiến mô	13
+tổ_chức mai_táng	11
+thu_hồi thẻ	6
+chế_độ bảo_hiểm_y_tế	5
+đổi thẻ	3

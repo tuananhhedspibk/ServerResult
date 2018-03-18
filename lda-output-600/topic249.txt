@@ -1,0 +1,137 @@
+chính_phủ quy_định	925
+thủ_tướng chính_phủ	741
+quy_định chính_phủ	693
+chính_phủ quy_định chi_tiết	593
+chính_phủ quy_định cụ_thể	459
+quy_định chi_tiết	248
+trình chính_phủ	177
+thủ_tướng chính_phủ quyết_định	169
+quy_định cụ_thể	164
+chính_phủ quyết_định	124
+quy_định chi_tiết hướng_dẫn thi_hành	100
+thành_viên chính_phủ	100
+thực_hiện quy_định chính_phủ	97
+trình thủ_tướng chính_phủ	91
+trình thủ_tướng chính_phủ phê_duyệt	83
+phân_cấp chính_phủ	83
+quyết_định thủ_tướng chính_phủ	80
+báo_cáo chính_phủ	76
+báo_cáo thủ_tướng chính_phủ	75
+chính_phủ quy_định chi_tiết hướng_dẫn thi_hành luật	74
+chính_phủ trình	66
+thủ_tướng chính_phủ quy_định	63
+thủ_tướng chính_phủ phê_duyệt	61
+hướng_dẫn thi_hành	57
+chính_phủ quy_định chi_tiết hướng_dẫn thi_hành	55
+quy_định luật	55
+trình thủ_tướng chính_phủ quyết_định	55
+chính_phủ quy_định chi_tiết hướng_dẫn thi_hành_pháp_lệnh	52
+giúp chính_phủ	50
+đề_nghị thủ_tướng chính_phủ	49
+phân_công chính_phủ	44
+văn_phòng chính_phủ	41
+thủ_tướng chính_phủ xem_xét	38
+bộ_trưởng thành_viên chính_phủ	36
+chính_phủ ban_hành	34
+phó thủ_tướng	34
+thủ_tướng chính_phủ quyết_định thành_lập	32
+quy_định trình_tự	32
+chính_phủ quy_định điều_kiện	32
+trình chính_phủ quyết_định	31
+chính_phủ quy_định chi_tiết thi_hành_pháp_lệnh	30
+thực_hiện quy_định	30
+hướng_dẫn thi_hành_pháp_lệnh	30
+thủ_tướng chính_phủ giao	29
+chính_phủ quy_định cụ_thể điều_kiện	29
+chính_phủ quy_định trình_tự	29
+quyết_định chính_sách cụ_thể	28
+chính_phủ quy_định danh_mục	26
+nghị_định chính_phủ	25
+chỉ_thị thủ_tướng chính_phủ	25
+ban cơ_yếu chính_phủ	25
+hướng_dẫn cụ_thể	25
+trình chính_phủ ban_hành	24
+chính_phủ trình quốc_hội	24
+chính_phủ quy_định chi_tiết thi_hành luật	24
+trái_phiếu chính_phủ	22
+chính_phủ bảo_lãnh	22
+văn_bản quy_định chi_tiết	21
+liên chính_phủ	21
+hội_đồng_bộ_trưởng quy_định chi_tiết thi_hành luật	21
+phó thủ_tướng chính_phủ	20
+chính_phủ quy_định_mức	20
+quy_định cụ_thể điều_kiện	19
+chính_phủ quy_định chi_tiết trình_tự	18
+chính_phủ phê_duyệt	18
+chính_phủ xem_xét	18
+văn_bản quy_định chi_tiết thi_hành luật	17
+địa_phương phân_cấp chính_phủ	16
+thủ_tướng chính_phủ quy_định cụ_thể	16
+nhân_danh chính_phủ	16
+thủ_tướng chính_phủ ban_hành	15
+trình chính_phủ phê_duyệt	15
+tờ_trình chính_phủ	14
+chính_phủ thành_lập	14
+trình thủ_tướng chính_phủ ban_hành	13
+quyết_định phân_cấp	12
+điều_kiện cụ_thể	12
+thủ_tướng chính_phủ bổ_nhiệm	11
+điều_kiện quy_định	11
+trình thủ_tướng	11
+quy_định chi_tiết hướng_dẫn thi_hành_pháp_lệnh	10
+thi_hành quyết_định	10
+chính_phủ trình quốc_hội quyết_định	10
+chính_sách cụ_thể	10
+chính_phủ báo_cáo quốc_hội	10
+quy_định chi_tiết hướng_dẫn thi_hành luật	10
+giúp bộ_trưởng	8
+giúp chính_phủ thực_hiện	8
+quyết_định thành_lập	8
+quy_định chi_tiết điều_kiện	8
+chính_phủ thực_hiện	8
+ban_hành hướng_dẫn	8
+chính_phủ quyết_định thành_lập	8
+chi_tiết thi_hành luật	7
+ban_hành quyết_định	7
+giúp thủ_tướng	7
+trình báo_cáo	7
+quy_định bộ_trưởng	6
+quy_định chi_tiết trình_tự	6
+quy_định chi_tiết thi_hành luật	6
+thủ_tướng chính_phủ phê_duyệt quy_hoạch	5
+luật quy_định	5
+thi_hành luật	5
+trình quốc_hội	5
+chỉ_thị thủ_tướng	5
+chính_phủ bàn	5
+chính_phủ quyết_định chủ_trương	5
+quốc_hội quyết_định	4
+quy_định chi_tiết thi_hành	4
+quy_định chi_tiết thi_hành_pháp_lệnh	4
+đề_nghị thủ_tướng	4
+chính_phủ quy_định chi_tiết hướng_dẫn	4
+chính_phủ phê_duyệt quy_hoạch	4
+quốc_hội ban_hành luật	4
+ban_hành văn_bản	3
+cơ_yếu chính_phủ	3
+điều_kiện thành_lập	3
+hướng_dẫn thi_hành luật	3
+ban_hành luật	3
+ban_hành trình	3
+quyết_định thi_hành	2
+hướng_dẫn thực_hiện	2
+ban_hành chính_sách	2
+đề_nghị bộ_trưởng	2
+văn_bản quy_định chi_tiết thi_hành	2
+báo_cáo văn_bản	2
+xem_xét báo_cáo	1
+quyết_định giao	1
+quốc_hội ban_hành	1
+điều_kiện quy_định luật	1
+thực_hiện quy_định luật	1
+ban cơ_yếu	1
+chi_tiết thi_hành_pháp_lệnh	1
+quyết_định phân_công	1
+chi_tiết hướng_dẫn thi_hành_pháp_lệnh	1
+quy_định luật quy_định	1
+quy_định hội_đồng_bộ_trưởng	1

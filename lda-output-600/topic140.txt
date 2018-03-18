@@ -1,0 +1,191 @@
+thuốc thú_y	351
+thuốc bảo_vệ thực_vật	259
+kiểm_dịch động_vật	144
+chế_phẩm sinh_học	143
+bảo_vệ kiểm_dịch thực_vật	140
+hóa_chất thú_y	121
+kiểm_dịch thực_vật	99
+cơ_quan quản_lý chuyên_ngành thú_y	81
+vật_thể diện kiểm_dịch thực_vật	74
+kiểm_tra vệ_sinh thú_y	70
+sinh_vật hại	68
+vệ_sinh thú_y	66
+giấy chứng_nhận kiểm_dịch	65
+cục thú_y	65
+tiêu độc	49
+đối_tượng kiểm_dịch thực_vật	45
+bảo_vệ thực_vật	45
+chứng_chỉ hành_nghề thú_y	43
+nhập_khẩu thuốc thú_y	43
+sử_dụng thuốc	42
+tiêu_chuẩn vệ_sinh thú_y	41
+sử_dụng thuốc bảo_vệ thực_vật	37
+cơ_quan chuyên_ngành bảo_vệ kiểm_dịch thực_vật trung_ương	33
+cơ_quan chuyên_ngành bảo_vệ kiểm_dịch thực_vật	32
+khảo_nghiệm thuốc bảo_vệ thực_vật	30
+buôn_bán thuốc bảo_vệ thực_vật	30
+bán_lẻ thuốc	30
+hành_nghề thú_y	30
+thuốc hướng thần	29
+giấy chứng_nhận đăng_ký thuốc bảo_vệ thực_vật	29
+khảo_nghiệm thuốc thú_y	28
+buôn_bán thuốc thú_y	28
+diện kiểm_dịch	27
+giấy chứng_nhận lưu_hành thuốc thú_y	27
+thử lâm_sàng	27
+sản_xuất thuốc thú_y	27
+kiểm_nghiệm thuốc	26
+bảo_đảm yêu_cầu vệ_sinh thú_y	26
+cơ_quan quản_lý nhà_nước thú_y	26
+sản_xuất thuốc	25
+thuốc dược_liệu	25
+cấm sử_dụng	24
+xử_lý vật_thể diện kiểm_dịch thực_vật	24
+tiêu_chuẩn vệ_sinh thú_y đối_với	23
+yêu_cầu vệ_sinh thú_y	22
+chất_lượng thuốc	22
+chủ vật_nuôi	22
+nhập_khẩu thuốc	21
+tài_nguyên thực_vật	21
+nhân_viên thú_y	20
+bảo_quản thuốc	20
+cơ_quan quản_lý chuyên_ngành thú_y địa_phương	20
+đơn thuốc	20
+kê đơn	20
+kinh_doanh thuốc	19
+hóa_chất thú_y phép lưu_hành việt nam	19
+nguyên_liệu thuốc	19
+lưu_hành thuốc thú_y	19
+danh_mục thuốc bảo_vệ thực_vật phép sử_dụng việt nam	18
+danh_mục chế_phẩm sinh_học	18
+kê đơn thuốc	18
+danh_mục thuốc thú_y phép lưu_hành việt nam	18
+giấy chứng_nhận hành_nghề xử_lý vật_thể diện kiểm_dịch thực_vật	18
+cơ_quan nhà_nước thẩm_quyền bảo_vệ kiểm_dịch thực_vật	18
+cơ_sở kiểm_nghiệm	17
+bao_gói thuốc bảo_vệ thực_vật	17
+chống sinh_vật hại thực_vật	17
+sinh_vật hại lạ	17
+danh_mục thuốc	17
+phép lưu_hành	17
+trừ sinh_vật hại tài_nguyên thực_vật	17
+công_tác thú_y	17
+thử thuốc	16
+cơ_quan bảo_vệ kiểm_dịch thực_vật	16
+hướng_dẫn cơ_quan quản_lý chuyên_ngành thú_y	16
+kiểm_dịch thực_vật nhập_khẩu	16
+kết_quả kiểm_nghiệm	15
+nguồn_gốc động_vật	14
+hành_nghề xử_lý vật_thể diện kiểm_dịch thực_vật	14
+chống sinh_vật hại	14
+thuốc thành_phẩm	13
+giấy_phép khảo_nghiệm thuốc bảo_vệ thực_vật	13
+đối_tượng diện	13
+chủ vật_thể	13
+quảng_cáo thuốc	12
+pháp_luật bảo_vệ kiểm_dịch thực_vật	12
+khai_báo cơ_quan	12
+đăng_ký thuốc	12
+chất_lượng thuốc thú_y	12
+cơ_sở bán_lẻ thuốc	11
+giấy_phép khảo_nghiệm thuốc thú_y	11
+thuốc đông_y	10
+thuốc danh_mục	9
+khu cách_ly	9
+đối_tượng kiểm_dịch	9
+giấy_phép nhập_khẩu	9
+buôn_bán thuốc	9
+vật_thể nhiễm	8
+cách_ly kiểm_dịch	8
+khu cách_ly kiểm_dịch	8
+lưu_hành thuốc	8
+nhãn thuốc	8
+thuốc nghiện	8
+hạn sử_dụng	7
+thú_y địa_phương	7
+danh_mục đối_tượng	7
+phép sử_dụng	7
+danh_mục động_vật	6
+diện kiểm_tra vệ_sinh thú_y	6
+danh_mục thuốc bảo_vệ thực_vật	6
+sinh_vật hại thực_vật	6
+trừ sinh_vật hại	6
+hướng_dẫn cơ_quan	6
+thú_y đối_với	6
+chứng_chỉ hành_nghề	6
+đăng_ký lưu_hành	6
+hại tài_nguyên thực_vật	6
+sinh_vật hại tài_nguyên thực_vật	6
+danh_mục thuốc thú_y	6
+đăng_ký thuốc bảo_vệ thực_vật	5
+vệ_sinh thú_y đối_với cơ_sở	5
+đơn đăng_ký	5
+thuốc bảo_vệ thực_vật danh_mục	5
+vệ_sinh thú_y đối_với	4
+xử_lý vật_thể	4
+diện kiểm_dịch thực_vật	4
+phép sử_dụng việt nam	4
+giấy chứng_nhận	4
+phép nhập_khẩu	4
+chứng_nhận chất_lượng	4
+lưu_hành việt nam	4
+chuyên_ngành bảo_vệ kiểm_dịch thực_vật	3
+thuốc thú_y phép lưu_hành việt nam	3
+cơ_sở khảo_nghiệm	3
+cơ_sở sản_xuất thuốc	3
+chứng_nhận kiểm_dịch	3
+sử_dụng nguyên_liệu	3
+giấy_phép hành_nghề	3
+yêu_cầu cơ_quan	3
+chủ cơ_sở	3
+giấy chứng_nhận lưu_hành	3
+sử_dụng hóa_chất	3
+sản_xuất thuốc bảo_vệ thực_vật	3
+vật_thể diện kiểm_dịch	3
+hướng thần	3
+phép lưu_hành việt nam	3
+bao_gói thuốc	2
+pháp_luật bảo_vệ kiểm_dịch	2
+sản_xuất nhập_khẩu	2
+thực_vật bao_gồm	2
+cơ_quan thẩm_quyền	2
+việt nam	2
+danh_mục phép	2
+đăng_ký hành_nghề	2
+thu_hồi giấy_phép	2
+quản_lý nhà_nước thú_y	2
+quản_lý chuyên_ngành thú_y	2
+danh_mục thuốc bảo_vệ thực_vật phép sử_dụng	2
+hóa_chất danh_mục	2
+hại lạ	2
+kết_quả xét_nghiệm	2
+sử_dụng vắc	2
+cấm lưu_hành	2
+tiêu_chuẩn chất_lượng	2
+cấm nhập_khẩu	2
+thuốc bảo_vệ thực_vật phép sử_dụng	2
+cấm hành_nghề	2
+chuyên_ngành thú_y	1
+thuốc bảo_vệ thực_vật phép sử_dụng việt nam	1
+nhập_khẩu việt nam	1
+kiểm_tra kết_quả	1
+đối_với đối_tượng	1
+nhà_nước bảo_đảm	1
+thuốc hướng	1
+động_vật sống	1
+quản_lý sử_dụng	1
+động_vật danh_mục	1
+danh_mục cấm	1
+cơ_quan quản_lý chuyên_ngành	1
+khu bảo_vệ	1
+công_tác bảo_vệ	1
+yêu_cầu vệ_sinh	1
+quản_lý chất_lượng	1
+đăng_ký kinh_doanh	1
+kiểm_tra chất_lượng	1
+thú_y phép lưu_hành việt nam	1
+phép sản_xuất	1
+pháp_luật bảo_vệ	1
+thuốc bảo_vệ	1
+quản_lý chuyên_ngành	1
+bảo_vệ kiểm_dịch	1

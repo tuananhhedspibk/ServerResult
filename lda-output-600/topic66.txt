@@ -1,0 +1,43 @@
+chính_sách đảng	59
+phong_trào thi_đua	50
+xét tặng	44
+danh_hiệu vinh_dự nhà_nước	41
+tặng tập_thể	38
+tổ_chức đảng	36
+đoàn_thể trung_ương	36
+tặng truy_tặng cá_nhân	32
+giấy khen	29
+chủ_trương đảng	27
+danh_hiệu thi_đua	26
+hoàn_thành xuất_sắc nhiệm_vụ	25
+tiếp_theo liên_tục	23
+tặng truy_tặng	23
+đoàn_thể trong_sạch	23
+hình_thức khen_thưởng	20
+cờ thi_đua	20
+công_tác thi_đua	12
+lãnh_đạo đảng	11
+tập_thể lao_động	10
+kỷ_niệm chương	10
+anh_hùng lao_động	9
+trung_ương đảng	9
+vinh_dự nhà_nước	8
+phong_tặng danh_hiệu	8
+cờ hiệu	7
+danh_hiệu vinh_dự	6
+tặng danh_hiệu	6
+chấp_hành chủ_trương	5
+truy_tặng cá_nhân	4
+hoàn_thành nhiệm_vụ	4
+lãnh_đạo cơ_quan	4
+năng_suất lao_động	3
+hoàn_thành xuất_sắc	3
+đề_xuất chủ_trương	3
+cơ_quan đảng	2
+xuất_sắc nhiệm_vụ	2
+cơ_quan trung_ương tổ_chức	2
+nhà_nước chính_sách	1
+nhà_nước công_tác	1
+liên_tục hoàn_thành xuất_sắc nhiệm_vụ	1
+chính_sách nhà_nước	1
+tổ_chức lãnh_đạo công_tác	1

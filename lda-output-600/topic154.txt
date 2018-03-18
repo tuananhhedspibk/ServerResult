@@ -1,0 +1,98 @@
+đình_chỉ thi_hành	90
+trái hiến_pháp	78
+hiến_pháp pháp_luật	77
+giám_sát thi_hành pháp_luật	65
+khu tự_trị	53
+thi_hành hiến_pháp	52
+dấu_hiệu trái hiến_pháp	46
+lãnh_đạo công_tác	45
+giải_thích hiến_pháp	37
+hợp_pháp thống_nhất	35
+lãnh_đạo thống_nhất	34
+áp_dụng thống_nhất pháp_luật	29
+bảo_đảm hợp_hiến	29
+căn_cứ hiến_pháp	26
+thư_ký uỷ_viên	23
+đôn_đốc thi_hành	22
+- quản_lý công_tác	22
+bảo_đảm thi_hành hiến_pháp pháp_luật	21
+đình_chỉ thi_hành nghị_quyết	19
+bãi_bỏ đình_chỉ thi_hành	19
+quản_lý công_tác	18
+chỉ_đạo công_tác thông_tin	18
+trái pháp_luật	17
+tổ_chức lãnh_đạo công_tác	17
+tuân hiến_pháp	16
+bãi_bỏ đình_chỉ	16
+bảo_đảm thi_hành	15
+chỉ_đạo công_tác	14
+bảo_đảm thống_nhất	13
+điều_khoản thi_hành	13
+công_tác thông_tin	13
+phê_chuẩn thi_hành	13
+bãi_bỏ toàn_bộ	13
+thi_hành lệnh	12
+thi_hành quyết_định	11
+quyết_định đình_chỉ thi_hành	11
+đình_chỉ công_tác	10
+giám_sát tuân	9
+đình_chỉ thi_hành_văn_bản	9
+căn_cứ pháp_luật	9
+thống_nhất quản_lý công_tác	8
+nghị_quyết sai_trái	8
+bãi_bỏ quyết_định	8
+thi_hành hiến_pháp pháp_luật	8
+thống_nhất quản_lý	8
+nghiêm_chỉnh thi_hành	7
+nghị_quyết thích_đáng	7
+tuân hiến_pháp pháp_luật	7
+công_tác thi_hành án	7
+chấp_hành pháp_luật	7
+công_tác quân_sự	7
+thi_hành nghiêm_chỉnh	6
+nghiêm_chỉnh thống_nhất	6
+giám_sát tuân hiến_pháp	5
+quản_lý thống_nhất	5
+đình_chỉ thi_hành toàn_bộ	5
+chấp_hành hiến_pháp	5
+đình_chỉ thi_hành bãi_bỏ	5
+tổng_kết công_tác thi_hành	5
+thi_hành biện_pháp	4
+giám_sát thi_hành	4
+căn_cứ nghị_quyết	4
+bãi_bỏ nghị_quyết	4
+bầu bãi_miễn	4
+đình_chỉ đình_chỉ	3
+tuân pháp_luật	3
+quyết_định phê_chuẩn	3
+tổng_kết công_tác	3
+áp_dụng thống_nhất	3
+căn_cứ quyết_định	2
+quyết_định thi_hành	2
+nghiêm_chỉnh chấp_hành pháp_luật	2
+thi_hành án	2
+nghiêm_chỉnh chấp_hành	2
+công_tác thi_hành	2
+quyết_định đình_chỉ	2
+biện_pháp bảo_đảm thi_hành	2
+kiểm_tra chấp_hành pháp_luật	2
+biện_pháp bảo_đảm	2
+dấu_hiệu trái	2
+lãnh_đạo tổ_chức	2
+chấp_hành quyết_định	2
+bảo_đảm thi_hành hiến_pháp	2
+quyết_định áp_dụng	1
+căn_cứ trái	1
+- chỉ_đạo	1
+căn_cứ trái pháp_luật	1
+chấp_hành lệnh	1
+kiểm_tra công_tác	1
+- kiểm_tra	1
+nghị_quyết hội_nghị	1
+lãnh_đạo thống_nhất viện_trưởng	1
+nghiêm_chỉnh quyết_định	1
+tổ_chức hội_nghị	1
+chấp_hành nghiêm_chỉnh	1
+pháp_luật tiền_tệ	1
+công_tác quản_lý	1
+chấp_hành nghiêm_chỉnh quyết_định	1

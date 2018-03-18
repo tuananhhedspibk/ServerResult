@@ -1,0 +1,42 @@
+tổ_chức tôn_giáo	203
+tổ_chức tôn_giáo trực_thuộc	103
+cơ_sở tôn_giáo	88
+hoạt_động tôn_giáo	63
+văn_bản hợp_nhất	59
+cơ_sở tín_ngưỡng	49
+tôn_giáo trung_ương	37
+cơ_sở đào_tạo tôn_giáo	35
+tổ_chức chứng_nhận đăng_ký hoạt_động tôn_giáo	26
+hợp_nhất văn_bản	25
+hoạt_động tín_ngưỡng	24
+giảng đạo	21
+sinh_hoạt tôn_giáo	21
+lễ_hội tín_ngưỡng	20
+địa_bàn hoạt_động	16
+đào_tạo tôn_giáo	13
+lớp bồi_dưỡng	11
+cơ_sở đào_tạo	11
+tổ_chức hội_nghị	9
+tôn_giáo tập_trung	9
+tổ_chức lễ	7
+thẩm_quyền chấp_thuận	7
+tổ_chức lễ_hội	6
+chứng_nhận đăng_ký hoạt_động tôn_giáo	6
+cơ_cấu tổ_chức	5
+đăng_ký hoạt_động	5
+lãnh_đạo tổ_chức	5
+văn_bản chấp_thuận	5
+đăng_ký hoạt_động tôn_giáo	4
+tổ_chức hoạt_động	4
+quy_chế tổ_chức hoạt_động	3
+thẩm_quyền công_nhận	3
+chương_trình đào_tạo	2
+quy_chế hoạt_động	2
+chấp_thuận văn_bản	2
+thành_lập cơ_sở	2
+hợp_pháp tổ_chức	2
+chứng_nhận đăng_ký	1
+dự_kiến chương_trình	1
+cá_nhân mời	1
+thành_lập đăng_ký	1
+địa_điểm trụ_sở	1

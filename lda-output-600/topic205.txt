@@ -1,0 +1,178 @@
+trừ trường_hợp	1259
+trường_hợp :	968
+trường_hợp cần_thiết	552
+thông_báo văn_bản	396
+trừ trường_hợp thoả_thuận	233
+trường_hợp đặc_biệt	230
+nêu lý_do	226
+trừ trường_hợp thỏa_thuận	160
+đối_với trường_hợp	156
+trường_hợp khẩn_cấp	148
+đồng_ý văn_bản	130
+trường_hợp đương_sự	125
+thông_báo kết_quả	111
+văn_bản thông_báo	106
+trường_hợp phát_hiện	104
+trường_hợp thoả_thuận	99
+trường_hợp từ_chối	96
+trường_hợp thỏa_thuận	90
+trường_hợp thay_đổi	86
+trừ trường_hợp quy_định	82
+tống_đạt thông_báo	79
+văn_bản tố_tụng	77
+văn_bản trả_lời	70
+trở_ngại khách_quan	69
+trả_lời văn_bản	67
+xét cần_thiết	65
+trả_lời văn_bản nêu lý_do	65
+sự_kiện bất_khả_kháng	63
+chấm_dứt trường_hợp :	61
+kể_cả trường_hợp	61
+trường_hợp bất_khả_kháng	58
+thông_báo kịp_thời	57
+tống_đạt thông_báo văn_bản tố_tụng	51
+thông_báo văn_bản tố_tụng	49
+chấp_thuận văn_bản	49
+trách_nhiệm thông_báo	47
+trách_nhiệm trả_lời văn_bản	47
+trường_hợp đồng_ý	46
+trừ trường_hợp đặc_biệt	46
+thể_hiện văn_bản	44
+trường_hợp chấp_nhận	43
+thông_báo văn_bản nêu lý_do	43
+trường_hợp không_thể	43
+đồng_thời thông_báo	42
+trách_nhiệm thông_báo văn_bản	41
+trường_hợp xét	39
+văn_bản chấp_thuận	39
+thu_hồi trường_hợp :	38
+văn_bản xác_nhận	37
+trừ trường_hợp bất_khả_kháng	34
+văn_bản nêu lý_do	33
+trường_hợp cụ_thể	33
+trừ chi_phí	32
+văn_bản trả_lời nêu lý_do	32
+trường_hợp nhất_trí	31
+trường_hợp làm_chứng	30
+đương_sự thoả_thuận	29
+trường_hợp từ_chối thông_báo văn_bản nêu lý_do	28
+thông_báo đương_sự	28
+trừ trường_hợp miễn	26
+trường_hợp sáp_nhập	26
+thông_báo kia	25
+văn_bản yêu_cầu	25
+sự_kiện bất_khả_kháng trở_ngại khách_quan	24
+trường_hợp miễn	24
+sự_thật khách_quan	24
+thời_gian sự_kiện bất_khả_kháng trở_ngại khách_quan	24
+trường_hợp trả_lời văn_bản nêu lý_do	24
+văn_bản ủy_quyền	23
+vắng_mặt lý_do bất_khả_kháng trở_ngại khách_quan	23
+ủy_quyền văn_bản	23
+hợp_đồng_bằng văn_bản	23
+từ_chối tiến_hành tố_tụng thay_đổi trường_hợp :	22
+trách_nhiệm :	22
+trường_hợp nhu_cầu	22
+trường_hợp miễn_trách_nhiệm	21
+trường_hợp cần_thiết lý_do quốc_phòng	21
+thay_đổi trường_hợp :	21
+lý_do bất_khả_kháng	21
+trường_hợp nhu_cầu cán_bộ	21
+trường_hợp quy_định	20
+trường_hợp vắng_mặt	20
+trường_hợp thuê	20
+trường_hợp khuyết	19
+lý_do sức_khoẻ	19
+trách_nhiệm trả_lời	18
+lý_do bất_khả_kháng trở_ngại khách_quan	18
+giải_thể trường_hợp :	18
+trường_hợp sự_kiện bất_khả_kháng trở_ngại khách_quan	18
+thông_báo lý_do	18
+trường_hợp chấp_thuận nêu lý_do	17
+thông_báo từ_chối	17
+trường_hợp giải_quyết trả_lời văn_bản nêu lý_do	17
+vật_dụng cần_thiết	17
+trường_hợp đồng_ý quyết_định	17
+khách_quan không_thể	16
+nêu lý_do yêu_cầu	16
+đương_sự thỏa_thuận	16
+văn_bản nêu	15
+kịp_thời thông_báo	15
+ký văn_bản	14
+trường_hợp kiểm_sát_viên	14
+nêu cần_thiết	14
+lý_do khách_quan	14
+trường_hợp cần_thiết có_thể	14
+lý_do văn_bản	12
+trường_hợp từ_chối thông_báo	12
+lý_do yêu_cầu	11
+thời_gian trở_ngại	11
+văn_bản tố_tụng thực_hiện	10
+chi_phí cần_thiết	9
+nguyên_nhân bất_khả_kháng	9
+nguyên_nhân khách_quan	9
+chi_phí tố_tụng	8
+trả_lời nêu lý_do	8
+trường_hợp chủ	8
+trường_hợp từ_chối thông_báo văn_bản	7
+quy_định :	7
+thông_báo văn_bản cơ_quan	7
+trách_nhiệm trả_lời văn_bản thời_hạn	7
+trả_lời chấp_nhận	7
+trường_hợp đương_sự thoả_thuận	7
+yêu_cầu thay_đổi	6
+nêu gương	6
+chấp_thuận nêu lý_do	6
+trường_hợp đương_sự thỏa_thuận	6
+thông_báo nêu	6
+từ_chối ký	5
+xét miễn	5
+lý_do quốc_phòng	5
+thoả_thuận đương_sự	5
+trường_hợp sự_kiện	5
+đương_sự không_thể	5
+bất_khả_kháng trở_ngại khách_quan	4
+không_thể đồng_thời	4
+không_thể trì_hoãn	4
+thông_báo kết_quả kiểm_tra	4
+chấp_nhận từ_chối	4
+vắng_mặt trở_ngại	4
+vắng_mặt lý_do	4
+thông_báo chủ	4
+có_thể thỏa_thuận	3
+từ_chối tiến_hành tố_tụng thay_đổi	3
+thời_gian thuê	3
+đồng_ý kết_quả	3
+yêu_cầu thuê	3
+trở_ngại khách_quan thời_hạn	3
+trường_hợp không_thể trì_hoãn	3
+từ_chối tiến_hành	3
+từ_chối thông_báo	3
+từ_chối tiến_hành tố_tụng thay_đổi trường_hợp	3
+thời_gian sự_kiện bất_khả_kháng	2
+thông_báo cơ_quan	2
+trường_hợp sự_kiện bất_khả_kháng	2
+đối_với trường_hợp quy_định	2
+quy_định cụ_thể	2
+phát_hiện kịp_thời	2
+sự_kiện bất_khả_kháng trở_ngại khách_quan thời_hạn	2
+thông_báo văn_bản nêu	2
+trường_hợp cần_thiết lý_do	1
+giải_quyết trả_lời	1
+trả_lời thời_hạn	1
+kịp_thời chấm_dứt	1
+thực_hiện văn_bản	1
+thực_hiện thỏa_thuận	1
+giải_quyết trả_lời văn_bản nêu lý_do	1
+thoả_thuận giải_quyết	1
+đối_với cán_bộ	1
+chấp_nhận chấp_nhận	1
+cần_thiết lý_do quốc_phòng	1
+tiến_hành tố_tụng	1
+yêu_cầu đương_sự	1
+đương_sự yêu_cầu	1
+trách_nhiệm kiểm_tra	1
+thực_hiện quy_định	1
+trách_nhiệm giải_quyết	1
+kiểm_sát_viên thay_đổi	1
+đồng_ý quyết_định	1

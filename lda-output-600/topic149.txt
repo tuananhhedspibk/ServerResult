@@ -1,0 +1,117 @@
+hồ_sơ đề_nghị	247
+lập hồ_sơ	231
+hồ_sơ hợp_lệ	211
+đơn đề_nghị	193
+văn_bản đề_nghị	184
+nộp hồ_sơ	180
+gửi hồ_sơ	123
+hồ_sơ đăng_ký	98
+lập hồ_sơ đề_nghị	72
+lưu_trữ hồ_sơ	71
+tiếp_nhận hồ_sơ	60
+bản_sao chứng_thực	56
+hồ_sơ giấy_phép	49
+hồ_sơ đề_nghị giấy_phép	47
+gửi văn_bản	44
+hồ_sơ vụ_việc	44
+lưu hồ_sơ	41
+cung_cấp hồ_sơ	38
+hồ_sơ bệnh_án	37
+gửi hồ_sơ đề_nghị	37
+đề_nghị giấy_phép	37
+lưu_giữ hồ_sơ	36
+đề_nghị đặc_xá	36
+bổ_sung hồ_sơ	33
+kèm hồ_sơ	30
+văn_bản xác_nhận	30
+hồ_sơ gửi thẩm_định	29
+đơn đề_nghị giấy_phép	28
+kèm bản_sao	28
+lập danh_sách	26
+thụ_lý hồ_sơ	26
+nộp hồ_sơ đề_nghị	25
+kiểm_tra hồ_sơ	25
+nộp đơn	25
+nộp hồ_sơ đăng_ký	23
+nộp đơn đăng_ký	21
+gửi đơn	21
+gửi văn_bản đề_nghị	20
+quyết_định đặc_xá chủ_tịch	20
+đơn đăng_ký	19
+gửi bản_sao	19
+hồ_sơ trình	18
+lập thành hồ_sơ	18
+đề_nghị thay_đổi	18
+hồ_sơ đề_nghị giấy_phép xây_dựng	18
+đề_nghị miễn	17
+gửi kèm	16
+hoàn_chỉnh hồ_sơ	16
+quyết_định đặc_xá	15
+đề_nghị gia_hạn	15
+bản_sao giấy_tờ	14
+hồ_sơ gửi	14
+hồ_sơ yêu_cầu	14
+bản_sao quyết_định	14
+đề_nghị công_nhận	14
+giả_mạo hồ_sơ	12
+cá_nhân nộp hồ_sơ	12
+giấy_tờ xác_nhận	12
+tài_liệu hồ_sơ	11
+đề_nghị xem_xét_lại	11
+hồ_sơ đề_nghị xét miễn	11
+gia_hạn giấy_phép	10
+bản_chính bản_sao	10
+thụ_lý đơn	10
+đề_nghị xem_xét	9
+đề_nghị chủ_tịch	9
+gửi văn_bản yêu_cầu	8
+thụ_lý vụ_việc	8
+giả_mạo giấy_tờ	8
+thẩm_định hồ_sơ	8
+bản_sao văn_bản	7
+hồ_sơ đề_nghị xét	7
+sai_lệch hồ_sơ	7
+xác_nhận đăng_ký	7
+kèm đơn	6
+gửi quyết_định	6
+văn_bản yêu_cầu	6
+văn_bản kèm	6
+tờ_trình đề_nghị	6
+hồ_sơ đề_nghị xây_dựng	6
+đặc_xá chủ_tịch	5
+lập trình	5
+lập hồ_sơ đề_nghị áp_dụng biện_pháp	5
+đề_nghị áp_dụng	5
+quyết_định gia_hạn	4
+hồ_sơ đề_nghị áp_dụng biện_pháp	4
+giấy_phép lái_xe	4
+đề_nghị xét	4
+đề_nghị xét miễn	4
+tài_liệu gửi	4
+đề_nghị giấy_phép xây_dựng	3
+trình chủ_tịch	3
+giấy_tờ kèm	3
+xem_xét văn_bản	3
+đề_nghị xây_dựng	3
+miễn kiểm_tra	3
+quyết_định thay_đổi	2
+giấy_phép văn_bản trả_lời	2
+kèm tài_liệu	2
+nộp lưu	2
+yêu_cầu thay_đổi	2
+quyết_định công_nhận	2
+đăng_ký thay_đổi	2
+cung_cấp tài_liệu	1
+gia_hạn nộp	1
+bổ_sung tài_liệu	1
+bản_sao tài_liệu	1
+thay_đổi bổ_sung	1
+xét miễn	1
+đơn yêu_cầu	1
+hồ_sơ đề_nghị chứng_chỉ	1
+bản_sao chứng_chỉ	1
+hồ_sơ đề_nghị áp_dụng	1
+tài_liệu kèm	1
+thụ_lý đơn yêu_cầu	1
+lập hồ_sơ đề_nghị áp_dụng	1
+gửi kèm đơn	1

@@ -1,0 +1,39 @@
+tiếp_cận gen	43
+sinh_vật biến_đổi gen	35
+chia_sẻ lợi_ích	31
+giốngvật nuôi	30
+vườn quốc_gia	28
+mẫu_vật di_truyền sinh_vật biến_đổi gen	28
+thực_vật hoang_dã nguy_cấp	26
+loài sinh_vật	25
+loài ngoại_lai xâm_hại	21
+bảo hộgiống cây_trồng	20
+mẫu_vật di_truyền	19
+giấy_phép tiếp_cận gen	19
+khoanh nuôi	17
+loài hoang_dã	15
+giá_trị đặc_biệt	13
+ngoại_lai xâm_hại	13
+loài ngoại_lai	12
+biến_đổi gen	11
+loài thực_vật	11
+thực_vật hoang_dã	8
+điều_tra cơ_bản	8
+kết_quả điều_tra	6
+lợi_ích quốc_gia	6
+đối_với cây_trồng	5
+bảo_tồn loài	5
+đánh_giá hiện_trạng	4
+đối_với diện_tích	4
+loài nguy_cấp	4
+tiếp_cận gen chia_sẻ	3
+kết_quả điều_tra cơ_bản	2
+kết_quả đánh_giá	2
+hoang_dã nguy_cấp	2
+mẫu_vật loài	2
+công_bố kết_quả	1
+đánh_giá rủi_ro	1
+mẫu_vật di_truyền sinh_vật	1
+di_truyền sinh_vật	1
+đánh_giá kết_quả	1
+gen vật_nuôi	1

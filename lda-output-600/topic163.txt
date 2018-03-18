@@ -1,0 +1,160 @@
+phiên họp	462
+kỳ họp	329
+kỳ họp hội_đồng nhân_dân	171
+kỳ họp 10	154
+kỳ họp quốc_hội	148
+tham_gia phiên họp	102
+tham_dự phiên họp	85
+tiến_hành phiên họp	66
+thời_gian quốc_hội họp	53
+phiên điều_trần	49
+kỳ họp 8	49
+hoãn phiên họp	48
+phiên họp toàn_thể	47
+mời tham_dự phiên họp	44
+phiên họp xét đơn yêu_cầu	42
+kỳ họp 4	41
+phiên họp ủy_ban thường_vụ quốc_hội	37
+chủ_tọa phiên họp	36
+kỳ họp 2	36
+phiên họp chính_phủ	34
+khai_mạc kỳ họp	33
+tham_dự hội_nghị	33
+mời tham_dự phiên họp phát_biểu ý_kiến	32
+kỳ họp 6	32
+mời tham_dự	31
+biên_bản phiên họp	29
+phiên họp xem_xét	28
+thông_qua_ngày 29 11	27
+kỳ họp 7 thông_qua_ngày	25
+chủ_toạ phiên họp	25
+kỳ họp 3 thông_qua_ngày	25
+khai_mạc kỳ họp quốc_hội	24
+báo_cáo quốc_hội kỳ họp	24
+phiên họp xét	23
+kỳ họp 7 thông_qua	22
+khai_mạc kỳ họp hội_đồng nhân_dân	22
+thời_gian hai kỳ họp quốc_hội	21
+kỳ họp hội_đồng nhân_dân khoá	20
+phiên họp giải_quyết dân_sự	20
+thư_ký phiên họp	20
+phiên họp xét hợp_pháp đình_công	19
+thư_ký phiên điều_trần	19
+kỳ họp 8 thông_qua_ngày	19
+phiên họp xem_xét kiến_nghị	19
+kỳ họp 11	19
+kỳ họp 5 thông_qua_ngày	18
+phiên họp ủy_ban nhân_dân	18
+kỳ họp 9 thông_qua_ngày 29	18
+phiên họp kiểm_tra giao_nộp	18
+kỳ họp 3	18
+chủ_toạ kỳ họp	18
+chủ_tọa phiên họp kết_luận	18
+mời dự	18
+hai kỳ	18
+kỳ họp khoá	17
+phiên họp uỷ_ban thường_vụ quốc_hội	17
+kỳ họp 5 thông_qua	17
+họp kín	16
+triệu_tập kỳ họp	15
+kết_thúc phiên họp	15
+kỳ họp 10 thông_qua_ngày	15
+phiên họp hội_đồng	14
+kỳ họp khoá quốc_hội	14
+kỳ họp 6 thông_qua_ngày	14
+hai kỳ họp quốc_hội	13
+quốc_hội thông_qua_ngày	13
+kỳ họp 9 thông_qua_ngày	13
+mời tham_gia	13
+quốc_hội kỳ họp	13
+kỳ họp 5	12
+hội_đồng nhân_dân kỳ họp	12
+thông_qua_ngày 29	12
+chương_trình kỳ họp	12
+tham_dự phiên họp chính_phủ	12
+phiên họp ủy_ban	11
+mời tham_dự hội_nghị	11
+phiên họp giải_quyết tranh_chấp	10
+bắt_đầu phiên họp	10
+tham_dự phiên họp phát_biểu ý_kiến	10
+tham_gia phiên	9
+kỳ họp 4 thông_qua	9
+trúng_tuyển kỳ	8
+biên_bản họp	8
+thảo_luận phiên họp	8
+hai kỳ họp	8
+quốc_hội thông_qua	7
+phiên họp phát_biểu ý_kiến	7
+họp hội_đồng nhân_dân	7
+dự hội_nghị	7
+kỳ họp 9	7
+triệu_tập chủ_toạ	7
+dự phiên họp	6
+tham_dự kỳ họp hội_đồng nhân_dân	6
+họp bất_thường	6
+kỳ họp 7	6
+tiến_hành phiên	6
+quốc_hội kỳ họp quốc_hội	6
+tham_dự họp	6
+tham_dự phiên họp hội_đồng	5
+chủ_tọa phiên	5
+triệu_tập hội_nghị	5
+thời_gian quốc_hội	5
+tham_gia hội_nghị	4
+mời tham_dự phiên	4
+hội_đồng nhân_dân	4
+tham_dự kỳ họp	4
+dự họp	4
+thư_ký hội_đồng	4
+báo_cáo quốc_hội	3
+thời_gian hai	3
+hội_đồng xét	3
+họp hội_đồng	3
+chủ_toạ phiên	2
+quốc_hội họp	2
+biên_bản hội_nghị	2
+họp xét	2
+họp uỷ_ban	2
+họp kết_luận	2
+phiên họp kiểm_tra	2
+phiên họp thường_trực hội_đồng	2
+phiên họp xem_xét quyết_định	2
+hoãn phiên	2
+thông_qua báo_cáo	2
+29 11	2
+phiên họp chính_phủ bàn	2
+mời họp	2
+báo_cáo hội_đồng	1
+xem_xét báo_cáo	1
+họp 6	1
+quốc_hội xem_xét	1
+thời_gian hai kỳ họp	1
+quốc_hội kỳ	1
+kết_luận hội_đồng	1
+họp 3	1
+kiểm_tra giao_nộp	1
+thảo_luận thông_qua	1
+họp 7	1
+họp phát_biểu ý_kiến	1
+thông_qua chương_trình	1
+phiên họp giải_quyết	1
+phiên họp xét đơn	1
+hai tranh_chấp	1
+họp ủy_ban thường_vụ quốc_hội	1
+3 4	1
+họp xem_xét	1
+7 8	1
+xem_xét đơn	1
+kỳ họp hội_đồng	1
+chính_phủ bàn	1
+xét đơn	1
+thường_trực hội_đồng nhân_dân	1
+thông_qua_ngày 03	1
+tham_gia ý_kiến	1
+bắt_đầu kết_thúc	1
+chủ_toạ kỳ	1
+thư_ký phiên	1
+phiên họp phát_biểu	1
+hội_đồng nhân_dân khoá	1
+ủy_ban quốc_hội	1
+phiên họp thường_trực	1

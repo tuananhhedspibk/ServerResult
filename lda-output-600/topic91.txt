@@ -1,0 +1,21 @@
+sản_phẩm quảng_cáo	61
+cơ_quan báo_chí	61
+kinh_doanh dịch_vụ quảng_cáo	43
+hoạt_động quảng_cáo	33
+phương_tiện quảng_cáo	33
+chuyên quảng_cáo	25
+phát_hành quảng_cáo	23
+bảng quảng_cáo	20
+hoạt_động báo_chí	18
+dịch_vụ quảng_cáo	15
+giấy_phép hoạt_động báo_chí	14
+hoạt_động kinh_doanh	14
+quảng_cáo ngoài_trời	12
+hoạt_động văn_hoá	5
+chương_trình phát_sóng	5
+thủ_tục giấy_phép	4
+cơ_quan chủ_quản	3
+nội_dung chương_trình	2
+hoạt_động nghề_nghiệp	1
+giấy_phép hoạt_động	1
+hoạt_động dịch_vụ	1

@@ -1,0 +1,156 @@
+tổ_chức tín_dụng	1237
+tổ_chức hành_nghề luật_sư	228
+chi_nhánh ngân_hàng nước_ngoài	183
+yêu_cầu công_chứng	174
+đoàn luật_sư	173
+văn_phòng công_chứng	168
+tổ_chức hành_nghề công_chứng	167
+tổ_chức tín_dụng kiểm_soát đặc_biệt	130
+chứng_chỉ hành_nghề luật_sư	96
+hành_nghề luật_sư	91
+quỹ tín_dụng nhân_dân	89
+văn_phòng luật_sư	68
+phòng công_chứng	67
+hành_nghề công_chứng	66
+tập_sự hành_nghề luật_sư	66
+văn_bản công_chứng	63
+ngân_hàng hợp_tác_xã	58
+tổ_chức tín_dụng phép	56
+tổ_chức tín_dụng nước_ngoài	49
+gia_nhập đoàn luật_sư	49
+thẻ luật_sư	49
+tổ_chức hành_nghề luật_sư nước_ngoài	46
+đào_tạo nghề luật_sư	46
+luật_sư nước_ngoài	46
+tổ_chức hành_nghề	46
+đối_với tổ_chức tín_dụng	45
+hoạt_động tổ_chức tín_dụng	44
+hình_thức tổ_chức hành_nghề	40
+tổ_chức luật_sư toàn_quốc	39
+bổ_nhiệm công_chứng_viên	39
+luật_sư hành_nghề luật_sư	38
+điều_lệ tổ_chức tín_dụng	38
+đào_tạo nghề công_chứng	37
+chứng_chỉ hành_nghề đấu_giá	36
+luật_sư hành_nghề tư_cách cá_nhân	35
+ban chủ_nhiệm đoàn luật_sư	35
+tổ_chức nước_ngoài hoạt_động ngân_hàng	34
+tổ_chức tín_dụng phi ngân_hàng	33
+chứng_chỉ hành_nghề	30
+tổ_chức hoạt_động	30
+điều_hành tổ_chức tín_dụng	30
+loại_hình tổ_chức tín_dụng	29
+ngân_hàng nước_ngoài	29
+hệ_thống tổ_chức tín_dụng	29
+luật_sư đoàn luật_sư	27
+thu_hồi chứng_chỉ hành_nghề luật_sư	26
+văn_phòng đại_diện tổ_chức tín_dụng nước_ngoài	25
+công_chứng hợp_đồng	25
+kiểm_tra kết_quả tập_sự hành_nghề luật_sư	25
+luật_sư toàn_quốc	23
+tập_sự hành_nghề công_chứng	22
+luật_sư hành_nghề	22
+tổ_chức tín_dụng liên_doanh	22
+ngân_hàng thương_mại kiểm_soát đặc_biệt	22
+cơ_cấu tổ_chức	21
+nợ xấu tổ_chức tín_dụng	20
+miễn_nhiệm công_chứng_viên	20
+ngân_hàng thương_mại	20
+quy_định điều_lệ tổ_chức tín_dụng	19
+thời_gian tập_sự	19
+thu_hồi chứng_chỉ hành_nghề đấu_giá	19
+chứng_chỉ hành_nghề biên_tập	18
+trưởng chi_nhánh	18
+cử luật_sư	17
+nghề_nghiệp luật_sư	17
+hồ_sơ công_chứng	16
+văn_phòng đại_diện	16
+luật_sư tập_sự	15
+điều_lệ tổ_chức	15
+phí công_chứng	13
+đăng_ký hành_nghề	12
+nghề công_chứng	12
+thành_lập văn_phòng công_chứng	12
+tín_dụng ngân_hàng	11
+vốn tổ_chức tín_dụng	11
+hành_nghề luật_sư nước_ngoài	11
+chi_nhánh ngân_hàng	11
+vốn điều_lệ tổ_chức tín_dụng	11
+nghề luật_sư	10
+tập_sự hành_nghề đấu_giá	10
+thành_lập chi_nhánh	9
+trưởng văn_phòng	8
+kiểm_tra kết_quả tập_sự hành_nghề	8
+công_chứng công_chứng_viên	8
+hoạt_động ngân_hàng	7
+ngoại_tệ tổ_chức tín_dụng phép	7
+tư_cách cá_nhân	7
+kiểm_soát tổ_chức tín_dụng	7
+kiểm_tra kết_quả tập_sự	7
+đăng_ký hoạt_động văn_phòng công_chứng	6
+luật_sư tổ_chức hành_nghề luật_sư	6
+kiểm_soát đặc_biệt	6
+thành_lập văn_phòng	5
+phá_sản tổ_chức tín_dụng	5
+văn_phòng đại_diện tổ_chức tín_dụng	5
+hành_nghề tư_cách cá_nhân	5
+thu_hồi chứng_chỉ hành_nghề	5
+quỹ tín_dụng	4
+văn_phòng điều_hành	4
+vốn nước_ngoài	4
+phép thành_lập	4
+luật_sư luật_sư	4
+đào_tạo nghề	4
+thu_hồi thẻ	4
+ban chủ_nhiệm	4
+danh_sách luật_sư	4
+loại_hình tổ_chức	3
+chủ_nhiệm đoàn luật_sư	3
+đại_diện tổ_chức	3
+tổ_chức tín_dụng công_ty	3
+tổ_chức tín_dụng kiểm_soát	3
+văn_phòng đại_diện tổ_chức	3
+tập_sự hành_nghề	3
+luật_sư đoàn	3
+kết_quả kiểm_tra	3
+đề_nghị bổ_nhiệm công_chứng_viên	3
+nợ nước_ngoài	2
+văn_bản yêu_cầu	2
+thương_mại nước_ngoài	2
+đại_diện tổ_chức tín_dụng	2
+hoạt_động phòng	2
+nước_ngoài phép	2
+hoạt_động chi_nhánh	2
+kết_quả tập_sự	2
+kiểm_tra hoạt_động	2
+thời_gian tập_sự hành_nghề	2
+tổ_chức tín_dụng phép hoạt_động	2
+thu_hồi vốn	2
+cổ_phần tổ_chức tín_dụng	1
+nợ xấu	1
+ngoại_tệ tổ_chức tín_dụng	1
+luật_sư hành_nghề tư_cách	1
+điều_lệ ngân_hàng	1
+hoạt_động văn_phòng công_chứng	1
+đối_với hợp_tác_xã	1
+chi_nhánh văn_phòng đại_diện	1
+chủ_nhiệm văn_phòng	1
+thu_hồi chứng_chỉ	1
+hệ_thống tổ_chức	1
+điều_lệ tổ_chức hoạt_động	1
+hợp_đồng liên_doanh	1
+nước_ngoài hoạt_động	1
+tín_dụng nước_ngoài	1
+tín_dụng phép	1
+đề_nghị thẻ	1
+thành_lập hoạt_động	1
+quy_định tổ_chức hoạt_động	1
+điều_hành hoạt_động	1
+hoạt_động tổ_chức hành_nghề luật_sư	1
+đối_với loại_hình	1
+chứng_chỉ đào_tạo	1
+đăng_ký hoạt_động chi_nhánh	1
+hành_nghề đấu_giá	1
+thành_lập văn_phòng đại_diện	1
+thành_lập đoàn	1
+cá_nhân nước_ngoài	1

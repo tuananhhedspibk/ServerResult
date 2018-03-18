@@ -1,0 +1,60 @@
+chứng_chỉ hành_nghề	182
+dược tư_nhân	159
+bộ_trưởng y_tế	110
+cơ_sở y_tế	100
+hành_nghề y	75
+sinh phẩm y_tế	70
+trang_thiết_bị y_tế	38
+bộ_trưởng y_tế quy_định	38
+chứng_chỉ chuyên_môn	35
+nhân_viên y_tế	32
+giám_đốc sở y_tế	32
+y_học cổ_truyền	31
+y dược_học cổ_truyền	31
+chứng_chỉ hành_nghề thẩm_quyền	30
+y_học cổ_truyền dân_tộc	25
+trạm y_tế	24
+sở y_tế	24
+quy_định bộ_trưởng y_tế	23
+cơ_sở y	23
+sử_dụng vắc	22
+thu_hồi chứng_chỉ hành_nghề	22
+y_tế quy_định	21
+y_tế sở y_tế	21
+chứng_chỉ hành_nghề y	21
+sinh phẩm y_tế tư_nhân	18
+vật_tư y_tế	18
+bộ_trưởng y_tế quy_định cụ_thể	17
+dược_học cổ_truyền dân_tộc	17
+bộ_trưởng y_tế ban_hành	15
+hành_nghề y tư_nhân	13
+sử_dụng thuốc	12
+cơ_sở hành_nghề y	12
+dược_học cổ_truyền	12
+thành_lập cơ_sở	8
+hành_nghề dược	8
+đề_nghị chứng_chỉ hành_nghề	8
+y dược_học	8
+điều_kiện hành_nghề	7
+y tư_nhân	7
+y_tế ban_hành	6
+sinh phẩm	5
+hành_nghề dược tư_nhân	5
+điều_kiện hành_nghề y	4
+thành_lập cơ_sở hành_nghề	4
+y_tế quy_định cụ_thể	3
+cổ_truyền dân_tộc	3
+thuốc đông_y	2
+thẩm_quyền phép	2
+quy_định cụ_thể điều_kiện	2
+y_tế tư_nhân	2
+điều_kiện quy_định	2
+đề_nghị bộ_trưởng	1
+giám_đốc sở	1
+trung_học cơ_sở	1
+điều_kiện thành_lập	1
+đề_nghị chứng_chỉ	1
+sai_sót chuyên_môn	1
+quảng_cáo thuốc	1
+điều_kiện thành_lập cơ_sở	1
+thu_hồi chứng_chỉ	1

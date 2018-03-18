@@ -1,0 +1,5 @@
+giai_cấp công_nhân	28
+cải_cách ruộng_đất	21
+sức lao_động	4
+hội nông_dân	4
+công tư	2

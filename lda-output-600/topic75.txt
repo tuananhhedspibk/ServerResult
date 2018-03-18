@@ -1,0 +1,183 @@
+giấy chứng_nhận	622
+đăng_ký kinh_doanh	299
+giấy chứng_nhận đăng_ký kinh_doanh	255
+cơ_quan đăng_ký kinh_doanh	176
+giấy chứng_nhận đăng_ký	147
+giấy chứng_nhận quyền sở_hữu	117
+giấy chứng_nhận đăng_ký doanh_nghiệp	105
+đăng_ký hoạt_động	100
+giấy đăng_ký hoạt_động	99
+giấy chứng_minh nhân_dân	88
+hoạt_động kinh_doanh	86
+thu_hồi giấy chứng_nhận	81
+giấy xác_nhận	81
+giấy chứng_nhận đầu_tư	80
+giấy chứng_nhận điều_kiện	77
+thủ_tục đăng_ký	63
+giấy chứng_nhận đăng_ký đầu_tư	61
+sổ đăng_ký	55
+giấy đăng_ký	50
+phương_án phục_hồi hoạt_động kinh_doanh	46
+giấy chứng_nhận điều_kiện kinh_doanh dịch_vụ kiểm_toán	44
+đăng_ký mua	42
+điều_kiện kinh_doanh	41
+hồ_sơ đăng_ký kinh_doanh	41
+giấy uỷ_quyền	39
+giấy chứng_minh	37
+giấy chứng_nhận vốn góp	37
+giấy chứng_nhận điều_kiện kinh_doanh dịch_vụ kế_toán	35
+bản_sao giấy chứng_nhận	35
+đăng_ký hành_nghề	35
+cơ_quan đăng_ký	32
+giấy chứng_nhận điều_kiện hành_nghề y	31
+phương_án phục_hồi hoạt_động kinh_doanh doanh_nghiệp	30
+cơ_quan đăng_ký đầu_tư	30
+đăng_ký đầu_tư	29
+thu_hồi giấy chứng_nhận đăng_ký kinh_doanh	29
+nội_dung đăng_ký	29
+hồ_sơ đăng_ký	28
+đầu_tư kinh_doanh	28
+thu_hồi giấy đăng_ký hoạt_động	27
+nội_dung đăng_ký kinh_doanh	27
+giấy chứng_nhận điều_kiện kinh_doanh	27
+bản_sao giấy chứng_nhận đăng_ký kinh_doanh	26
+xoá đăng_ký	24
+xác_nhận đăng_ký	24
+đơn đăng_ký	24
+giấy chứng_nhận đăng_ký đầu_tư nước_ngoài	24
+giấy chứng_nhận đăng_ký quyền liên_quan	23
+sổ đăng_ký cổ_đông	23
+thủ_tục giấy chứng_nhận	23
+đăng_ký thay_đổi	22
+giấy chứng_nhận đăng_ký quyền tác_giả	22
+địa_điểm kinh_doanh	20
+quyết_định thành_lập đăng_ký kinh_doanh	20
+thu_hồi giấy chứng_nhận đăng_ký	20
+bản_sao giấy	20
+giấy chứng_nhận đăng_ký hoạt_động	19
+chứng_nhận chất_lượng	19
+giấy chứng_nhận khả_năng chuyên_môn	19
+sổ đăng_ký thành_viên	19
+thay_đổi nội_dung đăng_ký doanh_nghiệp	18
+điều_kiện hành_nghề	18
+hoạt_động đầu_tư kinh_doanh	18
+giấy chứng_nhận đăng_ký hành_nghề	17
+cơ_quan nhà_nước thẩm_quyền giấy chứng_nhận	17
+giấy chứng_nhận điều_kiện sản_xuất	17
+đăng_ký doanh_nghiệp	17
+kinh_doanh điều_kiện	17
+nội_dung đăng_ký hoạt_động	16
+giấy chứng_nhận khai_thác tàu_bay	16
+giấy chứng_nhận tốt_nghiệp	15
+ghi giấy	15
+doanh_nghiệp kinh_doanh	14
+vào_sổ đăng_ký	14
+chứng_minh nhân_dân	14
+giấy chứng_nhận an_toàn kỹ_thuật	13
+chứng_nhận công_chứng nhà_nước chứng_thực uỷ_ban nhân_dân	13
+giấy chứng_nhận bào_chữa	13
+phục_hồi hoạt_động kinh_doanh	12
+thu_hồi giấy chứng_nhận điều_kiện	12
+thủ_tục phục_hồi hoạt_động kinh_doanh	12
+hộ kinh_doanh	11
+phục_hồi hoạt_động kinh_doanh doanh_nghiệp	11
+đề_nghị giấy chứng_nhận	11
+đăng_ký cổ_đông	11
+thay_đổi nội_dung đăng_ký hoạt_động	10
+từ_chối giấy chứng_nhận	10
+giấy chứng_nhận điều_kiện kinh_doanh dịch_vụ	9
+thẩm_quyền giấy chứng_nhận	9
+thu_hồi giấy	9
+giấy mời	9
+xóa đăng_ký	9
+bản_sao giấy chứng_nhận đăng_ký	8
+giấy chứng_nhận điều_kiện hành_nghề	8
+điều_chỉnh giấy chứng_nhận đăng_ký đầu_tư	8
+nội_dung giấy chứng_nhận	8
+giấy chứng_nhận cơ_sở điều_kiện	7
+giấy chứng_nhận cơ_sở điều_kiện sản_xuất	7
+quyết_định thu_hồi	7
+điều_kiện kinh_doanh dịch_vụ	7
+giấy chứng_nhận tiêu_chuẩn	7
+hồ_sơ đề_nghị giấy chứng_nhận	7
+kinh_doanh dịch_vụ	7
+đăng_ký hành_nghề kiểm_toán	6
+ghi giấy chứng_nhận	6
+thay_đổi nội_dung đăng_ký	6
+đơn đề_nghị giấy chứng_nhận	5
+đổi giấy chứng_nhận	5
+xuất_trình giấy	5
+đề_nghị giấy chứng_nhận điều_kiện kinh_doanh dịch_vụ	5
+hoạt_động kinh_doanh doanh_nghiệp	5
+đăng_ký quyền	4
+chứng_nhận đăng_ký kinh_doanh	4
+cơ_quan chuyên_môn	4
+bản_sao chứng_thực	4
+chứng_nhận điều_kiện	4
+hoạt_động đầu_tư	4
+quyết_định thành_lập đăng_ký	4
+đăng_ký quyền sở_hữu	3
+công_chứng nhà_nước chứng_thực	3
+thành_lập hoạt_động	3
+sổ kế_toán	3
+hành_nghề dịch_vụ	3
+điều_kiện kinh_doanh dịch_vụ kiểm_toán	3
+giấy chứng_nhận hành_nghề	3
+giấy chứng_nhận quyền	3
+kinh_doanh doanh_nghiệp	3
+thủ_tục giấy chứng_nhận đăng_ký	3
+nội_dung giấy	3
+cổ_đông sở_hữu	3
+đề_nghị giấy chứng_nhận điều_kiện	3
+giấy đòi	3
+sở tư_pháp giấy đăng_ký	2
+chứng_nhận đầu_tư	2
+đơn ghi	2
+chứng_nhận đăng_ký	2
+điều_kiện kinh_doanh dịch_vụ kế_toán	2
+quyết_định thành_lập	2
+quyền đề_nghị	2
+đăng_ký đầu_tư nước_ngoài	2
+thẩm_quyền giấy	2
+tư_pháp giấy đăng_ký hoạt_động	2
+thu_hồi vốn	2
+thu_hồi giấy đăng_ký	2
+giấy cam_đoan	2
+nội_dung hồ_sơ đăng_ký	2
+phục_hồi hoạt_động	2
+tiêu_chuẩn điều_kiện	2
+nội_dung đăng_ký doanh_nghiệp	2
+đề_nghị giấy chứng_nhận điều_kiện kinh_doanh	1
+đăng_ký hoạt_động doanh_nghiệp	1
+ghi quyết_định	1
+chứng_nhận cơ_sở điều_kiện	1
+nước_ngoài đầu_tư	1
+điều_kiện sản_xuất	1
+địa_điểm thủ_tục	1
+ghi vào_sổ	1
+thành_lập đăng_ký kinh_doanh	1
+kinh_doanh dịch_vụ kiểm_toán	1
+chứng_nhận công_chứng	1
+liên_quan bào_chữa	1
+quyết_định điều_chỉnh	1
+công_chứng nhà_nước	1
+chứng_minh quyền	1
+điều_kiện thành_lập	1
+chứng_nhận quyền sở_hữu	1
+đổi giấy	1
+kiểm_toán nhà_nước	1
+liên_quan hoạt_động	1
+nội_dung giấy chứng_nhận đăng_ký	1
+khả_năng chuyên_môn	1
+đăng_ký cơ_quan nhà_nước	1
+thay_đổi nội_dung	1
+thành_lập doanh_nghiệp	1
+phương_án phục_hồi	1
+doanh_nghiệp kiểm_toán nước_ngoài	1
+cơ_quan thẩm_quyền	1
+bản_sao quyết_định	1
+quyền sở_hữu	1
+chứng_nhận công_chứng nhà_nước	1
+quyết_định đầu_tư	1
+hoạt_động dịch_vụ	1
+thủ_tục phục_hồi	1

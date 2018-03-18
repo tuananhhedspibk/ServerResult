@@ -1,0 +1,42 @@
+xe cơ_giới	84
+xe ô_tô	62
+đỗ xe	49
+đi đường	48
+giấy_phép lái_xe	43
+xe chạy	38
+xe thô_sơ	33
+đua xe	32
+nhường đường	31
+dừng xe	31
+giấy_phép lái_xe hạng	30
+hai bánh	30
+xe đi	25
+đoạn đường	25
+xe ô-tô	24
+đường đô_thị	23
+đường xe	22
+xe mô_tô	20
+đường ngang	19
+đường xe chạy	17
+xe mô-tô	17
+tuyến đường	16
+điều_khiển xe	14
+chở hàng	10
+đường đi	8
+ô_tô chở	6
+xe đường	6
+giấy_phép lái	6
+đấu nối	6
+thành hai	5
+cấm đi	4
+hạng giấy_phép lái_xe	4
+hàng nguy_hiểm	3
+giao hàng	3
+lái_xe hạng	3
+mượn đường	2
+phân thành	2
+giới_hạn phép	1
+cấm sử_dụng	1
+cử đi	1
+đăng_ký lưu_hành	1
+khai_thác công_dụng	1

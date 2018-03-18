@@ -1,0 +1,79 @@
+hưởng chế_độ	194
+chính_sách đối_với	115
+hưởng án_treo	115
+hưởng ưu_đãi	98
+hưởng quyền_lợi	86
+hưởng quyền	74
+hưởng thù_lao	66
+chính_sách ưu_đãi	62
+hưởng chế_độ ưu_đãi	61
+hưởng phụ_cấp	58
+hưởng quyền ưu_đãi	48
+hưởng chính_sách	45
+hưởng lợi	38
+quà tặng	37
+hưởng chính_sách ưu_đãi	36
+chế_độ ưu_đãi	35
+thực_hiện chế_độ	35
+hưởng lương	33
+quyền ưu_đãi	32
+lãi_suất ưu_đãi	32
+chế_độ ưu_đãi đối_với	32
+hưởng chính_sách thương_binh	29
+ưu_đãi đối_với	29
+hưởng quyền ưu_tiên	29
+hưởng miễn_trừ	29
+chế_độ tiền_lương	27
+ưu_đãi thuế	27
+quà biếu	26
+hưởng ưu_đãi đầu_tư	26
+thực_hiện chính_sách	23
+hưởng khoản	21
+hưởng chính_sách hỗ_trợ	20
+hưởng ưu_đãi thuế	19
+chế_độ đãi_ngộ	18
+chế_độ ưu_tiên	17
+phụ_cấp thâm_niên	16
+hồ_sơ đề_nghị hưởng miễn_trừ	15
+hiện hưởng	15
+chế_độ phụ_cấp	15
+thực_hiện chính_sách ưu_đãi	15
+tiền_lương phụ_cấp	13
+đối_tượng hưởng	12
+hưởng chế_độ ưu_đãi quy_định	12
+khen_thưởng chế_độ	12
+quyền hưởng	11
+quyền đề_nghị	10
+chính_sách ưu_đãi đối_với	10
+hưởng tiền_lương	10
+chế_độ tiền_lương phụ_cấp	9
+chế_độ kế_toán	8
+thực_hiện quyền	8
+thực_hiện chế_độ kế_toán	8
+từ_bỏ quyền	7
+lương phụ_cấp	7
+thuế đối_với	6
+khoản phụ_cấp	6
+hưởng ưu_đãi quy_định	6
+chế_độ chính_sách	6
+thực_hiện chế_độ tiền_lương	5
+chính_sách ưu_tiên	5
+ưu_đãi quy_định	5
+đề_nghị hưởng miễn_trừ	4
+hồ_sơ hưởng chế_độ	4
+đối_với đối_tượng	4
+quyền miễn_trừ	4
+quyền ưu_tiên	3
+ưu_đãi đầu_tư quy_định	3
+chính_sách thương_binh	3
+khoản thù_lao	3
+ưu_đãi đầu_tư	3
+chế_độ ưu_đãi quy_định	2
+chính_sách đầu_tư	2
+thực_hiện quy_định	1
+quy_định khoản	1
+hưởng hoa_lợi	1
+khoản lợi	1
+ưu_tiên đầu_tư	1
+hưởng nguyên	1
+thực_hiện chính_sách hỗ_trợ	1

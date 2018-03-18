@@ -1,0 +1,181 @@
+rừng phòng_hộ	192
+đất trồng rừng	174
+bảo_vệ phát_triển rừng	162
+chủ rừng	156
+rừng đặc_dụng	148
+trồng rừng	115
+bảo_vệ rừng	108
+rừng sản_xuất	96
+giao rừng	93
+động_vật rừng	79
+phát_triển rừng	73
+sử_dụng rừng	72
+thuê rừng	70
+rừng tự_nhiên	64
+khai_thác lâm_sản	62
+diện_tích rừng	58
+khu rừng	57
+rừng trồng	57
+kế_hoạch bảo_vệ phát_triển rừng	57
+thực_vật rừng	54
+quyền sử_dụng rừng	48
+loài thực_vật rừng	47
+rừng sản_xuất rừng trồng	46
+quy_chế quản_lý rừng	45
+thu_hồi rừng	44
+dịch_vụ môi_trường rừng	43
+tài_nguyên rừng	39
+chữa_cháy rừng	37
+quyền sở_hữu rừng sản_xuất rừng trồng	35
+rừng sản_xuất rừng tự_nhiên	34
+khu bảo_vệ cảnh_quan	33
+kiểm_kê rừng	33
+đất rừng đặc_dụng	33
+đất rừng phòng_hộ	33
+đất rừng	31
+ban quản_lý	30
+cháy rừng	30
+du_lịch sinh_thái	28
+khu rừng đặc_dụng	28
+giá_trị quyền sử_dụng rừng	28
+giốngcây trồng	27
+phân khu bảo_vệ nghiêm_ngặt	27
+nhà_nước giao rừng	27
+hệ sinh_thái rừng	26
+động_vật rừng nguy_cấp	25
+quản_lý rừng bền_vững	25
+môi_trường rừng	24
+khu rừng phòng_hộ	23
+gỗ loài thực_vật	23
+rừng phòng_hộ đầu	23
+trồng rừng sản_xuất	22
+theo_dõi diễn_biến	22
+thu tiền sử_dụng rừng	22
+đất rừng sản_xuất	22
+trừ sinh_vật hại rừng	22
+chế_biến lâm_sản	22
+du_lịch sinh_thái - môi_trường	22
+quyền nghĩa_vụ chủ rừng	21
+ngư_nghiệp kết_hợp	21
+phá rừng	21
+mục_đích sử_dụng rừng mục_đích	20
+kinh_doanh cảnh_quan	20
+mục_đích sử_dụng rừng	20
+công_ước buôn_bán quốc_tế loài động_vật	20
+quản_lý rừng	20
+ban quản_lý rừng đặc_dụng	20
+quỹ bảo_vệ phát_triển rừng	19
+nhà_nước giao	18
+cung_ứng dịch_vụ môi_trường rừng	18
+rừng phòng_hộ chắn gió	18
+thương_mại lâm_sản	18
+ban quản_lý khu	17
+trồng lúa_nước	17
+góp vốn giá_trị rừng sản_xuất rừng trồng	17
+chủ rừng đầu_tư	16
+phương_án quản_lý rừng bền_vững	15
+hệ sinh_thái	15
+giá_trị rừng sản_xuất rừng trồng	15
+lâm_nghiệp quốc_gia	15
+hệ sinh_thái tự_nhiên	15
+quy_hoạch lâm_nghiệp quốc_gia	14
+rừng phòng_hộ chắn	14
+bảo_vệ phát_triển	13
+bảo_vệ môi_trường	13
+quản_lý rừng đặc_dụng	12
+trồng rừng phòng_hộ	12
+hại rừng	11
+- ngư_nghiệp	11
+thuê rừng sản_xuất	10
+chi_trả tiền	10
+đất lâm_nghiệp	10
+sử_dụng chủ_yếu	10
+rừng chủ rừng	10
+loài động_vật	10
+sinh_vật hại rừng	10
+bảo_vệ môi_trường sinh_thái	9
+khu bảo_vệ	9
+giao đất	8
+phòng_hộ rừng	8
+giá_trị rừng	8
+quy_hoạch lâm_nghiệp	7
+thuê đất trồng rừng	7
+thuê đất	7
+quỹ bảo_vệ phát_triển	7
+mục_đích sử_dụng	6
+diễn_biến tài_nguyên rừng	6
+tiền sử_dụng rừng	6
+phát_triển sản_xuất	5
+quản_lý sử_dụng	5
+sử_dụng mục_đích	5
+bảo_vệ thực_vật	5
+sử_dụng dịch_vụ	5
+pháp_luật bảo_vệ phát_triển rừng	4
+rừng sản_xuất rừng	4
+quản_lý nhà_nước lâm_nghiệp	4
+ban quản_lý khu rừng	4
+phòng_hộ đầu	4
+diện_tích đất	4
+rừng bền_vững	4
+kế_hoạch bảo_vệ	4
+dịch_vụ du_lịch	3
+quy_hoạch bảo_vệ phát_triển rừng	3
+mục_đích kinh_doanh	3
+phát_triển bền_vững	3
+đầu_tư phát_triển	3
+sử_dụng rừng mục_đích	3
+bảo_vệ nghiêm_ngặt	3
+vốn nhà_nước	3
+góp vốn	3
+phát_triển lâm_nghiệp	3
+bảo_vệ cảnh_quan	3
+duy_trì phát_triển	2
+sinh_thái tự_nhiên	2
+nhà_nước thu_hồi	2
+khu bảo_vệ nghiêm_ngặt	2
+nghĩa_vụ chủ rừng	2
+loài thực_vật	2
+sở_hữu nhà_nước	2
+động_vật hoang_dã	2
+kế_hoạch phát_triển	2
+quy_chế quản_lý	2
+phân khu	2
+chắn sóng	2
+phương_án bảo_vệ	2
+lâm_sản rừng	1
+quản_lý khu	1
+khai_thác công_dụng	1
+tài_nguyên môi_trường	1
+quyền sở_hữu	1
+môi_trường sinh_thái	1
+sở_hữu rừng sản_xuất rừng trồng	1
+quản_lý khu rừng	1
+sử_dụng đất khu	1
+môi_trường quốc_gia	1
+sản_xuất rừng	1
+khu du_lịch	1
+mục_đích thương_mại	1
+kế_hoạch sử_dụng đất	1
+khai_thác bảo_vệ	1
+quản_lý quỹ	1
+khai_thác lâm_sản rừng	1
+thu_hồi đất	1
+thuê dịch_vụ	1
+giao quản_lý	1
+đất khu	1
+quỹ phát_triển	1
+công_ước buôn_bán quốc_tế	1
+chắn gió	1
+thuê quyền sử_dụng	1
+kế_hoạch sử_dụng	1
+quyền sử_dụng đất	1
+sản_xuất rừng tự_nhiên	1
+tiền sử_dụng	1
+nhà_nước thuê	1
+đất trồng rừng sản_xuất	1
+giá_trị sử_dụng	1
+cung_ứng sử_dụng dịch_vụ	1
+ban quản_lý rừng	1
+nhà_nước thuê đất	1
+sử_dụng quỹ	1
+quyền sở_hữu rừng	1

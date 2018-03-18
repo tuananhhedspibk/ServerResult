@@ -1,0 +1,14 @@
+lập thành_tích	40
+hạng nhì	37
+thành_tích xuất_sắc	35
+nâng hạng	23
+thành_tích đặc_biệt xuất_sắc	22
+đặc_biệt quan_trọng	21
+đặc_biệt xuất_sắc	18
+lập thành_tích xuất_sắc	18
+hạng đất	14
+cá_nhân thành_tích	13
+ý_nghĩa quan_trọng	12
+hạng nhì tặng	6
+thành_tích đặc_biệt	2
+thi nâng	1

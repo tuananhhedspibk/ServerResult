@@ -1,0 +1,217 @@
+công_trình xây_dựng	697
+đầu_tư xây_dựng	456
+xây_dựng công_trình	367
+chủ đầu_tư	293
+giấy_phép xây_dựng	200
+dự_án đầu_tư xây_dựng	167
+giải_phóng mặt_bằng	119
+thiết_kế bố_trí	108
+thiết_kế xây_dựng	107
+khảo_sát xây_dựng	82
+đối_với công_trình	81
+công_trình công_cộng	71
+hạ_tầng kỹ_thuật	68
+đầu_tư xây_dựng công_trình	64
+công_trình hạ_tầng kỹ_thuật	64
+thi_công xây_dựng công_trình	62
+hạ_tầng xã_hội	61
+hợp_đồng xây_dựng	57
+dự_án đầu_tư xây_dựng công_trình	55
+dự_án đầu_tư	54
+vật_liệu xây_dựng	52
+đối_với dự_án	49
+thi_công xây_dựng	48
+hoạt_động đầu_tư xây_dựng	46
+quản_lý dự_án	45
+phục_vụ tái_định_cư	42
+bố_trí tái_định_cư	39
+thiết_kế cơ_sở	39
+dự_toán xây_dựng	39
+công_trình kiến_trúc	38
+đất xây_dựng công_trình	38
+cá_nhân đầu_tư xây_dựng	38
+thiết_kế kỹ_thuật	37
+thiết_kế xây_dựng công_trình	37
+hệ_thống công_trình hạ_tầng kỹ_thuật	36
+chủ đầu_tư xây_dựng	34
+chủ đầu_tư dự_án	34
+bảo_vệ công_trình quốc_phòng khu quân_sự	34
+giấy_phép đầu_tư	34
+quy_hoạch xây_dựng	33
+thi_công công_trình	30
+xây_dựng cơ_bản	30
+thiết_kế bản_vẽ thi_công	30
+ban quản_lý dự_án đầu_tư xây_dựng	29
+công_trình hạ_tầng	28
+xây_dựng kết_cấu_hạ_tầng	28
+hệ_thống hạ_tầng kỹ_thuật	28
+đầu_tư xây_dựng công_trình kết_cấu_hạ_tầng	27
+hạng_mục công_trình	26
+tư xây_dựng công_trình	25
+dự_án xây_dựng	25
+ban giám_sát đầu_tư cộng_đồng	25
+năng_lực hành_nghề	25
+xây_dựng dự_án	24
+giám_sát thi_công xây_dựng công_trình	23
+chủ đầu_tư dự_án xây_dựng	23
+chủ đầu_tư trách_nhiệm	23
+đất xây_dựng	22
+nhà_thầu thi_công xây_dựng	22
+công_trình hạ_tầng xã_hội	22
+lập dự_án đầu_tư	21
+công_trình phúc_lợi công_cộng	21
+hồ_sơ thiết_kế	20
+năng_lực hành_nghề xây_dựng	20
+đầu_tư xây_dựng cơ_bản	20
+cốt xây_dựng	19
+công_trình quốc_phòng khu quân_sự	19
+năng_lực hoạt_động xây_dựng	19
+xây_dựng công_trình công_cộng	19
+mặt_bằng xây_dựng	19
+hoạtđộng xây_dựng	18
+dựán đầu_tư xây_dựng công_trình	18
+quy_hoạch xây_dựng khu chức_năng đặc_thù	18
+đầu_tư dự_án	18
+vật_liệu xây_dựng thông_thường	18
+chủ đầutư xây_dựng công_trình	17
+chi_phí đầu_tư xây_dựng	17
+quy_mô công_trình	17
+lập dự_án	17
+đầu_tư xây_dựng kết_cấu_hạ_tầng	16
+xây_dựng công_trình ngầm	16
+đầu_tư xây_dựng công_trình thủy_lợi	16
+cải_tạo công_trình	16
+thực_hiện dự_án đầu_tư xây_dựng	16
+tổng diện_tích	16
+chất_lượng công_trình	15
+chi_phí đầu_tư	15
+lập dự_án đầu_tư xây_dựng	15
+giám_sát thi_công	15
+quá_trình thi_công	15
+làm_chủ đầu_tư	15
+quản_lý chi_phí đầu_tư xây_dựng	14
+dự_án đầutư xây_dựng công_trình	14
+quá_trình thi_công xây_dựng	14
+phê_duyệt dự_án	14
+báo_cáo nghiên_cứu_khả_thi đầu_tư xây_dựng	14
+dự_án phê_duyệt	14
+thực_hiện dự_án	14
+giám_sát thi_công xây_dựng	14
+di_dời công_trình	14
+xây_dựng công_trình sự_nghiệp	13
+kiến_trúc công_trình	13
+đầutư xây_dựng công_trình	13
+xây_dựng cơ_sở	13
+công_trình ngầm	13
+thiết_kế kiến_trúc	13
+xây_dựng hệ_thống	13
+công_trình quốc_phòng	12
+cá_nhân đầu_tư	12
+giám_sát đầu_tư cộng_đồng	12
+ban quản_lý dự_án	12
+công_trình lân_cận	12
+quá_trình xây_dựng	12
+công_trình kết_cấu_hạ_tầng	12
+nghiệm_thu công_trình	12
+quản_lý dự_án đầu_tư xây_dựng	11
+công_trình sự_nghiệp	11
+phê_duyệt thiết_kế	11
+tổng đầu_tư	11
+đầu_tư xây_dựng cơ_sở	11
+bàn_giao công_trình	10
+công_trình phục_vụ	10
+đất xây_dựng công_trình công_cộng	10
+hệ_thống công_trình hạ_tầng	10
+xây_dựng phục_vụ tái_định_cư	10
+nội_dung dự_án	10
+khoáng_sản vật_liệu xây_dựng thông_thường	9
+xây_dựng công_trình kết_cấu_hạ_tầng	9
+bảo_trì công_trình	9
+tư_vấn giám_sát	8
+cơ_sở hạ_tầng	8
+xây_dựng công_trình hạ_tầng	8
+đối_với dự_án đầu_tư	8
+khoáng_sản vật_liệu xây_dựng	8
+xây_dựng khu	7
+kết_cấu_hạ_tầng kỹ_thuật	7
+xây_dựng cơ_sở hạ_tầng	7
+hồ_sơ dự_án	7
+phục_vụ hoạt_động	5
+nhà_thầu thi_công	5
+đất xây_dựng trụ_sở	5
+thiết_kế bản_vẽ	5
+thẩm_tra dự_án	5
+tổng dự_toán	5
+công_trình phụ_trợ	5
+đầu_tư xây_dựng kinh_doanh	5
+bảo_vệ công_trình	5
+hệ_thống công_trình	5
+ban quản_lý	4
+nghiên_cứu_khả_thi đầu_tư xây_dựng	4
+phúc_lợi công_cộng	4
+đối_với diện_tích	4
+năng_lực hoạt_động	4
+hệ_thống hạ_tầng	4
+ưu_tiên đầu_tư	3
+phục_vụ sự_nghiệp	3
+lắp_đặt thiết_bị	3
+giấy_phép xây_dựng đối_với	3
+xây_dựng phê_duyệt	3
+quốc_phòng khu quân_sự	3
+xây_dựng quy_hoạch	3
+xây_dựng công_trình thủy_lợi	3
+diện_tích đất xây_dựng	3
+phục_vụ quốc_phòng	2
+trách_nhiệm quản_lý	2
+đất thực_hiện dự_án	2
+trách_nhiệm lập	2
+sự_nghiệp xây_dựng	2
+chi_phí quản_lý	2
+hồ_sơ giấy_phép	2
+công_trình thủy_lợi	2
+ban quản_lý dự_án đầu_tư	2
+hoạt_động đầu_tư	2
+tháo_dỡ công_trình	2
+quản_lý dự_án đầu_tư	2
+đầu_tư dự_án xây_dựng	2
+đầutư xây_dựng	2
+tiến_độ thực_hiện dự_án	2
+tiến_độ thực_hiện	2
+nội_dung giấy_phép	2
+công_trình phúc_lợi	2
+quá_trình lập	2
+đối_với cơ_sở	2
+tư xây_dựng	1
+ban quản_lý khu	1
+thực_hiện dự_án đầu_tư	1
+chủ đầutư	1
+diện_tích đất	1
+dựán đầu_tư	1
+hoạt_động thủy_lợi	1
+vật_liệu nổ	1
+giám_sát hoạt_động	1
+hệ_thống quản_lý chất_lượng	1
+lập quy_hoạch	1
+đầu_tư đối_với dự_án	1
+kỹ_thuật phục_vụ	1
+giấy_phép hành_nghề	1
+bản_vẽ thi_công	1
+bảo_vệ công_trình quốc_phòng	1
+xây_dựng kinh_doanh kết_cấu_hạ_tầng	1
+dựán đầu_tư xây_dựng	1
+chức_năng quản_lý	1
+đầu_tư xây_dựng côngtrình	1
+lập quy_hoạch xây_dựng	1
+hệ_thống công_trình thủy_lợi	1
+lập báo_cáo	1
+đất thực_hiện dự_án đầu_tư	1
+dự_án đầutư xây_dựng	1
+hệ_thống quản_lý	1
+khu quân_sự	1
+hệ_thống cơ_sở	1
+đối_với diện_tích đất	1
+giấy_phép hoạt_động	1
+xây_dựng trụ_sở	1
+nội_dung quản_lý	1
+hoạt_động tư_vấn	1
+bố_trí dự_toán	1

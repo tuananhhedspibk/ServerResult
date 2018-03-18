@@ -1,0 +1,93 @@
+công_trình thủy_lợi	155
+công_trình thuỷ_lợi	133
+dịch_vụ thủy_lợi	97
+bảo_vệ công_trình	88
+khai_thác bảo_vệ công_trình thuỷ_lợi	84
+bảo_vệ công_trình giao_thông	79
+phạm_vi bảo_vệ	64
+an_toàn công_trình	62
+quy_trình vận_hành	61
+hành_lang bảo_vệ	61
+công_trình giao_thông	61
+phạm_vi bảo_vệ công_trình	51
+khai_thác công_trình thủy_lợi	43
+phạm_vi bảo_vệ đê_điều	42
+bảo_vệ công_trình thuỷ_lợi	40
+bảo_vệ đê_điều	39
+khai_thác công_trình thuỷ_lợi	38
+phạm_vi bảo_vệ công_trình thủy_lợi	35
+đối_xử tối huệ_quốc đối_xử quốc_gia	32
+thuỷ_lợi phí	31
+hệ_thống công_trình thuỷ_lợi	29
+bảo_đảm an_toàn công_trình	28
+bảo_đảm an_toàn	27
+đối_xử tối huệ_quốc	26
+quy_hoạch thủy_lợi	25
+hành_lang bảo_vệ an_toàn	25
+khai_thác bảo_vệ	25
+an_toàn đê_điều	25
+bảo_vệ an_toàn	24
+bảo_vệ công_trình thủy_lợi	24
+bảo_vệ đê	23
+nâng_cấp kiên_cố hóa đê_điều	22
+cứu hộ_đê	21
+công_trình phụ_trợ	20
+thủy_lợi nội_đồng	20
+khai_thác bảo_vệ công_trình	20
+an_toàn đập	20
+dịch_vụ công_ích thủy_lợi	18
+hệ_thống công_trình thủy_lợi	18
+tu_bổ đê_điều	18
+hoạt_động thủy_lợi	18
+vận_hành công_trình	17
+hành_lang an_toàn	16
+đường giao_thông	16
+đối_xử quốc_gia	16
+lực_lượng bảo_vệ	15
+khai_thác công_trình	14
+công_trình phòng	12
+phá dỡ công_trình	12
+vận_hành công_trình thủy_lợi	11
+bảo_vệ an_toàn công_trình	10
+quy_hoạch đê_điều	9
+áp_dụng đối_xử tối huệ_quốc	8
+hệ_thống công_trình	8
+phương_án bảo_vệ công_trình	8
+nâng_cấp công_trình	7
+quản_lý hệ_thống	7
+phương_án bảo_vệ	7
+công_trình phục_vụ	7
+phá dỡ	6
+công_trình quan_trọng	6
+pháp_luật đê_điều	6
+dịch_vụ phụ_trợ	5
+chuyên_dùng phục_vụ	5
+công_trình quốc_phòng	4
+an_toàn giao_thông	4
+bảo_vệ tính_mạng	4
+đơn_vị quản_lý công_trình	4
+bảo_đảm an_toàn giao_thông	3
+bảo_vệ công_trình quốc_phòng	3
+kiên_cố hóa đê_điều	3
+khai_thác trái_phép	3
+di_dời công_trình	3
+phục_vụ hoạt_động	2
+phân_cấp quản_lý	2
+vận_hành hệ_thống	2
+dỡ công_trình	2
+quản_lý nhà_nước bảo_vệ công_trình	2
+quan_trọng quốc_gia	2
+phí dịch_vụ	2
+quản_lý nhà_nước khai_thác bảo_vệ	2
+an_toàn phòng	2
+quy_hoạch bảo_vệ	1
+uy_hiếp an_toàn	1
+phạm_vi hoạt_động	1
+pháp_luật bảo_vệ	1
+hoạt_động thể_thao	1
+an_toàn hệ_thống	1
+bảo_đảm quốc_phòng	1
+quy_hoạch phòng	1
+phạm_vi quản_lý	1
+quốc_gia an_toàn	1
+hành_lang an_toàn giao_thông	1

@@ -1,0 +1,83 @@
+tần_số vô_tuyến điện	139
+sử_dụng tần_số vô_tuyến điện	84
+thiết_bị vô_tuyến điện	75
+vô_tuyến điện	75
+mua điện	55
+quy_hoạch phát_triển điện_lực	51
+thị_trường điện_lực	47
+nhiễu hại	46
+phân_phối điện	45
+truyền tải_điện	41
+giấy_phép sử_dụng tần_số vô_tuyến điện	38
+hệ_thống điện	37
+quỹ_đạo vệ_tinh	37
+hoạt_động điện_lực	37
+sử_dụng điện	36
+giấy_phép hoạt_động điện_lực	34
+an_toàn điện	33
+băng tần	31
+giá điện	29
+đơn_vị điện_lực	29
+đài vô_tuyến điện	28
+bán_buôn điện	27
+khách_hàng sử_dụng điện	26
+giá bán_lẻ điện	26
+phổ tần_số vô_tuyến điện	25
+sóng vô_tuyến điện	25
+điều_hành giao_dịch thị_trường điện_lực	24
+bán_lẻ điện	23
+hệ_thống điện quốc_gia	22
+mua_bán điện	22
+cung_cấp điện	21
+đường_dây dẫn_điện	21
+nghiệp_vụ vô_tuyến điện	21
+kiểm_soát tần_số vô_tuyến điện	20
+tương_thích điện_từ	20
+trang_thiết_bị điện	19
+đấu nối	19
+công_trình điện_lực	19
+phối_hợp quốc_tế tần_số vô_tuyến điện	19
+đơn_vị phát_điện	18
+thiết_bị đo_đếm điện	18
+đơn_vị điều_độ hệ_thống điện quốc_gia	17
+kênh tần_số	17
+xử_lý nhiễu hại	17
+sử_dụng thiết_bị	16
+hoạt_động điện_lực sử_dụng điện	15
+giấy_phép sử_dụng tần_số	14
+quyền sử_dụng tần_số vô_tuyến điện	13
+phát_triển điện_lực	12
+tần_số vô_tuyến điện quỹ_đạo vệ_tinh	10
+giấy_phép sử_dụng	9
+sử_dụng tần_số	9
+quy_hoạch tần_số vô_tuyến điện	7
+bức_xạ vô_tuyến điện	6
+điều_độ hệ_thống điện	5
+đơn_vị quản_lý vận_hành	4
+thiết_bị vô_tuyến	4
+đo_đếm điện	4
+đơn_vị quản_lý công_trình	4
+điều_độ hệ_thống điện quốc_gia	3
+quản_lý vận_hành	3
+hệ_thống kiểm_soát	3
+quốc_tế tần_số vô_tuyến điện	3
+giao_dịch thị_trường điện_lực	2
+sử_dụng tần_số vô_tuyến	2
+quy_hoạch sử_dụng	2
+điện_lực sử_dụng điện	2
+quản_lý sử_dụng	2
+đơn_vị quản_lý	2
+cơ_chế thị_trường	1
+phối_hợp công_thương	1
+điện quốc_gia	1
+điều_hành giao_dịch thị_trường	1
+vận_hành hệ_thống	1
+sóng vô_tuyến	1
+sử_dụng giấy_phép	1
+phối_hợp hoạt_động	1
+biểu giá	1
+xử_lý nhiễu	1
+đơn_vị điều_độ hệ_thống điện	1
+hệ_thống quản_lý	1
+nghiệp_vụ vô_tuyến	1
+giao_dịch mua_bán	1

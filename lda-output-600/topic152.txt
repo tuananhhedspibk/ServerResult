@@ -1,0 +1,125 @@
+quy_định bộ_luật	720
+quy_định luật	338
+luật hình_sự	242
+bộ_luật quy_định	104
+quy_định luật hình_sự	79
+trường_hợp quy_định bộ_luật	66
+quy_định chương	66
+7 bộ_luật	65
+0 luật	65
+trường_hợp quy_định	62
+quy_định 6 luật	62
+quy_định 5 bộ_luật	61
+quy_định 0 luật	60
+quy_định 3 bộ_luật	59
+quy_định 4 bộ_luật	58
+quy_định 7 bộ_luật	55
+miễn_trách_nhiệm hình_sự	55
+1 bộ_luật	53
+quy_định 5 luật	52
+2 bộ_luật	51
+thực_hiện quy_định	50
+quy_định 9 luật	50
+2 3	50
+quy_định 8 bộ_luật	49
+thực_hiện quy_định bộ_luật	47
+quy_định 3 luật	47
+5 luật	47
+4 luật	46
+9 luật	46
+quy_định 0 bộ_luật	45
+quy_định 9 bộ_luật	45
+7 luật	45
+9 bộ_luật	44
+quy_định 4 luật	44
+6 luật	44
+quy_định 1 bộ_luật	42
+quy_định 6 bộ_luật	42
+quy_định 8 luật	41
+3 4	41
+4 bộ_luật	40
+quy_định 2 bộ_luật	40
+3 bộ_luật	40
+0 bộ_luật	39
+3 luật	39
+2 3 luật	36
+quy_định 9	33
+3 4 luật	33
+quy_định 5	33
+quy_định 7 luật	33
+4 5	33
+căn_cứ quy_định	32
+6 bộ_luật	30
+5 bộ_luật	30
+8 bộ_luật	29
+quy_định 4	29
+quy_định 8	29
+quy_định luật dân_sự	29
+8 luật	29
+điều_khoản luật hình_sự	28
+quy_định 0	28
+luật quy_định	28
+4 5 luật	27
+thủ_tục bộ_luật quy_định	26
+quy_định bộ_luật lao_động	25
+nội_dung quy_định 2 bộ_luật	24
+trường_hợp bộ_luật quy_định	24
+quy_định 6	19
+quy_định 7	19
+phiên_dịch quy_định bộ_luật	18
+thực_hiện quy_định luật	18
+trái quy_định chương	17
+căn_cứ quy_định 7 bộ_luật	17
+trách_nhiệm hình_sự	16
+có_thể miễn_trách_nhiệm hình_sự	15
+trường_hợp quy_định 8	15
+luật hình_sự áp_dụng	13
+5 6 luật	13
+thủ_tục chung_quy_định bộ_luật	13
+quy_định khoản 1	13
+luật dân_sự	12
+căn_cứ quy_định luật	12
+chương 7	12
+6 7	11
+lao_động quy_định bộ_luật	11
+quy_định khoản	10
+7 8	10
+tố_tụng quy_định bộ_luật	10
+trách_nhiệm hình_sự quy_định luật hình_sự	9
+5 6	9
+trường_hợp quy_định 0	8
+trường_hợp quy_định luật	7
+trách_nhiệm hình_sự quy_định	6
+trường_hợp quy_định 9	6
+trái quy_định	6
+chung_quy_định bộ_luật	6
+trường_hợp luật quy_định	6
+trường_hợp quy_định 4	6
+dân_sự quy_định bộ_luật	5
+trường_hợp quy_định 3	5
+thủ_tục tố_tụng	5
+8 9	5
+nội_dung quy_định	5
+hình_sự quy_định	5
+bộ_luật lao_động	4
+22 6	4
+thủ_tục chung_quy_định	4
+5 7	4
+quy_định chương áp_dụng	3
+trường_hợp miễn_trách_nhiệm	3
+áp_dụng quy_định luật	3
+trái quy_định luật	3
+áp_dụng quy_định	3
+trường_hợp quy_định 5	3
+quy_định luật quy_định	2
+trái luật	1
+chương 5	1
+chương 6	1
+chương 4	1
+chương 3	1
+luật áp_dụng	1
+trách_nhiệm dân_sự	1
+chương 2	1
+5 7 luật	1
+quy_định 9 0	1
+hình_sự quy_định luật hình_sự	1

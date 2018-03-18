@@ -1,0 +1,81 @@
+cơ_quan hải_quan	345
+khai hải_quan	189
+thủ_tục hải_quan	149
+giám_sát hải_quan	111
+công_chức hải_quan	84
+hồ_sơ hải_quan	72
+tờ khai hải_quan	66
+kiểm_tra thông_quan	62
+tờ khai	55
+chống buôn_lậu	47
+địa_bàn hoạt_động hải_quan	42
+tổng_cục hải_quan	41
+chi_cục_trưởng chi_cục	41
+đăng_ký tờ khai hải_quan	41
+hải_quan cửa_khẩu	37
+tạm dừng thủ_tục hải_quan	36
+kiểm_soát hải_quan	31
+địa_điểm thủ_tục hải_quan	26
+chi_cục_trưởng chi_cục kiểm_lâm	24
+hoàn_thành thủ_tục hải_quan	21
+tổng_cục_trưởng tổng_cục hải_quan	20
+nhân_viên hải_quan	20
+đại_lý thủ_tục hải_quan	20
+yêu_cầu tạm dừng thủ_tục hải_quan	19
+trị_giá hải_quan	19
+chứng_từ hồ_sơ hải_quan	17
+giám_sát hải_quan đối_với hàng_hóa	17
+yêu_cầu cơ_quan hải_quan	17
+cục_trưởng cục kiểm_tra thông_quan	17
+kiểm_tra hải_quan	17
+thủ_tục hải_quan đối_với	15
+chứng_từ liên_quan	15
+nộp tờ khai hải_quan	15
+giám_sát hải_quan đối_với	14
+cục_trưởng cục hải_quan tỉnh	14
+cơ_quan hải_quan kiểm_tra	14
+cục_trưởng cục điều_tra chống buôn_lậu	14
+dừng thủ_tục hải_quan	12
+cục hải_quan	12
+cục_trưởng cục hải_quan	12
+hải_quan đối_với	11
+hành_vi buôn_lậu	11
+đăng_ký tờ khai	10
+chi_cục_trưởng chi_cục hải_quan	9
+chi_cục hải_quan	9
+quản_lý nhà_nước hải_quan	9
+cục điều_tra chống buôn_lậu	8
+miễn kiểm_tra	8
+cục hải_quan tỉnh	8
+cơ_quan hải_quan trách_nhiệm	7
+hải_quan đối_với hàng_hóa	7
+chi_cục hải_quan cửa_khẩu	6
+tạm dừng	6
+thủ_tục hải_quan cửa_khẩu	5
+hoạt_động hải_quan	5
+điều_tra chống buôn_lậu	5
+tổng_cục_trưởng tổng_cục	5
+kiểm_tra hồ_sơ	4
+nộp tờ khai	4
+yêu_cầu cơ_quan	3
+hàng_hóa cửa_khẩu	3
+địa_bàn hoạt_động	3
+hoạt_động điều_tra	3
+yêu_cầu tạm dừng	3
+dừng thủ_tục hải_quan đối_với	3
+thủ_tục hải_quan đối_với hàng_hóa	3
+trách_nhiệm kiểm_tra	3
+cơ_quan điều_tra	3
+hải_quan kiểm_tra	3
+giám_sát hoạt_động cơ_quan	2
+liên_quan hoạt_động	2
+chứng_từ hồ_sơ	2
+chi_cục kiểm_lâm	2
+trị_giá hàng_hóa	1
+hồ_sơ khai	1
+trụ_sở cơ_quan	1
+hoàn_chỉnh hồ_sơ	1
+tạm dừng thủ_tục hải_quan đối_với	1
+đối_với hành_vi	1
+kiểm_tra hoạt_động	1
+cục kiểm_tra thông_quan	1

@@ -1,0 +1,48 @@
+doanh_nghiệp bảo_hiểm	216
+tiền bảo_hiểm	166
+mua bảo_hiểm	143
+hợp_đồng bảo_hiểm	119
+đối_tượng bảo_hiểm	73
+kinh_doanh bảo_hiểm	70
+phí bảo_hiểm	62
+doanh_nghiệp môi_giới bảo_hiểm	45
+đơn bảo_hiểm	35
+giá_trị bảo_hiểm	30
+từ_bỏ đối_tượng bảo_hiểm	28
+mua bảo_hiểm_trách_nhiệm	28
+đại_lý bảo_hiểm	26
+hợp_đồng bảo_hiểm hàng_hải	23
+doanhnghiệp bảo_hiểm	20
+bảo_hiểm bảo_hiểm	20
+thỏa_thuận hợp_đồng bảo_hiểm	19
+doanh_nghiệp môi_giới	19
+mua bảo_hiểm_trách_nhiệm nghề_nghiệp	18
+đóng phí bảo_hiểm	18
+môi_giới hàng_hải	17
+xảy sự_kiện bảo_hiểm	17
+bảo_hiểm_trách_nhiệm dân_sự	16
+bảo_hiểm có_thể	15
+bảo_hiểm bắt_buộc	14
+giao_kết_hợp_đồng bảo_hiểm	14
+doanh_nghiệp môi_giới bảo_hiểm nước_ngoài	14
+bảo_hiểm_trách_nhiệm nghề_nghiệp	13
+môi_giới bảo_hiểm	12
+thỏa_thuận hợp_đồng	10
+bảo_hiểm hàng_hải	9
+hoa_hồng môi_giới	8
+đóng phí	7
+sự_kiện bảo_hiểm	7
+có_thể thỏa_thuận	6
+bảo_hiểm tiền	6
+bảo_hiểm đóng	5
+bảo_hiểm tai_nạn	5
+đối_tượng hợp_đồng	5
+hợp_đồng giao_kết	4
+thu phí	4
+tiền mua	3
+hợp_đồng môi_giới	2
+tiền đóng	1
+doanh_nghiệp kinh_doanh	1
+điều_kiện kinh_doanh	1
+xảy sự_kiện	1
+phí thu	1

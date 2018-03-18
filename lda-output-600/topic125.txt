@@ -1,0 +1,255 @@
+000 đồng	1161
+phạt tiền	281
+phạt cảnh_cáo	260
+000 đồng trở	225
+000 đồng 500	170
+000 đồng 100	155
+000 đồng 1	143
+000 đồng 200	99
+000 đồng 50	89
+tiền phạt	82
+xoá án tích vi_phạm	75
+phạt tù 02 07 :	61
+phạt tiền 10	57
+phạm_tội có_thể phạt tiền	57
+phạm_tội có_thể phạt tiền 10	55
+phạt tiền 20	52
+000 đồng 300	50
+xóa_án tích vi_phạm	50
+phạt tù 07 15 :	49
+phạt tù 05 10 :	47
+phạt cải_tạo giam_giữ 02 phạt tù 03 02	47
+trăm_nghìn đồng	47
+phạt tiền 50	46
+phạt tiền 1	46
+phạt tù 12 20	44
+phạt tù 03 07 :	43
+phạt tiền 30	41
+phạt tiền 200	40
+phạt tù 01 05	40
+phạt tiền 500	40
+trăm triệu đồng	39
+xoá án tích	38
+phạt cải_tạo giam_giữ 03 phạt tù 06 03 :	38
+phạt tù	37
+phạt tiền 100	37
+đồng trở	36
+phạm_tội có_thể phạt tiền năm_triệu đồng năm_mươi_triệu đồng	35
+000 đồng 3	35
+phạt tù 03 10 :	34
+phạt cải_tạo giam_giữ 03 phạt tù 06 03	34
+gây_rối_loạn tâm_thần hành_vi nạn_nhân	32
+hai trăm triệu đồng	32
+côca khối_lượng	31
+000 đồng 5	31
+phạt tiền tối_đa đối_với lĩnh_vực	30
+nhựa thuốc_phiện	30
+000 đồn	29
+phạt tiền 5	28
+phạm_tội có_thể phạt tiền 5	28
+đồng năm_mươi_triệu đồng	28
+hai_mươi_triệu đồng	27
+pháp_nhân có_thể phạt tiền	27
+triệu đồng	26
+phạt tù 03	25
+phạm_tội có_thể phạt tiền 20	25
+000 đồng phạt cải_tạo giam_giữ 03	25
+phạt tù 02 07	25
+phạt tiền năm_triệu đồng năm_mươi_triệu đồng	25
+000 đồng phạt tù 01 05 :	23
+có_thể phạt tiền	22
+phạt tiền mười_triệu đồng trăm triệu đồng	21
+thuốc_phiện tươi	21
+phạt tiền 300	21
+thuốc_phiện khô	21
+2 - phạm tộithuộc trường_hợp phạt tù mười	21
+phạt tù 10 15 :	21
+phạt tiền tối_đa	20
+000 kilôgam	20
+trăm triệu đồng trở	20
+nhựa cần_sa	20
+trị_giá 100	20
+000 đồng đình_chỉ hoạt_động thời_hạn 06 03	19
+phạt tù 06 03 :	19
+mười_triệu đồng	19
+đồng trăm triệu đồng	19
+xóa_án tích	19
+phạt tù 01 05 :	19
+phạt cải_tạo giam_giữ 03 phạt tù 01 05 :	19
+trăm triệu đồng trăm triệu đồng	19
+phạm_tội có_thể phạt tiền mười_triệu đồng trăm triệu đồng	18
+05 :	18
+trọng_lượng trăm gam	18
+phạt tù 07 12 :	18
+phạt tù 05 12 :	18
+mdma khối_lượng	18
+phạt tù 10 20	17
+trị_giá 500	16
+20 tù chung_thân :	16
+tiền phạt tối_đa đối_với lĩnh_vực tương_ứng quy_định luật	16
+phạt tù 01	16
+phạt tù 06 03	16
+một_triệu đồng	15
+cần_sa lá	15
+năm_mươi_triệu đồng hai trăm triệu đồng	15
+03 :	15
+100 gam	15
+năm_mươi_triệu đồng	14
+trăm gam	14
+ba_triệu đồng ba_mươi_triệu đồng	14
+phạt tù 05 10	13
+phạt tù 15 20	13
+gam trở	13
+phạt cải_tạo giam_giữ 03	13
+phạt tiền mười_triệu	12
+năm_mươi_triệu đồng trăm triệu đồng	12
+có_thể phạt	12
+ba_mươi_triệu đồng	12
+phạt tù 15	12
+một_tỷ đồng	12
+phạt tù 03 07	12
+phạt tù 03 02 :	12
+02 05	12
+phạt tù 05	12
+năm_triệu đồng	12
+phạt quản_chế	11
+cảnh_cáo phạt tiền	11
+phạt tù 02	10
+giá_trị trăm triệu đồng trở	10
+nhựa cần_sa côca	10
+khung tiền phạt	10
+12 :	10
+phạt tù 07 15	10
+phạt tù 03 02	10
+phạm_tội trường_hợp khả_năng thực_tế	10
+trị_giá 200	9
+phạt cải_tạo giam_giữ 03 phạt tù 06	9
+phạt cải_tạo giam_giữ	9
+gây_rối_loạn tâm_thần hành_vi	9
+phạm_tội có_thể phạt tiền năm_triệu	9
+giá_trị năm_mươi_triệu đồng	9
+phạm_tội có_thể phạt tiền mười_triệu đồng trăm	8
+trị_giá 50	8
+phạm_tội 02 trở	8
+hình_phạt tiền	8
+tiền hiện_vật	8
+cải_tạo giam_giữ	8
+tiền phạt quy_định	7
+15 :	7
+phạt tù 02 05	7
+phạt tù 06	6
+phạt cải_tạo giam_giữ 02	6
+phạt tù 10	6
+cần_sa lá côca	6
+phạt tù 03 10	6
+phạt tiền năm_triệu đồng	6
+20 tù chung_thân	6
+phạm_tội có_thể phạt tiền năm_triệu đồng	6
+phạt cải_tạo giam_giữ 03 phạt tù 01 05	6
+hai trăm	5
+xoá án	5
+phạm_tội có_thể phạt	5
+ba_triệu đồng	5
+án tích	5
+01 05	5
+000 đồng phạt tù 06 03	5
+05 10	5
+phạt tiền năm_triệu	5
+phạt cải_tạo giam_giữ 03 phạt tù 01	4
+mười_triệu đồng năm_mươi_triệu đồng	4
+có_thể phạt tiền 10	4
+phạt tù 10 15	4
+có_thể phạt tiền ba_triệu đồng ba_mươi_triệu đồng	4
+000 đồng phạt tù 01	4
+phạm_tội có_thể	4
+khung tiền	4
+tiền phạt vi_phạm	3
+phạt tù 01 03	3
+2 - phạm tộithuộc trường_hợp phạt tù	3
+000 đồng phạt tù 02	3
+03 10	3
+tù 02	3
+10 15	3
+tù 03	3
+phạt tù 07 12	3
+02 trở	3
+2 - phạm tộithuộc trường_hợp phạt tù hai	3
+giá_trị trăm triệu đồng	3
+% tiền phạt tối_đa đối_với lĩnh_vực tương_ứng quy_định luật	3
+000 đồng đình_chỉ hoạt_động thời_hạn 06	3
+tù thời_hạn	3
+đồng 1	3
+phạt tù 05 12	3
+hai trăm triệu	3
+hai phạt	2
+phạt tiền mười_triệu đồng	2
+01 02	2
+phạt tiền tối_đa đối_với	2
+tù chung_thân	2
+kilôgam trở	2
+phạt tiền ba_triệu đồng ba_mươi_triệu đồng	2
+hình_phạt đối_với	2
+có_thể phạt tiền mười_triệu	2
+tiền 200	2
+pháp_nhân phạm_tội	2
+000 đồng phạt tù	2
+hình_phạt tù	2
+000 đồng phạt tù 03	2
+05 trở	2
+03 07	2
+tiền phạt tối_đa	2
+tiền 100	2
+triệu đồng trở	2
+tiền 50	2
+cải_tạo giam_giữ 03 phạt tù 06 03	2
+000 đồng phạt tù 01 05	2
+20 tù	2
+06 03	2
+hai trở	2
+đối_với lĩnh_vực	1
+quy_định :	1
+trăm triệu đồng phạt tù	1
+tiền tương_ứng	1
+01 03	1
+phạm_tội trường_hợp	1
+hành_vi phạm_tội	1
+phạt tiền ba_triệu đồng	1
+tù 05 10	1
+có_thể phạt tiền năm_triệu đồng	1
+có_thể phạt tiền năm_triệu đồng năm_mươi_triệu đồng	1
+000 đồng đình_chỉ hoạt_động thời_hạn	1
+tiền tối_đa	1
+phạt tù hai	1
+năm_mươi_triệu đồng trăm	1
+cải_tạo giam_giữ 03	1
+vi_phạm quy_định	1
+20 %	1
+10 20	1
+trường_hợp :	1
+giá_trị năm_mươi_triệu	1
+tù chung_thân :	1
+phạt tù 07	1
+phạt tù mười :	1
+07 15	1
+tiền 500	1
+phạt tối_đa	1
+đồng trăm	1
+có_thể phạt tiền 50	1
+07 15 :	1
+03 trở	1
+đối_với hành_vi phạm_tội	1
+cải_tạo giam_giữ 02 phạt tù 03 02	1
+đồng /	1
+02 phạt	1
+thời_hạn 03	1
+10 :	1
+03 07 :	1
+phạt cải_tạo giam_giữ 03 phạt tù	1
+phạm_tội có_thể phạt tiền mười_triệu	1
+phạt cải_tạo giam_giữ 02 phạt tù 03	1
+thời_hạn 06	1
+thời_hạn 02	1
+năm_triệu đồng năm_mươi_triệu đồng	1
+cải_tạo giam_giữ 02 phạt tù 03	1
+15 %	1
+khung hình_phạt	1

@@ -1,0 +1,214 @@
+năng_lực hành_vi dân_sự	263
+lập di_chúc	178
+giao_dịch dân_sự	167
+nghĩa_vụ dân_sự	137
+đối_với tài_sản	109
+hạn_chế năng_lực hành_vi dân_sự	105
+làm_chủ hành_vi	99
+giao tài_sản	94
+tài_sản thế_chấp	90
+năng_lực hành_vi dân_sự đầy_đủ	89
+thuê khoán	82
+thừa_kế di_chúc	67
+phân_chia di_sản	67
+định_đoạt tài_sản	63
+tài_sản cầm_cố	60
+tài_sản thuê	57
+hưởng di_sản	56
+thực_hiện nghĩa_vụ dân_sự	55
+nghĩa_vụ tài_sản	52
+quyền hưởng di_sản	52
+di_sản thừa_kế	51
+giao_dịch dân_sự vô_hiệu	51
+thực_hiện giao_dịch dân_sự	45
+quản_lý di_sản	45
+thế_chấp tài_sản	44
+quan_hệ dân_sự	44
+khai_thác công_dụng	42
+tài_sản_thuê khoán	39
+năng_lực pháp_luật dân_sự	39
+cầm_cố tài_sản	39
+thành_niên năng_lực hành_vi dân_sự	38
+trách_nhiệm dân_sự	38
+giao vật	37
+năng_lực hành_vi dân_sự hạn_chế năng_lực hành_vi dân_sự	35
+hưởng hoa_lợi	34
+thừa_kế pháp_luật	34
+tuyên_bố mất_tích	32
+hưởng quyền	31
+giao_dịch vô_hiệu	31
+quyền đối_với tài_sản	31
+từ_chối di_sản	30
+mượn tài_sản	30
+cử giám_hộ	29
+quyền chiếm_hữu	29
+khó_khăn nhận_thức	28
+tuyên_bố chết	28
+lợi tài_sản căn_cứ pháp_luật	27
+năng_lực hành_vi_tố_tụng_dân_sự	27
+thực_hiện nghĩa_vụ	25
+di_chúc văn_bản	23
+bảo_quản tài_sản	23
+nội_dung di_chúc	22
+áp_dụng đối_với	22
+tài_sản thừa_kế	22
+di_sản chia	21
+tài_sản chết	21
+trộn lẫn	21
+quyền bề_mặt	21
+hưởng quyền dân_sự	20
+vật phụ	20
+thừa_kế di_sản	19
+xác_lập giao_dịch	19
+lưu_giữ di_chúc	19
+công_bố di_chúc	19
+thực_hiện nghĩa_vụ tài_sản	19
+xử_lý_tài_sản cầm_cố	19
+giám_hộ đương_nhiên	18
+tài_sản bảo_đảm	18
+di_chúc miệng	18
+miễn_trừ nghĩa_vụ dân_sự	18
+năng_lực pháp luật_tố_tụng_dân_sự	18
+đòi tài_sản	17
+quyền hưởng dụng	17
+tặng tài_sản	17
+chiếm_hữu tài_sản	17
+chia tài_sản	17
+hợp_đồng_thuê khoán	17
+năng_lực hành_vi_tố_tụng_hành_chính	17
+chủ_thể quyền	16
+hạn_chế năng_lực hành_vi dân_sự khó_khăn nhận_thức	16
+lợi_tức tài_sản	16
+thực_hiện nghĩa_vụ đối_với	16
+giao_kết_hợp_đồng dân_sự	16
+hưởng thù_lao	15
+thực_hiện giao_dịch	15
+quyền thừa_kế	15
+tham_gia quan_hệ dân_sự	15
+di_sản chết	15
+sản_phẩm gia_công	14
+chia di_sản	14
+bảo_đảm thực_hiện nghĩa_vụ dân_sự	14
+tuyên_bố văn_bản công_chứng vô_hiệu	14
+nghĩa_vụ liên_đới	14
+tình_trạng tài_sản	13
+vật vật	13
+năng_lực pháp	13
+nghĩa_vụ giao vật	13
+hưởng dụng	13
+di_sản thờ_cúng	12
+nghĩa_vụ thừa_kế	12
+văn_bản công_chứng vô_hiệu	12
+chấm_dứt hành_vi	12
+thực_hiện hành_vi	11
+hạn_chế quyền	11
+tuyên_bố giao_dịch vô_hiệu	11
+thuê quyền	11
+xác_lập quyền	10
+nghĩa_vụ hoàn_trả	10
+chết thừa_kế	10
+hoàn_trả tài_sản	9
+thực_hiện quyền	9
+hạn_chế năng_lực	9
+quyền nghĩa_vụ	9
+báo thuê	8
+pháp_nhân chấm_dứt	8
+không_thể thực_hiện	8
+hưởng lợi	8
+quyền hưởng	8
+yêu_cầu tuyên_bố văn_bản công_chứng vô_hiệu	8
+mua tài_sản	8
+tài_sản động_sản	8
+cá_nhân quyền	7
+văn_bản công_chứng	7
+áp_dụng tập_quán	7
+quyền đòi	7
+thừa_kế thừa_kế	7
+hành_vi xâm_phạm	7
+tài_sản mượn	7
+mất_tích chết	6
+quyền nhân_thân	6
+tham_gia quan_hệ	6
+cá_nhân chết	6
+khối tài_sản	6
+bù_trừ nghĩa_vụ	6
+giao bảo_quản	6
+pháp_luật dân_sự	6
+quyền từ_chối	6
+thừa_kế quyền	6
+nghĩa_vụ tài_sản chết	5
+phân_chia tài_sản	5
+năng_lực hành_vi	5
+áp_dụng thời_hiệu	5
+nghĩa_vụ giao	5
+tài_sản chia	5
+yêu_cầu thuê	5
+tài_sản trưng_mua	5
+đối_với hành_vi	5
+quyết_định tuyên_bố năng_lực hành_vi dân_sự	5
+thực_hiện đầy_đủ	5
+mẹ giám_hộ	5
+trách_nhiệm liên_đới	5
+quyền đề_nghị	4
+năng_lực hành_vi dân_sự khó_khăn nhận_thức	4
+hành_vi xâm_phạm quyền	4
+miễn_trừ nghĩa_vụ	4
+hành_vi dân_sự	4
+điều_khiển hành_vi	4
+giao_dịch bất_động_sản	4
+tuyên_bố năng_lực hành_vi dân_sự hạn_chế năng_lực hành_vi dân_sự	4
+quyền định_đoạt	4
+chấm_dứt quan_hệ	3
+quyền yêu_cầu	3
+đối_với thành_niên	3
+căn_cứ pháp_luật	3
+đối_với pháp_nhân	3
+tuyên_bố năng_lực hành_vi dân_sự	3
+lợi tài_sản	3
+tài_sản căn_cứ pháp_luật	3
+mẹ đối_với thành_niên	3
+pháp luật_tố_tụng_dân_sự	3
+nghĩa_vụ tham_gia	3
+yêu_cầu công_chứng	3
+bảo_đảm quyền	3
+bảo_đảm thay_thế	2
+bảo_đảm chất_lượng	2
+thế_chấp quyền	2
+tuyên_bố giao_dịch	2
+dân_sự pháp_nhân	2
+tuyên_bố hạn_chế năng_lực hành_vi dân_sự	2
+xâm_phạm quyền	2
+đồng_ý văn_bản	2
+tuyên_bố hạn_chế	2
+thuê thuê	2
+cá_nhân chết quyền	2
+áp_dụng đối_với hành_vi	2
+áp_dụng đối_với quan_hệ	2
+cá_nhân hành_vi	2
+thực_hiện quản_lý	2
+đối_với sản_phẩm	2
+bất_động_sản hưởng	2
+trở_thành thành_viên	2
+liên_đới trách_nhiệm	2
+làm_chứng làm_chứng	1
+cử tham_gia	1
+dân_sự xác_lập	1
+bảo_đảm thực_hiện quyền	1
+quyền cầm_giữ	1
+đề_nghị giao_kết_hợp_đồng	1
+bảo_đảm thực_hiện nghĩa_vụ	1
+công_bố áp_dụng	1
+trưng_mua tài_sản	1
+yêu_cầu áp_dụng	1
+thực_hiện quyền nghĩa_vụ giao	1
+liên_đới thực_hiện	1
+thay_thế thành_viên	1
+giao quản_lý	1
+quyền miễn_trừ	1
+giao bảo_quản tài_sản	1
+đối_với quan_hệ	1
+trách_nhiệm bảo_quản	1
+tuyên_bố văn_bản	1
+pháp_luật hộ_tịch	1
+chấm_dứt thực_hiện	1
+từ_chối thực_hiện	1

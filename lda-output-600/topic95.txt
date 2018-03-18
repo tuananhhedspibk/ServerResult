@@ -1,0 +1,142 @@
+khoa_học công_nghệ	580
+nghiên_cứu khoa_học	466
+chuyển_giao công_nghệ	368
+công_nghệ thông_tin	165
+tổ_chức khoa_học công_nghệ	121
+hoạt_động khoa_học công_nghệ	107
+thực_hiện nhiệm_vụ khoa_học công_nghệ	89
+nhiệm_vụ khoa_học công_nghệ	84
+phát_triển khoa_học công_nghệ	83
+ứng_dụng công_nghệ thông_tin	74
+đổi_mới công_nghệ	72
+ứng_dụng khoa_học	71
+nghiên_cứu khoa_học phát_triển công_nghệ	66
+hoạt_động chuyển_giao công_nghệ	60
+ứng_dụng công_nghệ	56
+ứng_dụng khoa_học công_nghệ	55
+phát_triển công_nghệ	51
+hợp_đồng chuyển_giao công_nghệ	51
+công_nghệ tiên_tiến	48
+nghiên_cứu phát_triển	47
+kết_quả nghiên_cứu khoa_học phát_triển công_nghệ	46
+quỹ phát_triển khoa_học công_nghệ	42
+ứng_dụng công_nghệ_cao	39
+ứng_dụng phát_triển công_nghệ thông_tin	35
+cá_nhân hoạt_động khoa_học công_nghệ	35
+bộ_trưởng khoa_học công_nghệ	35
+kết_quả nghiên_cứu	35
+tiến_bộ khoa_học công_nghệ	34
+hoạt_động nghiên_cứu	33
+công_nghệ môi_trường	32
+ứng_dụng tiến_bộ khoa_học	31
+thành_tựu khoa_học công_nghệ	31
+hoạt_động nghiên_cứu khoa_học	30
+công_nghệ chuyển_giao	30
+nông_nghiệp ứng_dụng công_nghệ_cao	29
+ươm công_nghệ_cao	27
+tổ_chức nghiên_cứu phát_triển	27
+dịch_vụ khoa_học công_nghệ	27
+nghiên_cứu khoa_học công_nghệ	26
+quy_trình công_nghệ	25
+phát_triển khoa_học	24
+lĩnh_vực khoa_học	24
+ứng_dụng kết_quả nghiên_cứu khoa_học phát_triển công_nghệ	23
+cơ_quan quản_lý nhà_nước khoa_học công_nghệ	23
+áp_dụng tiến_bộ khoa_học	22
+danh_mục công_nghệ	22
+sản_phẩm công_nghệ_cao	22
+lĩnh_vực khoa_học công_nghệ	21
+công_nghệ lĩnh_vực	21
+chương_trình quốc_gia phát_triển công_nghệ_cao	20
+sản_phẩm công_nghệ thông_tin	20
+tổ_chức nghiên_cứu	20
+kết_quả thực_hiện nhiệm_vụ khoa_học công_nghệ	20
+khoa_học công_nghệ chủ_trì	19
+phối_hợp khoa_học công_nghệ	19
+thành_lập tổ_chức khoa_học công_nghệ	18
+khoa_học công_nghệ chủ_trì phối_hợp	17
+hoạt_động khoa_học	17
+đầu_tư phát_triển khoa_học công_nghệ	17
+dịch_vụ công_nghệ thông_tin	16
+dịch_vụ chuyển_giao công_nghệ	16
+phát_triển công_nghệ thông_tin	16
+nhiệm_vụ khoa_học công_nghệ sử_dụng ngân_sách nhà_nước	16
+phát_triển công_nghệ_cao	16
+thành_lập quỹ	15
+nghiên_cứu ứng_dụng	15
+ứng_dụng tiến_bộ khoa_học công_nghệ	15
+ứng_dụng phát_triển công_nghệ	14
+khoa_học công_nghệ quốc_gia	14
+kết_quả nghiên_cứu khoa_học	13
+nhân_lực khoa_học công_nghệ	13
+công_tác nghiên_cứu khoa_học	13
+sản_phẩm công_nghệ	12
+ứng_dụng kết_quả	12
+ứng_dụng tiến_bộ	12
+quản_lý nhà_nước khoa_học công_nghệ	10
+dịch_vụ khoa_học	10
+công_nghệ hiện_đại	10
+tiến_bộ khoa_học	10
+thành_tựu khoa_học	9
+đầu_tư phát_triển	8
+tổ_chức hoạt_động	8
+khoa_học kỹ_thuật	8
+đầu_tư mạo_hiểm	7
+khoa_học công_nghệ phục_vụ	7
+thực_hiện hoạt_động	6
+hoạt_động dịch_vụ	6
+kết_quả hoạt_động	5
+chủ_trì phối_hợp	5
+công_tác thông_tin	5
+thực_hiện nhiệm_vụ	5
+ứng_dụng kết_quả nghiên_cứu	5
+bộ_trưởng khoa_học	5
+ứng_dụng kết_quả nghiên_cứu khoa_học	5
+phối_hợp khoa_học	5
+phục_vụ hoạt_động	4
+công_nghệ quốc_gia	4
+tổ_chức thực_hiện	4
+áp_dụng tiến_bộ	4
+hợp_đồng dịch_vụ	3
+công_tác nghiên_cứu	3
+phục_vụ công_tác	3
+hợp_đồng chuyển_giao	3
+kết_quả thực_hiện	3
+hoạt_động lĩnh_vực	3
+công_nghệ phục_vụ	3
+cá_nhân thành_lập	2
+quốc_gia phát_triển công_nghệ_cao	2
+phối_hợp hoạt_động	2
+đầu_tư phát_triển khoa_học	2
+thông_tin phục_vụ	2
+quỹ đầu_tư	2
+ứng_dụng thành_tựu khoa_học	2
+ứng_dụng thành_tựu	2
+lĩnh_vực nông_nghiệp	2
+kết_quả thực_hiện nhiệm_vụ khoa_học	2
+cá_nhân đầu_tư	2
+kỹ_thuật phục_vụ	2
+phục_vụ phát_triển	2
+cá_nhân hoạt_động	1
+khoa_học phát_triển	1
+chương_trình quốc_gia	1
+thực_hiện công_tác	1
+nhà_nước khoa_học công_nghệ	1
+sản_phẩm nông_nghiệp	1
+kỹ_thuật tiên_tiến	1
+nhân_lực công_nghệ_cao	1
+khoa_học phát_triển công_nghệ	1
+nhiệm_vụ khoa_học	1
+ứng_dụng phát_triển	1
+danh_mục sản_phẩm	1
+hoạt_động chuyển_giao	1
+kết_quả nghiên_cứu khoa_học phát_triển	1
+kết_quả thực_hiện nhiệm_vụ	1
+sử_dụng thông_tin	1
+thành_lập hoạt_động	1
+tổ_chức khoa_học	1
+thực_hiện quản_lý	1
+sử_dụng quỹ	1
+phối_hợp công_tác	1
+nghiệm_thu kết_quả	1
+thực_hiện nhiệm_vụ khoa_học	1

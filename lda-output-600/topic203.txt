@@ -1,0 +1,43 @@
+ban kiểm_soát	293
+kiểm_soát viên	179
+thành_viên ban kiểm_soát	153
+trưởng ban	137
+kiểm_soát đặc_biệt	81
+ban quản_trị	73
+ban soạn_thảo	56
+sáng_lập viên	56
+ban kiểm_soát đặc_biệt	55
+thành_viên ban	45
+phó trưởng ban	42
+thành_lập ban	31
+ban kiểm_soát kiểm_soát viên	31
+ban quản_trị nhà_chung_cư	27
+thành_lập ban soạn_thảo	26
+kiểm_soát nội_bộ	25
+trưởng ban kiểm_soát	25
+vay đặc_biệt	23
+hội_đồng quản_trị ban kiểm_soát	23
+ban quản_trị hợp_tác_xã	21
+thành_viên ban quản_trị	21
+hệ_thống kiểm_soát nội_bộ	20
+kiểm_soát viên chất_lượng	18
+phó trưởng ban thư_ký	17
+bầu trưởng ban	15
+kiểm_soát chất_lượng	14
+ban thư_ký	8
+ban chủ_nhiệm	6
+trưởng ban thư_ký	6
+quản_trị nhà_chung_cư	4
+thành_lập hội_đồng	4
+hội_đồng quản_trị	4
+bầu thành_viên	3
+phó trưởng	3
+quản_trị ban kiểm_soát	3
+nhiệm_kỳ ban	1
+quản_trị ban	1
+hệ_thống kiểm_soát	1
+kiểm_soát kiểm_soát	1
+chữ_ký thành_viên	1
+hợp_tác_xã thành_viên	1
+quản_trị hợp_tác_xã	1
+nhiệm_kỳ hội_đồng quản_trị	1

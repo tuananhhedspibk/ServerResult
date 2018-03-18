@@ -1,0 +1,72 @@
+ký phát	210
+hối_phiếu đòi nợ	161
+công_cụ chuyển_nhượng	130
+thực_hành quyền công_tố	92
+ký chuyển_nhượng	33
+thực_hành quyền công_tố kiểm_sát tuân pháp_luật	31
+truy đòi	30
+hạn thanh_toán	29
+hối_phiếu nợ	28
+chuyển_nhượng quyền	28
+thực_hành quyền công_tố kiểm_sát	27
+thực_hành quyền công_tố kiểm_sát hoạt_động tư_pháp	26
+tiền ghi	25
+từ_chối chấp_nhận từ_chối thanh_toán	22
+thu hộ	21
+thanh_toán séc	21
+lệnh phiếu	19
+quyền từ_chối	18
+thanh_toán thương_phiếu	18
+tờ phụ	17
+thời_hạn thanh_toán	17
+thanh_toán tiền	16
+quyền truy đòi	16
+ghi hối_phiếu đòi nợ	15
+chuyển_nhượng hối_phiếu đòi nợ	15
+thanh_toán hối_phiếu đòi nợ	12
+từ_chối thanh_toán	12
+ghi séc	12
+thực_hành quyền công_tố giai_đoạn	12
+viện kiểm_sát thực_hành quyền công_tố	11
+từ_chối chấp_nhận	11
+quyền đòi	10
+nghĩa_vụ thanh_toán	9
+cam_kết bảo_lãnh	9
+toàn_bộ tiền	8
+quyền khởi_kiện	6
+phép chuyển_nhượng	5
+nghỉ lễ	5
+bảo_lãnh bảo_lãnh	4
+thụ_hưởng quyền	4
+ghi chữ	4
+chấp_nhận chấp_nhận	4
+năng_lực thực_hành quyền công_tố	3
+tiền ghi hối_phiếu	3
+quyền cầm_giữ	3
+thanh_toán đầy_đủ	3
+chuyển_nhượng hối_phiếu	3
+quyền nghĩa_vụ	3
+chấp_nhận từ_chối	3
+đòi nợ	3
+ghi hối_phiếu	3
+thực_hành quyền công_tố kiểm_sát hoạt_động	3
+kiểm_sát hoạt_động tư_pháp	3
+xuất_trình hối_phiếu	3
+thanh_toán hối_phiếu	3
+quan_hệ pháp_luật	2
+thực_hành quyền	2
+chấp_nhận toàn_bộ	2
+chuyển_nhượng toàn_bộ	2
+quyền công_tố	2
+thu tiền	2
+nợ hạn	2
+ghi đầy_đủ	2
+hoạt_động ngân_hàng	1
+thực_hành quyền công_tố kiểm_sát tuân	1
+hoàn_thành nghĩa_vụ	1
+nợ nghĩa_vụ	1
+thời_hạn ghi	1
+phát phiếu	1
+bảo_lãnh phát_hành	1
+quyền ra_lệnh	1
+lệnh thu	1

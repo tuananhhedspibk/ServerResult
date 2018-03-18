@@ -1,0 +1,102 @@
+cá_nhân nước_ngoài	694
+cá_nhân liên_quan	335
+tham_gia hoạt_động	211
+cá_nhân hoạt_động	152
+cá_nhân thẩm_quyền	151
+cá_nhân tham_gia	147
+liên_quan hoạt_động	133
+cá_nhân thành_tích	109
+cá_nhân giám_sát	101
+tổ_chức hoạt_động	95
+cá_nhân sử_dụng	94
+cá_nhân tham_gia hoạt_động	81
+tiến_hành hoạt_động	75
+phép hoạt_động	68
+cá_nhân hữu_quan	64
+cá_nhân đầu_tư	62
+cản_trở hoạt_động	57
+cá_nhân quyền	46
+cá_nhân khai_thác	46
+cá_nhân chết	46
+cá_nhân phép	45
+cá_nhân cư_trú	45
+cá_nhân thành_lập	43
+tiếng nước_ngoài	38
+cá_nhân nhu_cầu	37
+quá_trình hoạt_động	35
+cá_nhân thẩm_quyền xem_xét	32
+lợi_dụng hoạt_động	32
+yếu_tố nước_ngoài	31
+cá_nhân nước_ngoài đầu_tư	30
+cá_nhân tiến_hành hoạt_động	30
+cá_nhân đối_tượng_thanh_tra	28
+cá_nhân liên_quan hoạt_động	25
+giám_sát hoạt_động	24
+nước_ngoài hoạt_động	24
+cá_nhân thẩm_quyền xử_lý	23
+phép thành_lập	22
+cá_nhân thành_phần kinh_tế	21
+nguyên_tắc hoạt_động	21
+hoạt_động giám_sát	21
+cá_nhân kinh_doanh	21
+xử_lý hành_vi cản_trở hoạt_động	20
+hiệu_quả hoạt_động	19
+cản_trở hoạt_động bình_thường	18
+hoạt_động bình_thường	18
+nước_ngoài phép	18
+cá_nhân chết quyền	17
+cá_nhân nước_ngoài tiến_hành	17
+tham_gia hội_chợ	17
+thẩm_quyền phép	16
+cá_nhân hành_vi	16
+tổ_chức hữu_quan	16
+thành_phần tham_gia	15
+đầu_tư nước_ngoài	14
+quá_trình sử_dụng	14
+cá_nhân liên_quan trách_nhiệm	13
+liên_quan hoạt_động đầu_tư	13
+cá_nhân tiến_hành	12
+cá_nhân nước_ngoài tham_gia	12
+ngôn_ngữ sử_dụng	11
+tham_gia giám_sát	10
+phép sử_dụng	10
+nước_ngoài tham_gia	9
+cá_nhân giám_sát báo_cáo	9
+tham_gia đấu_thầu	9
+hoạt_động đầu_tư	8
+nguyên_tắc tổ_chức hoạt_động	8
+thành_lập hoạt_động	8
+tham_gia hội_nghị	7
+hành_vi cản_trở	7
+nhu_cầu sử_dụng	7
+liên_quan quá_trình	7
+cá_nhân tham_gia phát_triển	7
+phép khai_thác	7
+hoạt_động xuất_khẩu	7
+đăng_ký tham_gia	7
+hoạt_động kinh_doanh	6
+sử_dụng hiệu_quả	6
+hoạt_động tố_tụng_hành_chính	6
+nước_ngoài cư_trú	6
+hành_vi cản_trở hoạt_động	6
+cá_nhân lợi_dụng	6
+thẩm_quyền tiến_hành	5
+đăng_ký hoạt_động	5
+cử tham_gia	5
+tổ_chức kinh_tế	4
+quyền sử_dụng	3
+thẩm_quyền nước_ngoài	3
+thẩm_quyền xem_xét	2
+trách_nhiệm tổ_chức	2
+tổ_chức nước_ngoài hoạt_động	2
+tham_gia thành_lập	2
+cư_trú nước_ngoài	2
+tổ_chức hội_nghị	2
+thành_phần kinh_tế	1
+hoạt_động đấu_thầu	1
+nước_ngoài đầu_tư	1
+thành_lập phép thành_lập	1
+xử_lý thẩm_quyền	1
+đăng_ký kinh_doanh	1
+quá_trình tiến_hành	1
+đầu_tư kinh_doanh	1

@@ -1,0 +1,133 @@
+trả_lời chất_vấn	102
+báo_cáo công_tác	76
+kiến_nghị cử_tri	63
+phó_chủ_tịch quốc_hội	53
+xem_xét báo_cáo	43
+tiếp_xúc cử_tri	37
+trách_nhiệm trả_lời	35
+đề_nghị chủ_tịch	35
+chất_vấn trả_lời	32
+trách_nhiệm báo_cáo công_tác quốc_hội	29
+kiến_nghị công_dân	29
+chủ_tịch quốc_hội	28
+quyền kiến_nghị	26
+trình_bày báo_cáo	25
+phó_chủ_tịch ủy_viên	25
+trình_bày báo_cáo thẩm_tra	24
+trách_nhiệm báo_cáo	24
+báo_cáo cử_tri	22
+báo_cáo quốc_hội	22
+trách_nhiệm báo_cáo công_tác	22
+đại_sứ đặc_mệnh toàn_quyền	22
+báo_cáo thẩm_tra	21
+thẩm_tra báo_cáo	20
+giải_quyết kiến_nghị cử_tri	19
+xác_nhận tư_cách	19
+trả_lời văn_bản	19
+quyền chất_vấn	19
+cách_chức phó thủ_tướng	18
+thẩm_tra tư_cách đại_biểu	18
+báo_cáo công_tác quốc_hội	17
+vấn_đề chất_vấn	17
+xem_xét trả_lời chất_vấn	17
+liên_hệ chặt_chẽ	17
+tiếp công_dân	17
+đoàn chủ_tịch	16
+thảo_luận báo_cáo	16
+báo_cáo chính_phủ	15
+thẩm_tra tư_cách	15
+liên_hệ chặt_chẽ cử_tri	14
+xác_nhận tư_cách đại_biểu	14
+giúp chủ_tịch	13
+bãi_nhiệm chủ_tịch	13
+chất_vấn chủ_tịch	12
+triệu_tập chủ_trì	12
+nhiệm_kỳ quốc_hội	12
+trách_nhiệm tiếp	12
+báo_cáo văn_bản	12
+tố_cáo công_dân	11
+xác_minh trả_lời	11
+chủ_tịch phó_chủ_tịch	11
+thẩm_tra trình_bày báo_cáo thẩm_tra	11
+thời_hạn trả_lời	10
+quá_trình thảo_luận	10
+quốc_hội có_thể	10
+quốc_hội bầu	10
+tố_cáo kiến_nghị	10
+có_thể triệu_tập	10
+trả_lời kiến_nghị	10
+kéo_dài nhiệm_kỳ	10
+phó trưởng_đoàn	10
+cử_tri bãi_nhiệm	10
+cách_chức phó	9
+đề_nghị bổ_nhiệm	9
+bắt giam	9
+cử_tri địa_phương	9
+quan_hệ gắn_bó	9
+cách_chức chủ_tịch	8
+chất_vấn đại_biểu quốc_hội	8
+quyền đề_nghị	8
+quốc_hội nhiệm_kỳ	8
+quốc_hội xem_xét	8
+trách_nhiệm xem_xét	7
+đề_nghị xem_xét	7
+trả_lời thời_hạn	7
+giải_quyết kiến_nghị	7
+xem_xét trách_nhiệm	6
+quan_hệ đối_ngoại quốc_hội	6
+xem_xét kiến_nghị	6
+báo_cáo chính_phủ công_tác	6
+bầu chủ_tịch	6
+đề_nghị xem_xét_lại	6
+giải_quyết vấn_đề	6
+báo_cáo chủ_tịch	6
+kiến_nghị vấn_đề	6
+quyền_hạn chủ_tịch	5
+chất_vấn chất_vấn	5
+đặc_mệnh toàn_quyền	5
+đại_biểu quốc_hội	5
+trả_lời vấn_đề	5
+giải_quyết trả_lời	5
+triệu_tập chủ_toạ	5
+kiến_nghị chủ_tịch	4
+trách_nhiệm báo_cáo công_tác hội_đồng	4
+báo_cáo hội_đồng	3
+trách_nhiệm xác_minh	3
+nhiệm_kỳ khóa	3
+chủ_tịch bổ_nhiệm	3
+trách_nhiệm trả_lời văn_bản	3
+bãi_nhiệm đại_biểu quốc_hội	3
+chủ_trì thẩm_tra	3
+xem_xét trả_lời	3
+công_tác đối_ngoại	3
+xem_xét giải_quyết	3
+trách_nhiệm trả_lời văn_bản thời_hạn	3
+trách_nhiệm giải_quyết	3
+báo_cáo công_tác hội_đồng	2
+quốc_hội bầu_chủ_tịch	2
+thẩm_tra dự_án	2
+bầu đại_biểu	2
+phó thủ_tướng	2
+trả_lời câu	2
+quan_hệ đối_ngoại	2
+khuyết đại_biểu	1
+câu trả_lời	1
+thủ_tướng chính_phủ xem_xét	1
+quốc_hội khóa	1
+trách_nhiệm chính_phủ	1
+phó_chủ_tịch thành_viên	1
+đề_nghị hội_đồng	1
+đại_biểu bầu	1
+bãi_nhiệm đại_biểu	1
+quyền_hạn trách_nhiệm	1
+giúp thủ_tướng	1
+công_dân quyền	1
+chủ_tịch hội_đồng	1
+xem_xét văn_bản	1
+phó thủ_tướng chính_phủ	1
+cử_tri công_tác	1
+công_dân quyền tố_cáo	1
+văn_bản trả_lời	1
+quyền công_dân	1
+vấn_đề đoàn	1
+cách_chức đề_nghị	1

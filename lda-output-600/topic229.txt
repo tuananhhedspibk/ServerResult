@@ -1,0 +1,73 @@
+chống lãng_phí	276
+thực_hành tiết_kiệm	262
+chống lụt	165
+sử_dụng tài_nguyên	125
+sử_dụng năng_lượng tiết_kiệm hiệu_quả	94
+chống khắc_phục hậu_quả tác_hại	69
+sử_dụng năng_lượng	67
+chống lũ	45
+sử_dụng tiết_kiệm	42
+tiết_kiệm năng_lượng	41
+phân lũ	41
+sử_dụng hiệu_quả	36
+hiệu_suất năng_lượng	36
+chậm lũ	35
+chỉ_tiêu tiết_kiệm yêu_cầu chống lãng_phí	33
+tiết_kiệm hiệu_quả	33
+hành_vi lãng_phí	28
+chống lũ tuyến sông đê	28
+tài_nguyên thiên_nhiên	27
+năng_lượng tái_tạo	26
+sử_dụng hợp_lý	26
+phương_tiện đi_lại	25
+sử_dụng kinh_phí	23
+chống khắc_phục hậu_quả lụt	21
+vi_phạm_quy_định lãng_phí bồi_thường	21
+sử_dụng phương_tiện đi_lại	21
+chống khắc_phục hậu_quả	18
+bảo_đảm tiết_kiệm	17
+giám_sát thực_hành tiết_kiệm	17
+chống lãng_phí quản_lý	17
+kế_hoạch sử_dụng	17
+khắc_phục hậu_quả lụt	15
+cơ_sở sử_dụng năng_lượng trọng_điểm	15
+trang_bị phương_tiện	15
+khắc_phục hậu_quả lũ	14
+sử_dụng phương_tiện	12
+khắc_phục hậu_quả	11
+biện_pháp sử_dụng năng_lượng tiết_kiệm hiệu_quả	11
+bảo_đảm hiệu_quả	10
+năng_lượng tiết_kiệm hiệu_quả	10
+chỉ_tiêu tiết_kiệm	9
+lãng_phí bồi_thường	9
+biện_pháp thực_hành tiết_kiệm	7
+mục_đích sử_dụng	6
+sử_dụng điện	6
+nâng hiệu_quả	6
+vi_phạm_quy_định lãng_phí	6
+quản_lý sử_dụng	5
+sử_dụng năng_lượng trọng_điểm	5
+sử_dụng tài_nguyên thiên_nhiên	5
+năng_lượng sạch	5
+đấu_tranh chống	5
+hiệu_quả tài_nguyên	4
+sử_dụng mục_đích	4
+lãng_phí quản_lý	4
+tuyến sông	3
+sông đê	3
+chống tác_hại	3
+tuyến sông đê	3
+hậu_quả lũ	2
+nghiêm_cấm hành_vi	2
+sử_dụng năng_lượng tiết_kiệm	2
+chống khắc_phục	2
+khắc_phục hậu_quả tác_hại	2
+sai mục_đích	1
+năng_lượng tiết_kiệm	1
+yêu_cầu chống lãng_phí	1
+hành_vi nghiêm_cấm	1
+phương_tiện sử_dụng	1
+cơ_sở sử_dụng năng_lượng	1
+hậu_quả tác_hại	1
+chống lũ tuyến sông	1
+hành_vi vi_phạm_quy_định	1

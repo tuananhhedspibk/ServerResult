@@ -1,0 +1,181 @@
+đáp_ứng yêu_cầu	448
+điều_kiện :	310
+điều_kiện thuận_lợi	230
+bảo_đảm chất_lượng	187
+bảo_đảm điều_kiện	176
+đáp_ứng nhu_cầu	169
+đáp_ứng điều_kiện	164
+đáp_ứng điều_kiện :	128
+phù_hợp yêu_cầu	123
+tiêu_chuẩn :	110
+bảo_đảm yêu_cầu	103
+trách_nhiệm điều_kiện	90
+phù_hợp điều_kiện	89
+tiêu_chuẩn chất_lượng	89
+bảo_đảm an_toàn	88
+điều_kiện cần_thiết	87
+căn_cứ yêu_cầu	78
+phục_vụ nhu_cầu	76
+điều_kiện bảo_đảm	76
+điều_kiện tự_nhiên	73
+bảo_đảm tiêu_chuẩn	72
+trách_nhiệm :	67
+tiêu_chuẩn điều_kiện	59
+phục_vụ yêu_cầu	52
+bảo_đảm công_khai	50
+phù_hợp khả_năng	49
+phù_hợp tiêu_chuẩn	49
+phù_hợp đặc_điểm	49
+căn_cứ tiêu_chuẩn	46
+điều_kiện thuận_lợi tổ_chức	46
+điều_kiện cụ_thể	46
+bảo_đảm yêu_cầu :	45
+bảo_đảm nguyên_tắc :	43
+điều_kiện năng_lực	42
+bảo_đảm nguyên_tắc	42
+hướng_dẫn nội_dung cần_thiết luật đáp_ứng yêu_cầu quản_lý nhà_nước	41
+điều_kiện quy_định	41
+đáp_ứng yêu_cầu :	40
+đáp_ứng tiêu_chuẩn	40
+bảo_đảm điều_kiện :	37
+bảo_đảm hiệu_quả	37
+căn_cứ nhu_cầu	36
+quy_định :	35
+nguyên_tắc :	35
+bảo_đảm công_bằng	35
+điều_kiện thực_tế	35
+đáp_ứng điều_kiện quy_định	34
+bảo_đảm điều_kiện cần_thiết	33
+hệ_thống quản_lý chất_lượng	32
+bảo_đảm duy_trì	32
+phục_vụ sinh_hoạt	32
+bảo_đảm điều_kiện hoạt_động	31
+phù_hợp nhu_cầu	30
+điều_kiện làm_việc	30
+bảo_đảm khách_quan	30
+nhu_cầu thiết_yếu	29
+đánh_giá chất_lượng	29
+đáp_ứng tiêu_chí	28
+bảo_đảm điều_kiện làm_việc	27
+quản_lý chất_lượng	26
+bảo_đảm chính_xác	25
+bảo_đảm quyền_lợi	25
+bảo_đảm hoạt_động	25
+trách_nhiệm điều_kiện thuận_lợi	24
+bảo_đảm bí_mật	24
+bảo_đảm tiêu_chuẩn chất_lượng	24
+điều_kiện thành_lập	23
+đáp_ứng đầy_đủ	23
+điều_kiện phát_sinh tội_phạm	22
+bảo_đảm đồng_bộ	22
+phù_hợp nội_dung	22
+bảo_đảm an_ninh	22
+nhà_nước bảo_đảm	22
+tuân_thủ nguyên_tắc	21
+bảo_đảm kinh_phí	21
+tuân_thủ điều_kiện	20
+hệ_thống tiêu_chuẩn	20
+điều_kiện sống	20
+điều_kiện địa_lý	20
+phù_hợp mục_đích	19
+tiêu_chuẩn quy_định	19
+phù_hợp thực_tế	19
+nguyên_nhân điều_kiện	18
+điều_kiện năng_lực hoạt_động	18
+nguyên_tắc hoạt_động	17
+phù_hợp quy_định	16
+phục_vụ hoạt_động	15
+đáp_ứng điều_kiện quy_định luật	13
+bảo_đảm thống_nhất	13
+cần_thiết bảo_đảm	13
+góp_phần bảo_đảm	13
+điều_kiện phát_sinh	13
+tiêu_chí :	12
+khả_năng đáp_ứng	12
+cải_thiện điều_kiện làm_việc	12
+bảo_đảm cân_đối	11
+trách_nhiệm quản_lý	11
+đáp_ứng yêu_cầu quản_lý nhà_nước	11
+duy_trì điều_kiện	11
+nội_dung :	11
+phục_vụ yêu_cầu quản_lý	10
+kiểm_định chất_lượng	10
+đáp_ứng yêu_cầu quản_lý	10
+khả_năng thực_tế	10
+phù_hợp lứa	9
+tiêu_chuẩn đánh_giá	9
+chứng_nhận phù_hợp tiêu_chuẩn	9
+kỹ_thuật đáp_ứng yêu_cầu	9
+nhu_cầu sinh_hoạt	8
+cần_thiết bảo_đảm an_toàn	8
+nguyên_nhân khách_quan	8
+phục_vụ mục_đích	7
+trách_nhiệm chính_xác	7
+cần_thiết phục_vụ	7
+điều_kiện an_toàn	7
+chất_lượng hiệu_quả	6
+duy_trì hệ_thống	6
+đầy_đủ nội_dung	6
+quy_định tổ_chức hoạt_động	6
+phù_hợp yêu_cầu phát_triển	6
+hệ_thống quản_lý	6
+duy_trì hoạt_động	5
+quy_định cụ_thể điều_kiện	5
+điều_kiện bảo_đảm an_toàn	5
+bảo_đảm tiết_kiệm	4
+khuyến_khích điều_kiện thuận_lợi	4
+điều_kiện quy_định luật	4
+nhu_cầu tiếp_tục	4
+nội_dung quản_lý	4
+đánh_giá hiệu_quả	4
+nội_dung cần_thiết luật	4
+phát_sinh hoạt_động	4
+tiêu_chuẩn điều_kiện thành_lập	4
+yêu_cầu kỹ_thuật	4
+khuyến_khích điều_kiện	4
+hướng_dẫn hoạt_động	4
+nội_dung quy_định	4
+nội_dung cần_thiết	3
+đánh_giá phù_hợp	3
+hệ_thống tổ_chức	3
+hướng_dẫn nội_dung cần_thiết	3
+cấu_thành tội_phạm	3
+căn_cứ quy_định	3
+đáp_ứng yêu_cầu phát_triển	3
+hướng_dẫn cụ_thể	3
+bảo_đảm kinh_phí hoạt_động	3
+nguyên_tắc tổ_chức hoạt_động	2
+quản_lý hệ_thống	2
+khả_năng điều_khiển	2
+cải_thiện điều_kiện	2
+hướng_dẫn nội_dung	2
+trách_nhiệm tổ_chức	2
+tiêu_chuẩn an_toàn	2
+bảo_đảm điều_kiện an_toàn	2
+năng_lực hoạt_động	2
+hiệu_quả hoạt_động	2
+thuận_lợi tổ_chức	2
+chứng_nhận phù_hợp	2
+ký_quỹ bảo_đảm	2
+tổ_chức hoạt_động	2
+kỹ_thuật phục_vụ	2
+kinh_phí hoạt_động	2
+cụ_thể điều_kiện	2
+an_toàn hệ_thống	2
+thuận_lợi hoạt_động	2
+nội_dung cần_thiết luật đáp_ứng yêu_cầu quản_lý nhà_nước	2
+quy_định cụ_thể tổ_chức hoạt_động	1
+phát_triển hệ_thống	1
+tiêu_chuẩn kỹ_thuật	1
+cụ_thể nội_dung	1
+tiêu_chuẩn quy_định luật	1
+chứng_nhận tiêu_chuẩn	1
+hướng_dẫn nội_dung cần_thiết luật đáp_ứng yêu_cầu quản_lý	1
+chứng_nhận chất_lượng	1
+quy_định luật	1
+an_toàn kỹ_thuật	1
+thành_lập hoạt_động quy_định	1
+nội_dung quản_lý nhà_nước	1
+tổ_chức kiểm_định chất_lượng	1
+luật quy_định	1
+khả_năng cân_đối	1

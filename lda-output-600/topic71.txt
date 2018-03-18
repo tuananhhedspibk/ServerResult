@@ -1,0 +1,193 @@
+bảo_vệ môi_trường	946
+tài_nguyên môi_trường	286
+ô_nhiễm môi_trường	190
+môi_trường biển hải_đảo	127
+sử_dụng tài_nguyên	108
+sự_cố môi_trường	99
+hệ sinh_thái	95
+phục_hồi môi_trường	93
+hiếm ưu_tiên bảo_vệ	80
+quan_trắc môi_trường	79
+bảo_vệ tài_nguyên	71
+pháp_luật bảo_vệ môi_trường	68
+tài_nguyên thiên_nhiên	57
+tiêu_chuẩn môi_trường	55
+quy_định pháp_luật bảo_vệ môi_trường	50
+ứng_phó sự_cố môi_trường	48
+cơ_quan quản_lý nhà_nước bảo_vệ môi_trường	48
+biển hải_đảo	48
+bộ_trưởng tài_nguyên môi_trường	47
+hoạt_động bảo_vệ môi_trường	46
+suy_thoái môi_trường	46
+thân_thiện môi_trường	44
+cảnh_sát môi_trường	43
+thành_phần môi_trường	41
+ô_nhiễm môi_trường biển hải_đảo	40
+bảo_vệ môi_trường biển hải_đảo	38
+ứng_phó sự_cố	36
+sử_dụng bền_vững tài_nguyên bờ	35
+tác_động môi_trường	35
+quản_lý tổng_hợp tài_nguyên bảo_vệ môi_trường biển hải_đảo	34
+đánh_giá môi_trường chiến_lược	34
+quy_hoạch tài_nguyên	32
+hiện_trạng môi_trường	32
+yêu_cầu bảo_vệ môi_trường	31
+tài_nguyên môi_trường chủ_trì	30
+môi_trường sinh_thái	29
+môi_trường ô_nhiễm	29
+vệ_sinh môi_trường	28
+môi_trường biển	26
+cam_kết bảo_vệ môi_trường	26
+kế_hoạch bảo_vệ môi_trường	26
+hóa chất_độc biển	25
+sử_dụng bền_vững tài_nguyên	25
+cơ_sở ô_nhiễm môi_trường nghiêm_trọng	24
+phối_hợp bộ_trưởng tài_nguyên môi_trường	24
+đánh_giá tác_động môi_trường	24
+quy_hoạch bảo_vệ môi_trường	23
+tràn dầu	23
+hành_lang bảo_vệ bờ biển	23
+khắc_phục ô_nhiễm	23
+bảo_vệ môi_trường quy_định pháp_luật	22
+hệ sinh_thái tự_nhiên	22
+chủ_trì phối_hợp tài_nguyên môi_trường	22
+môi_trường xung_quanh	21
+công_tác bảo_vệ môi_trường	21
+công_nghệ môi_trường	21
+bảo_vệ môi_trường sinh_thái	21
+tác_động xấu môi_trường	20
+thực_hiện biện_pháp bảo_vệ môi_trường	20
+tài_nguyên môi_trường trách_nhiệm	20
+cải_thiện môi_trường	20
+ô_nhiễm môi_trường nghiêm_trọng	19
+sử_dụng tài_nguyên thiên_nhiên	19
+biện_pháp bảo_vệ môi_trường	18
+đáp_ứng yêu_cầu bảo_vệ môi_trường	18
+cơ_quan chuyên_môn bảo_vệ môi_trường	18
+tái sử_dụng	18
+dữ_liệu tài_nguyên	17
+quỹ bảo_vệ môi_trường	17
+môi_trường sống	17
+cảnh_quan thiên_nhiên	16
+hàng_hải phòng_ngừa ô_nhiễm môi_trường	16
+tác_động xấu đối_với môi_trường	16
+phí bảo_vệ môi_trường	15
+tài_nguyên biển hải_đảo	15
+khắc_phục sự_cố môi_trường	15
+ô_nhiễm môi_trường biển	15
+môi_trường không_khí	14
+tổng_hợp tài_nguyên	14
+chất_lượng môi_trường	13
+chương_trình quản_lý tổng_hợp tài_nguyên bờ	13
+quản_lý tổng_hợp tài_nguyên bờ	13
+môi_trường quốc_gia	12
+tài_nguyên môi_trường quy_định	12
+tình_trạng ô_nhiễm môi_trường	11
+khắc_phục sự_cố	11
+hệ_thống quan_trắc	11
+biện_pháp bảo_vệ	11
+bảo_vệ môi_trường quy_định pháp_luật liên_quan	10
+sự_cố tràn dầu	10
+phòng_ngừa ô_nhiễm môi_trường	10
+hệ_thống quan_trắc môi_trường	10
+bảo_vệ môi_trường biển	10
+chất ô_nhiễm	10
+kiểm_soát ô_nhiễm	9
+con_người môi_trường	9
+phối_hợp tài_nguyên môi_trường	9
+đánh_giá hiện_trạng	9
+quản_lý tổng_hợp tài_nguyên	9
+vi_phạm pháp_luật bảo_vệ môi_trường	9
+tác_động xấu	8
+đối_với con_người	8
+rủi_ro ô_nhiễm	8
+bờ biển	8
+bộ_trưởng tài_nguyên môi_trường quy_định	8
+đánh_giá rủi_ro	8
+quản_lý tổng_hợp	8
+sự_cố môi_trường biển	7
+kế_hoạch sử_dụng	7
+pháp_luật bảo_vệ	7
+môi_trường quá_trình	7
+bảo_vệ cảnh_quan	7
+sự_cố ô_nhiễm	7
+quản_lý nhà_nước bảo_vệ môi_trường	6
+dịch_vụ môi_trường	6
+tác_động xấu đối_với	5
+môi_trường quy_định pháp_luật	5
+kiểm_soát ô_nhiễm môi_trường	5
+chuyên_môn bảo_vệ môi_trường	5
+công_tác bảo_vệ	5
+ưu_tiên bảo_vệ	5
+hành_lang bảo_vệ	5
+kiểm_soát ô_nhiễm môi_trường biển	5
+đánh_giá chất_lượng	5
+chương_trình quan_trắc	5
+tài_nguyên biển	5
+biện_pháp kiểm_soát	4
+nhà_nước bảo_vệ môi_trường	4
+hiệu_quả tài_nguyên	4
+cơ_sở ô_nhiễm môi_trường	4
+tài_nguyên bờ	4
+bền_vững tài_nguyên	4
+tổng_hợp tài_nguyên bảo_vệ môi_trường biển hải_đảo	4
+hóa chất_độc	4
+quy_hoạch sử_dụng	3
+quản_lý nhà_nước tài_nguyên	3
+hệ_thống quản_lý chất_lượng	3
+đánh_giá tác_động	3
+bảo_vệ bờ	3
+quy_hoạch bảo_vệ	2
+quy_định pháp_luật	2
+biện_pháp phòng_ngừa	2
+sử_dụng hiệu_quả	2
+kế_hoạch ứng_phó sự_cố	2
+sinh_thái tự_nhiên	2
+quản_lý sử_dụng	2
+phối_hợp bộ_trưởng	2
+sử_dụng bền_vững	2
+biện_pháp khắc_phục	2
+phòng_ngừa ô_nhiễm	2
+công_tác phòng_ngừa	2
+quản_lý nhà_nước hoạt_động	2
+cảnh_sát biển	2
+sử_dụng phí	2
+xấu đối_với môi_trường	2
+môi_trường chiến_lược	2
+quản_lý nhà_nước bảo_vệ	2
+nhà_nước ưu_tiên	2
+quản_lý rủi_ro	2
+môi_trường nghiêm_trọng	2
+thực_hiện biện_pháp bảo_vệ	2
+quỹ bảo_vệ	2
+thực_hiện quy_hoạch	1
+quản_lý hệ_thống	1
+tổng_hợp tài_nguyên bờ	1
+trách_nhiệm quản_lý	1
+phục_hồi hoạt_động	1
+rủi_ro ô_nhiễm môi_trường biển	1
+liên_quan hoạt_động	1
+tiêu_chuẩn chất_lượng	1
+thực_hiện biện_pháp	1
+chương_trình quản_lý tổng_hợp tài_nguyên	1
+tình_trạng ô_nhiễm	1
+cơ_sở dữ_liệu	1
+kiểm_soát biển	1
+diễn_biến tài_nguyên	1
+tiêu_chuẩn vệ_sinh	1
+pháp_luật liên_quan	1
+quá_trình hoạt_động	1
+thực_hiện biện_pháp phòng_ngừa	1
+kế_hoạch bảo_vệ	1
+phối_hợp cơ_quan	1
+thực_hiện biện_pháp vệ_sinh	1
+đánh_giá môi_trường	1
+sử_dụng dịch_vụ	1
+quản_lý tổng_hợp tài_nguyên bảo_vệ môi_trường	1
+hiện_trạng sử_dụng	1
+đáp_ứng yêu_cầu bảo_vệ	1
+kế_hoạch phòng_ngừa	1
+chủ_trì phối_hợp	1
+tài_nguyên bảo_vệ môi_trường	1
+bộ_trưởng tài_nguyên	1
+biện_pháp ứng_phó	1

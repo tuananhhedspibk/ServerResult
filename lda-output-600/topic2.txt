@@ -1,0 +1,86 @@
+tài_liệu liên_quan	367
+nghĩa_vụ liên_quan	365
+thu_thập chứng_cứ	147
+chứng_cứ kèm	144
+cung_cấp tài_liệu	116
+thu_thập tài_liệu	106
+giấy_tờ chứng_minh	79
+cung_cấp chứng_cứ	79
+giấy_tờ liên_quan	77
+tài_liệu chứng_minh	70
+chứng_cứ chứng_minh	67
+tài_liệu kèm	66
+nghĩa_vụ liên_quan yêu_cầu độc_lập	60
+cá_nhân liên_quan	54
+nghĩa_vụ liên_quan kháng_cáo	48
+chứng_cứ liên_quan	45
+bổ_sung tài_liệu	45
+coi chứng_cứ	43
+chứng_cứ thu_thập	43
+tài_liệu cần_thiết	42
+tiến_hành xác_minh	41
+tình_tiết liên_quan	41
+liên_quan quyền_lợi	40
+xác_minh tình_tiết	39
+nghĩa_vụ tố_tụng	38
+đồ_vật liên_quan	37
+bổ_sung chứng_cứ	35
+cung_cấp tài_liệu cần_thiết	32
+đánh_giá chứng_cứ	32
+cung_cấp đầy_đủ	31
+công_khai chứng_cứ	31
+nghĩa_vụ cung_cấp	29
+giao_nộp tài_liệu	27
+nghĩa_vụ chứng_minh	24
+giả_mạo chứng_cứ	23
+tình_tiết quan_trọng	23
+kèm tài_liệu liên_quan	23
+lưu_giữ tài_liệu	22
+kèm tài_liệu	21
+ký_tên đóng_dấu	21
+nghĩa_vụ liên_quan kháng_nghị	21
+xuất_trình giấy_tờ	21
+liên_quan kháng_cáo	20
+cá_nhân liên_quan cung_cấp tài_liệu	20
+chứng_cứ chứng_minh yêu_cầu	20
+chứng_từ liên_quan	19
+cá_nhân cung_cấp tài_liệu	19
+quyền_lợi nghĩa_vụ	17
+đính kèm	17
+nghĩa_vụ liên_quan tham_gia_tố_tụng	16
+giấy_tờ kèm	15
+giấy_tờ tùy_thân	15
+cung_cấp tài_liệu liên_quan	15
+yêu_cầu độc_lập quyền_lợi	14
+kiểm_tra giao_nộp	13
+chứng_cứ cung_cấp	13
+sao_chụp tài_liệu	12
+bản_sao tài_liệu	11
+cá_nhân cung_cấp	11
+chứng_minh yêu_cầu căn_cứ	11
+liên_quan trực_tiếp	10
+tài_liệu đọc	10
+yêu_cầu cung_cấp	10
+bảo_quản tài_liệu	9
+bằng_chứng chứng_minh	9
+kháng_nghị kèm	9
+bổ_sung bãi_bỏ	9
+cá_nhân liên_quan cung_cấp	8
+tài_liệu liên_quan trực_tiếp	8
+cần_thiết liên_quan	7
+liên_quan vụ_việc	7
+liên_quan cung_cấp tài_liệu	6
+kèm bản_sao	5
+chứng_minh yêu_cầu	5
+độc_lập quyền_lợi	5
+yêu_cầu độc_lập	5
+danh_mục tài_liệu	4
+bản_chính bản_sao	4
+trốn_tránh nghĩa_vụ	4
+giả_mạo giấy_tờ	4
+bản_sao giấy_tờ	3
+tiến_hành tố_tụng	3
+đầy_đủ nghĩa_vụ	3
+tiến_hành kiểm_tra	1
+liên_quan cung_cấp	1
+nghĩa_vụ liên_quan yêu_cầu	1

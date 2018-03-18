@@ -1,0 +1,200 @@
+báo_cáo kết_quả	229
+báo_cáo tài_chính	216
+bộ_trưởng tài_chính	129
+lập báo_cáo	115
+báo_cáo tình_hình	87
+báo_cáo thẩm_định	68
+báo_cáo quyết_toán	68
+lập báo_cáo tài_chính	60
+báo_cáo công_tác	58
+đánh_giá tác_động	56
+thực_hiện chế_độ báo_cáo	55
+báo_cáo văn_bản	52
+đối_tượng báo_cáo	51
+báo_cáo giải_trình	51
+báo_cáo đánh_giá tác_động môi_trường	50
+chế_độ báo_cáo thống_kê	49
+kịp_thời báo_cáo	49
+đồng_thời báo_cáo	48
+phối_hợp tài_chính	47
+báo_cáo tài_chính hàng	46
+báo_cáo kịp_thời	45
+tình_hình tài_chính	43
+đánh_giá kết_quả	43
+báo_cáo định_kỳ	41
+chế_độ báo_cáo	40
+gửi báo_cáo	37
+định_kỳ báo_cáo	37
+tổ_chức tài_chính vi_mô	36
+báo_cáo đánh_giá	36
+thông_báo kết_quả	34
+báo_cáo tài_chính hằng	34
+phê_duyệt báo_cáo đánh_giá tác_động môi_trường	34
+ghi báo_cáo tài_chính	33
+trách_nhiệm báo_cáo	31
+kết_quả thẩm_định	31
+kết_quả thực_hiện	31
+kết_quả đánh_giá	30
+tự_chủ tài_chính	30
+báo_cáo tổng_hợp	30
+tình_hình thực_hiện	30
+năng_lực tài_chính	29
+tài_chính chủ_trì	28
+báo_cáo kết_quả giám_sát	27
+nội_dung báo_cáo	27
+báo_cáo thống_kê	27
+kết_quả kiểm_tra	27
+bộ_trưởng tài_chính quy_định	27
+báo_cáo quốc_hội	26
+công_khai báo_cáo tài_chính	26
+kết_thúc tài_chính	26
+khả_năng tài_chính	26
+thông_báo tình_hình	25
+báo_cáo nghiên_cứu_khả_thi	25
+báo_cáo đánh_giá tác_động	24
+báo_cáo đánh_giá môi_trường chiến_lược	23
+lập kế_hoạch	22
+tình_hình thực_tế	22
+báo_cáo tình_hình thực_hiện	22
+lập báo_cáo đánh_giá tác_động môi_trường	21
+báo_cáo tình_hình hoạt_động	21
+báo_cáo kết_quả thanh_tra	20
+phù_hợp tình_hình	19
+đánh_giá tình_hình	19
+báo_cáo kết_quả thực_hiện	18
+kết_quả giám_sát	18
+chế_độ tài_chính	18
+đánh_giá hiệu_quả	18
+đánh_giá thực_trạng	17
+kế_hoạch tài_chính 05	17
+thông_báo kết_quả kiểm_tra	17
+sai_lệch kết_quả	17
+đánh_giá thực_trạng quan_hệ xã_hội	17
+phù_hợp đối_tượng	16
+tổng_hợp kết_quả	16
+thực_trạng tài_chính	16
+thông_qua báo_cáo	15
+đối_tượng tác_động trực_tiếp	15
+phù_hợp chiến_lược	15
+thời_gian quốc_hội họp trách_nhiệm báo_cáo công_tác	14
+ý_kiến đối_tượng tác_động trực_tiếp	14
+thẩm_định báo_cáo đánh_giá tác_động môi_trường	14
+tài_chính hàng	14
+hằng quý	14
+thẩm_định báo_cáo	13
+tổ_chức thẩm_định	13
+thẩm_định quyết_toán	13
+kiểm_toán báo_cáo tài_chính	13
+kết_quả hoạt_động	12
+đối_tượng tác_động trực_tiếp văn_bản	12
+thực_hiện chế_độ báo_cáo thống_kê	12
+báo_cáo tổng_kết	12
+chế_độ báo_cáo thống_kê tổng_hợp	12
+tổng_hợp báo_cáo	12
+thẩm_định báo_cáo đánh_giá môi_trường chiến_lược	12
+đánh_giá kết_quả thực_hiện	12
+báo_cáo tài_chính hợp_nhất	12
+đánh_giá phù_hợp	12
+định_kỳ hàng	11
+tình_hình kết_quả	11
+hằng báo_cáo	11
+định_kỳ hằng	11
+báo_cáo sai	10
+báo_cáo tài_chính kiểm_toán	10
+hỗ_trợ tài_chính	10
+thực_hiện chế_độ	9
+thông_báo kịp_thời	9
+tài_chính hằng	9
+báo_cáo hiện_trạng	9
+tài_chính quy_định	7
+trách_nhiệm lập	7
+đánh_giá môi_trường chiến_lược	7
+tác_động môi_trường	7
+chủ_trì thẩm_định	7
+kế_hoạch tài_chính	6
+định_kỳ đột_xuất	6
+thực_hiện chiến_lược	6
+báo_cáo tổng_hợp kết_quả	6
+báo_cáo kiểm_toán	5
+kế_hoạch công_tác	5
+đánh_giá tác_động môi_trường	5
+lập báo_cáo đánh_giá	5
+hàng quý	5
+giám_sát báo_cáo	5
+thông_báo công_khai	5
+đánh_giá hiện_trạng	5
+phương_pháp đánh_giá	5
+thực_hiện hoạt_động	4
+thực_hiện kiểm_toán	4
+phê_duyệt báo_cáo	4
+kết_quả thanh_tra	4
+phối_hợp công_tác	4
+tài_chính vi_mô	4
+tình_hình hoạt_động	4
+kết_quả kiểm_toán	4
+thực_hiện chế_độ thống_kê	4
+trách_nhiệm báo_cáo công_tác	3
+kế_hoạch hằng	3
+tác_động trực_tiếp	3
+kiểm_tra công_tác	3
+phê_duyệt kế_hoạch	3
+báo_cáo phân_tích	3
+thực_hiện văn_bản	3
+quyết_toán tài_chính	3
+đánh_giá thực_trạng quan_hệ	3
+kết_quả thực_hiện kế_hoạch	3
+thời_gian công_tác	3
+trách_nhiệm kiểm_tra	3
+nội_dung thẩm_định	3
+ý_kiến đối_tượng	3
+chính_sách tài_chính	3
+ý_kiến văn_bản	3
+chủ_trì phối_hợp	2
+đồng_thời thông_báo	2
+chế_độ thống_kê	2
+xem_xét báo_cáo	2
+nội_dung thanh_tra	2
+thẩm_định nội_dung	2
+kiểm_tra thực_hiện	2
+phối_hợp hoạt_động	2
+tác_động chính_sách	2
+thông_báo văn_bản	2
+kiểm_tra thực_tế	2
+thông_báo nội_dung	2
+thực_hiện kế_hoạch	2
+phù_hợp nội_dung	2
+thẩm_định kế_hoạch	2
+công_tác thống_kê	2
+họp trách_nhiệm báo_cáo	2
+thông_qua báo_cáo tài_chính	2
+thẩm_định báo_cáo đánh_giá	2
+phù_hợp thực_tế	2
+thực_hiện quy_định	1
+thực_hiện thông_qua	1
+công_khai báo_cáo	1
+phù_hợp quy_định	1
+trách_nhiệm thông_báo	1
+gửi thông_báo	1
+kịp_thời thông_báo	1
+phê_duyệt kết_quả	1
+tổ_chức thực_hiện	1
+trách_nhiệm gửi báo_cáo	1
+hiệu_quả hoạt_động	1
+kiểm_tra kết_quả	1
+kết_thúc hoạt_động	1
+kiểm_tra hoạt_động	1
+năng_lực hoạt_động	1
+gửi thẩm_định	1
+khả_năng thực_tế	1
+công_tác thanh_tra	1
+tổ_chức thực_hiện văn_bản	1
+đối_tượng tác_động	1
+kế_hoạch kiểm_toán	1
+phê_duyệt báo_cáo đánh_giá	1
+lập quyết_toán	1
+báo_cáo thống_kê tổng_hợp	1
+trách_nhiệm phối_hợp	1
+trách_nhiệm gửi văn_bản	1
+gửi hàng	1
+giám_sát văn_bản	1
+tổ_chức hoạt_động	1

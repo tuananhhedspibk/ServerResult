@@ -1,0 +1,121 @@
+quyết_định thành_lập	423
+quyết_định tòa_án	248
+thẩm_quyền quyết_định	212
+xét cần_thiết	208
+tòa_án quyết_định	116
+quyết_định vấn_đề	112
+hủy quyết_định	90
+quyết_định giải_thể	90
+quyết_định chủ_trương	81
+gửi quyết_định	77
+phép thành_lập	77
+xem_xét quyết_định	76
+quyết_định cuối_cùng	73
+thẩm_quyền xem_xét	70
+quyết_định đa_số	68
+tòa_án thẩm_quyền	67
+quyết_định phê_chuẩn	62
+đề_án thành_lập	57
+có_thể quyết_định	54
+quyết_định đình_chỉ	52
+quyết_định hủy	51
+ban_hành quyết_định	46
+xét quyết_định	45
+xét miễn	41
+quyết_định thu_hồi	38
+quyết_định bổ_nhiệm	38
+vấn_đề quan_trọng	38
+quyết_định công_nhận	36
+quyết_định phép thành_lập	35
+quyết_định giao	33
+thẩm_quyền bổ_nhiệm	33
+tòa_án gửi quyết_định	33
+tòa_án có_thể quyết_định	33
+quyết_định thành_lập hội_đồng	32
+thành_lập hội_đồng	32
+vấn_đề thẩm_quyền	31
+xét ngăn_chặn	25
+thảo_luận quyết_định đa_số	25
+tập_thể quyết_định đa_số	24
+quyết_định hủy quyết_định	23
+quyết_định vấn_đề quan_trọng	23
+tòa_án có_thể	23
+thảo_luận quyết_định	23
+nguyên_tắc đa_số	22
+quyết_định miễn	22
+thủ_tục thành_lập	22
+thành_lập phép thành_lập	20
+tòa_án thẩm_quyền quyết_định	20
+xét phê_chuẩn	20
+biểu_quyết vấn_đề thẩm_quyền	20
+quyết_định ủy_thác	18
+biểu_quyết đa_số	17
+xét tuyển	17
+thảo_luận biểu_quyết vấn_đề	17
+quyết_định phân_cấp	17
+quyết_định thành_lập công_ty	16
+trực_tiếp xem_xét	16
+chấp_hành quyết_định	15
+nguyên quyết_định	15
+thành_lập giải_thể	15
+vấn_đề cần_thiết	14
+thẩm_quyền quyết_định thành_lập	14
+phê_chuẩn quyết_định	13
+xem_xét kiến_nghị	13
+thảo_luận tập_thể	12
+tòa_án quyết_định đình_chỉ	12
+biểu_quyết vấn_đề	12
+quyết_định thay_đổi	11
+thảo_luận quyết_định vấn_đề	11
+quyết_định đặc_xá	11
+trực_tiếp phê_chuẩn	10
+nhất_trí kiến_nghị	9
+thẩm_quyền công_nhận	9
+trực_tiếp chỉ_định	9
+đề_nghị xét	9
+tòa_án chỉ_định	9
+thẩm_quyền phép	8
+quyết_định dự_toán	8
+quyết_định hội_đồng	8
+giao trực_tiếp	8
+tòa_án xem_xét	7
+vấn_đề thảo_luận	7
+kiến_nghị thẩm_quyền	7
+thảo_luận biểu_quyết	7
+quyết_định phê_chuẩn quyết_định	7
+hội_đồng xét	7
+quyết_định_hình_sự tòa_án	5
+hủy quyết_định khởi_tố	5
+thủ_tục quyết_định chủ_trương	5
+thẩm_quyền kiến_nghị	5
+bàn quyết_định	4
+đề_nghị xem_xét	4
+quyết_định tạm	4
+bàn quyết_định trực_tiếp	4
+đề_nghị tòa_án	4
+hủy quyết_định tạm	4
+phê_chuẩn đề_nghị	4
+quyết_định khởi_tố	4
+phê_chuẩn đề_nghị bổ_nhiệm	3
+tòa_án gửi	3
+hủy toàn_bộ quyết_định	3
+quyết_định tạm đình_chỉ	3
+đề_nghị miễn	3
+quyết_định cuối_cùng gửi	3
+có_thể bổ_nhiệm	3
+kiến_nghị vấn_đề	3
+đề_nghị xét miễn	3
+thẩm_quyền ban_hành	2
+kiến_nghị khởi_tố	2
+thẩm_quyền quyết_định chủ_trương	2
+ban_hành thẩm_quyền	2
+toàn_bộ quyết_định	2
+thẩm_quyền quyết_định tạm	2
+đề_nghị thay_đổi	2
+đa_số vấn_đề	2
+cuối_cùng gửi	2
+hủy toàn_bộ	2
+tạm đình_chỉ	1
+quyết_định truy_tố	1
+đề_nghị xem_xét quyết_định	1
+thành_lập phép	1

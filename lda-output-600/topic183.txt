@@ -1,0 +1,181 @@
+viện kiểm_sát	1378
+viện kiểm_sát nhân_dân	651
+viện kiểm_sát nhân_dân tối_cao	503
+viện_trưởng viện kiểm_sát nhân_dân tối_cao	459
+viện kiểm_sát quân_sự	229
+viện_trưởng viện kiểm_sát	203
+viện_trưởng viện kiểm_sát nhân_dân	120
+viện kiểm_sát nhân_dân tỉnh	111
+phó viện_trưởng	103
+gửi viện kiểm_sát	101
+viện kiểm_sát trực_tiếp	92
+viện kiểm_sát quân_sự trung_ương	90
+phó viện_trưởng viện kiểm_sát	78
+kiểm_sát_viên viện kiểm_sát nhân_dân tối_cao	73
+viện_trưởng viện kiểm_sát quân_sự trung_ương	66
+kiểm_sát_viên viện kiểm_sát nhân_dân	63
+viện kiểm_sát quân_sự quân_khu	59
+kiểm_sát_viên viện kiểm_sát	59
+đề_nghị viện_trưởng viện kiểm_sát nhân_dân tối_cao	57
+uỷ_ban kiểm_sát	52
+kiểm_sát_viên viện kiểm_sát quân_sự	48
+viện_trưởng viện kiểm_sát nhân_dân tỉnh	47
+viện kiểm_sát quyết_định	46
+ủy_ban kiểm_sát	44
+viện kiểm_sát nhân_dân địa_phương	44
+viện kiểm_sát thẩm_quyền	43
+viện kiểm_sát nhân_dân huyện	43
+viện kiểm_sát kháng_nghị	43
+viện kiểm_sát quyền kiến_nghị	38
+kháng_nghị viện kiểm_sát	38
+viện kiểm_sát quân_sự khu_vực	36
+viện kiểm_sát quân_sự quân_khu tương_đương	35
+thực_hiện công_tác kiểm_sát	31
+viện_trưởng viện kiểm_sát trực_tiếp	29
+công_tác kiểm_sát	28
+cơ_quan điều_tra viện kiểm_sát	28
+cơ_quan điều_tra viện kiểm_sát nhân_dân tối_cao	28
+phó viện_trưởng viện kiểm_sát nhân_dân tối_cao	28
+viện kiểm_sát nhân_dân tối_cao phạm_vi nhiệm_vụ	28
+đề_nghị viện kiểm_sát	27
+viện kiểm_sát quyết_định kháng_nghị	27
+viện_trưởng viện kiểm_sát nhân_dân tối_cao quyết_định	26
+thời_hạn kháng_nghị viện kiểm_sát	26
+viện_trưởng viện kiểm_sát nhân_dân tối_cao quyền	25
+viện_trưởng viện kiểm_sát nhân_dân tối_cao bổ_nhiệm	25
+viện kiểm_sát tham_gia phiên_toà	24
+đề_nghị ủy_ban kiểm_sát	24
+kiểm_sát_viên thay_đổi viện_trưởng viện kiểm_sát	24
+viện kiểm_sát rút kháng_nghị	23
+viện kiểm_sát phê_chuẩn	23
+trường_hợp viện kiểm_sát kháng_nghị	22
+viện kiểm_sát quyết_định phê_chuẩn	22
+viện kiểm_sát nghiên_cứu	22
+kiểm_sát_viên viện kiểm_sát quân_sự trung_ương	22
+kiểm_sát_viên sơ_cấp viện kiểm_sát nhân_dân	21
+chánh_án tòa_án nhân_dân tối_cao viện_trưởng viện kiểm_sát nhân_dân tối_cao	21
+viện_trưởng viện kiểm_sát quân_sự	21
+đề_nghị viện_trưởng viện kiểm_sát	20
+kiểm_sát_viên phát_biểu ý_kiến viện kiểm_sát	20
+gửi quyết_định viện kiểm_sát	19
+viện_trưởng viện kiểm_sát trực_tiếp quyết_định	19
+kiểm_sát_viên sơ_cấp viện kiểm_sát quân_sự	19
+viện kiểm_sát phê_chuẩn thi_hành	19
+nhân_dân tỉnh	18
+phó viện_trưởng viện kiểm_sát nhân_dân	18
+kiểm_sát nhân_dân	18
+viện kiểm_sát rút toàn_bộ kháng_nghị	17
+viện_trưởng viện	16
+kiểm_sát khởi_tố	16
+viện kiểm_sát trực_tiếp xem_xét	15
+viện kiểmsát	15
+kiểm_sát_viên viện_trưởng viện kiểm_sát	15
+thông_tư viện_trưởng viện kiểm_sát nhân_dân tối_cao	14
+viện kiểm_sát rút	14
+ngành kiểm_sát	14
+viện kiểm_sát nhân_dân kiểm_sát	14
+viện_trưởng viện kiểm_sát quân_sự quân_khu	13
+quyết_định kháng_nghị viện kiểm_sát	13
+cơ_quan điều_tra viện kiểm_sát quân_sự trung_ương	13
+viện kiểm	12
+quân_sự trung_ương	12
+viện kiểm_sát nhân_dân quyền kháng_nghị	12
+điều_tra viện kiểm_sát	10
+cơ_quan điều_tra viện kiểm_sát nhân_dân	9
+cách_chức đề_nghị viện_trưởng viện kiểm_sát	9
+viện kiểm_sát nhân_dân tối_cao quyền kháng_nghị	9
+phát_biểu quan_điểm	8
+quyền khiếu_nại viện kiểm_sát	7
+công_tác kiểm_sát xét_xử	7
+quyết_định đề_nghị viện_trưởng viện kiểm_sát	7
+quan_điểm viện kiểm_sát	7
+kiểm_sát nhân_dân tối_cao	6
+đề_nghị viện_trưởng viện kiểm_sát quân_sự trung_ương	6
+quân_khu tương_đương	6
+viện kiểm_sát nhân_dân tối_cao viện_trưởng	6
+viện kiểm_sát nhân_dân tối_cao viện_trưởng viện kiểm_sát nhân_dân	6
+gửi viện	5
+kiểm_sát_viên viện kiểm_sát quân_sự quân_khu	5
+kiểm_sát viện kiểm_sát nhân_dân tối_cao	5
+quân_sự khu_vực	5
+nhất_trí kiến_nghị	5
+thống_nhất viện_trưởng viện kiểm_sát nhân_dân tối_cao	5
+toà_án nhân_dân tối_cao viện_trưởng viện kiểm_sát nhân_dân tối_cao	5
+viện kiểm_sát quân_sự trung_ương viện_trưởng	5
+phát_biểu ý_kiến viện kiểm_sát	4
+ủy_ban kiểm_sát viện	4
+điều_tra_viên viện kiểm_sát	4
+kiểm_sát quân_sự trung_ương	4
+viện_trưởng viện kiểm_sát viện_trưởng viện kiểm_sát trực_tiếp	4
+rút kháng_nghị	4
+quyền khiếu_nại viện kiểm_sát trực_tiếp	4
+phát_biểu quan_điểm viện kiểm_sát	4
+quyền kháng_nghị	4
+kiểm_sát_viên phát_biểu	4
+cơ_quan điều_tra viện kiểm_sát quân_sự	4
+điều_tra viện kiểm_sát quân_sự trung_ương	3
+viện kiểm_sát phát_biểu	3
+cơ_quan điều_tra viện	3
+ủy_ban kiểm_sát viện kiểm_sát nhân_dân	3
+viện kiểm_sát rút toàn_bộ	3
+nhân_dân địa_phương	3
+phê_chuẩn thi_hành	3
+kiểm_sát quân_sự	3
+viện_trưởng viện kiểm_sát viện_trưởng viện kiểm_sát	3
+viện kiểm_sát quân_sự quân_khu gia_hạn điều_tra	3
+quyền rút	3
+kháng_cáo viện kiểm_sát	3
+kiểm_sát_viên sơ_cấp	2
+ủy_ban nhân_dân	2
+tòa_án nhân_dân tối_cao	2
+trường_hợp kiểm_sát_viên	2
+điều_tra_viên viện	2
+quyết_định kháng_nghị	2
+đề_nghị viện_trưởng viện kiểm_sát nhân_dân	2
+nhân_dân tối_cao	2
+kiểm_sát viện	2
+điều_tra viện kiểm_sát quân_sự	2
+kiểm_sát nhân_dân tỉnh	2
+viện kiểm_sát nhân_dân tối_cao bổ_nhiệm	2
+quân_sự quân_khu	2
+nhân_dân trực_tiếp	2
+toà_án nhân_dân	2
+thay_đổi chánh_án	2
+kháng_nghị gửi	2
+uỷ_ban nhân_dân	2
+viện kiểm_sát nhân_dân tối_cao quyền	2
+thẩm_quyền kháng_nghị	2
+điều_tra viện kiểm_sát nhân_dân tối_cao	2
+quyền kiến_nghị	2
+viện kiểm_sát nhân_dân tối_cao phạm_vi	2
+nhân_dân tối_cao quyết_định	1
+tối_cao quyết_định	1
+kiểm_sát_viên viện	1
+phó viện_trưởng viện	1
+tối_cao bổ_nhiệm	1
+quyền đề_nghị	1
+toà_án nhân_dân tối_cao	1
+kiểm_sát nhân_dân tối_cao quyền kháng_nghị	1
+quyết_định đề_nghị viện_trưởng	1
+kiểm_sát kháng_nghị	1
+cách_chức đề_nghị	1
+thực_hiện toàn_bộ	1
+điều_tra viện kiểm_sát nhân_dân	1
+xem_xét trường_hợp kiểm_sát_viên	1
+bổ_nhiệm kiểm_sát_viên	1
+tòa_án quân_sự	1
+nhân_dân tối_cao bổ_nhiệm	1
+quyết_định tòa_án	1
+trực_tiếp phê_chuẩn	1
+nhân_dân tối_cao viện_trưởng viện kiểm_sát nhân_dân tối_cao	1
+trung_ương địa_phương	1
+viện_trưởng viện kiểm_sát nhân_dân tối_cao quyền kháng_nghị	1
+điều_tra viện	1
+cách_chức đề_nghị viện_trưởng viện	1
+đề_nghị thay_đổi	1
+kiểm_sát phê_chuẩn thi_hành	1
+phó viện_trưởng viện kiểm_sát quân_sự	1
+tối_cao viện_trưởng viện kiểm_sát nhân_dân tối_cao	1
+đề_nghị ủy_ban	1
+pháp_lệnh kiểm_sát_viên viện kiểm_sát	1
+trực_tiếp xem_xét	1

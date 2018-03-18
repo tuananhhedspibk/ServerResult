@@ -1,0 +1,25 @@
+hội_đồng nhà_nước	199
+quốc_hội hội_đồng nhà_nước	40
+nhà_nước bảo_hộ	38
+bộ_máy nhà_nước	34
+đối_ngoại nhà_nước	30
+viên_chức nhà_nước	29
+hội_đồng dân_tộc	29
+chính_sách nhà_nước	25
+giải_phóng dân_tộc	22
+độc_lập dân_tộc	19
+nhà_nước khuyến_khích	13
+nhà_nước bảo_đảm	12
+văn_hoá dân_tộc	12
+chính_sách dân_tộc	11
+quyền_lực nhà_nước	11
+nhà_nước chính_sách	11
+công_chứng nhà_nước	7
+cách_mạng tám	7
+đồng_bào dân_tộc_thiểu_số	6
+xét_xử công_khai	4
+hình_thức thích_hợp	4
+ổn_định lâu_dài	2
+chế_độ chính_sách	1
+chính_sách đối_ngoại	1
+pháp_lý nhà_nước	1

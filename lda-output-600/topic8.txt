@@ -1,0 +1,42 @@
+hộ gia_đình	935
+hôn_nhân gia_đình	227
+thành_viên gia_đình	122
+thai hộ	88
+hộ kinh_doanh	42
+hộ gia_đình cá_nhân	35
+giúp_việc gia_đình	34
+kế_hoạch_hóa gia_đình	34
+quan_hệ hôn_nhân gia_đình	32
+hộ nghèo	29
+quan_hệ hôn_nhân	28
+thời_kỳ hôn_nhân	28
+cử_tri đại_diện hộ gia_đình	25
+quy_định pháp_luật hôn_nhân gia_đình	23
+hoàn_cảnh gia_đình	22
+quan_hệ hôn_nhân gia_đình yếu_tố nước_ngoài	22
+quyền nghĩa_vụ hộ gia_đình	21
+kế_hoạch_hoá gia_đình	20
+dân_số kế_hoạch_hoá gia_đình	18
+viết hộ	17
+cử_tri cử_tri đại_diện hộ gia_đình	15
+luật hôn_nhân gia_đình	14
+đất hộ gia_đình	12
+pháp_luật hôn_nhân gia_đình	10
+đại_diện hộ gia_đình	10
+đất nông_nghiệp hộ gia_đình	8
+sống gia_đình	7
+bản_thân gia_đình	7
+nông_nghiệp hộ gia_đình	6
+yếu_tố nước_ngoài	5
+quyền sử_dụng đất hộ gia_đình	5
+giao hộ	5
+hôn_nhân gia_đình yếu_tố nước_ngoài	3
+sử_dụng đất hộ gia_đình	3
+đại_diện hộ	3
+quan_hệ pháp_luật	2
+cá_nhân quyền	1
+đất hộ	1
+đại_diện pháp_luật	1
+pháp_luật hôn_nhân	1
+sử_dụng đất hộ	1
+cá_nhân kinh_doanh	1

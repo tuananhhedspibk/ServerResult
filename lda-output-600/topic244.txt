@@ -1,0 +1,109 @@
+kế_hoạch phát_triển	140
+xây_dựng kế_hoạch	124
+tham_gia xây_dựng	116
+xây_dựng chương_trình	88
+bảo_vệ tổ_quốc	87
+xây_dựng phát_triển	71
+chương_trình xây_dựng luật	68
+xây_dựng lực_lượng	58
+chiến_lược phát_triển	53
+góp_phần xây_dựng	47
+kế_hoạch xây_dựng	46
+xây_dựng bảo_vệ tổ_quốc	44
+xây_dựng chiến_lược	36
+phát_triển ngành	35
+xây_dựng phương_án	35
+thực_hiện kế_hoạch	34
+thực_hiện chương_trình	30
+kế_hoạch phát_triển ngành	29
+phê_duyệt kế_hoạch	28
+phát_triển sự_nghiệp	28
+sự_nghiệp xây_dựng bảo_vệ tổ_quốc	27
+xây_dựng thực_hiện chương_trình	27
+xây_dựng nếp sống văn_minh	26
+phát_triển toàn_diện	25
+phát_triển sự_nghiệp giáo_dục	24
+góp_phần thúc_đẩy	24
+lập kế_hoạch	23
+tham_gia chương_trình	23
+bảo_vệ tổ_quốc nghĩa_vụ	23
+bảo_vệ phát_triển	21
+chỉ_đạo xây_dựng	21
+xây_dựng đề_án	21
+xây_dựng thực_hiện kế_hoạch	20
+củng_cố phát_triển	20
+phát_triển hệ_thống	18
+hiện_đại_hoá đất_nước	18
+phát_triển lành_mạnh	18
+xây_dựng quy_hoạch	18
+xây_dựng đội_ngũ	17
+phát_triển tài_năng	17
+xây_dựng chỉ_đạo thực_hiện chiến_lược	17
+sự_nghiệp giáo_dục	17
+xây_dựng đất_nước	17
+nếp sống	16
+kế_hoạch dài_hạn	16
+chỉ_tiêu kế_hoạch	15
+sự_nghiệp xây_dựng bảo_vệ	15
+xây_dựng kết_cấu_hạ_tầng	15
+góp_phần bảo_vệ	14
+xây_dựng hệ_thống	14
+sự_nghiệp xây_dựng	14
+tích_cực tham_gia	13
+chương_trình phát_triển	13
+quy_hoạch phát_triển ngành	12
+duy_trì phát_triển	12
+kế_hoạch bảo_vệ phát_triển	11
+kinh_phí xây_dựng	11
+sự_nghiệp bảo_vệ	11
+phát_triển mạng_lưới	11
+sự_nghiệp khoa_học	10
+sự_nghiệp xây_dựng bảo_vệ tổ_quốc việt nam	10
+phê_duyệt đề_án	10
+lực_lượng bảo_vệ	9
+phát_triển kết_cấu_hạ_tầng	9
+nội_dung chương_trình	9
+chương_trình xây_dựng	9
+quy_hoạch xây_dựng	9
+nếp sống văn_minh	9
+xây_dựng cơ_bản	9
+xây_dựng phong_trào	9
+trung_thành tổ_quốc	8
+bảo_vệ an_ninh	8
+điều_chỉnh chương_trình xây_dựng luật	8
+kế_hoạch bảo_vệ	7
+bảo_vệ an_ninh tổ_quốc	6
+điều_chỉnh chương_trình	6
+thực_hiện chương_trình giáo_dục	5
+kế_hoạch hằng	5
+quy_hoạch phát_triển	5
+thực_hiện chiến_lược	5
+xây_dựng bảo_vệ	5
+thúc_đẩy phát_triển	5
+xây_dựng nếp sống	5
+chương_trình giáo_dục	5
+thực_hiện phương_án	5
+xây_dựng luật	5
+góp_phần phát_triển	4
+xây_dựng chỉ_đạo thực_hiện	4
+phê_duyệt phương_án	4
+thực_hiện quy_hoạch	3
+chỉ_đạo thực_hiện	3
+đóng_góp sự_nghiệp	3
+phương_án bảo_vệ	3
+an_ninh tổ_quốc	3
+nội_dung giáo_dục	2
+lập chương_trình	2
+quy_hoạch hệ_thống	2
+chỉ_đạo thực_hiện chiến_lược	2
+nghĩa_vụ tham_gia	2
+lập quy_hoạch	2
+xây_dựng bảo_vệ tổ_quốc việt nam	2
+xây_dựng chính_quyền	2
+phát_triển khoa_học	2
+thực_hiện nghĩa_vụ	1
+giáo_dục hệ_thống	1
+quy_hoạch xây_dựng phê_duyệt	1
+nội_dung cơ_bản	1
+điều_chỉnh chương_trình xây_dựng	1
+xây_dựng bảo_vệ tổ_quốc việt	1

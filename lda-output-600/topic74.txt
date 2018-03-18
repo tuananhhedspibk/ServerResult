@@ -1,0 +1,68 @@
+thu_nhập thuế	152
+thuế_thu_nhập doanh_nghiệp	136
+khoản thu_nhập	60
+nộp thuế_thu_nhập	44
+thuế_thu_nhập đối_với thu_nhập	42
+xác_định thu_nhập thuế	39
+áp_dụng thuế_suất	34
+thu_nhập thực_tế	33
+đối_với thu_nhập	28
+khoản chi	27
+thu_nhập thường_xuyên	24
+chuyển_nhượng bất_động_sản	24
+ưu_đãi thuế	24
+thuế đối_với thu_nhập	22
+miễn thuế	22
+miễn thuế_thu_nhập	21
+thuế_thu_nhập cá_nhân	20
+thu_nhập chuyển_nhượng	20
+nộp thuế_thu_nhập doanh_nghiệp	18
+thu_nhập hoạt_động_sản_xuất	18
+phân_phối thu_nhập	17
+khoản đóng_góp	16
+chuyển_nhượng vốn	15
+khấu_trừ thu_nhập	15
+luật thuế_thu_nhập doanh_nghiệp	14
+thuế đối_với	14
+trừ thu_nhập	13
+ưu_đãi thuế_thu_nhập doanh_nghiệp	12
+xác_định thu_nhập	12
+khoản phụ_cấp	11
+nộp thuế	10
+áp_dụng đối_với	10
+ngoại_tệ quy_đổi	10
+khoản trợ_cấp	8
+thuế_thu_nhập đối_với	8
+đối_với một_số	8
+nộp khoản	7
+đối_với doanh_nghiệp	7
+trừ khoản	6
+phụ_cấp khu_vực	6
+thuế doanh_thu	5
+khoản dự_phòng	5
+kinh_doanh cá_thể	4
+tổng_số chi	4
+khoản chi_phí	4
+khoản lỗ	3
+thuế_suất ưu_đãi	3
+đối_với khoản	3
+thuế nộp	3
+luật thuế_thu_nhập	3
+thị_trường ngoại_tệ	3
+đối_với lĩnh_vực	2
+kê_khai nộp thuế	2
+kê_khai thuế	2
+ưu_đãi đối_với	2
+khấu_trừ thuế	2
+kinh_doanh doanh_nghiệp	2
+luật áp_dụng đối_với	1
+lĩnh_vực năng_lượng	1
+kinh_doanh bất_động_sản	1
+trừ chi_phí	1
+luật thuế doanh_thu	1
+kinh_doanh chứng_khoán	1
+thuế_suất thuế	1
+lãi khoản	1
+thuế_suất đối_với	1
+cá_nhân kinh_doanh	1
+bình_quân thu_nhập	1

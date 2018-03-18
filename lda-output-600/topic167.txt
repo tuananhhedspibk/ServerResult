@@ -1,0 +1,129 @@
+quy_định luật	1418
+quy_định a	463
+quy_định :	426
+quy_định b	234
+trừ trường_hợp quy_định	232
+trường_hợp :	209
+trường_hợp quy_định	200
+đối_với trường_hợp	178
+quy_định khoản	146
+điều_kiện quy_định luật	145
+khoản giao luật	131
+quy_định a khoản	131
+điều_kiện quy_định	121
+quy_định c	117
+áp_dụng đối_với	117
+đối_tượng quy_định	117
+đối_tượng áp_dụng	110
+c d	98
+trừ trường_hợp quy_định luật	94
+trường_hợp quy_định luật	90
+b c	90
+trừ trường_hợp	90
+quy_định d	90
+luật quy_định	84
+d đ	82
+đối_tượng quy_định luật	79
+đối_với trường_hợp quy_định	71
+quy_định a b khoản	70
+quy_định a b	69
+trường_hợp quy_định a	66
+quy_định a luật	66
+quy_định b luật	63
+đối_với đối_tượng	63
+áp_dụng quy_định luật	59
+quy_định b c	58
+quy_định áp_dụng đối_với	55
+áp_dụng quy_định	54
+tình_tiết quy_định	53
+luật áp_dụng đối_với	50
+e g	50
+điều_kiện :	49
+quy_định đ	48
+c d luật	48
+quy_định b khoản	48
+b luật	39
+luật áp_dụng đối_với tổ_chức	36
+quy_định c luật	36
+quy_định d luật	34
+a luật	33
+nội_dung quy_định	32
+đáp_ứng điều_kiện quy_định luật	31
+b c khoản	31
+quy_định a b luật	31
+đối_với trường_hợp quy_định luật	30
+đ e	30
+i k luật	28
+e luật	28
+quy_định đ luật	24
+nội_dung quy_định a	24
+h i	24
+quy_định mục	24
+quy_định c d	24
+luật áp_dụng đối_với cơ_quan	23
+c luật	23
+trường_hợp quy_định b	22
+luật áp_dụng	22
+b c luật	21
+trừ trường_hợp luật quy_định	21
+đối_với trường_hợp quy_định a	21
+quy_định e	20
+d luật	20
+g h	20
+quy_định c khoản	19
+đ luật	19
+e h	19
+trừ trường_hợp quy_định b	19
+đ iều	18
+c d khoản	17
+5 luật	17
+đối_với đối_tượng quy_định	17
+điều_kiện quy_định a	17
+trường_hợp luật quy_định	17
+mục a	17
+a b	16
+tương_ứng quy_định luật	16
+quy_định chương	16
+b d	16
+trường_hợp quy_định a khoản	15
+b khoản	15
+đối_tượng quy_định a	14
+đ e luật	14
+quy_định a c	13
+a :	13
+trừ trường_hợp quy_định a	12
+tương_ứng quy_định	12
+khoản giao	11
+đối_với khoản	11
+c đ	11
+trừ khoản	10
+quy_định d đ	10
+k luật	9
+trường_hợp quy_định c	9
+nội_dung :	8
+quy_định 5	8
+i k	8
+a khoản	8
+trừ trường_hợp quy_định c	8
+trường_hợp quy_định a b	7
+trường_hợp quy_định d	7
+quy_định 5 luật	6
+a c	6
+c khoản	6
+a b khoản	5
+áp_dụng đối_với cơ_quan	5
+quy_định luật áp_dụng	5
+mục i	5
+trường_hợp đặc_biệt	4
+giao luật	3
+đ khoản	3
+a b luật	3
+d khoản	3
+quy_định chương áp_dụng	3
+đáp_ứng điều_kiện quy_định	2
+quy_định quy_định luật áp_dụng	2
+đáp_ứng điều_kiện	1
+cơ_quan giao	1
+áp_dụng đối_với tổ_chức	1
+quy_định luật quy_định	1
+trường_hợp quy_định 5	1

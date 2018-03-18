@@ -1,0 +1,36 @@
+khu du_lịch	113
+tài_nguyên du_lịch	65
+cơ_sở lưu_trú du_lịch	50
+phát_triển du_lịch	47
+thẻ hướng_dẫn_viên	42
+tuyến du_lịch	38
+cá_nhân kinh_doanh du_lịch	34
+đô_thị du_lịch	34
+dịch_vụ du_lịch	33
+chương_trình du_lịch	32
+hướng_dẫn du_lịch	26
+vận_chuyển du_lịch	26
+xúc_tiến du_lịch	22
+giấy_phép kinh_doanh lữ_hành quốc_tế	22
+du_lịch quốc_tế	21
+doanh_nghiệp kinh_doanh lữ_hành	18
+lưu_trú du_lịch	17
+kinh_doanh lữ_hành	17
+kinh_doanh du_lịch	16
+cá_nhân kinh_doanh	16
+quy_hoạch phát_triển du_lịch	15
+du_lịch du_lịch	14
+cơ_sở lưu_trú	13
+du_lịch quốc_gia	12
+du_lịch sinh_thái	11
+kinh_doanh lữ_hành quốc_tế	10
+lữ_hành quốc_tế	10
+kinh_doanh dịch_vụ	7
+thu_hồi thẻ	5
+doanh_nghiệp kinh_doanh	4
+giấy_phép kinh_doanh	3
+kinh_doanh ngành_nghề	2
+cơ_sở kinh_doanh	2
+phát_triển đô_thị	2
+ngành_nghề kinh_doanh	1
+cá_nhân kinh_doanh dịch_vụ	1

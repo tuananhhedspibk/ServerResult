@@ -1,0 +1,129 @@
+chấm_dứt hoạt_động	246
+hoạt_động kinh_doanh	238
+thu_hồi giấy_phép	167
+hoạt_động ngân_hàng	154
+giấy_phép hoạt_động	131
+đình_chỉ hoạt_động	115
+ngân_hàng thương_mại	106
+giấy_phép thành_lập hoạt_động	103
+giấy_phép thành_lập	92
+phục_vụ hoạt_động	88
+hoạt_động lĩnh_vực	85
+đăng_ký hoạt_động	81
+thành_lập hoạt_động	76
+giám_sát hoạt_động	67
+điều_hành hoạt_động	61
+tham_gia hoạt_động	56
+ngân_hàng giám_sát	48
+hoạt_động thương_mại	43
+thu_hồi giấy_phép hoạt_động	43
+ghi giấy_phép	40
+tiến_hành hoạt_động	38
+quá_trình hoạt_động	35
+tiền_tệ ngân_hàng	34
+hoạt_động nghiệp_vụ	34
+giám_sát ngân_hàng	33
+điều_kiện giấy_phép	33
+tiền_tệ hoạt_động ngân_hàng	31
+thanh_tra ngân_hàng	30
+giấy_phép kinh_doanh	29
+liên_quan hoạt_động	28
+đổi giấy_phép	28
+hoạt_động chi_nhánh	28
+hoạt_động nghề_nghiệp	25
+điều_hành hoạt_động kinh_doanh	25
+hoạt_động đối_ngoại	24
+ngừng hoạt_động	23
+phạm_vi hoạt_động	23
+phối_hợp hoạt_động	23
+đình_chỉ hoạt_động vĩnh_viễn	22
+một_số hoạt_động	22
+chứng_chỉ hành_nghề thời_hạn đình_chỉ hoạt_động thời_hạn	21
+tham_gia thành_lập	21
+tình_hình hoạt_động	21
+mục_đích thương_mại	20
+hoạt_động công_ích	20
+duy_trì hoạt_động	19
+thu_hồi giấy_phép thành_lập hoạt_động	19
+địa_bàn hoạt_động	18
+khai_trương hoạt_động	18
+giấy_phép hành_nghề	18
+chứng_chỉ chuyên_môn	17
+thủ_tục giấy_phép	17
+bắt_đầu hoạt_động	17
+đăng_ký kinh_doanh	17
+quy_chế hoạt_động	16
+thành_lập chi_nhánh	15
+gia_hạn giấy_phép	14
+tạm ngừng kinh_doanh	14
+từ_chối giấy_phép	14
+thu_hồi giấy_phép thành_lập	14
+hoạt_động tố_tụng_dân_sự	14
+kết_thúc hoạt_động	14
+hoạt_động bình_thường	14
+hoạt_động văn_phòng	14
+tạm ngừng hoạt_động	14
+thủ_tục thành_lập	14
+văn_phòng điều_hành	14
+giấy_phép hoạt_động ngân_hàng	13
+thành_lập văn_phòng	13
+hoạt_động xúc_tiến	13
+hoạt_động chuyên_môn	13
+hoạt_động giám_sát	13
+thời_hạn đình_chỉ hoạt_động	12
+hoạt_động thanh_tra	12
+thu_hồi chứng_chỉ	12
+lệ_phí giấy_phép	11
+tạm ngừng	11
+đình_chỉ hoạt_động thời_hạn	11
+đăng_ký hoạt_động chi_nhánh	11
+tạm đình_chỉ	10
+điều_kiện thành_lập	10
+gian_lận thương_mại	10
+hoạt_động chuyên_trách	10
+tiếp_tục hoạt_động	9
+thu_hồi chứng_chỉ hành_nghề	9
+đăng_ký tham_gia	9
+chi_nhánh ngân_hàng	8
+an_toàn hoạt_động ngân_hàng	7
+kinh_doanh bất_động_sản	7
+chứng_chỉ hành_nghề	7
+xúc_tiến thương_mại	7
+một_số lĩnh_vực	7
+ngừng kinh_doanh	7
+liên ngân_hàng	6
+đăng_ký hành_nghề	5
+thủ_tục đăng_ký	4
+hoạt_động kinh_doanh bất_động_sản	4
+tập_quán thương_mại	4
+chứng_chỉ hành_nghề thời_hạn	4
+tham_gia giám_sát	4
+phục_vụ mục_đích	4
+hoạt_động lãnh_thổ	4
+điều_kiện kinh_doanh	3
+điều_kiện hành_nghề	3
+thành_lập đăng_ký kinh_doanh	3
+duy_trì điều_kiện	3
+thu_hồi thẻ	3
+thời_hạn tạm	3
+kết_thúc thời_hạn	2
+giấy_phép hoạt_động báo_chí	2
+hoạt_động thời_hạn 06	2
+mục_đích kinh_doanh	2
+hoạt_động một_số lĩnh_vực	2
+giấy_phép văn_phòng	2
+gia_hạn thời_hạn	2
+tiền_tệ hoạt_động	2
+quá_trình thanh_tra	1
+địa_bàn điều_kiện	1
+thời_hạn đình_chỉ hoạt_động thời_hạn	1
+tiến_hành thanh_tra	1
+thời_hạn phục_vụ	1
+văn_phòng đăng_ký	1
+thời_hạn ghi	1
+đăng_ký hoạt_động văn_phòng	1
+đình_chỉ tạm đình_chỉ	1
+quá_trình cống_hiến	1
+từ_chối tiến_hành	1
+tiến_hành một_số hoạt_động	1
+thành_lập đăng_ký	1

@@ -1,0 +1,276 @@
+văn_bản quy_phạm pháp_luật	427
+dự_thảo nghị_quyết	393
+dự_án luật	217
+dự_án pháp_lệnh	173
+ban_hành_văn_bản quy_phạm pháp_luật	147
+dự_thảo quyết_định	140
+đề_nghị xây_dựng luật	108
+dự_thảo văn_bản	108
+văn_bản quy_phạm pháp_luật cơ_quan nhà_nước	103
+chỉnh_lý dự_thảo	91
+chương_trình xây_dựng luật	81
+đại_biểu quốc_hội trình dự_án	68
+ban_hành tổ_chức thực_hiện văn_bản quy_phạm pháp_luật	64
+thẩm_tra dự_án luật	59
+tổ_chức thực_hiện văn_bản quy_phạm pháp_luật	59
+quy_phạm pháp_luật	51
+đề_nghị xây_dựng nghị_định	50
+quốc_hội ban_hành luật	50
+bãi_bỏ văn_bản	48
+thông_tư liên_tịch	46
+trình dự_án luật	46
+dự_thảo nghị_định	45
+kiến_nghị luật	45
+ký ban_hành	42
+văn_bản quy_phạm pháp_luật liên_quan	41
+dự_thảo nghị_quyết quốc_hội	38
+đại_biểu quốc_hội trình dự_án luật	38
+ban_hành quyết_định	38
+xây_dựng luật	35
+nghị_quyết quốc_hội	34
+ký chứng_thực	33
+ban_hành nghị_quyết	32
+dự_thảo thông_tư	32
+đề_nghị xây_dựng nghị_quyết	31
+dự_kiến chương_trình xây_dựng luật	30
+thông_qua dự_án luật	30
+đối_với dự_án	30
+xây_dựng văn_bản quy_phạm pháp_luật	30
+đối_với dự_án luật	30
+biểu_quyết thông_qua	30
+văn_bản quy_phạm pháp_luật chính_phủ	29
+văn_bản quy_phạm pháp_luật ban_hành	29
+nội_dung dự_thảo	29
+tham_gia thẩm_tra	28
+giám_sát văn_bản quy_phạm pháp_luật	28
+trình dự_án	28
+bãi_bỏ toàn_bộ văn_bản	28
+cơ_quan ban_hành_văn_bản	27
+ban_hành văn_bản	25
+thông_qua dự_thảo nghị_quyết	25
+dự_thảo văn_bản quy_phạm pháp_luật	24
+trình dự_án luật quốc_hội	24
+dự_án pháp_lệnh dự_án	24
+bổ_sung bãi_bỏ văn_bản quy_phạm pháp_luật	22
+luật văn_bản cơ_quan nhà_nước	22
+bãi_bỏ ban_hành_văn_bản quy_phạm pháp_luật quốc_hội	21
+nghị_quyết liên_tịch	21
+biểu_quyết thông_qua dự_thảo	20
+thẩm_tra dự_án	20
+xây_dựng dự_thảo	18
+thông_tư bộ_trưởng	18
+nghị_định chính_phủ	18
+nội_dung dự_án	18
+trình cơ_quan thẩm_quyền ban_hành_văn_bản quy_phạm pháp_luật	17
+ban_hành văn_bản quy_phạm pháp_luật	17
+chỉnh_lý dự_án	17
+giám_sát văn_bản quy_phạm pháp_luật chính_phủ	17
+văn_bản cơ_quan nhà_nước	17
+ban_hành thẩm_quyền văn_bản quy_phạm pháp_luật	17
+ban_hành ban_hành thẩm_quyền văn_bản quy_phạm pháp_luật	17
+soạn_thảo dự_án luật	17
+trái quy_định văn_bản quy_phạm pháp_luật quốc_hội	16
+văn_bản quy_phạm pháp_luật liên_tịch cơ_quan nhà_nước thẩm_quyền trung_ương	16
+cơ_quan soạn_thảo	16
+dự_kiến chương_trình	16
+văn_bản pháp_quy	15
+thông_qua dự_thảo	15
+soạn_thảo văn_bản	15
+thông_qua dự_thảo quyết_định	15
+pháp_lệnh dự_án	15
+đại_biểu quốc_hội	15
+hồ_sơ dự_án	15
+hồ_sơ dự_thảo quyết_định	15
+nội_dung dự_thảo nghị_quyết	15
+gửi dự_thảo	15
+cơ_quan thẩm_tra	14
+trái pháp_luật	14
+ý_kiến dự_án luật	14
+quá_trình thảo_luận	13
+văn_bản trái pháp_luật	13
+văn_bản kiến_nghị	13
+ký văn_bản	13
+ban_hành thông_tư	13
+văn_bản quy_phạm pháp_luật cơ_quan	13
+đề_nghị cơ_quan	12
+văn_bản cơ_quan	12
+bãi_bỏ toàn_bộ	12
+văn_bản đề_nghị	11
+văn_bản quy_phạm pháp_luật dấu_hiệu	11
+thực_hiện văn_bản quy_phạm pháp_luật	11
+ban_hành luật	11
+bãi_bỏ văn_bản quy_phạm pháp_luật	11
+đề_nghị xây_dựng	11
+văn_bản quy_phạm pháp_luật quốc_hội	11
+thông_qua dự_án	10
+trình cơ_quan nhà_nước thẩm_quyền ban_hành_văn_bản quy_phạm pháp_luật	10
+điều_chỉnh chương_trình xây_dựng luật	10
+xem_xét văn_bản quy_phạm pháp_luật	10
+toàn_bộ văn_bản quy_phạm pháp_luật	10
+giám_sát văn_bản	9
+quốc_hội chương_trình xây_dựng luật	9
+soạn_thảo dự_thảo	9
+trình quốc_hội	9
+nội_dung chương_trình	9
+dự_thảo nghị_quyết giải_thích	9
+thi_hành_văn_bản quy_phạm pháp_luật	8
+thực_hiện chủ_trương	8
+thẩm_quyền ban_hành_văn_bản quy_phạm pháp_luật	8
+xử_lý văn_bản quy_phạm pháp_luật	8
+hoàn_thiện dự_thảo	8
+nội_dung dự_thảo quyết_định	8
+văn_bản quy_phạm pháp_luật liên_tịch	8
+xây_dựng nghị_định	7
+tờ_trình chính_phủ	7
+dự_thảo báo_cáo	7
+luật thay_thế luật	7
+quốc_hội biểu_quyết	7
+xây_dựng dự_án	7
+trình dự_thảo	7
+chương_trình xây_dựng	7
+thực_hiện chương_trình	6
+gửi văn_bản	6
+luật hiệu_lực	6
+bãi_bỏ ban_hành_văn_bản quy_phạm pháp_luật	6
+quyền trình dự_án luật	6
+ý_kiến văn_bản	6
+ý_kiến cơ_quan	6
+thẩm_quyền ban_hành	6
+quốc_hội ban_hành	6
+thông_qua nghị_quyết	6
+ban_hành thẩm_quyền	6
+toàn_bộ văn_bản	5
+thông_qua chương_trình	5
+trái quy_định văn_bản quy_phạm pháp_luật	5
+dự_thảo nghị_quyết trình	5
+pháp_luật hiện_hành	5
+toàn_bộ dự_án	5
+cơ_quan chính_phủ	5
+lập dự_án	5
+quy_phạm pháp_luật quốc_hội	5
+nghị_quyết thông_qua	5
+điều_chỉnh chương_trình xây_dựng	4
+chính_phủ ban_hành	4
+nghị_quyết giải_thích	4
+ban_hành chính_sách	4
+tờ_trình đề_nghị	4
+thực_hiện dự_án	4
+giám_sát thực_hiện luật	4
+luật nghị_quyết quốc_hội	4
+quá_trình xây_dựng	4
+dự_kiến chương_trình xây_dựng	4
+thể_hiện văn_bản	4
+bãi_bỏ nghị_quyết	4
+quyết_định xử_lý	3
+tham_gia xây_dựng	3
+trái pháp_lệnh	3
+thẩm_quyền văn_bản quy_phạm pháp_luật	3
+gửi cơ_quan	3
+xây_dựng trình	3
+hợp_nhất văn_bản	3
+thực_hiện nghị_quyết	3
+soạn_thảo dự_án	3
+quốc_hội quyết_định	3
+liên_quan nội_dung dự_án	3
+thẩm_quyền ban_hành_văn_bản	3
+cơ_quan thẩm_quyền ban_hành_văn_bản quy_phạm pháp_luật	3
+chính_phủ trình	3
+ý_kiến dự_án	3
+xây_dựng chương_trình	3
+cơ_quan nhà_nước	3
+quốc_hội thông_qua	3
+quy_phạm pháp_luật ban_hành	3
+văn_bản hợp_nhất	3
+văn_bản cơ_quan nhà_nước nghị_quyết	3
+dự_thảo ý_kiến	3
+quyền trình dự_án	3
+chuẩn_bị hồ_sơ	3
+quốc_hội biểu_quyết thông_qua	3
+chuẩn_bị chương_trình	2
+pháp_luật liên_quan	2
+quyết_định điều_chỉnh	2
+báo_cáo thẩm_tra	2
+trình chính_phủ	2
+bổ_sung bãi_bỏ văn_bản	2
+quy_phạm pháp_luật chính_phủ	2
+quốc_hội quyết_định đề_nghị	2
+điều_chỉnh chương_trình	2
+pháp_luật quy_định	2
+thảo_luận biểu_quyết	2
+quyết_định chủ_trương	2
+kiến_nghị cơ_quan	2
+thẩm_quyền trình	2
+chuẩn_bị dự_án	2
+dự_án luật quốc_hội	2
+tổ_chức thực_hiện	2
+luật quốc_hội	2
+xử_lý thẩm_quyền	2
+văn_bản quy_phạm pháp_luật dấu_hiệu trái	2
+phát_hiện văn_bản quy_phạm pháp_luật	2
+ký_hiệu văn_bản	2
+lập chương_trình	2
+thực_hiện văn_bản	2
+thực_hiện toàn_bộ	2
+ý_kiến dự_thảo	2
+tờ_trình dự_thảo	2
+trái quy_định văn_bản	2
+trình cơ_quan	2
+thực_hiện thông_qua	2
+hồ_sơ trình	2
+bãi_bỏ quyết_định	2
+chính_sách nhà_nước	2
+quy_định luật	2
+ban_hành tổ_chức thực_hiện văn_bản	2
+hồ_sơ dự_thảo	2
+đề_nghị bộ_trưởng	2
+trình cơ_quan thẩm_quyền	2
+chính_sách đối_với	1
+hệ_thống tổ_chức	1
+trình chính_phủ ban_hành	1
+ban_hành trình thẩm_quyền	1
+quốc_hội trình dự_án	1
+kiến_nghị giám_sát	1
+báo_cáo chính_phủ	1
+bãi_bỏ văn_bản quy_phạm	1
+pháp_lệnh hiệu_lực	1
+trình quốc_hội quyết_định	1
+bổ_sung bãi_bỏ	1
+văn_bản quy_phạm pháp_luật liên_tịch cơ_quan nhà_nước thẩm_quyền	1
+đề_nghị xem_xét_lại	1
+quốc_hội trình dự_án luật	1
+thẩm_quyền quyết_định	1
+xem_xét văn_bản	1
+tổ_chức thực_hiện văn_bản quy_phạm	1
+thực_hiện chính_sách	1
+xây_dựng nghị_quyết	1
+thông_qua quyết_định	1
+chương_trình giám_sát	1
+giám_sát thực_hiện nghị_quyết	1
+quốc_hội quyết_định chủ_trương	1
+soạn_thảo gửi	1
+dự_thảo trình	1
+quy_phạm pháp_luật liên_quan	1
+cơ_quan chính_phủ liên_quan	1
+điều_chỉnh dự_án	1
+văn_bản quy_phạm pháp_luật liên_tịch cơ_quan nhà_nước	1
+ý_kiến đại_biểu quốc_hội	1
+nhà_nước chính_sách	1
+trình thẩm_quyền ban_hành	1
+trình cơ_quan thẩm_quyền ban_hành_văn_bản	1
+thẩm_quyền trình cơ_quan	1
+giám_sát thực_hiện pháp_luật	1
+quy_phạm pháp_luật cơ_quan	1
+xây_dựng hệ_thống	1
+tham_gia ý_kiến	1
+văn_bản cơ_quan thẩm_quyền	1
+hồ_sơ đề_nghị xây_dựng	1
+dự_án thẩm_quyền quyết_định	1
+hiệu_lực luật	1
+văn_bản quy_phạm	1
+đề_nghị cơ_quan thẩm_quyền	1
+chính_sách đề_nghị xây_dựng	1
+đại_biểu quốc_hội trình	1
+luật thay_thế	1
+ban_hành tổ_chức	1
+tính_chất nội_dung dự_thảo	1
+hiệu_lực pháp_luật	1

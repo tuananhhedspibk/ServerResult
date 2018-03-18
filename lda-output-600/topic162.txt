@@ -1,0 +1,38 @@
+trợ_giúp pháp_lý	319
+thực_hiện trợ_giúp pháp_lý	189
+trung_tâm trợ_giúp pháp_lý nhà_nước	80
+trợ_giúp viên pháp_lý	76
+tổ_chức thực_hiện trợ_giúp pháp_lý	69
+tham_gia trợ_giúp pháp_lý	63
+vụ_việc trợ_giúp pháp_lý	58
+phương_tiện trợ_giúp	32
+yêu_cầu trợ_giúp pháp_lý	31
+dịch_vụ pháp_lý	26
+hoạt_động trợ_giúp pháp_lý	26
+thực_hiện dịch_vụ pháp_lý	25
+hậu_quả pháp_lý	23
+thẻ trợ_giúp viên pháp_lý	22
+hợp_đồng dịch_vụ pháp_lý	19
+hồ_sơ vụ_việc trợ_giúp pháp_lý	17
+thu_hồi thẻ	14
+hoạt_động trợ_giúp	9
+thụ_lý vụ_việc	8
+tiếp_tục thực_hiện	6
+thực_hiện hoạt_động	4
+hồ_sơ vụ_việc	3
+yêu_cầu trợ_giúp	3
+vụ_việc trợ_giúp	3
+cử tham_gia	2
+tiếp_tục hoạt_động	2
+tham_gia hoạt_động	2
+thực_hiện trợ_giúp	2
+tham_gia trợ_giúp	1
+trung_tâm dịch_vụ	1
+tổ_chức thực_hiện	1
+pháp_lý nhà_nước	1
+giám_đốc trung_tâm	1
+trợ_giúp pháp_lý nhà_nước	1
+tổ_chức hoạt_động	1
+phương_tiện tham_gia	1
+thực_hiện hợp_đồng	1
+trung_tâm trợ_giúp pháp_lý	1

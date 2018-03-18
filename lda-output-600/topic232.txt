@@ -1,0 +1,117 @@
+nộp lệ_phí	144
+thu phí	132
+thu lợi bất_chính	131
+nộp tiền tạm_ứng án_phí	120
+nộp phí	99
+chi_phí giám_định	95
+nộp tiền	77
+lệ_phí tòa_án	74
+tiền tạm_ứng án_phí	70
+tiền tạm_ứng lệ_phí	62
+phí lệ_phí	60
+khoản tiền	53
+tiền tạm_ứng chi_phí giám_định	50
+nộp tiền tạm_ứng án_phí phúc_thẩm	49
+thu tiền	47
+chi_phí làm_chứng	46
+tiền thu	44
+nộp tiền tạm_ứng chi_phí giám_định	43
+phạt tiền	40
+nghĩa_vụ nộp	38
+miễn nộp tiền tạm_ứng án_phí	36
+khoản thu	35
+tiền tạm_ứng	32
+nộp tiền phạt	30
+khoản phí	30
+lệ_phí trước_bạ	29
+nộp tiền tạm_ứng chi_phí định_giá tài_sản	28
+chi_phí phiên_dịch	25
+chi_phí xem_xét	23
+chi_phí tố_tụng	23
+tiền nhuận_bút	23
+nộp chi_phí giám_định	23
+nộp khoản tiền	22
+thu lợi bất_chính 500	21
+chi_phí định_giá	19
+thu tiền phạt	19
+nộp tiền tạm_ứng chi_phí	19
+thu lợi bất_chính 50	18
+biên_lai thu tiền tạm_ứng án_phí	18
+sử_dụng phí	17
+thu lệ_phí	17
+tiền tạm_ứng chi_phí	16
+phí thu	16
+khoản chi_phí	15
+nộp chi_phí định_giá	15
+nộp đầy_đủ	15
+tiền tàu xe	15
+chứng_từ thu	15
+miễn nộp	15
+biên_lai thu	14
+nộp tiền tạm_ứng lệ_phí	13
+tiền tạm_ứng chi_phí định_giá tài_sản	12
+tiền tạm_ứng án_phí phúc_thẩm	12
+án_phí phúc_thẩm	12
+nộp tiền tạm_ứng chi_phí định_giá	11
+tiền phạt	11
+tiền nộp	11
+thu tiền tạm_ứng án_phí	10
+miễn nộp tiền tạm_ứng	9
+trường_hợp nộp tiền tạm_ứng chi_phí	8
+nộp khoản	8
+tiền tạm_ứng nộp chi_phí	8
+nộp tiền tạm_ứng	8
+nghĩa_vụ nộp tiền	7
+thu nộp	7
+thu lợi	7
+lệ_phí nộp	7
+toàn_bộ tiền	7
+nộp phạt	7
+nộp chi_phí	7
+lợi bất_chính	6
+biên_lai thu tiền	6
+chi_phí định_giá tài_sản	6
+tiền tạm_ứng án_phí nộp	6
+tiền tạm_ứng chi_phí xem_xét	6
+đối_tượng nộp	6
+nghĩa_vụ nộp tiền tạm_ứng	5
+tiền tạm_ứng chi_phí định_giá	5
+khoản lợi	5
+nghĩa_vụ nộp tiền tạm_ứng chi_phí	5
+phí giám_định	5
+tạm_ứng chi_phí	5
+kháng_cáo nộp tiền tạm_ứng án_phí	5
+nộp án_phí	3
+chậm nộp	3
+biên_lai nộp tiền	3
+tạm_ứng lệ_phí	3
+tàu xe	3
+khoản thu nộp	2
+tòa_án phúc_thẩm	2
+trường_hợp miễn nộp	2
+thu tiền sử_dụng	2
+khoản tiền phạt	2
+tạm_ứng chi_phí giám_định	2
+tạm_ứng chi_phí định_giá tài_sản	2
+tiền bảo_hiểm	2
+định_giá tài_sản	2
+trường_hợp nộp tiền	2
+tiền tạm_ứng chi_phí ủy_thác tư_pháp	1
+phạt tiền 500	1
+làm_chứng làm_chứng	1
+trường_hợp miễn	1
+tạm_ứng chi_phí định_giá	1
+chứng_từ nộp	1
+nghĩa_vụ tài_sản	1
+tiền chậm nộp	1
+hoàn_trả tiền	1
+tiền sử_dụng	1
+tạm_ứng án_phí	1
+biên_lai nộp	1
+đối_tượng giám_định	1
+lệ_phí khoản	1
+nộp chậm	1
+trường_hợp làm_chứng	1
+phí bảo_hiểm	1
+trường_hợp nộp tiền tạm_ứng	1
+tiền tạm_ứng nộp	1

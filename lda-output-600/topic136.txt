@@ -1,0 +1,25 @@
+cụm "	77
+" "	64
+danh_hiệu "	60
+" 1	42
+" huân_chương	41
+" 2	33
+chữ "	27
+" hạng	24
+" 3	23
+tặng "	21
+- "	20
+đoạn 2	19
+" sửa_đổi thành chữ "	15
+đoạn 1	14
+chữ_số "	9
+thay chữ_số "	9
+* *	8
+thay chữ_số	8
+công "	6
+sửa_đổi thành chữ	2
+2 3	2
+2 -	1
+thành chữ "	1
+12 -	1
+7 1993	1

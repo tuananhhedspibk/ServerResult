@@ -1,0 +1,56 @@
+( )	582
+( gọi	429
+( tội	96
+3 ( tội	90
+mét_khối ( m	62
+3 4 ( tội	61
+000 mét_vuông ( m	60
+thị_trấn ( gọi xã )	35
+phó_tổng_giám_đốc ( phó_giám đố	35
+thị_trấn ( gọi	31
+tài_liệu ( )	30
+( gọi cơ_quan	29
+1 ( tội	29
+tài sả	26
+4 ( tội	22
+( gọi tắt	21
+cổng thông_tin điện_tử tòa_án ( )	21
+9 ( tội	20
+m ục	20
+việt_nam ( gọi	20
+địa_chỉ thư điện_tử ( )	19
+( gọi công_ty	18
+phần_trăm (	18
+0 ( tội	17
+mét_vuông ( m	16
+3 4	16
+đồng (	15
+( tội sản_xuất	14
+( gọi tổ	14
+( tội chiếm_đoạt	13
+kèm ( )	11
+% )	9
+tội mua_bán	9
+thư điện_tử ( )	6
+tội chiếm_đoạt	5
+thư điện_tử	5
+mét_khối ( m gỗ	5
+( gọi huyệ	4
+xã )	4
+gọi tắt	4
+( tội mua_bán	4
+% (	4
+( % )	3
+việt_nam (	3
+( m	3
+tuyên tội	2
+thư điện_tử (	2
+cổng thông_tin điện_tử tòa_án	2
+phó_tổng_giám_đốc (	2
+gọi huyệ	1
+điện_tử (	1
+gọi công_ty	1
+( gọi xã	1
+tội sản_xuất	1
+0 %	1
+m trở	1

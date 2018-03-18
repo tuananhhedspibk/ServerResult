@@ -1,0 +1,65 @@
+kiểm_sát_viên trung_cấp	84
+hội_đồng tuyển_chọn	81
+thẩm_phán trung_cấp	49
+có_thể bổ_nhiệm	46
+thẩm_phán sơ_cấp	45
+có_thể tuyển_chọn bổ_nhiệm	43
+kiểm_sát_viên sơ_cấp	42
+bổ_nhiệm ngạch	34
+điều_tra_viên trung_cấp	32
+kiểm_sát_viên cao_cấp	29
+tối cao_trình	29
+điều_tra_viên sơ_cấp	29
+chủ_tịch bổ_nhiệm	27
+điều_tra_viên cao_cấp	26
+tuyển_chọn tiêu_chuẩn	23
+thẩm_phán cao_cấp	20
+có_thể cách_chức chức_danh	19
+bổ_nhiệm thẩm_phán	19
+hội_đồng thi_tuyển	18
+giá ngạch	18
+có_thể tuyển_chọn	18
+có_thể miễn_nhiệm chức_danh	18
+đề_nghị bổ_nhiệm	17
+hội_đồng tuyển_chọn thẩm_phán	17
+cách_chức chức_danh	12
+cách_chức thẩm_phán	11
+có_thể tuyển_chọn bổ_nhiệm thẩm_phán	11
+hội_đồng tuyển_chọn kiểm_sát_viên	10
+bổ_nhiệm kiểm_sát_viên	9
+đề_nghị chủ_tịch	9
+bãi_nhiệm hội_thẩm	9
+ngạch kiểm_sát_viên	8
+tuyển_chọn thẩm_phán	8
+bổ_nhiệm chức_danh	8
+chủ_tịch hội_đồng	8
+có_thể miễn_nhiệm	8
+đảm_nhiệm chức_danh	8
+đề_nghị chủ_tịch hội_đồng	7
+05 trở	6
+tuyển_chọn bổ_nhiệm	6
+miễn_nhiệm chức_danh	6
+đề_nghị miễn_nhiệm	5
+có_thể bổ_nhiệm điều_tra_viên	5
+hội_đồng tuyển_chọn kiểm_sát_viên viện kiểm_sát	4
+văn_phòng chủ_tịch	3
+hội_đồng tuyển_chọn kiểm_sát_viên viện kiểm_sát nhân_dân	3
+bổ_nhiệm điều_tra_viên	3
+có_thể tuyển_chọn bổ_nhiệm kiểm_sát_viên viện kiểm_sát	3
+quyền_hạn chủ_tịch	2
+cách_chức chủ_tịch	2
+tuyển_chọn kiểm_sát_viên	2
+viên cao_cấp	2
+nhiệm_vụ quyền_hạn	2
+cách_chức đề_nghị	2
+quyền_hạn hội_đồng	2
+thẩm_phán hội_thẩm	2
+vô_tư nhiệm_vụ	2
+có_thể vô_tư nhiệm_vụ	2
+có_thể tuyển_chọn bổ_nhiệm kiểm_sát_viên	2
+có_thể cách_chức	2
+điều_tra_viên viện	1
+tiêu_chuẩn chức_danh	1
+nhiệm_kỳ hội_thẩm	1
+chức_danh kiểm_sát_viên	1
+uỷ_viên hội_đồng	1

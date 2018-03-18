@@ -1,0 +1,169 @@
+quyền :	777
+quyền nghĩa_vụ	661
+lợi_ích hợp_pháp	507
+nghĩa_vụ :	456
+bảo_vệ quyền lợi_ích hợp_pháp	377
+đại_diện hợp_pháp	329
+quyền lợi_ích hợp_pháp	249
+bảo_vệ quyền lợi_ích hợp_pháp đương_sự	237
+bảo_vệ quyền	231
+thực_hiện quyền	207
+quyền yêu_cầu	187
+quyền nghĩa_vụ :	174
+quyền lợi_ích hợp_pháp tổ_chức	156
+quyền nghĩa_vụ tổ_chức	139
+lợi_ích công_cộng	120
+quyền khiếu_nại	112
+bảo_đảm quyền	98
+xét hợp_pháp đình_công	79
+quyền lợi_ích	76
+lợi_ích liên_quan	69
+hạn_chế quyền	66
+cá_nhân quyền	63
+hộ_chiếu chứng_thực cá_nhân hợp_pháp	62
+quyền từ_chối	60
+quyền nghĩa_vụ quy_định	57
+lợi_ích hợp_pháp tổ_chức	56
+căn_cứ hợp_pháp	56
+khôi_phục quyền	52
+quyền lợi_ích hợp_pháp công_dân	50
+thực_hiện quyền nghĩa_vụ	50
+quyền ra_lệnh	47
+thực_hiện nghĩa_vụ	45
+đương_sự quyền	42
+xâm_phạm quyền	39
+hợp_pháp đình_công	38
+giải_thích quyền nghĩa_vụ	38
+chứng_thực hợp_pháp	38
+bảo_vệ quyền lợi_ích	37
+thu hợp_pháp	36
+lợi_ích hợp_pháp công_dân	35
+lợi_ích chính_đáng	34
+lợi_ích hợp_pháp xâm_phạm	34
+bảo_đảm lợi_ích	33
+khiếu_nại quyền :	33
+khiếu_nại nghĩa_vụ :	31
+thi_hành đại_diện hợp_pháp	31
+quyền tham_dự	31
+lợi_ích hợp_pháp đương_sự	31
+thi_hành công_vụ quyền :	31
+quyền đòi	30
+tố_cáo quyền :	29
+hợp_pháp tổ_chức	29
+tôn_trọng quyền	28
+bảo_đảm quyền lợi_ích hợp_pháp	28
+ủy quyền	27
+tố_cáo nghĩa_vụ :	27
+thông_qua đại_diện hợp_pháp	27
+xâm_phạm quyền lợi_ích hợp_pháp	26
+chỗ hợp_pháp	26
+đại_diện hợp_pháp đương_sự	26
+bảo_vệ quyền lợi_ích hợp_pháp hại	25
+kế_thừa quyền	25
+bảo_vệ lợi_ích	23
+đại_diện tổ_chức	23
+đương_sự đại_diện	21
+thu_nhập hợp_pháp	21
+bảo_vệ lợi_ích chính_đáng	21
+quyền nghĩa_vụ tham_gia_tố_tụng	20
+cá_nhân quyền khiếu_nại	20
+nghĩa_vụ liên_quan	20
+phục_vụ lợi_ích	19
+nguồn_gốc hợp_pháp	18
+quyền nghĩa_vụ tố_tụng	18
+quyền nghĩa_vụ tổ_chức kinh_tế	18
+thực_hiện quyền nghĩa_vụ giao	18
+quyền thừa_kế	18
+quyền lợi_ích hợp_pháp xâm_phạm	18
+phục_vụ lợi_ích công_cộng	17
+phát_sinh quyền	17
+bảo_vệ quyền con_người	17
+đương_sự quyền khiếu_nại	17
+tổ_chức kế_thừa quyền	17
+quyền_lợi hợp_pháp	16
+quyền nghĩa_vụ quy_định 5	16
+đại_diện hợp_pháp quyền	16
+quyền định_đoạt	16
+tổ_chức xã_hội khởi_kiện lợi_ích	16
+nhượng quyền	14
+nghĩa_vụ thừa_kế	13
+nghĩa_vụ phát_sinh	13
+quyền nghĩa_vụ doanh_nghiệp	13
+giải_thích quyền	12
+đại_diện đương_sự	11
+tổ_chức thực_hiện	11
+thừa_kế quyền	10
+công_dân quyền	10
+bình_đẳng quyền nghĩa_vụ	10
+tư_lợi phục_vụ lợi_ích tổ_chức	10
+quyền nghĩa_vụ công_dân	10
+công_ty tư_lợi phục_vụ lợi_ích tổ_chức	10
+thông_qua đại_diện	9
+quyền khởi_kiện	9
+bảo_vệ quyền lợi_ích hợp_pháp trình_bày	9
+quyền lợi_ích hợp_pháp đương_sự	9
+quy_định :	8
+lợi_ích cộng_đồng	8
+bảo_hộ quyền lợi_ích hợp_pháp	8
+đại_diện hợp_pháp trình_bày	8
+bảo_đảm quyền lợi_ích	8
+nghĩa_vụ tố_tụng	8
+quyền tiếp_cận	7
+đương_sự đại_diện hợp_pháp	7
+thừa_kế hợp_pháp	7
+quyền_lợi nghĩa_vụ	7
+tổn_hại lợi_ích	7
+yêu_cầu chính_đáng	7
+đương_sự bảo_vệ quyền lợi_ích hợp_pháp	7
+kế_thừa quyền nghĩa_vụ	6
+hài_hòa lợi_ích	6
+yêu_cầu đương_sự	6
+từ_chối thực_hiện	5
+cá_nhân quyền tố_cáo	5
+bảo_đảm thực_hiện	5
+hợp_pháp công_dân	5
+đại_diện tham_gia_tố_tụng	4
+bảo_vệ quyền_lợi	4
+truất quyền	4
+phương_hại lợi_ích	4
+nghĩa_vụ quy_định	4
+phát_sinh nghĩa_vụ	4
+bảo_hộ quyền lợi_ích	4
+quyền công_dân	4
+quyền bình_đẳng	3
+quyền con_người	3
+bảo_đảm thực_hiện nghĩa_vụ	3
+thi_hành công_vụ quyền	3
+bảo_hộ quyền	3
+nghĩa_vụ giao	3
+đương_sự tham_gia_tố_tụng	3
+nghĩa_vụ công_dân	3
+thực_hiện quy_định	2
+đương_sự yêu_cầu	2
+xét hợp_pháp	2
+thực_hiện nghĩa_vụ quy_định	2
+căn_cứ yêu_cầu	2
+bảo_đảm quyền_lợi	2
+hộ_chiếu chứng_thực	2
+hợp_pháp xâm_phạm	2
+nghĩa_vụ liên_quan tham_gia_tố_tụng	2
+bảo_đảm thực_hiện quyền	2
+thực_hiện quyền tiếp_cận	2
+công_vụ quyền :	1
+thực_hiện quyền nghĩa_vụ quy_định	1
+bảo_đảm quyền bình_đẳng	1
+bảo_đảm yêu_cầu	1
+cá_nhân liên_quan	1
+thừa_kế thừa_kế	1
+yêu_cầu giải_thích	1
+bảo_vệ quyền_lợi đương_sự	1
+xâm_phạm chỗ	1
+cá_nhân liên_quan thi_hành	1
+nghĩa_vụ thực_hiện nghĩa_vụ	1
+căn_cứ quy_định	1
+tôn_trọng bảo_vệ	1
+tổ_chức kinh_tế	1
+công_dân thực_hiện quyền	1
+phục_vụ lợi_ích tổ_chức	1
+xâm_phạm lợi_ích	1
+hợp_pháp đương_sự	1

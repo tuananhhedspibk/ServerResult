@@ -1,0 +1,138 @@
+phạm_tội trường_hợp	777
+hậu_quả nghiêm_trọng	368
+hành_vi phạm_tội	207
+đối_với tội_phạm nghiêm_trọng	123
+đặc_biệt nghiêm_trọng	108
+hậu_quả đặc_biệt nghiêm_trọng	92
+tội_phạm nghiêm_trọng	90
+phạm_tội trường_hợp quy_định	87
+thực_hiện_hành_vi phạm_tội	75
+kết_án tội	67
+thực_hiện tội_phạm	62
+phạm tội	60
+tội xâm_phạm	60
+phạm_tội nghiêm_trọng	60
+phạm_tội quả_tang	57
+đối_với tội	57
+tội_phạm đặc_biệt nghiêm_trọng	53
+thực_hiện hành_vi	52
+tội vi_phạm quy_định	48
+tội nghiêm_trọng	45
+chuẩn_bị phạm_tội	45
+trường_hợp đặc_biệt	42
+tội vi_phạm_quy_định	42
+trường_hợp kết_án	41
+tội cố_ý	37
+phạm_tội hậu_quả nghiêm_trọng đặc_biệt nghiêm_trọng	37
+đối_với tội nghiêm_trọng	35
+hậu_quả nghiêm_trọng đặc_biệt nghiêm_trọng	33
+phạm_tội hậu_quả đặc_biệt nghiêm_trọng	33
+phạm_tội hậu_quả nghiêm_trọng	32
+đối_với tội_phạm đặc_biệt nghiêm_trọng	32
+đối_với thành_niên phạm_tội	31
+pháp_nhân phạm_tội quy_định	31
+thành_niên phạm_tội	30
+che_giấu tội_phạm	29
+phạm_tội tự_thú	29
+trường_hợp quy_định	28
+sự_việc phạm_tội hành_vi cấu_thành tội_phạm	28
+nghiêm_trọng đặc_biệt nghiêm_trọng	27
+tội vô_ý	26
+pháp_nhân phạm_tội	25
+tội phá_hoại	23
+cấu_thành tội_phạm	23
+hành_vi cản_trở	22
+tội đặc_biệt nghiêm_trọng	21
+tội sản_xuất	21
+tội_phạm nghiêm_trọng tội_phạm nghiêm_trọng	20
+vi_phạm_quy_định quản_lý	20
+lôi_kéo phạm_tội	20
+phạm_tội trường_hợp quy_định bộ_luật	19
+tội_phạm nghiêm_trọng tội_phạm đặc_biệt nghiêm_trọng	19
+xảy tội_phạm	19
+trường_hợp phạm_tội quả_tang	19
+hậuquả nghiêm_trọng	19
+thiệt_hại nghiêm_trọng	18
+tội cản_trở	18
+đối_với thành_niên	18
+hành_vi phạm_tội xảy	18
+tiếp_tục phạm_tội	17
+đối_với trường_hợp	17
+tội chiếm_đoạt	16
+hành_vi xâm_phạm	16
+nàophạm tội quy_định	16
+tội xâm_phạm quyền	15
+đối_với hành_vi phạm_tội	15
+bộ_luật kết_án tội	15
+tội vi_phạm_quy_định quản_lý	14
+phạm_tội trường_hợp nghiêm_trọng	13
+đối_với kết_án	13
+tội hối_lộ	13
+tội tàng_trữ	13
+trường_hợp đặc_biệt nghiêm_trọng	12
+đối_với tội_phạm	12
+tố_giác tội_phạm	12
+tội hiếp_dâm	12
+tội giết	11
+tội đặc_biệt	11
+đối_với tội_phạm nghiêm_trọng có_thể gia_hạn	10
+tội vi_phạm	10
+đối_với hành_vi	9
+tội phá_huỷ	9
+tội lạm_dụng	9
+tội huỷ_hoại	9
+tiếp_tục thực_hiện	8
+vi_phạm nghiêm_trọng	8
+tội chế_tạo	8
+vi_phạm quy_định	8
+phạm tội quy_định	8
+phạm_tội có_thể	8
+nàophạm tội	8
+kết_án tội_phạm	7
+hậu_quả xảy	7
+sự_việc phạm_tội	7
+cố_ý cản_trở	6
+tội_phạm nghiêm_trọng tội_phạm	6
+cố_ý trái quy_định	6
+tội cướp	6
+đối_với pháp_nhân	6
+hành_vi cố_ý	5
+tội tội	5
+phạm_tội lãnh_thổ	5
+hậu_quả đặc_biệt	5
+hành_vi vi_phạm_quy_định	5
+hành_vi cấu_thành tội_phạm	5
+xâm_phạm tự_do	5
+cố_ý vô_ý	5
+quyết_định_hình_phạt đối_với	4
+điều_khiển hành_vi	4
+nghiêm_trọng tội_phạm	4
+phạm tộitrong trường_hợp	4
+tội_phạm ma_tuý	4
+thực_hiện quy_định	3
+quy_định bộ_luật	3
+trường_hợp xảy	3
+tộitrong trường_hợp đặc_biệt nghiêm_trọng	3
+lọt tội_phạm	3
+phạm tộitrong	2
+xảy hành_vi	2
+trái quy_định	2
+hành_vi kết_án tội	2
+xâm_phạm quyền	2
+trường_hợp bộ_luật quy_định	2
+cản_trở thực_hiện	2
+hành_vi vi_phạm	2
+phạm tộigây hậu_quả nghiêm_trọng	2
+phạm_tội hậu_quả	2
+nghiêm_trọng cố_ý	2
+đồng hậu_quả nghiêm_trọng	2
+vi_phạm nghiêm_trọng quy_định	1
+đối_với trường_hợp quy_định	1
+phạm tộigây	1
+đối_với chức_vụ	1
+có_thể xảy	1
+hành_vi xâm_phạm quyền	1
+bộ_luật quy_định	1
+tộitrong trường_hợp	1
+sự_việc phạm_tội hành_vi	1
+tội_phạm nghiêm_trọng có_thể gia_hạn	1

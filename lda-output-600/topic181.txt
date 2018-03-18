@@ -1,0 +1,53 @@
+có_thể kéo_dài	120
+có_thể thoả_thuận	106
+tư_cách pháp_nhân	101
+hai thoả_thuận	93
+có_thể gia_hạn	59
+có_thể yêu_cầu	56
+tham_gia_tố_tụng_với tư_cách	54
+viết tắt	43
+có_thể mời	42
+địa_điểm thoả_thuận	34
+tổ_chức tư_cách pháp_nhân	32
+kéo_dài thời_hạn	31
+thời_hạn có_thể kéo_dài	29
+có_thể uỷ_quyền	28
+thành hai	28
+coi từ_bỏ	26
+hai thỏa_thuận	25
+coi vô_hiệu	25
+có_thể tiến_hành	25
+pháp_nhân có_thể	24
+có_thể thỏa_thuận	23
+có_thể xảy	21
+ý_kiến yêu_cầu thay_đổi	21
+có_thể vô_tư nhiệm_vụ	20
+tư_cách pháp_lý	20
+có_thể tách	19
+địa_điểm tiến_hành	17
+ngăn_chặn thiệt_hại có_thể xảy	17
+tiến_hành hoà_giải	17
+vô_hiệu toàn_bộ	14
+thể_thức tiến_hành	14
+thay_đổi huỷ_bỏ	13
+có_thể ảnh_hưởng	12
+có_thể vô_tư	11
+có_thể thay_đổi	9
+có_thể miễn	9
+thời_hạn hai	8
+tiến_hành có_mặt	8
+chấm_dứt tư_cách	7
+tuyên_bố từ_bỏ	6
+mời chứng_kiến	6
+yêu_cầu thay_đổi	6
+có_thể tịch_thu	6
+hai trở	5
+thiệt_hại có_thể xảy	3
+pháp_nhân chấm_dứt	3
+có_thể coi	3
+hai hai	2
+tiến_hành khám_xét	2
+vô_tư nhiệm_vụ	2
+thỏa_thuận lựa_chọn	1
+thiệt_hại xảy	1
+yêu_cầu thay_đổi tiến_hành	1

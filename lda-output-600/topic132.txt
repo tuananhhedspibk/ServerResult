@@ -1,0 +1,109 @@
+cá_nhân sản_xuất	333
+sản_xuất nông_nghiệp	157
+chất_lượng sản_phẩm	156
+sản_xuất sản_phẩm	91
+ngành sản_xuất	82
+cá_nhân sử_dụng	72
+phát_triển sản_xuất	65
+sử_dụng sản_phẩm	58
+quá_trình sản_xuất	54
+đối_với sản_phẩm	49
+phục_vụ sản_xuất	48
+kinh_doanh ngành	47
+sử_dụng hợp_lý	46
+sử_dụng mục_đích	45
+cá_nhân kinh_doanh	43
+mục_đích kinh_doanh	40
+ngành kinh_tế	37
+tiêu_thụ sản_phẩm	37
+trực_tiếp sản_xuất	34
+giấy_phép kinh_doanh sản_phẩm	33
+kinh_doanh sản_phẩm	33
+phục_vụ mục_đích	31
+nguyên_liệu sản_xuất	29
+nông_nghiệp công_nghiệp thực_phẩm	27
+mục_đích sử_dụng	24
+phép sản_xuất	24
+kinh_doanh tiêu_dùng	24
+hạn sử_dụng	24
+quá_trình sử_dụng	24
+dây_chuyền sản_xuất	23
+cá_nhân trực_tiếp sản_xuất nông_nghiệp	22
+quản_lý chất_lượng sản_phẩm	22
+năng_lực sản_xuất	22
+phép sử_dụng	21
+sản_xuất công_nghiệp	20
+sản_xuất muối	20
+sử_dụng hợp_lý_tài_nguyên	20
+tư_liệu sản_xuất	19
+trực_tiếp phục_vụ	19
+ngành lĩnh_vực	19
+tái sử_dụng	19
+sử_dụng nguyên_liệu	18
+cá_nhân nhập_khẩu	18
+đối_với một_số	17
+phương pháp_định_giá	17
+lĩnh_vực kinh_tế	16
+quản_lý chất_lượng	15
+lĩnh_vực nông_nghiệp	15
+chất_lượng sản_phẩm sản_xuất	14
+kiểm_tra chất_lượng sản_phẩm	14
+phục_vụ sản_xuất nông_nghiệp	14
+đối_với lĩnh_vực	13
+quản_lý ngành	12
+sản_phẩm sản_xuất	12
+danh_mục sản_phẩm	12
+một_số ngành	12
+chuyên_dùng phục_vụ	12
+sử_dụng vật_liệu	11
+phát_triển công_nghiệp	11
+mục_đích công_cộng	11
+ngành công_nghiệp	11
+điều_kiện sản_xuất	10
+công_nghiệp thực_phẩm	10
+sản_phẩm nông_nghiệp	10
+cá_nhân thành_phần kinh_tế	9
+ngành_nghề kinh_doanh	9
+phát_triển ngành	9
+nhập_khẩu sản_phẩm	9
+một_số lĩnh_vực	9
+cá_nhân phép	8
+mục_đích sản_xuất	8
+một_số tất_cả	8
+sử_dụng mục_đích sản_xuất	8
+tiếp_tục sử_dụng	8
+sản_xuất nhập_khẩu	8
+mục_đích sản_xuất nông_nghiệp	8
+quá_trình kiểm_tra	7
+sản_xuất mặt_hàng	7
+đối_với cây_trồng	6
+quản_lý sử_dụng	6
+pháp_luật chất_lượng sản_phẩm	6
+giấy_phép nhập_khẩu	5
+trực_tiếp sản_xuất nông_nghiệp	5
+đối_với tất_cả	5
+kiểm_tra chất_lượng	5
+công_cộng mục_đích kinh_doanh	4
+kinh_doanh thực_phẩm	3
+lĩnh_vực quản_lý	3
+giấy_phép sử_dụng	3
+ngành quản_lý	3
+sản_xuất vật_liệu	3
+thành_phần kinh_tế	3
+sử_dụng cây_trồng	3
+phát_triển kết_cấu_hạ_tầng	2
+phép mục_đích sử_dụng	2
+tư_cách cá_nhân	2
+giấy_phép kinh_doanh	2
+danh_mục phép	2
+kinh_doanh điều_kiện	2
+phép nhập_khẩu	1
+kinh_doanh kết_cấu_hạ_tầng	1
+nông_nghiệp phát_triển	1
+thực_phẩm nhập_khẩu	1
+kinh_doanh ngành_nghề	1
+điều_kiện giấy_phép	1
+sử_dụng giấy_phép	1
+phát_triển kinh_tế	1
+đối_với thực_phẩm	1
+cá_nhân trực_tiếp sản_xuất	1

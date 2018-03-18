@@ -1,0 +1,349 @@
+vi_phạm pháp_luật	483
+hành_vi vi_phạm pháp_luật	458
+xử_lý vi_phạm	447
+vi_phạm hành_chính	366
+xử_phạt vi_phạm hành_chính	344
+hành_vi vi_phạm	287
+truy_cứu trách_nhiệm hình_sự	272
+xử_lý kỷ_luật	271
+xử_lý vi_phạm hành_chính	258
+hành_vi hành_chính	226
+xử_lý vi_phạm pháp_luật	224
+trách_nhiệm pháp_luật	182
+phương_tiện vi_phạm hành_chính	170
+tịch_thu tang_vật	154
+mức_độ vi_phạm xử_lý kỷ_luật	147
+quyết_định xử_phạt	133
+thẩm_quyền xử_phạt	127
+xử_phạt hành_chính	123
+mức_độ vi_phạm	120
+khen_thưởng xử_lý vi_phạm	106
+trách_nhiệm hình_sự	102
+xử_phạt hành_chính truy_cứu trách_nhiệm hình_sự	98
+tố_cáo xử_lý vi_phạm pháp_luật	96
+quyết_định xử_lý	95
+tố_cáo hành_vi vi_phạm pháp_luật	95
+hành_vi nghiêm_cấm	86
+mức_độ vi_phạm xử_lý kỷ_luật truy_cứu trách_nhiệm hình_sự	86
+hành_vi vi_phạm_quy_định	81
+quản_chế hành_chính	76
+thẩm_quyền xử_lý vi_phạm hành_chính	75
+vi_phạm quy_định	72
+dấu_hiệu vi_phạm pháp_luật	72
+nghiêm_cấm hành_vi	69
+trách_nhiệm pháp_luật quyết_định	69
+phương_tiện sử_dụng vi_phạm hành_chính	69
+truy_cứu trách_nhiệm hình_sự quy_định pháp_luật	68
+xử_lý hành_vi	67
+hình_thức xử_phạt	67
+phát_hiện vi_phạm pháp_luật	65
+xử_lý hành_vi vi_phạm pháp_luật	65
+xử_phạt hành_chính truy_cứu trách_nhiệm hình_sự quy_định pháp_luật	63
+quyết_định hành_chính	63
+xử_lý nghiêm_minh	62
+hành_vi vi_phạm hành_chính	61
+đối_với hành_vi vi_phạm pháp_luật	60
+xử_phạt vi_phạm hành_chính truy_cứu trách_nhiệm hình_sự	59
+thẩm_quyền xử_phạt vi_phạm hành_chính	58
+vi_phạm nghiêm_trọng	58
+quy_định pháp_luật	58
+vi_phạm pháp_luật nghiêm_trọng	50
+quy_định pháp_luật xử_lý vi_phạm hành_chính	49
+quyết_định xử_phạt vi_phạm hành_chính	49
+việc_làm vi_phạm pháp_luật	48
+xử_phạt vi_phạm hành_chính hành_vi kết_án tội	48
+xử_lý quy_định pháp_luật	46
+phát_hiện dấu_hiệu vi_phạm pháp_luật	43
+đối_với tang_vật	43
+hành_vi vi_phạm_quy_định luật	42
+vi_phạm nghiêm_trọng thủ_tục tố_tụng	42
+đối_với hành_vi	41
+xử_lý hành_chính	41
+xử_lý kỷ_luật hành_vi vi_phạm	39
+thẩm_quyền xử_lý	38
+tuỳ mức_độ vi_phạm	38
+mức_độ vi_phạm xử_lý kỷ_luật truy_cứu trách_nhiệm hình_sự quy_định pháp_luật	38
+tố_cáo hành_vi	38
+khám cất_giấu tang_vật	37
+cá_nhân hành_vi vi_phạm	36
+ngăn_chặn hành_vi	35
+chấm_dứt hành_vi vi_phạm	35
+xử_lý kỷ_luật truy_cứu trách_nhiệm hình_sự	34
+mức_độ vi_phạm xử_lý	34
+cá_nhân hành_vi vi_phạm pháp_luật	33
+xử_lý kịp_thời	32
+thời_hiệu truy_cứu trách_nhiệm hình_sự	32
+tố_cáo xử_lý vi_phạm	31
+phát_hiện hành_vi vi_phạm pháp_luật	31
+xử_lý vi_phạm pháp_luật hợp_đồng kinh_tế	31
+xử_lý hành_vi vi_phạm	31
+trách_nhiệm pháp_luật hành_vi quyết_định	30
+xử_phạt hành_chính hành_vi kết_án tội	30
+tội_phạm vi_phạm pháp_luật	29
+vi_phạm quy_định pháp_luật	29
+vi_phạm pháp_luật thuế	28
+thực_hiện_hành_vi vi_phạm pháp_luật	27
+phương_tiện vi_phạm hành_chính giá_trị tiền phạt quy_định b khoản	27
+hành_vi trái pháp_luật	27
+đối_với hành_vi vi_phạm hành_chính	26
+pháp_luật xử_lý vi_phạm hành_chính	26
+tình_tiết_giảm nhẹ trách_nhiệm hình_sự	25
+mức_độ vi_phạm xử_phạt hành_chính truy_cứu trách_nhiệm hình_sự	24
+xử_lý thẩm_quyền	24
+vi_phạm trật_tự	23
+phương_tiện vi_phạm hành_chính tịch_thu	23
+vi_phạm kỷ_luật	23
+năng_lực trách_nhiệm hình_sự	23
+trái pháp_luật	22
+mức_độ vi_phạm xử_phạt vi_phạm hành_chính	22
+phương_tiện vi_phạm	22
+mức_độ vi_phạm hậu_quả xảy	22
+xử_lý vi_phạm pháp_luật phòng	22
+kịp_thời chấm_dứt hành_vi vi_phạm pháp_luật	22
+đối_với hành_vi vi_phạm	21
+xử_lý quy_định	21
+thi_hành quyết_định xử_phạt vi_phạm hành_chính	21
+bảo_đảm xử_lý vi_phạm hành_chính	20
+hành_vi hành_chính khởi_kiện	20
+xử_phạt vi_phạm hành_chính hành_vi	20
+chấm_dứt hành_vi	20
+mức_độ vi_phạm có_thể	20
+xử_phạt vi_phạm hành_chính hành_vi vi_phạm	20
+hành_vi vi_phạm pháp_luật phòng	18
+xử_phạt vi_phạm hành_chính xử_lý kỷ_luật	18
+chấm_dứt hành_vi vi_phạm pháp_luật	18
+tố_cáo hành_vi vi_phạm pháp_luật thực_hiện nhiệm_vụ	18
+hành_vi trốn_thuế	18
+thủ_tục hành_chính	17
+quyết_định kỷ_luật	17
+mức_độ vi_phạm xử_lý hành_chính truy_cứu trách_nhiệm hình_sự	17
+quyết_định hành_chính hành_vi hành_chính	17
+khám thủ_tục hành_chính	17
+tuỳ mức_độ nhẹ xử_lý kỷ_luật	17
+thẩm_quyền xử_lý quy_định pháp_luật	17
+phương_tiện sử_dụng vi_phạm hành_chính giá_trị	17
+hành_chính truy_cứu trách_nhiệm hình_sự quy_định pháp_luật	16
+ngăn_chặn hành_vi vi_phạm pháp_luật	16
+trách_nhiệm pháp_luật chính_xác	16
+trách_nhiệm pháp_luật hành_vi	16
+thực_hiện_hành_vi vi_phạm hành_chính	16
+hành_vi trốn_tránh	16
+xử_phạt hành_chính hành_vi vi_phạm	16
+hành_vi vi_phạm hành_chính lĩnh_vực	16
+hành_vi hành_chính trái pháp_luật	16
+mức_độ vi_phạm xử_phạt hành_chính	16
+hành_vi pháp_lý_do	16
+thẩm_quyền quy_định	15
+phạt vi_phạm	15
+truy_cứu trách_nhiệm hình_sự quy_định	15
+xử_lý nghiêm_minh vi_phạm	15
+luật xử_lý vi_phạm hành_chính	15
+hành_vi vi_phạm pháp_luật đất_đai	15
+thẩm_quyền quyết_định	14
+dấu_hiệu tội_phạm	14
+ghi quyết_định xử_phạt	14
+tuỳ mức_độ vi_phạm xử_lý kỷ_luật	14
+quyết_định quản_chế hành_chính	13
+xử_lý kỷ_luật truy_cứu trách_nhiệm hình_sự quy_định pháp_luật	13
+hình_thức xử_phạt bổ_sung	13
+xử_phạt hành_chính hành_vi	12
+phát_hiện vi_phạm	12
+vi_phạm_quy_định pháp_luật	12
+cất_giấu tang_vật	12
+hành_vi cản_trở	12
+vi_phạm xử_lý	12
+phát_hiện_hành_vi vi_phạm	12
+xử_lý hành_chính truy_cứu trách_nhiệm hình_sự	12
+luật hình_sự	11
+cá_nhân thẩm_quyền xử_lý	11
+tang_vật vi_phạm hành_chính	11
+tình_tiết_giảm nhẹ	11
+vi_phạm nội_quy	11
+vi_phạm hành_chính lĩnh_vực	11
+vi_phạm hành_chính tự_nguyện	11
+quyết_định xử_lý hành_vi vi_phạm	11
+phát_hiện hành_vi	11
+xử_phạt vi_phạm hành_chính lĩnh_vực	11
+vi_phạm pháp_luật phòng	10
+thời_hiệu xử_phạt	10
+bao_che vi_phạm	10
+vi_phạm xử_lý kỷ_luật	10
+trách_nhiệm chính_xác	10
+hậu_quả nghiêm_trọng xử_phạt hành_chính	10
+nhẹ xử_lý kỷ_luật	10
+biên_bản vi_phạm hành_chính	10
+trách_nhiệm hình_sự tội	10
+đối_với quyết_định hành_chính	9
+thi_hành quyết_định xử_phạt	9
+vi_phạm nghiêm_trọng quy_định	9
+xử_lý hành_vi xâm_phạm	9
+chống tội_phạm vi_phạm pháp_luật	9
+vi_phạm pháp_luật đất_đai	8
+xử_phạt vi_phạm	8
+khám cất_giấu	8
+thẩm_quyền xử_lý vi_phạm	8
+thành_niên vi_phạm	8
+tố_cáo hành_vi vi_phạm	8
+thực_hiện hành_vi	7
+hình_sự quy_định pháp_luật	7
+hậu_quả nghiêm_trọng xử_phạt hành_chính hành_vi	7
+tố_cáo xử_lý	7
+hậu_quả nghiêm_trọng	7
+vi_phạm xử_phạt	7
+nghiêm_cấm hành_vi cản_trở	7
+ngăn_chặn xử_lý	7
+nhẹ trách_nhiệm hình_sự	7
+hành_vi xâm_phạm	7
+hành_vi vi_phạm pháp_luật bình_đẳng giới	7
+xử_phạt đối_với hành_vi	6
+cá_nhân hành_vi	6
+vi_phạm hành_chính hành_vi	6
+tuỳ mức_độ	6
+ngăn_chặn bảo_đảm xử_lý vi_phạm hành_chính	6
+kịp_thời chấm_dứt hành_vi vi_phạm	6
+xử_lý vụ_việc	6
+thẩm_quyền xử_lý hành_vi	6
+phát_hiện dấu_hiệu	5
+xử_lý hành_vi cản_trở	5
+xảy hành_vi	5
+dấu_hiệu vi_phạm	5
+quyết_định xử_lý thuế	5
+xử_lý hành_chính truy_cứu trách_nhiệm hình_sự quy_định pháp_luật	5
+ngăn_chặn hành_vi vi_phạm	4
+đối_với vụ_việc	4
+kỷ_luật hình_thức	4
+vi_phạm hành_chính quy_định pháp_luật	4
+phát_hiện dấu_hiệu vi_phạm	4
+thực_hiện_hành_vi vi_phạm	4
+giải_quyết tố_cáo hành_vi vi_phạm pháp_luật	4
+kịp_thời xử_lý	4
+trách_nhiệm vi_phạm hợp_đồng	4
+vi_phạm pháp_luật tuỳ tính_chất	4
+tội vi_phạm quy_định	4
+trách_nhiệm hình_sự quy_định	4
+bồi_thường xử_phạt vi_phạm hành_chính	4
+kỷ_luật đối_với	4
+pháp_luật phòng	4
+vi_phạm pháp_luật hải_quan	4
+pháp_luật hợp_đồng kinh_tế	4
+hình_thức kỷ_luật	4
+tang_vật vi_phạm	4
+truy_cứu trách_nhiệm	4
+đối_với lĩnh_vực	3
+kỷ_luật truy_cứu trách_nhiệm hình_sự	3
+áp_dụng đối_với hành_vi vi_phạm	3
+vi_phạm_quy_định luật	3
+vi_phạm pháp_luật đê_điều	3
+biên_bản vi_phạm	3
+pháp_luật quy_định	3
+xử_phạt hành_chính truy_cứu	3
+vi_phạm hợp_đồng	3
+trách_nhiệm hình_sự quy_định pháp_luật	3
+phát_hiện dấu_hiệu tội_phạm	3
+đối_với phương_tiện	3
+tội_phạm nghiêm_trọng	3
+xử_lý đối_với hành_vi	3
+vi_phạm hành_chính lĩnh_vực quản_lý	3
+tuỳ mức_độ nhẹ xử_lý	3
+sử_dụng phương_tiện	3
+tố_cáo đối_với hành_vi vi_phạm pháp_luật	3
+vi_phạm pháp_luật đo_lường	3
+giải_quyết tố_cáo hành_vi vi_phạm pháp_luật thực_hiện nhiệm_vụ	3
+xử_phạt vi_phạm pháp_luật	3
+đối_với tội_phạm	2
+bồi_thường xử_phạt vi_phạm hành_chính xử_lý kỷ_luật	2
+việc_làm trái pháp_luật	2
+năng_lực hành_vi	2
+bảo_đảm trật_tự	2
+phát_hiện xử_lý	2
+phương_tiện cần_thiết	2
+quy_định luật hình_sự	2
+thẩm_quyền xử_lý vi_phạm pháp_luật	2
+tội vi_phạm	2
+vi_phạm xử_lý kỷ_luật truy_cứu trách_nhiệm hình_sự	2
+mức_độ vi_phạm xử_lý kỷ_luật truy_cứu trách_nhiệm hình_sự quy_định	2
+biện_pháp cần_thiết kịp_thời chấm_dứt hành_vi vi_phạm pháp_luật	2
+hành_vi trái	2
+quyền tố_cáo hành_vi vi_phạm pháp_luật	2
+tố_cáo hành_vi vi_phạm pháp_luật thực_hiện	2
+kịp_thời chấm_dứt	2
+nhẹ trách_nhiệm	2
+vi_phạm xử_phạt hành_chính	2
+vi_phạm hành_chính truy_cứu trách_nhiệm hình_sự	2
+phát_hiện hành_vi vi_phạm	2
+vi_phạm hành_chính tịch_thu	2
+tuỳ mức_độ vi_phạm xử_lý	2
+hợp_đồng kinh_tế	2
+vi_phạm hành_chính giá_trị	2
+kịp_thời ngăn_chặn	2
+trách_nhiệm thực_hiện	2
+việc_làm vi_phạm	2
+biện_pháp ngăn_chặn bảo_đảm xử_lý vi_phạm hành_chính	2
+tự_nguyện thi_hành	2
+phương_tiện vi_phạm hành_chính giá_trị	2
+giá_trị sử_dụng	2
+thẩm_quyền giải_quyết tố_cáo hành_vi vi_phạm pháp_luật	2
+hình_sự tội	2
+mức_độ vi_phạm xử_lý hành_chính	1
+nghiêm_trọng có_thể	1
+xử_lý hành_chính truy_cứu	1
+hành_chính quy_định pháp_luật xử_lý vi_phạm hành_chính	1
+tiền phạt quy_định b	1
+mức_độ nhẹ xử_lý kỷ_luật	1
+quy_định khoản	1
+cá_nhân thẩm_quyền	1
+tiền phạt	1
+tội vi_phạm_quy_định	1
+lãng_phí bồi_thường xử_phạt vi_phạm hành_chính	1
+phát_hiện tội_phạm	1
+tình_tiết_giảm nhẹ trách_nhiệm	1
+phương_tiện sử_dụng vi_phạm	1
+hành_chính khởi_kiện	1
+vi_phạm pháp_luật hợp_đồng kinh_tế	1
+thủ_tục giải_quyết	1
+khen_thưởng quy_định	1
+xử_phạt hành_chính truy_cứu trách_nhiệm hình_sự quy_định	1
+pháp_luật đê_điều	1
+hành_chính truy_cứu trách_nhiệm hình_sự	1
+thời_hiệu thi_hành	1
+thời_hiệu truy_cứu	1
+quản_lý sử_dụng	1
+hành_vi vi_phạm pháp_luật bảo_vệ	1
+kỷ_luật hành_vi	1
+xử_phạt hành_chính truy_cứu trách_nhiệm	1
+sử_dụng vi_phạm hành_chính	1
+vi_phạm_quy_định quản_lý	1
+xử_phạt vi_phạm hành_chính hành_vi kết_án	1
+thuế quy_định pháp_luật	1
+cần_thiết kịp_thời chấm_dứt hành_vi vi_phạm pháp_luật	1
+biện_pháp ngăn_chặn	1
+ghi hợp_đồng	1
+khen_thưởng quy_định pháp_luật	1
+áp_dụng đối_với hành_vi	1
+xử_lý kỷ_luật truy_cứu trách_nhiệm	1
+cá_nhân hành_vi vi_phạm quy_định	1
+chấm_dứt việc_làm	1
+quyền tố_cáo hành_vi vi_phạm	1
+cản_trở thi_hành	1
+phát_hiện kịp_thời	1
+thi_hành quyết_định hành_chính	1
+thủ_tục pháp_luật quy_định	1
+kết_án tội	1
+vi_phạm hậu_quả	1
+thời_hiệu thi_hành quyết_định	1
+bồi_thường quy_định pháp_luật	1
+hình_thức hợp_đồng	1
+kịp_thời hành_vi	1
+hành_chính hành_vi vi_phạm	1
+bao_che hành_vi	1
+hành_chính giá_trị	1
+có_thể tịch_thu	1
+quy_định luật	1
+phạt vi_phạm hợp_đồng	1
+mức_độ vi_phạm xử_phạt	1
+nghiêm_trọng thủ_tục tố_tụng	1
+hậu_quả xảy	1
+chấm_dứt thực_hiện	1
+thời_hiệu khởi_kiện	1
+trái quy_định pháp_luật	1
+mức_độ vi_phạm hậu_quả	1

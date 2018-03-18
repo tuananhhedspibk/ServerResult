@@ -1,0 +1,69 @@
+công_ty quản_lý quỹ	140
+uỷ_ban chứng_khoán nhà_nước	92
+sở giao_dịch chứng_khoán	92
+công_ty đại_chúng	90
+tổ_chức phát_hành	84
+trung_tâm giao_dịch chứng_khoán	82
+quỹ đầu_tư chứng_khoán	81
+trung_tâm lưu ký chứng_khoán	63
+quỹ đại_chúng	60
+đầu_tư chứng_khoán	51
+giao_dịch chứng_khoán	50
+chứng_chỉ quỹ	48
+chứng_khoán thị_trường chứng_khoán	45
+lưu ký	41
+chào_bán chứng_khoán ra_công_chúng	37
+công_ty đầu_tư chứng_khoán	36
+chào mua	34
+thị_trường chứng_khoán	28
+lưu ký chứng_khoán	23
+thành_viên lưu ký	23
+chứng_khoán nhà_nước	23
+bảo_lãnh phát_hành	23
+chào mua công_khai	21
+hồ_sơ đăng_ký chào_bán chứng_khoán ra_công_chúng	20
+hành_nghề chứng_khoán	20
+chào_bán chứng_khoán	19
+đợt chào_bán	19
+kinh_doanh chứng_khoán	18
+chứng_chỉ hành_nghề chứng_khoán	16
+quỹ đóng	16
+cơ_cấu tổ_chức quản_lý công_ty	15
+quỹ đầu_tư	14
+điều_lệ quỹ đầu_tư chứng_khoán	14
+mua cổ_phiếu	13
+phát_hành trái_phiếu	10
+quản_lý quỹ	10
+phát_hành chứng_khoán	10
+đăng_ký chào_bán	7
+hoạt_động lưu ký chứng_khoán	6
+quỹ hỗ_trợ	6
+hoạt_động chứng_khoán thị_trường chứng_khoán	6
+chứng_khoán ra_công_chúng	6
+thành_lập quỹ	5
+đăng_ký mua	5
+điều_lệ quỹ	4
+giao_dịch thị_trường	4
+đăng_ký chào_bán chứng_khoán ra_công_chúng	4
+hồ_sơ đăng_ký chào_bán	4
+giao_dịch chứng_khoán trung_tâm giao_dịch chứng_khoán	3
+công_ty quản_lý	3
+cơ_cấu tổ_chức quản_lý	3
+điều_lệ công_ty	3
+đầu_tư quỹ	3
+trung_tâm giao_dịch	3
+chứng_khoán thị_trường	2
+hoạt_động lưu ký	2
+chứng_chỉ hành_nghề	2
+đăng_ký đầu_tư	2
+hoạt_động đầu_tư	2
+điều_lệ tổ_chức	2
+thành_lập trung_tâm	1
+trái_phiếu công_ty	1
+cơ_cấu tổ_chức	1
+đầu_tư thành_lập	1
+đăng_ký chào_bán chứng_khoán	1
+sở giao_dịch	1
+vi_phạm_quy_định quản_lý	1
+quản_lý thị_trường	1
+tổ_chức hoạt_động	1

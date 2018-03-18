@@ -1,0 +1,29 @@
+bộ_đội biên_phòng	212
+kho ngoại quan	73
+trưởng_phòng cảnh_sát	59
+đồn biên_phòng	51
+liên tỉnh	28
+hải_đoàn trưởng	27
+lưu kho	21
+phó chỉ_huy_trưởng	20
+phó trưởng_phòng	19
+bộ_đội biên_phòng tỉnh	18
+thủ_trưởng đơn_vị	17
+hạt trưởng hạt kiểm_lâm	17
+đơn_vị bộ_đội biên_phòng	17
+chỉ_huy_trưởng bộ_đội biên_phòng tỉnh	17
+trung_đoàn trưởng	16
+cục_trưởng cục trinh_sát biên_phòng	10
+trinh_sát biên_phòng	8
+trưởng đồn	8
+hạt trưởng hạt	6
+phó thủ_trưởng	4
+hạt trưởng	4
+trưởng hạt kiểm_lâm	4
+phó trưởng	3
+trưởng tàu	3
+trưởng hạt	2
+hạt kiểm_lâm	1
+cục trinh_sát biên_phòng	1
+chỉ_huy_trưởng bộ_đội biên_phòng	1
+đơn_vị bộ_đội	1

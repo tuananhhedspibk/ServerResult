@@ -1,0 +1,84 @@
+công_an nhân_dân	461
+đơn_vị vũ_trang nhân_dân	252
+quân_đội nhân_dân	251
+lực_lượng vũ_trang nhân_dân	213
+bộ_trưởng công_an	154
+công_an xã	142
+lực_lượng cảnh_sát nhân_dân	110
+cảnh_sát cơ_động	91
+lực_lượng cảnh_sát biển việt nam	87
+công_an tỉnh	82
+lực_lượng vũ_trang	76
+chiến_sĩ cảnh_sát nhân_dân	76
+lực_lượng cảnh_sát biển	76
+đơn_vị vũ_trang nhân_dân công_dân	70
+chiến_sĩ công_an nhân_dân	65
+đơn_vị quân_đội	55
+đơn_vị vũ_trang	50
+công_an huyện	47
+quân_đội nhân_dân việt nam	45
+an_ninh nhân_dân	45
+đơn_vị quân_đội nhân_dân	42
+trưởng công_an huyện	40
+cảnh_sát biển	38
+giám_đốc công_an tỉnh	38
+đơn_vị lực_lượng vũ_trang nhân_dân	37
+trưởng công_an xã	37
+đơn_vị công_an nhân_dân	36
+lực_lượng an_ninh nhân_dân	35
+bộ_trưởng công_an quy_định	35
+cảnh_sát nhân_dân	35
+sĩ_quan quân_đội nhân_dân việt nam	33
+sĩ_quan công_an nhân_dân	31
+anh_hùng lực_lượng vũ_trang nhân_dân	30
+chỉ_huy đơn_vị	30
+đơn_vị vũ_trang nhân_dân cá_nhân	27
+thủ_trưởng đơn_vị	25
+trưởng công_an	25
+phục_vụ công_an nhân_dân	24
+lực_lượng cảnh_sát nhân_dân việt nam	21
+đơn_vị lực_lượng vũ_trang	20
+phó_trưởng công_an xã	20
+cảnh_sát biển quyền :	19
+đơn_vị quân_đội giao giám_sát	19
+lực_lượng cảnh_sát	18
+chiến_sĩ an_ninh nhân_dân	18
+sĩ_quan quân_đội nhân_dân	17
+chứng_minh nhân_dân	17
+đơn_vị trực_tiếp_quản_lý	16
+luật sĩ_quan quân_đội nhân_dân việt nam	16
+cảnh_sát biển việt nam	13
+lực_lượng công_an	12
+lực_lượng thường_trực quân_đội	12
+xây_dựng lực_lượng vũ_trang	11
+chiến_sĩ cảnh_sát biển	11
+giám_đốc công_an	11
+chiến_sĩ cảnh_sát	11
+tầng_lớp nhân_dân	10
+xây_dựng lực_lượng	9
+lực_lượng công_an nhân_dân	9
+lực_lượng an_ninh	9
+vận_động nhân_dân	8
+lực_lượng nòng_cốt	8
+nhân_dân tỉnh	7
+đơn_vị công_an	6
+việt nam	6
+lực_lượng cảnh_vệ	6
+thường_trực quân_đội	6
+lực_lượng thường_trực	6
+phục_vụ lực_lượng	5
+chỉ_huy trực_tiếp	5
+lực_lượng chuyên_trách	5
+phục_vụ quân_đội	4
+vũ_trang nhân_dân	3
+sĩ_quan quân_đội	3
+chiến_sĩ công_an	3
+đơn_vị quân_đội giao	2
+công_dân việt nam	1
+phó_trưởng công_an	1
+xây_dựng lực_lượng công_an	1
+quyền :	1
+cảnh_sát nhân_dân việt nam	1
+anh_hùng lực_lượng	1
+nhân_dân huyện	1
+chỉ_huy lực_lượng	1

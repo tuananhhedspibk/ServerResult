@@ -1,0 +1,27 @@
+cục_trưởng cục	103
+bộ_máy giúp_việc	92
+cục_trưởng cục cảnh_sát	52
+phó cục_trưởng cục	41
+cảnh_sát biển	36
+đội_trưởng đội	31
+cục_trưởng cục quản_lý	28
+tổ_chức bộ_máy	26
+vắng_mặt phó	21
+đặc_nhiệm phòng	21
+cục cảnh_sát	18
+phó cục_trưởng	17
+tổ_chức sơ_kết	17
+đội_trưởng đội kiểm_soát	15
+cục_trưởng cục kiểm_lâm	13
+chạy trốn	12
+giám_thị trại_giam	9
+phòng cảnh_sát	8
+cảnh_sát phòng	7
+cục kiểm_lâm	3
+cục quản_lý	3
+kiểm_soát biển	2
+cục cảnh_sát giao_thông	2
+cảnh_sát giao_thông	2
+cục cảnh_sát phòng	2
+bộ_máy quản_lý	1
+tổ_chức bộ_máy quản_lý	1

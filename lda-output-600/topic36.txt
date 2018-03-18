@@ -1,0 +1,83 @@
+cơ_sở dữ_liệu	95
+thông_tin thống_kê	92
+hồ chứa_nước	81
+điều_tra thống_kê	77
+hệ_thống thông_tin	68
+hồ chứa	55
+hoạt_động thống_kê	45
+thống_kê nhà_nước	42
+cơ_sở hạ_tầng thông_tin	42
+xâm_nhập mặn	42
+cơ_quan thống_kê trung_ương	41
+chỉ_tiêu thống_kê	37
+số_liệu thống_kê	37
+liên quốc_gia	32
+phân_loại thống_kê	31
+hệ_thống chỉ_tiêu thống_kê	31
+cơ_sở dữ_liệu quốc_gia	30
+hệ_thống chỉ_tiêu thống_kê quốc_gia	29
+cơ_sở dữ_liệu thống_kê	26
+thống_kê quốc_gia	26
+sử_dụng thông_tin thống_kê	26
+hệ_thống thông_tin thống_kê	23
+phương_án điều_tra thống_kê	23
+hoạt_động thống_kê nhà_nước	22
+công_tác thống_kê	21
+hệ_thống thông_tin quan_trọng quốc_gia	20
+kho chứa nổi	19
+liên hồ chứa	19
+thông_tin cơ_sở dữ_liệu	18
+công_bố thông_tin thống_kê	18
+thông_tin thống_kê nhà_nước	18
+quản_lý cơ_sở dữ_liệu	17
+hệ_thống thông_tin đất_đai	17
+chương_trình điều_tra thống_kê quốc_gia	17
+hệ_thống thông_tin quốc_gia	17
+vận_hành hồ chứa	17
+vận_hành hệ_thống	16
+cơ_sở dữ_liệu đất_đai	15
+hệ_thống tổ_chức thống_kê	15
+hệ_thống tổ_chức	14
+cơ_quan thống_kê	14
+xây_dựng cơ_sở dữ_liệu	12
+thu_thập thông_tin	11
+chỉ_tiêu thống_kê quốc_gia	10
+công_bố thông_tin	10
+điều_tra thống_kê quốc_gia	10
+hệ_thống cơ_sở dữ_liệu	10
+hệ_thống quản_lý	9
+kho chứa	8
+sử_dụng thông_tin	7
+hoạt_động điều_tra	6
+công_bố kết_quả	6
+hệ_thống chỉ_tiêu	6
+dữ_liệu đất_đai	5
+thống_kê trung_ương	5
+thống_kê tập_trung	4
+kết_quả điều_tra	4
+hạ_tầng thông_tin	4
+cơ_sở hạ_tầng	4
+tổ_chức thống_kê tập_trung	4
+xây_dựng hệ_thống	3
+dữ_liệu thống_kê	3
+quan_trọng quốc_gia	3
+quản_lý hệ_thống	3
+hệ_thống cơ_sở	3
+công_tác điều_tra	2
+quản_lý vận_hành	2
+quản_lý ngành	2
+vận_hành liên hồ chứa	2
+cơ_quan nhà_nước	2
+nhà_nước trung_ương cơ_sở	2
+quản_lý nhà_nước ngành	2
+thống_kê tổng_hợp	1
+quản_lý nhà_nước	1
+quản_lý tổng_hợp	1
+kết_quả hoạt_động	1
+công_tác thông_tin	1
+thống_kê hệ_thống	1
+xây_dựng chương_trình	1
+phương_án sử_dụng	1
+phương_án điều_tra	1
+chương_trình điều_tra thống_kê	1
+xây_dựng phương_án	1

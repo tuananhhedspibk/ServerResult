@@ -1,0 +1,165 @@
+tạm giam	872
+tạm đình_chỉ	278
+quyết_định tạm đình_chỉ	199
+chấp_hành án	191
+trại tạm giam	155
+quyết_định tạm	144
+chấp_hành án phạt tù	124
+thi_hành tạm	123
+trích xuất	100
+chấp_hành quyết_định	88
+thời_hạn tạm giam	86
+giám_thị trại_giam	81
+giám_thị trại tạm giam	71
+quyết_định đình_chỉ	65
+thời_hạn tạm	61
+bị_cáo tạm giam	59
+miễn chấp_hành	56
+gia_hạn tạm giam	52
+thi_hành quyết_định	45
+thi_hành án phạt tù	45
+tạm đình_chỉ điều_tra	41
+quyết_định đình_chỉ điều_tra	40
+tạm đình_chỉ chấp_hành_hình_phạt tù	38
+tạm bảo_quản vật_chứng	38
+tạm tang_vật	37
+gia_hạn tạm	36
+thi_hành án phạt	34
+lệnh tạm giam	33
+giấy chứng_nhận chấp_hành xong	32
+chấp_hành xong	31
+tạm giam bị_cáo	30
+buồng tạm	30
+án phạt tù	29
+thời_hạn chấp_hành án	27
+thời_hạn chấp_hành	27
+tạm hoãn	25
+quản_lý giáo_dục chấp_hành án phạt tù	25
+tạm đình_chỉ thi_hành quyết_định	24
+đối_với phạm_nhân	23
+chấp_hành án phạt trục_xuất	23
+phạt tù hưởng án_treo	23
+có_thể gia_hạn tạm giam	22
+tạm đồ_vật	22
+chấp_hành án cư_trú	22
+quyền quyết_định tạm	22
+thi_hành lệnh	22
+hiệu_trưởng trường_giáo_dưỡng	21
+thời_hạn tạm đình_chỉ	21
+chấp_hành xong án phạt tù	20
+chứng_nhận bệnh_viện	20
+thời_gian tạm	20
+ra_lệnh tạm giam	19
+tạm đình_chỉ miễn chấp_hành thời_gian	19
+chấp_hành_hình_phạt tù	19
+thời_hạn chấp_hành án phạt tù	19
+thi_hành án	18
+quyết_định hoãn	18
+tạm đình_chỉ công_tác	18
+giáo_dục chấp_hành án	17
+quyết_định trường_giáo_dưỡng	17
+miễn chấp_hành thời_gian	17
+chấp_hành quyết_định trường_giáo_dưỡng	17
+chấp_hành nghiêm_chỉnh	16
+chấp_hành án phạt quản_chế	16
+thời_hạn quản_chế	16
+tiếp_tục tạm giam	15
+lý_do tạm đình_chỉ	15
+quyết_định thi_hành án	13
+ra_lệnh tạm	13
+bắt giam	13
+phạm_nhân chấp_hành án	13
+miễn chấp_hành quyết_định	13
+trại tạm giam công_an	12
+phạt tù	12
+bắt tạm giam	11
+quyết_định gia_hạn	11
+thời_hạn 24	11
+thời_hạn chấp_hành_hình_phạt	10
+đình_chỉ thi_hành	10
+miễn chấp_hành_hình_phạt	10
+chấp_hành quyết_định xử_phạt	10
+quyết_định thi_hành	9
+tạm đình_chỉ chấp_hành	9
+chấp_hành xong quyết_định	9
+tạm đình_chỉ chấp_hành_hình_phạt	9
+phạt trục_xuất	9
+chấp_hành án phạt	9
+có_thể gia_hạn tạm	8
+xử_phạt tù	8
+đình_chỉ điều_tra	8
+thi_hành quyết_định xử_phạt	8
+hoãn_chấp_hành án	8
+miễn chấp_hành án	8
+tạm hoãn xuất_cảnh	8
+thời_hạn 24 quyết_định	8
+chấp_hành nội_quy	8
+giám_sát thi_hành	7
+bị_cáo tạm	7
+tù hưởng án_treo	7
+quyết_định miễn	7
+lý_do tạm	7
+tạm đình_chỉ thi_hành	6
+có_thể gia_hạn	6
+giấy chứng_nhận chấp_hành xong án phạt	6
+chấp_hành lệnh	5
+quyết_định đình_chỉ thi_hành	5
+quyết_định xử_phạt	5
+lệnh tạm	5
+hoãn tạm đình_chỉ	5
+hoãn thi_hành	5
+tù thời_hạn	5
+tạm giam công_an	4
+thời_gian chấp_hành_hình_phạt	4
+hoãn miễn chấp_hành	4
+có_thể quyết_định	4
+tạm đình_chỉ miễn chấp_hành	4
+hoãn xuất_cảnh	4
+tạm đình_chỉ đình_chỉ	4
+nghiêm_chỉnh chấp_hành	3
+hoãn thi_hành án	3
+hưởng án_treo	3
+giáo_dục chấp_hành	3
+hoãn miễn	3
+phạm_nhân chấp_hành	3
+công_tác thi_hành án	3
+phạt quản_chế	3
+thời_hạn chấp_hành_hình_phạt tù	3
+quyết_định tạm hoãn	3
+tiếp_tục thi_hành	3
+thi_hành án chấp_hành	3
+giấy chứng_nhận	2
+nghiêm_chỉnh thi_hành	2
+đình_chỉ chấp_hành án	2
+đối_với thành_niên	2
+thời_hạn chấp_hành án phạt	2
+tù 15	2
+tạm đình_chỉ thi_hành án	2
+tạm xuất	2
+thời_hạn gia_hạn	2
+đình_chỉ công_tác	2
+đình_chỉ tạm đình_chỉ	2
+án phạt quản_chế	2
+ra_lệnh bắt	2
+thời_hạn hoãn	2
+xong án phạt	1
+quyết_định quản_chế	1
+thời_hạn điều_tra	1
+quản_lý giáo_dục chấp_hành án	1
+chấp_hành xong án phạt	1
+gia_hạn thời_hạn	1
+quyết_định tạm đình_chỉ đình_chỉ	1
+công_tác thi_hành	1
+trại tạm	1
+giấy chứng_nhận chấp_hành xong án	1
+giam bị_cáo	1
+nghiêm_chỉnh quyết_định	1
+thi_hành nghiêm_chỉnh	1
+bắt tạm	1
+đối_với tang_vật	1
+giám_thị trại	1
+tạm đình_chỉ miễn	1
+giáo_dục chấp_hành án phạt tù	1
+quyết_định hoãn thi_hành án	1
+quản_lý giáo_dục	1
+biện_pháp tạm giam	1

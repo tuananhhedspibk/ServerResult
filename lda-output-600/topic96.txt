@@ -1,0 +1,7 @@
+quanđiều tra	21
+tòa_án quân	11
+đóng quân	10
+đơn_vị_kỷ_luật quân_đội	9
+đơn_vị quân_đội	2
+xét_xử bị_cáo	1
+trung_đoàn trưởng	1

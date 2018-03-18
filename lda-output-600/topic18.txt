@@ -1,0 +1,156 @@
+uỷ_ban thường_vụ quốc_hội	774
+ủy_ban thường_vụ quốc_hội	630
+ủy_ban quốc_hội	259
+trình quốc_hội	206
+nghị_quyết quốc_hội	201
+ủy ban thường_vụ quốc_hội	178
+quốc_hội quyết_định	171
+uỷ_ban quốc_hội	163
+đại_biểu quốc_hội	159
+chủ_tịch quốc_hội	135
+nghị_quyết ủy_ban thường_vụ quốc_hội	112
+nghị_quyết uỷ_ban thường_vụ quốc_hội	108
+quốc_hội xem_xét	91
+trình quốc_hội quyết_định	71
+văn_phòng quốc_hội	61
+trình ủy_ban thường_vụ quốc_hội	60
+uỷ_ban thường_vụ quốc_hội quyết_định	50
+ủy_ban thường_vụ quốc_hội xem_xét	47
+ủy_ban thường_vụ quốc_hội quyết_định	47
+đề_nghị ủy_ban thường_vụ quốc_hội	47
+báo_cáo quốc_hội	42
+trình chủ_tịch	42
+ban thường_vụ	41
+hội_đồng dân_tộc uỷ_ban quốc_hội	41
+uỷ_ban thường_vụ quốc_hội xem_xét	40
+hội_đồng dân_tộc ủy_ban quốc_hội	38
+ủy ban thường_vụ quốc_hội xem_xét	32
+ủy_ban thường_vụ quốc_hội giao	31
+quốc_hội uỷ_ban thường_vụ quốc_hội	30
+nhiệm_kỳ quốc_hội	30
+quốc_hội phê_chuẩn	30
+trình quốc_hội xem_xét	29
+báo_cáo uỷ_ban thường_vụ quốc_hội	29
+quốc_hội bầu	29
+báo_cáo ủy_ban thường_vụ quốc_hội	28
+trình uỷ_ban thường_vụ quốc_hội	27
+ủy ban	25
+tổng_thư_ký quốc_hội	25
+lĩnh_vực phụ_trách	24
+văn_phòng chủ_tịch	24
+quốc_hội bầu_chủ_tịch	23
+đề_nghị uỷ_ban thường_vụ quốc_hội	23
+chủ_nhiệm ủy_ban quốc_hội	23
+kiến_nghị ủy_ban tư_pháp quốc_hội	22
+ủy_ban tư_pháp quốc_hội	21
+ủy ban thường_vụ quốc_hội_thảo_luận	21
+uỷ_ban thường_vụ	21
+ủy_ban lâm_thời	20
+đề_nghị chủ_tịch	20
+chính_phủ trình quốc_hội	19
+hội_đồng dân_tộc	19
+ủy ban thường_vụ quốc_hội ban_hành_pháp_lệnh	19
+trình quốc_hội phê_chuẩn	19
+lĩnh_vực ủy_ban phụ_trách	18
+thường_trực ủy_ban quốc_hội	18
+quốc_hội nhiệm_kỳ	18
+uỷ_ban thường_vụ quốc_hội ý_kiến	17
+ủy_viên ủy_ban thường_vụ quốc_hội	17
+giúp_việc quốc_hội	17
+ủy_ban phụ_trách	16
+trình uỷ_ban thường_vụ quốc_hội phê_chuẩn	15
+quốc_hội thành_lập	15
+ý_kiến đại_biểu quốc_hội	15
+quốc_hội có_thể	14
+thường_trực ủy_ban	14
+thành_viên uỷ_ban	14
+chính_phủ trình quốc_hội quyết_định	14
+chính_phủ trình uỷ_ban thường_vụ quốc_hội	13
+chủ_nhiệm uỷ_ban	13
+nghị_quyết ủy_ban thường_vụ quốc_hội lĩnh_vực	12
+ủy_ban thường_vụ quốc_hội lĩnh_vực	12
+pháp_lệnh ủy_ban thường_vụ quốc_hội	12
+đại_biểu quốc_hội trình	12
+uỷ_ban thường_vụ quốc_hội phê_chuẩn	12
+hội_đồng dân_tộc ủy_ban	12
+ủy_viên thường_trực	12
+đối_ngoại quốc_hội	11
+thành_lập ủy_ban lâm_thời	11
+chủ_tịch quốc_hội ký	11
+chính_phủ trình chủ_tịch	11
+hội_đồng dân_tộc uỷ_ban	11
+chính_phủ trình ủy_ban thường_vụ quốc_hội	10
+chủ_nhiệm ủy_ban	9
+quốc_hội quyết_định thành_lập	8
+nghị_quyết uỷ_ban	8
+trình hội_đồng	8
+văn_phòng chính_phủ	8
+quốc_hội bầu phê_chuẩn	8
+chủ_nhiệm văn_phòng	7
+ủy_ban thường_vụ quốc_hội quyết_định đề_nghị	7
+thành_viên ủy_ban	7
+quyền_hạn ủy_ban	7
+quốc_hội ủy_ban thường_vụ quốc_hội	7
+phê_chuẩn đề_nghị	7
+quốc_hội trình	6
+chủ_tịch trình quốc_hội	6
+ủy_ban tư_pháp	6
+ủy_ban thường_vụ	6
+quyết_định phê_chuẩn	5
+quốc_hội quyết_định đề_nghị	5
+ủy_viên ủy_ban	4
+thường_trực uỷ_ban	4
+báo_cáo ủy_ban	4
+uỷ_ban thường_vụ quốc_hội quyết_định đề_nghị	4
+chủ_tịch ủy_ban	4
+trình uỷ_ban	4
+chính_phủ báo_cáo quốc_hội	4
+thành_viên chính_phủ	4
+nghị_quyết ủy_ban	4
+chính_phủ trình	3
+chính_phủ quyết_định	3
+xem_xét báo_cáo	3
+dân_tộc ủy_ban quốc_hội	3
+thường_vụ quốc_hội	3
+ban thường_trực ủy_ban	3
+trình báo_cáo	3
+ban thường_trực	3
+chủ_tịch uỷ_ban	3
+báo_cáo hội_đồng	2
+quốc_hội lĩnh_vực	2
+phê_chuẩn quyết_định	2
+ban thường_trực uỷ_ban	2
+ủy ban thường_vụ	2
+quốc_hội trình quốc_hội	2
+xem_xét quyết_định	2
+ban thường_vụ quốc_hội	2
+quyết_định thành_lập	2
+báo_cáo uỷ_ban	2
+báo_cáo chính_phủ	2
+chủ_tịch hội_đồng dân_tộc	2
+đại_biểu quốc_hội bầu	2
+chủ_tịch hội_đồng	2
+thành_lập ban	2
+nghị_quyết hội_đồng	2
+trình chính_phủ	2
+thành_viên ban	2
+đề_nghị ủy_ban	2
+ban chủ_nhiệm	2
+chính_phủ xem_xét	1
+ban thường_vụ quốc_hội ban_hành_pháp_lệnh	1
+bầu chủ_tịch	1
+báo_cáo chủ_tịch	1
+quốc_hội phê_chuẩn đề_nghị	1
+bầu phê_chuẩn	1
+quốc_hội chậm	1
+quốc_hội ý_kiến	1
+quyền_hạn hội_đồng	1
+đề_nghị hội_đồng	1
+chính_phủ trình ủy_ban thường_vụ	1
+dân_tộc uỷ_ban	1
+đề_nghị uỷ_ban	1
+dân_tộc ủy_ban	1
+quốc_hội chủ_tịch quốc_hội	1
+thành_lập hội_đồng	1
+quyết_định thành_lập hội_đồng	1
+quyết_định hội_đồng	1

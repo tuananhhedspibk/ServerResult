@@ -1,0 +1,152 @@
+tổ_chức xã_hội	751
+tổ_chức kinh_tế	716
+tổ_chức chính_trị - xã_hội	463
+an_toàn xã_hội	445
+tổ_chức chính_trị	357
+kinh_tế - xã_hội	314
+phát_triển kinh_tế - xã_hội	309
+kế_hoạch phát_triển kinh_tế - xã_hội	211
+tổ_chức xã_hội - nghề_nghiệp	195
+xã_hội chủ_nghĩa	138
+điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn	117
+phát_triển kinh_tế	113
+thành_phần kinh_tế	100
+trật_tự an_toàn xã_hội	69
+phát_triển kinh_tế - xã_hội đất_nước	65
+địa_bàn điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn	63
+tổ_chức chính_trị xã_hội - nghề_nghiệp	61
+địa_bàn điều_kiện kinh_tế - xã_hội khó_khăn	55
+trái đạo_đức xã_hội	53
+thành_phần xã_hội	50
+đạo_đức xã_hội	48
+điều_kiện kinh_tế - xã_hội khó_khăn	47
+tệ_nạn xã_hội	47
+hiệu_quả kinh_tế	46
+chủ_nghĩa xã_hội	45
+tổ_chức xã_hội công_dân	43
+bảo_vệ chế_độ xã_hội chủ_nghĩa	40
+đặc_biệt khó_khăn	37
+- xã_hội	36
+chiến_lược phát_triển kinh_tế - xã_hội	35
+toàn xã_hội	35
+phục_vụ phát_triển kinh_tế - xã_hội	34
+phản_biện xã_hội	34
+hiệu_quả kinh_tế - xã_hội	34
+phát_triển kinh_tế - xã_hội địa_phương	33
+quy_hoạch tổng_thể phát_triển kinh_tế - xã_hội	31
+định_hướng xã_hội chủ_nghĩa	31
+chống tệ_nạn xã_hội	30
+quan_hệ kinh_tế	30
+bảo_vệ pháp_chế xã_hội chủ_nghĩa	30
+dự_án phát_triển kinh_tế - xã_hội	30
+điều_kiện kinh_tế - xã_hội	29
+cơ_cấu kinh_tế	27
+cơ_quan trung_ương tổ_chức chính_trị - xã_hội	25
+chương_trình phát_triển kinh_tế - xã_hội	24
+phù_hợp điều_kiện kinh_tế - xã_hội	23
+đời_sống xã_hội	22
+tổ_chức xã_hội - nghề_nghiệp luật_sư	22
+đạo_đức nghề_nghiệp	22
+trợ_cấp xã_hội	21
+tổ_chức chính_trị - xã_hội trung_ương	21
+địa_vị xã_hội	21
+trật_tự_quản_lý kinh_tế	21
+an_sinh xã_hội	21
+quan_hệ xã_hội	21
+tăng_cường pháp_chế xã_hội chủ_nghĩa	21
+doanh_nghiệp thành_phần kinh_tế	20
+xây_dựng chủ_nghĩa xã_hội	20
+nguy_hại xã_hội	19
+cơ_cấu tổ_chức	19
+pháp_chế xã_hội chủ_nghĩa	18
+đáp_ứng yêu_cầu phát_triển kinh_tế - xã_hội	18
+tài_sản xã_hội chủ_nghĩa	18
+có_ích xã_hội	17
+tập_đoàn kinh_tế	17
+góp_phần phát_triển kinh_tế - xã_hội	17
+chế_độ xã_hội chủ_nghĩa	17
+tình_hình kinh_tế - xã_hội	16
+kinh_tế -	16
+quy_hoạch phát_triển kinh_tế - xã_hội	16
+kinh_tế quốc_doanh	15
+mục_tiêu phát_triển kinh_tế - xã_hội	14
+phát_triển kinh_tế - xã_hội thời_kỳ	13
+kinh_tế - xã_hội đất_nước	12
+kế_hoạch phát_triển	12
+phẩm_chất chính_trị	12
+yêu_cầu phát_triển kinh_tế - xã_hội	11
+khó_khăn đặc_biệt	11
+trật_tự xã_hội	10
+trật_tự an_toàn	9
+kinh_tế - xã_hội đặc_biệt khó_khăn	9
+nhu_cầu phát_triển kinh_tế - xã_hội	9
+kinh_tế - xã_hội địa_phương	9
+- nghề_nghiệp	9
+điều_kiện kinh_tế -	9
+xã_hội địa_phương	8
+cuộc_sống xã_hội	8
+điều_kiện kinh_tế	8
+kế_hoạch phát_triển kinh_tế	8
+định_hướng phát_triển	8
+tổ_chức chính_trị xã_hội	8
+xã_hội đất_nước	7
+chính_trị xã_hội	7
+phục_vụ phát_triển kinh_tế	7
+tổ_chức xã_hội khởi_kiện	6
+trung_ương tổ_chức chính_trị - xã_hội	6
+tổng_thể phát_triển kinh_tế - xã_hội	6
+phẩm_chất đạo_đức	6
+bảo_vệ an_toàn	5
+chính_trị - xã_hội	5
+kinh_tế - xã_hội khó_khăn	5
+chiến_lược phát_triển	4
+góp_phần phát_triển kinh_tế	4
+phù_hợp điều_kiện kinh_tế	4
+xã_hội đặc_biệt	4
+kinh_tế - xã_hội thời_kỳ	4
+trái đạo_đức	4
+bảo_vệ phát_triển	3
+cơ_quan trung_ương tổ_chức chính_trị	3
+tình_hình kinh_tế	3
+xã_hội - nghề_nghiệp	3
+địa_bàn điều_kiện	3
+quy_tắc cuộc_sống xã_hội	3
+tình_hình phát_triển kinh_tế - xã_hội	3
+chính_trị -	3
+bảo_vệ chế_độ	3
+an_toàn xã_hội địa_bàn	3
+xã_hội công_dân	3
+phát_triển kinh_tế -	2
+chế_độ xã_hội	2
+kinh_tế - xã_hội khó_khăn địa_bàn	2
+tăng_cường pháp_chế	2
+- xã_hội đặc_biệt khó_khăn	2
+quy_hoạch phát_triển kinh_tế	2
+tình_hình phát_triển	2
+- kinh_tế đặc_biệt	2
+địa_bàn điều_kiện kinh_tế -	2
+phục_vụ phát_triển	2
+dự_án phát_triển kinh_tế	2
+mục_tiêu phát_triển kinh_tế -	1
+chiến_lược phát_triển kinh_tế	1
+xã_hội khó_khăn	1
+trung_ương địa_phương	1
+chương_trình phát_triển kinh_tế -	1
+xã_hội -	1
+xã_hội đặc_biệt khó_khăn	1
+yêu_cầu phát_triển kinh_tế	1
+đáp_ứng yêu_cầu phát_triển kinh_tế	1
+điều_kiện an_toàn	1
+- xã_hội địa_phương	1
+mục_tiêu phát_triển kinh_tế	1
+hành_chính - kinh_tế đặc_biệt	1
+kinh_tế đặc_biệt	1
+quy_hoạch tổng_thể phát_triển kinh_tế	1
+đáp_ứng yêu_cầu bảo_vệ	1
+tổng_thể phát_triển	1
+kế_hoạch bảo_vệ	1
+xã_hội thời_kỳ	1
+tổ_chức xã_hội -	1
+phù_hợp quy_hoạch	1
+địa_bàn điều_kiện kinh_tế - xã_hội	1
+điều_kiện kinh_tế - xã_hội đặc_biệt	1

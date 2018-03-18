@@ -1,0 +1,28 @@
+chống thiên_tai	395
+cứu nạn	186
+chống cháy	84
+ứng_phó thiên_tai	58
+chống dịch_bệnh	36
+ứng_cứu khẩn_cấp	35
+tìm_kiếm cứu nạn	34
+thiệt_hại thiên_tai	33
+cấp_độ rủi_ro thiên_tai	31
+cảnh_báo thiên_tai	31
+cứu_trợ khẩn_cấp	29
+rủi_ro thiên_tai	22
+chống thiên_tai tìm_kiếm cứu nạn	22
+phòng_chống cháy	21
+cấp_cứu nạn	21
+tình_huống khẩn_cấp	20
+ủy_ban quốc_gia tìm_kiếm cứu nạn	19
+phương_án ứng_phó thiên_tai	15
+quốc_gia tìm_kiếm cứu nạn	10
+chủ_động phòng_ngừa	5
+quốc_gia tìm_kiếm	5
+lây_lan dịch_bệnh	4
+ủy_ban quốc_gia tìm_kiếm	2
+biện_pháp giảm_thiểu	2
+biện_pháp phòng_ngừa	1
+biện_pháp ứng_phó	1
+biện_pháp chống	1
+phương_án ứng_phó	1

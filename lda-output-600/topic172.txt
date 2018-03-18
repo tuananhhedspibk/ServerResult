@@ -1,0 +1,49 @@
+chấp_hành viên	414
+ban chấp_hành công_đoàn cơ_sở	111
+chấp_hành nghiêm_chỉnh	110
+thẩm_tra viên	100
+tổ_chức công_đoàn	79
+kiểm_tra viên	72
+công_đoàn cơ_sở	67
+nghiêm_chỉnh chấp_hành	58
+ban chấp_hành công_đoàn	50
+chấp_hành bản_án	46
+chấp_hành viên quyết_định	45
+gương_mẫu chấp_hành	34
+đại_diện công_đoàn	27
+kiểm_tra chấp_hành	27
+ban chấp_hành trung_ương	26
+chấp_hành pháp_luật	26
+yêu_cầu chấp_hành viên	24
+đoàn_viên công_đoàn	22
+nghiêm_chỉnh chấp_hành pháp_luật	21
+dân_chủ cơ_sở	21
+chấp_hành quyết_định	20
+chấp_hành mệnh_lệnh	19
+ban chấp_hành	19
+gia_nhập hoạt_động công_đoàn	18
+kiểm_tra chấp_hành pháp_luật	18
+cán_bộ công_đoàn chuyên_trách	18
+chấp_hành viên yêu_cầu	15
+bổ_nhiệm chấp_hành viên	13
+chấp_hành xong	13
+hoạt_động công_đoàn	12
+đại_diện ban chấp_hành công_đoàn	11
+cán_bộ công_đoàn	11
+chấp_hành nội_quy	10
+quy_chế dân_chủ cơ_sở	5
+cán_bộ chuyên_trách	5
+đại_diện ban	4
+chấp_hành nghiêm_chỉnh quyết_định	4
+công_đoàn chuyên_trách	3
+ý_thức chấp_hành pháp_luật	2
+đại_diện pháp_luật	2
+nghiêm_chỉnh quyết_định	2
+tổ_chức hoạt_động	2
+công_đoàn cơ_sở đại_diện	2
+kiểm_tra hoạt_động	2
+chấp_hành công_đoàn cơ_sở	2
+hoạt_động chuyên_trách	2
+đại_diện tổ_chức	1
+quy_chế hoạt_động	1
+ý_thức chấp_hành	1

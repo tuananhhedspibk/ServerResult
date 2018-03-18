@@ -1,0 +1,85 @@
+bảo_đảm an_toàn	377
+an_toàn thực_phẩm	194
+vệ_sinh an_toàn thực_phẩm	137
+kinh_doanh thực_phẩm	116
+biện_pháp bảo_đảm an_toàn	54
+khoảng_cách an_toàn	42
+điều_kiện bảo_đảm an_toàn thực_phẩm	39
+phụ_gia thực_phẩm	38
+huấn_luyện an_toàn	36
+đối_với thực_phẩm	35
+điều_kiện bảo_đảm an_toàn	34
+chất yêu_cầu nghiêm_ngặt an_toàn	31
+thực_hiện biện_pháp bảo_đảm an_toàn	29
+phân_tích nguy_cơ	29
+thực_phẩm bảo_đảm an_toàn	27
+chất hỗ_trợ chế_biến thực_phẩm	26
+an_toàn lao_động	25
+bảo_quản thực_phẩm	25
+điều_kiện an_toàn	23
+tỷ_lệ an_toàn	23
+bảo_đảm an_toàn giao_thông	22
+công_tác an_toàn	22
+ngộ_độc thực_phẩm bệnh truyền thực_phẩm	21
+chế_biến thực_phẩm	21
+chứa_đựng thực_phẩm	21
+bảo_đảm an_toàn tính_mạng	19
+truyền_thông an_toàn thực_phẩm	18
+truy_xuất nguồn_gốc	17
+vi_phạm_quy_định an_toàn	16
+bảo_đảm an_toàn lao_động	16
+sự_cố an_toàn thực_phẩm	16
+yêu_cầu nghiêm_ngặt an_toàn lao_động	15
+biện_pháp bảo_đảm	15
+bảo_đảm an_toàn thực_phẩm	15
+thực_phẩm tươi_sống	15
+nguy_cơ an_toàn	14
+bảo_đảm điều_kiện an_toàn	13
+cơ_sở kiểm_nghiệm	12
+kiểm_nghiệm thực_phẩm	12
+yêu_cầu nghiêm_ngặt an_toàn	12
+bảo_đảm yêu_cầu	12
+giấy chứng_nhận cơ_sở điều_kiện an_toàn thực_phẩm	11
+ngộ_độc thực_phẩm	11
+bệnh truyền thực_phẩm	11
+bảo_đảm điều_kiện	10
+an_toàn thực_phẩm đối_với	10
+quản_lý an_toàn thực_phẩm	9
+thực_hiện biện_pháp vệ_sinh	9
+thực_phẩm nhập_khẩu	8
+nguồn_gốc xuất_xứ	7
+bảo_đảm vệ_sinh	7
+biện_pháp phòng_ngừa	6
+điều_kiện bảo_đảm	6
+an_toàn giao_thông	6
+cơ_sở chế_biến	5
+điều_kiện bảo_đảm an_toàn đối_với	5
+vệ_sinh an_toàn	5
+an_toàn dịch_bệnh	5
+thực_phẩm bảo_đảm	4
+chất yêu_cầu nghiêm_ngặt	4
+chất hỗ_trợ chế_biến	4
+điều_kiện kinh_doanh	3
+vệ_sinh lao_động	3
+thực_hiện biện_pháp	2
+bảo_đảm vệ_sinh an_toàn	2
+an_toàn đối_với thực_phẩm	2
+yêu_cầu nghiêm_ngặt	2
+thực_hiện biện_pháp bảo_đảm	2
+đối_với lao_động	2
+kinh_doanh điều_kiện	2
+chất ô_nhiễm	2
+bảo_đảm yêu_cầu vệ_sinh	2
+hỗ_trợ chế_biến	2
+chất yêu_cầu	2
+thực_hiện công_tác	1
+an_toàn tính_mạng	1
+yêu_cầu vệ_sinh	1
+nghiêm_ngặt an_toàn	1
+cơ_sở kinh_doanh	1
+chứng_nhận điều_kiện	1
+công_tác quản_lý	1
+bảo_đảm thực_hiện	1
+ngộ_độc thực_phẩm bệnh truyền	1
+chứng_nhận cơ_sở điều_kiện an_toàn thực_phẩm	1
+phân_tích an_toàn	1

@@ -1,0 +1,109 @@
+bồi_thường thiệt_hại	1074
+yêu_cầu bồi_thường	236
+trách_nhiệm bồi_thường thiệt_hại	161
+yêu_cầu bồi_thường thiệt_hại	133
+trách_nhiệm bồi_thường	108
+giải_quyết bồi_thường	103
+tiền bồi_thường	102
+thiệt_hại bồi_thường	97
+bồi_thường thiệt_hại lỗi	91
+thiệt_hại xảy	83
+cơ_quan giải_quyết bồi_thường	83
+thiệt_hại nghiêm_trọng	59
+trách_nhiệm bồi_thường nhà_nước	54
+cơ_quan trách_nhiệm bồi_thường	50
+giải_quyết yêu_cầu bồi_thường	49
+quyết_định giải_quyết bồi_thường	46
+trách_nhiệm dân_sự	46
+trách_nhiệm hoàn_trả	43
+thiệt_hại thực_tế	40
+bồi_thường tổn_thất	40
+tiền bồi_thường thiệt_hại	40
+thiệt_hại lỗi	40
+thiệt_hại tính_mạng	39
+giới_hạn trách_nhiệm dân_sự	38
+kinh_phí bồi_thường	37
+giới_hạn trách_nhiệm bồi_thường thiệt_hại	35
+quyết_định hoàn_trả	34
+đòi bồi_thường thiệt_hại	33
+văn_bản căn_cứ yêu_cầu bồi_thường	31
+giới_hạn trách_nhiệm	31
+hạn_chế thiệt_hại	30
+mức_độ thiệt_hại	29
+lỗi thiệt_hại	29
+tổn_thất tinh_thần	29
+thiệt_hại vật_chất	27
+thiệt_hại tài_sản	27
+thiệt_hại phát_sinh	26
+quyền yêu_cầu bồi_thường thiệt_hại	26
+đe_dọa thiệt_hại đáng_kể ngành sản_xuất	25
+thiệt_hại tính_mạng thiệt_hại nghiêm_trọng sức_khoẻ	25
+trách_nhiệm giải_quyết	25
+thiệt_hại tinh_thần	24
+đòi bồi_thường	24
+mức_độ lỗi	23
+bồi_thường thiệt_hại phát_sinh	21
+bồi_thường thiệt_hại tính_mạng	21
+quyền yêu_cầu	20
+chi_trả tiền bồi_thường	19
+bồi_thường nhà_nước	19
+công_tác bồi_thường nhà_nước	18
+thủ_trưởng cơ_quan giải_quyết bồi_thường	17
+khoản tiền bồi_thường	16
+vận_chuyển trách_nhiệm bồi_thường	16
+nguy_cơ thiệt_hại	15
+giải_quyết yêu_cầu	15
+trách_nhiệm bồi_thường tổn_thất	15
+quyền yêu_cầu bồi_thường	13
+đền_bù thiệt_hại	13
+thiệt_hại kia	12
+loại_trừ trách_nhiệm	11
+tinh_thần trách_nhiệm	10
+bồi_thường thiệt_hại vận_chuyển	10
+thiệt_hại đáng_kể ngành sản_xuất	10
+yêu_cầu cơ_quan	10
+thiệt_hại lợi_ích	9
+trách_nhiệm liên_đới	9
+phạm_vi trách_nhiệm	9
+hoàn_trả tiền	8
+phạm_vi trách_nhiệm bồi_thường	7
+thiệt_hại hành_vi	6
+thiệt_hại đe_dọa thiệt_hại	6
+thiệt_hại đáng_kể	6
+công_tác bồi_thường	6
+đơn yêu_cầu bồi_thường	5
+thiệt_hại vận_chuyển	5
+bồi_thường thiệt_hại quy_định	5
+liên_đới trách_nhiệm	5
+quyền đòi	4
+văn_bản yêu_cầu	4
+nghĩa_vụ hoàn_trả	4
+hợp_đồng yêu_cầu bồi_thường thiệt_hại	4
+thiệt_hại bồi_thường quy_định	3
+đe_dọa tính_mạng	3
+thiệt_hại tính_mạng thiệt_hại nghiêm_trọng	3
+trách_nhiệm chăm_sóc	3
+quyết_định giải_quyết	2
+thiệt_hại nghiêm_trọng lợi_ích	2
+khôi_phục quyền	2
+giới_hạn trách_nhiệm bồi_thường	2
+thủ_trưởng cơ_quan	2
+căn_cứ yêu_cầu bồi_thường	2
+văn_bản cơ_quan	2
+tổn_thất phát_sinh	2
+cơ_quan nhà_nước	2
+yêu_cầu cơ_quan nhà_nước	1
+quyết_định dân_sự	1
+tổn_thất xảy	1
+trách_nhiệm cơ_quan	1
+xảy hành_vi	1
+vật_chất tinh_thần	1
+quyền chất_vấn	1
+bồi_thường quy_định	1
+đe_dọa thiệt_hại	1
+hạn_chế tổn_thất	1
+vận_chuyển quyền	1
+liên_đới bồi_thường	1
+phát_sinh quyền	1
+căn_cứ quy_định	1
+quyền yêu_cầu cơ_quan	1

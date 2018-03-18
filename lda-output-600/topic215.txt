@@ -1,0 +1,116 @@
+hiệu_lực thi_hành	463
+điều_khoản thi_hành	360
+lợi_dụng chức_vụ	348
+cấm đảm_nhiệm chức_vụ	227
+luật hiệu_lực	208
+thi_hành công_vụ	202
+luật hiệu_lực thi_hành	161
+cấm hành_nghề công_việc nhất_định	149
+hướng_dẫn thi_hành	148
+luật hiệu_lực thi_hành 01 01	116
+cấm hành_nghề công_việc nhất_định 01 05	111
+phạm_tội có_thể cấm đảm_nhiệm chức_vụ	105
+luật hiệu_lực thi_hành 01 7	90
+thi_hành công_vụ thiệt_hại	59
+hành_vi cấm	55
+hiệu_lực luật hiệu_lực	53
+01 01	52
+thi_hành luật	50
+luật hiệu_lực thi_hành 01	50
+điều_khoản chuyển_tiếp	47
+cá_nhân lợi_dụng chức_vụ	45
+lợi_dụng danh_nghĩa cơ_quan	45
+cấm kinh_doanh	38
+công_việc nhất_định	36
+lạm_dụng chức_vụ	35
+đảm_nhiệm chức_vụ	33
+01 7	33
+cơ_quan trực_tiếp_quản_lý thi_hành công_vụ thiệt_hại	32
+cấm tiếp_xúc	23
+pháp_lệnh hiệu_lực thi_hành 01	23
+hiệu_lực thi_hành 01 01	22
+pháp_lệnh hiệu_lực 01	22
+pháp_lệnh hiệu_lực thi_hành	22
+hướng_dẫn thi_hành luật	21
+cấm hành_nghề công_việc nhất_định 01 05 tịch_thu toàn_bộ tài_sản	20
+pháp_lệnh hiệu_lực thi_hành 01 7	19
+mùa_vụ công_việc nhất_định	19
+hiệu_lực luật hiệu_lực thi_hành	18
+cấm sử_dụng	18
+cấm hành_nghề	18
+cấm hoạt_động một_số lĩnh_vực nhất_định	17
+cấm huy_động vốn 01 03	17
+phạm_tội cấm đảm_nhiệm chức_vụ nhất_định 01 05	17
+phạm_tội cấm đảm_nhiệm chức_vụ nhất_định	17
+01 01 1995	17
+tội lợi_dụng chức_vụ	17
+01 05	16
+/ qh11 hiệu_lực	16
+trực_tiếp_quản_lý thi_hành công_vụ thiệt_hại	15
+01 01 2016	15
+lợi_dụng danh_nghĩa	13
+01 7 2004	13
+tăng_cường hiệu_lực	12
+phạm_tội có_thể cấm đảm_nhiệm chức_vụ nhất_định	11
+hiệu_lực 01	11
+phạm_tội cấm đảm_nhiệm chức_vụ	11
+nhất_định 01 05	11
+hoạt_động một_số lĩnh_vực nhất_định cấm huy_động vốn 01 03	10
+/ qh11 hiệu_lực luật hiệu_lực	10
+luật hiệu_lực thi_hành tiếp_tục	10
+01 01 1999	9
+01 05 tịch_thu toàn_bộ tài_sản	9
+cấm hoạt_động một_số lĩnh_vực	8
+nhất_định 01	8
+cấm đảm_nhiệm	8
+công_vụ thiệt_hại	7
+luật hiệu_lực 01	7
+công_việc nhất_định 01 05 tịch_thu toàn_bộ tài_sản	7
+7 luật	7
+chức_vụ đảm_nhiệm	6
+có_thể cấm	6
+tội lợi_dụng	6
+tài_sản thi_hành	6
+có_thể cấm đảm_nhiệm chức_vụ	5
+có_thể tịch_thu	5
+cấm huy_động vốn	5
+hành_nghề công_việc	4
+lợi_dụng hoạt_động	4
+hiệu_lực thi_hành 01 7 2016	4
+hướng_dẫn cơ_quan	4
+công_việc kinh_doanh	4
+cơ_quan thi_hành	4
+pháp_lệnh hiệu_lực	3
+công_việc nhất_định 01 05	3
+cơ_quan trực_tiếp_quản_lý thi_hành công_vụ	3
+hiệu_lực 01 7	3
+tiếp_tục thi_hành	3
+một_số luật	2
+cấm đảm_nhiệm chức_vụ nhất_định	2
+huy_động vốn	2
+có_thể cấm đảm_nhiệm chức_vụ nhất_định	2
+hiệu_lực thi_hành 01	2
+hành_vi phạm_tội	2
+cơ_quan trực_tiếp_quản_lý	2
+hiệu_lực luật	2
+thi_hành 01	2
+hành_nghề công_việc nhất_định	2
+/ qh11	2
+cá_nhân kinh_doanh	2
+cấm đảm_nhiệm chức_vụ nhất_định 01 05	2
+toàn_bộ tài_sản	1
+có_thể cấm đảm_nhiệm	1
+hoạt_động lĩnh_vực	1
+trực_tiếp_quản_lý thi_hành công_vụ	1
+mùa_vụ công_việc	1
+điều_khoản luật	1
+phạm_tội có_thể cấm	1
+cấm hành_nghề công_việc	1
+hiệu_lực thi_hành 01 7	1
+một_số hoạt_động	1
+hiệu_lực 01 01	1
+phạm_tội có_thể	1
+sử_dụng vốn	1
+cấm hoạt_động	1
+thi_hành 01 01	1
+tịch_thu tài_sản	1

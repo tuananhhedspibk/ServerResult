@@ -1,0 +1,104 @@
+doanh_nghiệp nhà_nước	336
+doanh_nghiệp quản_lý	157
+quản_lý doanh_nghiệp	135
+doanh_nghiệp tư_nhân	133
+thành_lập doanh_nghiệp	133
+tài_sản doanh_nghiệp	118
+đối_với doanh_nghiệp	104
+chủ doanh_nghiệp tư_nhân	100
+doanh_nghiệp kinh_doanh	97
+nghề kinh_doanh	96
+kinh_doanh doanh_nghiệp	62
+doanh_nghiệp liên_doanh	57
+đăng_ký doanh_nghiệp	55
+vốn nhà_nước doanh_nghiệp	50
+hoạt_động kinh_doanh doanh_nghiệp	49
+chủ doanh_nghiệp	48
+doanh_nghiệp thành_lập	42
+hoạt_động kinh_doanh	41
+hợp_tác kinh_doanh	40
+mã_số doanh_nghiệp	39
+giải_thể doanh_nghiệp	38
+hợp_đồng hợp_tác kinh_doanh	36
+phá_sản doanh_nghiệp	32
+chi_nhánh doanh_nghiệp	32
+tham_gia hợp_đồng hợp_tác kinh_doanh	32
+điều_lệ doanh_nghiệp	31
+đăng_ký kinh_doanh	31
+sử_dụng vốn nhà_nước doanh_nghiệp	30
+đối_với doanh_nghiệp nhà_nước	29
+trụ_sở doanh_nghiệp	27
+kinh_doanh hằng	26
+ươm_tạo doanh_nghiệp công_nghệ_cao	24
+quản_lý nhà_nước đối_với	23
+thuế_thu_nhập doanh_nghiệp	22
+tên_riêng doanh_nghiệp	22
+đại_diện vốn doanh_nghiệp	21
+nước_ngoài tham_gia hợp_đồng hợp_tác kinh_doanh	21
+quản_lý công_ty_mẹ	20
+chủ doanh_nghiệp đại_diện hợp_pháp doanh_nghiệp	20
+loại_hình doanh_nghiệp	20
+doanh_nghiệp công_nghệ_cao	20
+giám_đốc doanh_nghiệp	20
+tham_gia quản_lý	19
+điều_hành doanh_nghiệp	18
+hoạt_động kinh_doanh công_ty	17
+hợp_đồng liên_doanh	15
+chức_danh quản_lý	14
+quản_lý điều_hành	12
+quốc_gia đăng_ký doanh_nghiệp	11
+ươm_tạo doanh_nghiệp	10
+đại_diện hợp_pháp doanh_nghiệp	10
+quản_lý nhà_nước đối_với doanh_nghiệp	10
+quản_lý nhà_nước	9
+vốn nhà_nước	9
+nhà_nước đặt_hàng	8
+tài_sản nhà_nước	8
+điều_hành hoạt_động kinh_doanh	8
+vốn tài_sản nhà_nước	7
+đại_diện vốn nhà_nước	7
+đại_diện chủ	6
+công_ty quản_lý	6
+vốn doanh_nghiệp	6
+nhà_nước đối_với doanh_nghiệp	6
+đối_với tài_sản	5
+thành_lập đăng_ký kinh_doanh	5
+công_ty nhà_nước	5
+kinh_doanh công_ty	5
+thanh_lý_tài_sản doanh_nghiệp	5
+điều_hành hoạt_động	5
+sử_dụng vốn	5
+đăng_ký kinh_doanh công_ty	4
+tham_gia thành_lập	4
+doanh_nghiệp nhà_nước nắm	4
+giải_thể phá_sản	4
+tham_gia hoạt_động	4
+phá_sản đối_với doanh_nghiệp	4
+đăng_ký tham_gia	4
+vốn điều_lệ	4
+quản_lý sử_dụng	3
+sử_dụng vốn nhà_nước	3
+nợ doanh_nghiệp	3
+thành_lập chi_nhánh	3
+doanh_nghiệp vốn	3
+thành_lập công_ty	2
+đối_với công_ty nhà_nước	2
+vốn đầu_tư nước_ngoài nước_ngoài tham_gia hợp_đồng hợp_tác kinh_doanh	2
+tham_gia hợp_đồng	2
+đăng_ký hoạt_động doanh_nghiệp	2
+thành_lập hoạt_động	2
+hoạt_động hợp_tác	2
+hoạt_động chi_nhánh	2
+nước_ngoài tham_gia	1
+quản_lý nhà_nước hoạt_động	1
+kinh_doanh vốn nhà_nước	1
+đăng_ký hoạt_động	1
+đăng_ký hoạt_động chi_nhánh	1
+chủ doanh_nghiệp đại_diện hợp_pháp	1
+đại_diện vốn	1
+điều_lệ công_ty	1
+doanh_nghiệp đại_diện hợp_pháp doanh_nghiệp	1
+doanh_nghiệp vốn đầu_tư nước_ngoài	1
+đối_với loại_hình	1
+quản_lý nhà_nước đối_với hoạt_động	1
+sử_dụng tài_sản	1

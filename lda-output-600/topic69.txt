@@ -1,0 +1,86 @@
+50 %	172
+5 %	89
+20 %	85
+30 %	84
+10 %	69
+1 %	57
+% tổng_số	51
+% trở	48
+100 % vốn nước_ngoài	47
+2 %	37
+100 %	34
+kim_khí quý	28
+30 6	27
+trích lục	26
+25 %	26
+đầu tư_sản_xuất	25
+6 1994	24
+80 %	23
+0 %	22
+70 %	21
+15 10 1993	20
+15 %	18
+17 6	17
+hưởng 100 %	17
+20 mét	17
+5 mét	17
+75 %	16
+% vốn	14
+hàng quý	14
+tối_đa 6 %	13
+tối_đa 30	13
+thông_qua 20	13
+7 1993	13
+40 %	12
+100 % vốn	12
+10 % tổng_số	11
+doanh_nghiệp 100 %	11
+5 6	10
+% giá_trị	9
+6 %	9
+% tổng	8
+10 % vốn	8
+% (	8
+50 % vốn	7
+60 %	7
+tối_đa 6	7
+15 10	6
+doanh_nghiệp 100 % vốn	6
+đại_học trở	6
+15 trở	6
+22 6	6
+thông_qua 30	6
+100 % vốn đầu_tư nước_ngoài	6
+50 % tổng_số	6
+10 15	5
+luật tối_đa 6 %	5
+tổng_số vốn	5
+5 7	5
+50 % tổng	4
+51 %	4
+45 %	4
+20 trở	3
+6 7	3
+thông_qua 14	3
+thông_qua 21	3
+thông_qua_ngày 17 6	3
+tỷ_lệ tổng_số	3
+tỷ_lệ giá_trị	2
+100 % vốn đầu_tư	2
+% tổng giá_trị	2
+% tiền	2
+thông_qua_ngày 25	2
+giá_trị 50 %	2
+% lợi_nhuận	2
+giá_trị vốn	1
+thông_qua_ngày 17	1
+giá_trị 50 % tổng giá_trị	1
+65 %	1
+5 luật	1
+doanh_nghiệp 100	1
+10 20	1
+tỷ_lệ vốn	1
+15 20	1
+thông_qua 30 6	1
+vốn đầu_tư	1
+10 1993	1

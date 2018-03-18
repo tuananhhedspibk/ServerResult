@@ -1,0 +1,86 @@
+dân_quân tự_vệ	349
+toà_án quân_sự	172
+tòa_án quân_sự	147
+lực_lượng dân_quân tự_vệ	70
+quân_khu tương_đương	70
+tòa_án quân_sự khu_vực	64
+toà_án quân_sự quân_khu tương_đương	60
+tòa_án quân_sự trung_ương	60
+toà_án quân_sự khu_vực	58
+toà_án quân_sự trung_ương	56
+tòa_án quân_sự quân_khu	50
+ban chỉ_huy quân_sự xã	49
+tòa_án quân_sự quân_khu tương_đương	47
+dân_quân tự_vệ nòng_cốt	47
+quân_sự trung_ương	41
+ban chỉ_huy quân_sự huyện	36
+quân_sự quân_khu tương_đương	34
+tổng_cục tương_đương	33
+ban chỉ_huy quân_sự	31
+toà_án quân_sự quân_khu	30
+ngành trung_ương	29
+chánh_án tòa_án quân_sự trung_ương	29
+chỉ_huy quân_sự	27
+ban chỉ_huy quân_sự cơ_quan	25
+tư_lệnh quân_khu tương_đương	25
+hoạt_động lực_lượng dân_quân tự_vệ	25
+thẩm_phán toà_án quân_sự	24
+quân_sự khu_vực	24
+chính_trị quân_khu	23
+thẩm_phán toà_án quân_sự trung_ương	22
+chiến_sĩ dân_quân tự_vệ	20
+thẩm_phán toà_án quân_sự khu_vực	18
+chánh_án tòa_án quân_sự quân_khu	17
+ủy ban thẩm_phán	16
+xét_xử toà_án quân_sự	15
+chánh_án tòa_án quân_sự khu_vực	13
+chánh_án tòa_án quân_sự quân_khu tương_đương	13
+tư_lệnh quân_khu	13
+tham_gia dân_quân tự_vệ	13
+ủy ban thẩm_phán tòa_án nhân_dân	12
+ủy ban thẩm_phán tòa_án	12
+trung_đoàn tương_đương	12
+chánh_án toà_án quân_sự trung_ương	10
+quân_sự quân_khu	10
+chỉ_huy trực_tiếp	10
+phó chỉ_huy_trưởng	9
+thực_hiện nghĩa_vụ tham_gia dân_quân tự_vệ	8
+chỉ_huy quân_sự xã	8
+chỉ_huy_trưởng ban chỉ_huy quân_sự	7
+quân_sự xã	7
+chánh_án toà_án quân_sự quân_khu	7
+tự_vệ nòng_cốt	6
+thẩm_phán tòa_án quân_sự trung_ương	6
+tương_đương trở	6
+chánh_án tòa_án quân_sự	6
+thẩm_phán tòa_án quân_sự	5
+nghĩa_vụ tham_gia dân_quân tự_vệ	5
+quân_sự huyện	5
+thẩm_phán toà_án quân_sự quân_khu	5
+lực_lượng nòng_cốt	5
+cán_bộ ban chỉ_huy quân_sự	5
+hội_thẩm quân_nhân toà_án quân_sự	5
+hoạt_động lực_lượng	4
+lực_lượng dân_quân	4
+phó chánh_án toà_án	4
+xét_xử toà_án	4
+chỉ_huy lực_lượng	4
+ban chỉ_huy	3
+ủy ban	3
+hoạt_động dân_quân	3
+hoạt_động lực_lượng dân_quân	3
+chiến_sĩ dân_quân	3
+phó chánh_án	3
+chánh_án tòa_án	2
+nghĩa_vụ quân_sự	2
+tổng_cục chính_trị	2
+xét_xử tòa_án quân_sự	2
+thẩm_phán hội_thẩm	1
+nghĩa_vụ tham_gia	1
+xét_xử tòa_án	1
+thẩm_phán toà_án	1
+chánh_án toà_án quân_sự	1
+cơ_quan trung_ương	1
+chánh_án toà_án	1
+chỉ_huy quân_sự cơ_quan	1
+thẩm_phán tòa_án	1

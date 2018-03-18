@@ -1,0 +1,133 @@
+hồ_sơ dự_thầu	194
+lựa_chọn nhà_thầu	170
+hồ_sơ mời_thầu	148
+kết_quả lựa_chọn nhà_thầu	78
+đối_với gói_thầu	75
+hồ_sơ đề_xuất	75
+hồ_sơ yêu_cầu	68
+đánh_giá hồ_sơ dự_thầu	60
+chỉ_định thầu	48
+đấu_thầu rộng_rãi	45
+giá gói_thầu	39
+nhà_thầu phụ	39
+tiêu_chuẩn đánh_giá	37
+đấu_thầu hạn_chế	36
+thực_hiện gói_thầu	36
+quá_trình lựa_chọn nhà_thầu	35
+thời_điểm đóng thầu	34
+hồ_sơ mời sơ_tuyển	34
+nhà_thầu tư_vấn	33
+lựa_chọn đầu_tư	33
+hoạt_động đấu_thầu	31
+bảo_đảm dự_thầu	31
+kế_hoạch lựa_chọn nhà_thầu	31
+đối_với đấu_thầu	30
+tham_gia đấu_thầu	30
+mua_sắm tập_trung	29
+mua_sắm thường_xuyên	27
+nhà_thầu tham_gia đấu_thầu	27
+hồ_sơ dự sơ_tuyển	27
+mua_sắm hàng_hóa	25
+yêu_cầu hồ_sơ mời_thầu	24
+đánh_giá hồ_sơ	24
+thông_báo mời_thầu	24
+kết_quả đấu_thầu	24
+nhà_thầu lựa_chọn	24
+dự_toán mua_sắm	23
+hoàn_thiện hợp_đồng	22
+nộp hồ_sơ dự_thầu	20
+hồ_sơ mời quan_tâm	20
+phương_thức đấu_thầu	19
+giá trúng_thầu	19
+nhà_thầu trúng_thầu	19
+giá dự_thầu	19
+đề_xuất kỹ_thuật	18
+mua_sắm trực_tiếp	17
+chào_hàng cạnh_tranh	17
+hình_thức đấu_thầu	16
+thông_báo kết_quả	15
+gói_thầu epc	15
+hợp_đồng đơn_giá	15
+kết_quả lựa_chọn	15
+yêu_cầu kỹ_thuật	14
+đấu_thầu quốc_tế	13
+gói_thầu dự_án	13
+áp_dụng đối_với	13
+khối_lượng công_việc	13
+kế_hoạch đấu_thầu	13
+phê_duyệt kế_hoạch	13
+hồ_sơ quan_tâm	12
+gói_thầu mua_sắm hàng_hóa	12
+phê_duyệt dự_án	12
+áp_dụng hình_thức	11
+lập hồ_sơ	11
+đối_với dự_án	8
+nhà_thầu tham_gia	8
+lựa_chọn tổ_chức	8
+dự_thầu nhà_thầu	6
+mời quan_tâm	6
+thông_báo mời	6
+chuẩn_bị dự_án	6
+kế_hoạch lựa_chọn	5
+tổng dự_toán	4
+dự sơ_tuyển	4
+tất_cả thành_viên	4
+đóng thầu	4
+tham_gia hoạt_động	4
+nộp hồ_sơ	3
+phê_duyệt kết_quả	3
+lựa_chọn hình_thức	3
+gói_thầu cung_cấp	3
+thành_viên tổ	3
+sai_lệch kết_quả	3
+kết_quả thực_hiện	3
+phương_pháp đánh_giá	3
+áp_dụng đối_với tổ_chức	2
+mời sơ_tuyển	2
+dự_toán duyệt	2
+hồ_sơ trình	2
+gói_thầu mua_sắm	2
+tổng giá_trị	2
+hạn_chế số_lượng	2
+tổng đầu_tư	2
+thẩm_định hồ_sơ	2
+tổ_chức tư_vấn	2
+thực_hiện hoạt_động	2
+tiêu_chuẩn đánh_giá hồ_sơ	2
+lập dự_án	2
+thẩm_định kế_hoạch	2
+áp_dụng phương_pháp	2
+tư_vấn lập	2
+tiến_độ thực_hiện	2
+tham_gia hợp_đồng	2
+giai_đoạn chuẩn_bị	2
+điều_chỉnh dự_toán	2
+cung_cấp hồ_sơ	2
+dự_thầu nộp	1
+phê_duyệt phương_án	1
+hình_thức đầu_tư	1
+trực_tiếp tham_gia	1
+hồ_sơ dự_án	1
+hình_thức hợp_đồng	1
+đơn_vị dự_toán	1
+tiến_hành công_việc	1
+hồ_sơ hợp_lệ	1
+đầu_tư dự_án	1
+hiệu_lực hợp_đồng	1
+bảo_đảm yêu_cầu	1
+hồ_sơ thiết_kế	1
+thực_hiện công_việc	1
+tiêu_chuẩn quốc_tế	1
+đối_với hàng_hóa	1
+quá_trình lựa_chọn	1
+kết_quả thẩm_định	1
+bảo_đảm thực_hiện	1
+thành_viên tham_gia	1
+tổ_chức hoạt_động	1
+thực_hiện phương_thức	1
+giai_đoạn quá_trình	1
+hoạt_động tư_vấn	1
+tổ_chức thẩm_định	1
+nghiệm_thu kết_quả	1
+điều_chỉnh giá	1
+lập dự_toán	1

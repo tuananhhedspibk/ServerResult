@@ -1,0 +1,144 @@
+nhà_nước khuyến_khích	201
+nhà_nước chính_sách	179
+khuyến_khích tổ_chức	149
+chính_sách nhà_nước	129
+tổ_chức hoạt_động	126
+nhà_nước khuyến_khích tổ_chức	108
+kinh_phí hoạt_động	103
+hoạt_động chữ_thập_đỏ	94
+chính_sách phát_triển	80
+chính_sách đối_với	73
+hỗ_trợ kinh_phí	70
+quỹ hỗ_trợ	64
+nhà_nước hỗ_trợ	58
+nhà_nước đầu_tư	55
+tổ_chức sự_nghiệp	50
+đầu_tư phát_triển	48
+phục_vụ hoạt_động	43
+chính_sách xã_hội	43
+tổ_chức tư_vấn	40
+ngân_sách nhà_nước	40
+thực_hiện chính_sách	39
+hỗ_trợ hoạt_động	39
+nhà_nước chính_sách khuyến_khích	37
+khuyến_khích phát_triển	36
+tài_trợ tổ_chức	36
+nhà_nước ưu_tiên	36
+ưu_tiên đầu_tư	35
+chính_sách hỗ_trợ	35
+tổ_chức trị-xã hội	32
+hỗ_trợ phát_triển	32
+chính_sách nhà_nước đối_với	31
+tổ_chức tín_dụng	30
+bảo_đảm kinh_phí	27
+bố_trí kinh_phí	26
+hội chữ_thập_đỏ	26
+hội luật_gia	25
+tổ_chức tuyên_truyền	25
+nhà_nước khuyến_khích điều_kiện	25
+nhà_nước bảo_hộ	24
+trung_tâm dịch_vụ việc_làm	24
+nhà_nước ưu_tiên đầu_tư	23
+hoạt_động văn_hóa	23
+chính_sách khuyến_khích	23
+nhà_nước chính_sách đầu_tư	22
+tổ_chức tư_vấn pháp_luật	22
+hỗ_trợ ngân_sách nhà_nước	22
+phổ_biến chính_sách	22
+ưu_tiên đầu_tư phát_triển	22
+khuyến_khích đầu_tư	21
+nhà_nước bảo_đảm	20
+chính_sách đảng	19
+điều_lệ tổ_chức hoạt_động	19
+hội liên_hiệp phụ_nữ	19
+bảo_đảm kinh_phí hoạt_động	19
+khuyến_khích nghiên_cứu	18
+tổ_chức sự_nghiệp công_lập	18
+biện_pháp khuyến_khích	18
+ưu_tiên phát_triển	17
+điều_lệ tổ_chức	17
+thực_hiện chính_sách hỗ_trợ phòng	17
+hỗ_trợ nạn_nhân	16
+giới_thiệu việc_làm	16
+liên_kết tổ_chức	16
+hoạt_động tư_vấn	16
+thực_hiện chính_sách hỗ_trợ	16
+nhà_nước chính_sách phát_triển	15
+dịch_vụ hỗ_trợ	15
+thực_hiện hoạt_động	15
+hỗ_trợ đầu_tư	15
+nhà_nước chính_sách hỗ_trợ	15
+tìm_kiếm việc_làm	14
+hoạt_động đầu_tư	14
+hỗ_trợ tài_chính	13
+tổ_chức thực_hiện	13
+bố_trí ngân_sách	13
+hoạt_động đối_ngoại	13
+bảo_đảm hoạt_động	13
+phục_vụ sự_nghiệp	12
+chính_sách tài_chính	12
+cơ_sở hỗ_trợ nạn_nhân	12
+hoạt_động tìm_kiếm	12
+hoạt_động dịch_vụ việc_làm	12
+hỗ_trợ phát_triển chính_thức	12
+hỗ_trợ việc_làm	12
+dịch_vụ việc_làm	12
+chính_sách ưu_tiên	11
+chính_sách đầu_tư	11
+nhà_nước bảo_đảm kinh_phí	11
+hoạt_động đầu_tư quỹ	10
+doanh_nghiệp nhà_nước	10
+hội liên_hiệp	10
+nhà_nước chính_sách ưu_đãi	9
+quỹ đầu_tư	9
+ngân_sách nhà_nước bảo_đảm	9
+tín_dụng ưu_đãi	8
+chính_sách khuyến_khích tổ_chức	8
+tổ_chức thực_hiện chính_sách	8
+phát_triển sự_nghiệp	8
+khuyến_khích doanh_nghiệp	8
+loại_hình tổ_chức	7
+khuyến_khích điều_kiện	7
+tổ_chức xã_hội	7
+chính_sách đối_ngoại	6
+đối_với loại_hình	6
+chính_sách ưu_đãi	6
+hoạt_động dịch_vụ	6
+hỗ_trợ ngân_sách	5
+hỗ_trợ phòng	5
+hội nông_dân	5
+tổ_chức đảng	5
+tổ_chức nghiên_cứu	5
+quỹ xã_hội	5
+hoạt_động phòng	4
+điều_lệ quỹ	4
+quỹ phát_triển	4
+đối_với phụ_nữ	4
+ưu_đãi đối_với hoạt_động	4
+kinh_phí ngân_sách nhà_nước	3
+dịch_vụ tư_vấn	3
+ưu_đãi đầu_tư	3
+kinh_phí thực_hiện	3
+chính_sách đối_với lực_lượng	2
+phục_vụ phát_triển	2
+hoạt_động nghiên_cứu	2
+chính_sách hỗ_trợ phòng	2
+tư_vấn pháp_luật	2
+tuyên_truyền vận_động	2
+bảo_đảm tài_chính	1
+phổ_biến pháp_luật	1
+biện_pháp phòng	1
+pháp_luật phòng	1
+biện_pháp bảo_đảm	1
+tổ_chức hoạt_động quỹ	1
+hoạt_động lực_lượng	1
+ưu_đãi đối_với	1
+quỹ tín_dụng	1
+bố_trí phòng	1
+đối_ngoại nhà_nước	1
+bảo_đảm thực_hiện chính_sách	1
+cơ_sở nghiên_cứu	1
+thực_hiện chính_sách ưu_đãi	1
+tín_dụng đầu_tư phát_triển nhà_nước	1
+bảo_đảm thực_hiện	1
+tín_dụng đầu_tư	1

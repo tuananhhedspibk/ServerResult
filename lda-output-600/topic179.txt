@@ -1,0 +1,95 @@
+cơ_sở sản_xuất	437
+cơ_sở vật_chất	268
+cơ_sở kinh_doanh	220
+cơ_sở y_tế	83
+cơ_sở vật_chất - kỹ_thuật	74
+định_mức kinh_tế - kỹ_thuật	64
+đối_với cơ_sở	63
+xây_dựng cơ_sở	63
+cơ_sở hạ_tầng	55
+cơ_sở dữ_liệu	51
+kinh_tế - kỹ_thuật	51
+khoa_học - kỹ_thuật	46
+hạ_tầng kỹ_thuật	42
+cải_tiến kỹ_thuật	40
+bảo_đảm cơ_sở vật_chất	39
+- kỹ_thuật	36
+thềm lục_địa	36
+xây_dựng cơ_sở dữ_liệu	35
+cơ_sở tôn_trọng độc_lập	33
+đời_sống vật_chất tinh_thần	30
+đặc_quyền kinh_tế thềm lục_địa	30
+sản_xuất đời_sống	28
+xác_định cơ_sở	27
+xây_dựng cơ_sở vật_chất	27
+chủ cơ_sở	27
+đời_sống vật_chất	27
+ổn_định đời_sống	26
+đối_với cơ_sở sản_xuất	25
+khoa_học kỹ_thuật	24
+thành_lập cơ_sở	23
+luận_chứng kinh_tế - kỹ_thuật	23
+điều_kiện vật_chất	23
+vật_chất tinh_thần	22
+đặc_quyền kinh_tế	22
+cơ_sở nghiên_cứu	22
+sản_xuất vật_liệu xây_dựng	21
+đầu_tư xây_dựng cơ_sở vật_chất	21
+chủ cơ_sở sản_xuất	21
+tôn_trọng độc_lập	21
+bí_quyết kỹ_thuật	20
+nguyên_tắc tôn_trọng độc_lập	20
+điều_kiện cơ_sở vật_chất	18
+cơ_sở sản_xuất phi nông_nghiệp	16
+hạ_tầng kỹ_thuật đô_thị	16
+mặt_bằng xây_dựng cơ_sở sản_xuất	15
+đối_với cơ_sở kinh_doanh	15
+hợp_đồng xây_dựng - chuyển_giao	15
+xây_dựng cơ_sở hạ_tầng	14
+cơ_sở hạ_tầng kỹ_thuật	13
+xây_dựng - chuyển_giao	13
+nâng đời_sống vật_chất	12
+hợp_đồng xây_dựng -	12
+kinh_doanh - chuyển_giao	11
+cơ_sở điều_kiện sản_xuất	11
+đất mặt_bằng xây_dựng cơ_sở sản_xuất	10
+điều_kiện sản_xuất	10
+cơ_sở tôn_trọng	9
+báo_cáo kinh_tế - kỹ_thuật	8
+xây_dựng cơ_sở vật_chất - kỹ_thuật	8
+đầu_tư xây_dựng	7
+vật_liệu xây_dựng	7
+cơ_sở sản_xuất thuốc	6
+- cơ_sở kinh_doanh	6
+xây_dựng - kinh_doanh - chuyển_giao	6
+xác_định chủ	5
+cơ_sở kinh_doanh nộp	5
+định_mức kinh_tế	5
+nguyên_tắc tôn_trọng	5
+tối_đa đối_với	5
+cơ_sở chế_biến	4
+xây_dựng cơ_sở sản_xuất	4
+điều_kiện thành_lập	4
+sản_xuất nông_nghiệp	4
+kỹ_thuật tiên_tiến	3
+đầu_tư xây_dựng cơ_sở	3
+sản_xuất thuốc	3
+nâng đời_sống	2
+kinh_doanh thuốc	2
+vật_chất - kỹ_thuật	2
+sản_xuất vật_liệu	2
+điều_kiện thành_lập cơ_sở	2
+kinh_doanh điều_kiện	2
+kinh_tế -	1
+nghiên_cứu khoa_học	1
+đặc_quyền kinh_tế thềm	1
+điều_kiện kinh_doanh	1
+đầu_tư kinh_doanh	1
+xây_dựng đô_thị	1
+phi nông_nghiệp	1
+luận_chứng kinh_tế	1
+sản_xuất phi nông_nghiệp	1
+đầu_tư xây_dựng kinh_doanh	1
+điều_kiện kinh_doanh thuốc	1
+- kinh_doanh - chuyển_giao	1
+kỹ_thuật đô_thị	1

@@ -1,0 +1,94 @@
+vợ chồng	238
+nuôi con_nuôi	213
+mẹ đẻ	116
+nạn_nhân bạo_lực gia_đình	87
+pháp điển	85
+chống bạo_lực gia_đình	79
+nghĩa_vụ cấp_dưỡng	68
+đăng_ký kết_hôn	66
+mẹ nuôi	57
+tài_sản vợ_chồng	47
+chia tài_sản	46
+cha_mẹ đẻ	40
+hành_vi bạo_lực gia_đình	37
+cha_mẹ nuôi	37
+bạo_lực gia_đình	34
+trực_tiếp nuôi	32
+chấm_dứt nuôi con_nuôi	31
+trường_hợp vợ	29
+khả_năng lao_động tài_sản nuôi	29
+thực_hiện pháp điển	28
+ông_bà nội	28
+sống vợ_chồng	27
+giới_thiệu con_nuôi	27
+ông_bà ngoại	27
+điều_kiện kết_hôn	26
+chia tài_sản ly_hôn	25
+điều_kiện giám_hộ	25
+nghĩa_vụ nuôi_dưỡng	23
+đăng_ký nuôi con_nuôi	22
+mẹ đối_với thành_niên	22
+mẹ giám_hộ	22
+tài_sản vợ	22
+nuôi dạy	21
+thay_đổi trực_tiếp nuôi	21
+thuận_tình ly_hôn	21
+cha_mẹ giám_hộ	19
+trực_tiếp nuôi_dưỡng	18
+khối tài_sản	18
+chồng kết_hôn	18
+thực_hiện nghĩa_vụ cấp_dưỡng	18
+trường_hợp vợ_chồng	17
+cháu thành_niên	16
+đăng_ký hộ_tịch	16
+chế_độ tài_sản vợ_chồng	16
+vợ_chồng thỏa_thuận	16
+sống gia_đình	15
+nghĩa_vụ tài_sản	14
+mục_đích nhân_đạo	14
+nuôi 36	14
+yêu_cầu ly_hôn	12
+khả_năng lao_động	11
+con_nuôi con_nuôi	10
+đối_với thành_niên	10
+hành_vi bạo_lực	8
+nghĩa_vụ cha_mẹ	8
+công_nhận thuận_tình ly_hôn	8
+giải_quyết ly_hôn	8
+quan_hệ gắn_bó	8
+tài_sản nuôi	7
+con_nuôi nước_ngoài	7
+tài_sản chia	7
+thực_hiện nghĩa_vụ	6
+chấm_dứt quan_hệ	6
+sức lao_động	5
+chăm_lo đời_sống	4
+trốn_tránh nghĩa_vụ	4
+mục_đích thương_mại	4
+điều_kiện sống	3
+trực_tiếp nuôi ly_hôn	3
+chấm_dứt hành_vi	3
+đối_với tài_sản	3
+nghĩa_vụ thanh_toán	2
+trường_hợp thỏa_thuận	2
+đóng_góp tự_nguyện	2
+chấm_dứt thực_hiện	2
+thực_hiện chế_độ	2
+đăng_ký thay_đổi	2
+khả_năng lao_động tài_sản	2
+thực_hiện thỏa_thuận	2
+tài_sản ly_hôn	2
+thỏa_thuận lựa_chọn	1
+đăng_ký thường_trú	1
+nghĩa_vụ lao_động	1
+tài_sản thanh_toán	1
+trường_hợp xác_định	1
+mục_đích xác_định	1
+đối_với hành_vi	1
+buộc chấm_dứt	1
+phụ_nữ có_thai	1
+chống bạo_lực	1
+tình_trạng tài_sản	1
+tự_nguyện thực_hiện	1
+nuôi ly_hôn	1
+đối_với phụ_nữ	1

@@ -1,0 +1,269 @@
+góp vốn	342
+công_ty cổ_phần	304
+vốn góp	259
+công_ty nhà_nước	255
+vốn điều_lệ	217
+điều_lệ công_ty	217
+mua cổ_phần	202
+chủ sở_hữu công_ty	165
+tổng công_ty	138
+thành_viên hợp danh	129
+công_ty trách_nhiệm hữu_hạn	127
+công_ty hợp danh	114
+thành_viên góp vốn	109
+công_ty trách_nhiệm hữu_hạn hai thành_viên trở	99
+điều_lệ công_ty quy_định	90
+vốn góp thành_viên	80
+chủ_tịch công_ty	76
+quy_định điều_lệ công_ty	71
+công_ty trách_nhiệm hữu_hạn thành_viên	64
+công_ty luật hợp danh	63
+chuyển_nhượng cổ_phần	62
+tổng công_ty nhà_nước	60
+thành_viên công_ty	57
+công_ty tài_chính	55
+kinh_doanh công_ty	54
+% vốn điều_lệ	54
+trường_hợp điều_lệ công_ty quy_định	53
+vốn pháp_định	53
+công_ty luật	52
+đại_diện pháp_luật công_ty	52
+cổ_đông công_ty	51
+vốn góp công_ty	50
+liên_đới trách_nhiệm	49
+công_ty hợp_nhất	47
+vốn điều_lệ công_ty	47
+đối_với công_ty cổ_phần	45
+công_ty sáp_nhập	44
+đối_với công_ty	44
+công_ty luật nước_ngoài	43
+tài_sản công_ty	42
+đối_với công_ty trách_nhiệm hữu_hạn	42
+huy_động vốn	40
+công_ty liên_kết	39
+bổ_sung điều_lệ công_ty	38
+vốn nhà_nước	38
+thành_lập công_ty	37
+tài_sản góp vốn	37
+quy_định luật điều_lệ công_ty	36
+nhân_danh công_ty	35
+chuyển_đổi sở_hữu	34
+công_ty tách	32
+50 % vốn điều_lệ	31
+bổ_sung điều_lệ	31
+chuyển_nhượng toàn_bộ cổ_phần	30
+chuyển_nhượng vốn	30
+chuyển_đổi thành_công_ty	30
+trừ trường_hợp điều_lệ công_ty quy_định	29
+vốn góp nhà_nước	28
+tỷ_lệ vốn góp	27
+quy_định điều_lệ	26
+đối_với công_ty nhà_nước	26
+toàn_bộ vốn điều_lệ	25
+trụ_sở công_ty	25
+vốn góp chi_phối	25
+công_chứng_viên hợp danh	24
+chuyển_nhượng toàn_bộ	24
+tỷ_lệ cụ_thể điều_lệ công_ty quy_định	24
+mua vốn góp	23
+giải_thể công_ty	23
+chia công_ty	22
+vốn cam_kết	22
+doanh_nghiệp nhà_nước nắm 100 % vốn điều_lệ	21
+góp vốn công_ty	21
+công_ty thuê tài_chính	21
+công_ty trách_nhiệm	21
+giá_trị vốn góp	21
+nhà_nước sở_hữu 100 % vốn điều_lệ chính_phủ thành_lập xử_lý	20
+chủ sở_hữu	20
+tỷ_lệ quy_định điều_lệ công_ty	20
+công_ty nhà_nước độc_lập	20
+cổ_phần chi_phối	19
+tỷ_lệ cổ_phần	18
+chuyển_nhượng vốn góp	18
+quyền quy_định luật điều_lệ công_ty	18
+thành_viên hợp danh đối_với công_ty hợp danh	17
+thực vốn điều_lệ	17
+tách công_ty	17
+trách_nhiệm hữu_hạn thành_viên	16
+vốn góp cổ_phần	16
+mua toàn_bộ doanh_nghiệp	16
+50 % tổng giá_trị tài_sản	16
+đại_diện vốn nhà_nước	16
+tỷ_lệ vốn	16
+cổ_đông sở_hữu	16
+hợp danh	16
+đầu_tư bổ_sung vốn điều_lệ	15
+nội_bộ công_ty	15
+hai thành_viên trở	15
+thanh_toán cổ_phần mua	14
+vốn chủ sở_hữu	14
+bổ_sung vốn điều_lệ	14
+trách_nhiệm hữu_hạn	14
+cổ_phần công_ty	14
+vốn đầu_tư	14
+tương_ứng vốn góp	14
+góp vốn thành_lập	13
+đại_diện vốn góp	13
+thanh_toán cổ_phần	13
+tài_chính công_ty	13
+trách_nhiệm pháp_luật	13
+vốn góp nhà_nước doanh_nghiệp	13
+công_ty chia	13
+rút vốn	12
+công_ty trách_nhiệm hữu_hạn nhà_nước thành_viên	12
+góp vốn điều_lệ	12
+trách_nhiệm hữu_hạn hai thành_viên trở	12
+thành_viên đối_với công_ty trách_nhiệm hữu_hạn	12
+công_ty luật trách_nhiệm hữu_hạn	12
+nghĩa_vụ quy_định luật điều_lệ công_ty	11
+công_ty trách_nhiệm hữu_hạn công_ty cổ_phần	11
+thành_lập công_ty nhà_nước	11
+công_ty trách_nhiệm hữu_hạn nhà_nước	11
+công_ty chuyển_đổi	11
+trái_phiếu công_ty	10
+% vốn	10
+giá_trị 50 % tổng giá_trị tài_sản	10
+mua cổ_phần công_ty	9
+thành_viên góp	9
+nắm 100 % vốn điều_lệ	9
+cổ_phần mua	9
+thành_viên công_ty trách_nhiệm hữu_hạn	9
+sở_hữu công_ty	9
+quy_định luật	9
+dự_thảo điều_lệ	9
+công_ty cổ_đông	9
+tương_ứng tỷ_lệ	8
+ghi điều_lệ	8
+công_ty cổ_đông công_ty	8
+góp vốn giá_trị	8
+nhà_nước nắm 100 % vốn điều_lệ	8
+thành_viên hợp	8
+tổng giá_trị	8
+giá_trị vốn	8
+nhà_nước nắm	8
+nghĩa_vụ tài_sản công_ty	8
+góp công_ty	7
+tỷ_lệ giá_trị	7
+toàn_bộ tài_sản	7
+thành_viên trở	7
+công_ty hợp	7
+vốn cổ_phần	7
+đối_với công_ty hợp danh	6
+cam_kết góp	6
+công_ty đầu_tư	6
+vốn nhà_nước đầu_tư công_ty	6
+tương_ứng vốn	6
+trách_nhiệm liên_đới	6
+tỷ_lệ quy_định điều_lệ	6
+thành_lập doanh_nghiệp	5
+điều_lệ doanh_nghiệp	5
+vốn nhà_nước doanh_nghiệp	5
+công_ty quy_định	5
+toàn_bộ vốn	5
+tổng công_ty đầu_tư	5
+đầu_tư thành_lập	5
+thành_viên đối_với công_ty	5
+sở_hữu nhà_nước	5
+góp cổ_phần	5
+mua toàn_bộ	5
+thành_công_ty cổ_phần	5
+trường_hợp điều_lệ	4
+tài_sản sở_hữu	4
+đối_với tài_sản	4
+100 % vốn điều_lệ	4
+vốn nhà_nước đầu_tư	4
+đầu_tư kinh_doanh vốn nhà_nước	4
+tài_sản thuê	4
+tỷ_lệ tương_ứng	4
+% tổng giá_trị tài_sản ghi báo_cáo tài_chính	4
+50 % vốn	3
+cổ_phần cổ_đông	3
+luật điều_lệ	3
+tương_ứng quy_định	3
+tỷ_lệ cụ_thể điều_lệ	3
+toàn_bộ cổ_phần	3
+thuê tài_chính	3
+50 %	3
+quy_định pháp_luật	3
+rút toàn_bộ	3
+điều_lệ tổ_chức	3
+vốn giá_trị	3
+xử_lý lỗ	3
+% tổng giá_trị tài_sản	2
+nhà_nước đầu_tư công_ty	2
+trách_nhiệm hữu_hạn nhà_nước	2
+vốn góp vốn	2
+thành_công_ty trách_nhiệm hữu_hạn	2
+đầu_tư vốn	2
+đại_diện pháp_luật	2
+sở_hữu đối_với	2
+đối_với trường_hợp	2
+tổng giá_trị tài_sản ghi	2
+luật hợp danh	2
+tài_sản nhà_nước	2
+trường_hợp sáp_nhập	2
+mua cổ_phiếu	2
+doanh_nghiệp vốn	2
+trừ trường_hợp điều_lệ	2
+đối_với doanh_nghiệp	2
+góp vốn góp	2
+đại_diện vốn	2
+vốn điều_lệ vốn	2
+quy_định luật điều_lệ	2
+vốn nước_ngoài	2
+tài_chính quy_định	2
+tổ_chức tín_dụng công_ty trách_nhiệm hữu_hạn	2
+công_ty trách_nhiệm hữu_hạn hai thành_viên	2
+cổ_phần quyền	2
+doanh_nghiệp nhà_nước	2
+trách_nhiệm hữu_hạn công_ty cổ_phần	2
+cổ_phần cổ_phần	2
+đại_diện chủ sở_hữu	1
+công_ty trách_nhiệm hữu_hạn công_ty	1
+đối_với công_ty trách_nhiệm hữu_hạn công_ty	1
+tỷ_lệ cụ_thể điều_lệ công_ty	1
+trường_hợp quy_định	1
+vốn doanh_nghiệp	1
+chuyển_nhượng quyền	1
+quy_định pháp_luật điều_lệ	1
+quy_định chính_phủ	1
+sở_hữu đối_với tài_sản	1
+% vốn đầu_tư	1
+trở tỷ_lệ	1
+giá_trị thực vốn	1
+giá_trị quyền	1
+đầu_tư vốn nhà_nước	1
+hai thành_viên	1
+100 % vốn đầu_tư	1
+doanh_nghiệp 100 % vốn	1
+chủ doanh_nghiệp	1
+đại_diện chủ	1
+sở_hữu hợp_nhất	1
+trách_nhiệm chính_phủ	1
+đầu_tư nước_ngoài	1
+vốn huy_động	1
+% trở	1
+nhà_nước sở_hữu 100 % vốn điều_lệ	1
+cổ_phần đăng_ký mua	1
+trường_hợp thuê	1
+luật điều_lệ công_ty	1
+% tổng	1
+sở_hữu tài_sản	1
+tương_ứng giá_trị	1
+luật đầu_tư nước_ngoài	1
+kinh_doanh vốn nhà_nước	1
+trừ trường_hợp	1
+danh đối_với công_ty hợp danh	1
+doanh_nghiệp thành_lập	1
+doanh_nghiệp nhà_nước nắm 100 % vốn	1
+chính_phủ quy_định	1
+công_ty trách_nhiệm hữu_hạn hai	1
+trừ trường_hợp điều_lệ công_ty	1
+mua tài_sản	1
+cụ_thể điều_lệ công_ty quy_định	1
+luật trách_nhiệm hữu_hạn	1
+đầu_tư kinh_doanh vốn	1
+góp thành_viên	1
+sở_hữu 100 % vốn điều_lệ	1
+nghĩa_vụ tài_chính	1

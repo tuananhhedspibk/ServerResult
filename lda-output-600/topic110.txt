@@ -1,0 +1,142 @@
+trái pháp_luật	383
+quyết_định hiệu_lực pháp_luật	282
+hiệu_lực pháp_luật	240
+giáo_dục pháp_luật	190
+kiểm_sát tuân pháp_luật	161
+hành_vi trái pháp_luật	137
+quyết_định tòa_án hiệu_lực pháp_luật	120
+quyết_định hiệu_lực pháp_luật kháng_nghị	78
+bản_án hiệu_lực pháp_luật	78
+bản_án quyết_định hiệu_lực pháp_luật	74
+căn_cứ pháp_luật	68
+tuân pháp_luật	61
+tư_vấn pháp_luật	61
+quyết_định toà_án hiệu_lực pháp_luật	60
+quyết_định hiệu_lực pháp_luật toà_án	59
+bản_sao bản_án	50
+độc_lập tuân pháp_luật	49
+viện kiểm_sát nhân_dân kiểm_sát tuân pháp_luật	46
+quyết_định tòa_án	42
+can_thiệp trái pháp_luật	37
+hiệu_lực thi_hành	37
+căn_cứ quyết_định	36
+bản_án quyết_định	33
+kết_hôn trái pháp_luật	32
+bình_đẳng pháp_luật	30
+quyết_định hiệu_lực pháp_luật tòa_án	30
+tòa_án hiệu_lực pháp_luật	30
+việc_làm trái pháp_luật	28
+quyết_định hiệu_lực	28
+hiệu_lực pháp_luật toà_án	25
+thông_báo văn_bản viện kiểm_sát	24
+quan_hệ pháp_luật	24
+thi_hành bản_án	24
+hiệu_lực pháp_luật tòa_án	23
+văn_bản quy_phạm pháp_luật dấu_hiệu trái hiến_pháp	22
+tòa_án quyết_định	22
+hủy kết_hôn trái pháp_luật	21
+căn_cứ trái pháp_luật	20
+bản_án quyết_định toà_án nhân_dân	19
+huỷ_bỏ quyết_định	19
+pháp_luật toà_án	19
+quyết_định phúc_thẩm hiệu_lực pháp_luật	19
+quyết_định hiệu_lực pháp_luật toà_án quân_sự	19
+báo_cáo_viên pháp_luật	19
+xác_định hành_vi trái pháp_luật thi_hành công_vụ	18
+quyết_định kháng_nghị	18
+quyết_định toà_án	18
+viện kiểm_sát nhân_dân tối_cao trái hiến_pháp	17
+toà_án hiệu_lực pháp_luật	17
+trái ý_muốn	17
+quyết_định thay_đổi huỷ_bỏ quyết_định căn_cứ trái pháp_luật phó	16
+bản_sao quyết_định	16
+kiểm_sát tuân pháp_luật hoạt_động	16
+kết_tội bản_án	14
+bản_án quyết_định hiệu_lực pháp_luật toà_án nhân_dân	14
+quyết_định sơ_thẩm hiệu_lực pháp_luật	13
+thi_hành quyết_định	12
+công_nhận bản_án	12
+quyết_định hiệu_lực pháp_luật tòa_án nhân_dân	11
+dấu_hiệu trái hiến_pháp	10
+phổ_biến pháp_luật	10
+tái_thẩm bản_án quyết_định hiệu_lực pháp_luật	10
+giám_đốc thẩm bản_án quyết_định hiệu_lực pháp_luật	10
+quyết_định hiệu_lực pháp_luật toà_án nhân_dân	9
+trái nguyên_tắc cơ_bản pháp_luật	9
+văn_bản quy_phạm pháp_luật	8
+nguyên_tắc cơ_bản pháp_luật	8
+quyết_định thay_đổi	8
+quyết_định tòa_án hiệu_lực pháp_luật kháng_nghị	8
+toà_án quyết_định	8
+bản_án quyết_định hiệu_lực pháp_luật toà_án	8
+tuân pháp_luật cơ_quan	7
+hiến_pháp pháp_luật	7
+sơ_thẩm hiệu_lực pháp_luật	7
+hành_vi trái pháp_luật thi_hành công_vụ	7
+văn_bản trái pháp_luật	7
+quyết_định căn_cứ trái pháp_luật	7
+bản_án quyết_định hiệu_lực pháp_luật tòa_án	6
+huỷ_bỏ quyết_định căn_cứ trái pháp_luật	6
+hủy bản_án	6
+xác_định hành_vi trái pháp_luật	6
+quyết_định thay_đổi huỷ_bỏ quyết_định căn_cứ trái pháp_luật	5
+trái nguyên_tắc	5
+bản_án quyết_định hiệu_lực	5
+trái hiến_pháp	5
+quyết_định công_nhận	5
+tái_thẩm bản_án	5
+kết_hôn trái	4
+quyết_định huỷ_bỏ	4
+hủy quyết_định	4
+toà_án nhân_dân	4
+hiệu_lực pháp_luật kháng_nghị	4
+viện kiểm_sát	4
+quyết_định hủy	3
+tòa_án nhân_dân	3
+xác_định hành_vi	3
+kháng_nghị quyết_định	3
+bản_án quyết_định tòa_án	3
+quy_phạm pháp_luật	3
+viện kiểm_sát quyết_định	3
+thông_báo kết_quả viện kiểm_sát	3
+kiểm_sát tuân pháp_luật quá_trình	3
+tòa_án sơ_thẩm	3
+căn_cứ kháng_nghị	3
+hành_vi trái	3
+hành_vi trái pháp_luật thủ_trưởng cơ_quan	2
+bản_sao văn_bản	2
+bản_án sơ_thẩm	2
+bản_án hiệu_lực	2
+quyết_định sơ_thẩm	2
+quyết_định tòa_án hiệu_lực	2
+thi_hành công_vụ	2
+căn_cứ trái pháp_luật phó	2
+bản_án quyết_định sơ_thẩm	2
+tòa_án phúc_thẩm	2
+trái nguyên_tắc cơ_bản	2
+kháng_nghị bản_án	2
+quyết_định thi_hành	1
+hiệu_lực pháp_luật tòa_án quân_sự	1
+quyết_định kháng_nghị viện kiểm_sát	1
+tòa_án quân_sự	1
+tuân hiến_pháp	1
+tòa_án hiệu_lực	1
+quyết_định căn_cứ trái	1
+toà_án quân_sự	1
+giám_đốc thẩm	1
+nguyên_tắc cơ_bản	1
+quyết_định huỷ_bỏ quyết_định	1
+tái_thẩm bản_án quyết_định hiệu_lực	1
+kháng_nghị căn_cứ kháng_nghị	1
+bản_án quyết_định toà_án	1
+thẩm bản_án quyết_định hiệu_lực pháp_luật	1
+viện kiểm_sát nhân_dân	1
+tuân hiến_pháp pháp_luật	1
+hủy kết_hôn	1
+trái pháp_luật thi_hành công_vụ	1
+quyết_định tòa_án sơ_thẩm	1
+viện kiểm_sát quyết_định kháng_nghị	1
+thay_đổi huỷ_bỏ	1
+căn_cứ xác_định	1
+quyết_định hiệu_lực pháp_luật tòa_án quân_sự	1
+kiểm_sát nhân_dân kiểm_sát tuân pháp_luật	1

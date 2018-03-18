@@ -1,0 +1,13 @@
+chiếu công_cộng	19
+vườn hoa	12
+phương_pháp khấu_trừ	7
+ngoại_tệ quy_đổi	7
+sách giáo_khoa	7
+lắp_đặt thiết_bị	3
+thị_trường ngoại_tệ	3
+báo in	3
+chụp ảnh	3
+chế_biến lâm_sản	3
+khai_thác lâm_sản	2
+thức_ăn chăn_nuôi	1
+chứng_từ điện_tử	1

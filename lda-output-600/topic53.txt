@@ -1,0 +1,410 @@
+cơ_quan nhà_nước	1469
+cơ_quan nhà_nước thẩm_quyền	1309
+cơ_quan ngang	948
+cơ_quan thẩm_quyền	795
+cơ_quan quản_lý nhà_nước	480
+cơ_quan chính_phủ	443
+quản_lý nhà_nước	433
+thủ_trưởng cơ_quan ngang	399
+cơ_quan quản_lý	347
+chính_phủ thống_nhất quản_lý nhà_nước	235
+thủ_trưởng cơ_quan	214
+yêu_cầu cơ_quan	207
+cơ_quan nhà_nước thẩm_quyền phê_duyệt	205
+cơ_quan quản_lý nhà_nước thẩm_quyền	198
+nội_dung quản_lý nhà_nước	158
+cơ_quan chuyên_môn	153
+thực_hiện quản_lý nhà_nước	145
+yêu_cầu cơ_quan nhà_nước thẩm_quyền	136
+thẩm_quyền phê_duyệt	133
+quyết_định cơ_quan nhà_nước thẩm_quyền	122
+trách_nhiệm quản_lý nhà_nước	121
+cơ_quan trung_ương	118
+cơ_quan ngang phạm_vi nhiệm_vụ	104
+cơ_quan nhà_nước thẩm_quyền quyết_định	103
+thống_nhất quản_lý	100
+trách_nhiệm chính_phủ thực_hiện quản_lý nhà_nước	98
+cơ_quan thẩm_quyền nước_ngoài	95
+cơ_quan nhà_nước trung_ương	90
+thẩm_quyền quyết_định	88
+thủ_trưởng cơ_quan chính_phủ	86
+cơ_quan hành_chính nhà_nước	85
+cơ_quan nhà_nước thẩm_quyền quy_định	84
+kiến_nghị cơ_quan nhà_nước thẩm_quyền	82
+trách_nhiệm quản_lý	80
+cơ_quan ngang liên_quan	78
+cơ_quan nhà_nước thẩm_quyền ban_hành	75
+cơ_quan quản_lý nhà_nước hoạt_động xuất_bản	73
+cơ_quan nhà_nước thẩm_quyền phép	70
+nhà_nước thống_nhất quản_lý	69
+đề_nghị cơ_quan	67
+cơ_quan quản_lý cạnh_tranh	66
+văn_bản cơ_quan nhà_nước	63
+thống_nhất quản_lý nhà_nước	62
+cơ_quan chủ_quản	57
+quản_lý thống_nhất	56
+cơ_quan nhà_nước hữu_quan	55
+nhà_nước thẩm_quyền	53
+phối_hợp cơ_quan nhà_nước	51
+ban_hành thẩm_quyền	50
+cơ_quan nhà_nước thẩm_quyền quy_định pháp_luật	50
+thẩm_quyền quy_định	47
+uỷ_ban nhân_dân thực_hiện quản_lý nhà_nước	47
+cơ_quan quản_lý nhà_nước đo_lường	47
+chủ_nhiệm uỷ_ban nhà_nước	46
+cơ_quan nhà_nước thẩm_quyền xét_duyệt	45
+thủ_trưởng cơ_quan quản_lý	45
+đề_nghị cơ_quan thẩm_quyền	43
+đăng_ký cơ_quan nhà_nước thẩm_quyền	43
+thủ_trưởng cơ_quan quản_lý nhà_nước	43
+phép cơ_quan nhà_nước thẩm_quyền	40
+chế_độ cơ_quan nhà_nước thẩm_quyền ban_hành	38
+trình cơ_quan thẩm_quyền	38
+cơ_quan quản_lý nhà_nước bưu_chính	37
+cơ_quan chính_phủ phạm_vi nhiệm_vụ	36
+yêu_cầu cơ_quan thẩm_quyền	36
+quản_lý nhà_nước công_tác	36
+cơ_quan thẩm_quyền quyết_định	36
+quản_lý nhà_nước hoạt_động	35
+kiến_nghị cơ_quan	35
+cơ_quan quản_lý nhà_nước chuyên_ngành	35
+thủ_trưởng cơ_quan quản_lý cạnh_tranh	34
+trình cơ_quan nhà_nước thẩm_quyền	34
+trách_nhiệm cơ_quan	33
+hướng_dẫn cơ_quan	33
+cơ_quan thẩm_quyền quy_định chi_tiết	33
+quản_lý nhà_nước đối_với	32
+cơ_quan thẩm_quyền phê_duyệt	32
+thẩm_quyền ban_hành	32
+nội_dung quản_lý	32
+cơ_quan quản_lý nhà_nước khoáng_sản	31
+tăng_cường hiệu_lực quản_lý nhà_nước	31
+cơ_quan quản_lý nhà_nước tín_ngưỡng	31
+cơ_quan quản_lý nhà_nước lao_động	31
+thẩm_quyền giấy_phép	30
+cơ_quan quản_lý nhà_nước xuất_bản	30
+thủ_trưởng cơ_quan quản_lý nhà_nước giáo_dục nghề_nghiệp trung_ương	29
+cơ_quan quản_lý nhà_nước hoạt_động	29
+cơ_quan quản_lý nhà_nước du_lịch trung_ương	29
+phạm_vi quản_lý	29
+phạm_vi thẩm_quyền lãnh_thổ	28
+cơ_quan quản_lý nhà_nước thẩm_quyền giấy_phép	28
+đề_nghị cơ_quan nhà_nước thẩm_quyền	28
+trình thẩm_quyền ban_hành	28
+cơ_quan thẩm_quyền quy_định	27
+báo_cáo cơ_quan thẩm_quyền	26
+hành_chính nhà_nước	26
+cơ_quan quản_lý chuyên_ngành	26
+thủ_trưởng cơ_quan nhà_nước	25
+báo_cáo cơ_quan	24
+xử_lý thẩm_quyền	24
+thực_hiện thống_nhất	24
+trình cơ_quan nhà_nước thẩm_quyền phê_duyệt	23
+thống_kê nhà_nước	23
+cơ_quan quyền_lực nhà_nước	23
+báo_cáo cơ_quan nhà_nước thẩm_quyền	22
+cơ_quan nhà_nước thẩm_quyền xem_xét	22
+cơ_quan quản_lý nhà_nước lao_động tỉnh	22
+cơ_quan đăng_kiểm	22
+thủ_trưởng cơ_quan quản_lý nhà_nước dạy nghề trung_ương	21
+văn_bản cơ_quan nhà_nước thẩm_quyền	21
+quản_lý công_tác	21
+xử_lý thẩm_quyền kiến_nghị	20
+hệ_thống hành_chính nhà_nước	20
+cơ_quan quản_lý nhà_nước lâm_nghiệp	20
+lĩnh_vực quản_lý nhà_nước	20
+cơ_quan nhà_nước thẩm_quyền xử_lý	20
+cơ_quan thẩm_quyền ngoại_giao	20
+cơ_quan quyền_lực nhà_nước địa_phương	20
+chính_phủ thống_nhất quản_lý	19
+kiến_nghị cơ_quan thẩm_quyền	19
+giấy_phép phổ_biến cơ_quan quản_lý nhà_nước thẩm_quyền điện_ảnh quyết_định phát_sóng	19
+kiến_nghị cơ_quan nhà_nước	19
+cơ_quan chủ_quản xuất_bản	19
+thủ_trưởng cơ_quan quản_lý nhà_nước dạy nghề	19
+phạm_vi quản_lý nhà_nước	19
+viên_chức nhà_nước	19
+cơ_quan hữu_quan	18
+ban_hành thẩm_quyền trình thẩm_quyền ban_hành	18
+trách_nhiệm chính_phủ thực_hiện thống_nhất quản_lý nhà_nước	18
+quản_lý nhà_nước giá	18
+chế_độ quản_lý	18
+báo_cáo cơ_quan hành_chính nhà_nước	17
+chính_phủ thực_hiện quản_lý nhà_nước	17
+cơ_quan chính_phủ liên_quan	17
+trình cơ_quan nhà_nước thẩm_quyền ban_hành	17
+tư_pháp trách_nhiệm chính_phủ thực_hiện quản_lý nhà_nước	17
+cơ_quan thanh_tra	17
+cơ_quan quản_lý nhà_nước thẩm_quyền phê_duyệt	17
+cơ_quan quản_lý nhà_nước chất_lượng hàng_hoá	17
+quản_lý nhà_nước lĩnh_vực	17
+nhà_nước thống_nhất	17
+nhà_nước đặt_hàng	17
+yêu_cầu cơ_quan nhà_nước	16
+thẩm_quyền phép	16
+cơ_quan nhà_nước thẩm_quyền chấp_thuận	16
+cơ_quan nhà_nước thẩm_quyền cơ_quan trung_ương tổ_chức chính_trị - xã_hội	16
+lĩnh_vực quản_lý	15
+cơ_quan quản_lý nhà_nước du_lịch	15
+thanh_tra nhà_nước	15
+cơ_quan giao	15
+thông_báo cơ_quan thẩm_quyền	15
+quản_lý chuyên_ngành	15
+nhà_nước giao	14
+thẩm_quyền xử_lý	14
+trách_nhiệm chính_phủ	14
+thông_báo cơ_quan	14
+quản_lý nhà_nước ngành	14
+kiến_nghị cơ_quan nhà_nước thẩm_quyền xử_lý vi_phạm pháp_luật	14
+cơ_quan thẩm_quyền ban_hành	13
+trình thẩm_quyền phê_duyệt	13
+cơ_quan đảng	13
+quản_lý nhà_nước lao_động	13
+cơ_quan quản_lý nhà_nước công_tác bồi_thường nhà_nước	13
+giao quản_lý	13
+hành_chính nhà_nước trung_ương	12
+thẩm_quyền kiến_nghị cơ_quan nhà_nước thẩm_quyền	12
+cơ_quan thống_kê	12
+văn_bản cơ_quan thẩm_quyền	12
+thẩm_quyền xem_xét	12
+phối_hợp cơ_quan quản_lý nhà_nước	12
+phối_hợp cơ_quan	12
+cơ_quan quản_lý nhà_nước công_tác	11
+quyền yêu_cầu cơ_quan nhà_nước	11
+trình thẩm_quyền	11
+trình cơ_quan thẩm_quyền ban_hành	11
+báo_cáo cơ_quan quản_lý	11
+cơ_quan chuyên_trách	11
+cơ_quan thanh_tra nhà_nước	10
+thủ_trưởng cơ_quan chuyên_môn	10
+văn_bản cơ_quan	10
+hiệu_lực quản_lý nhà_nước	10
+thực_hiện quản_lý	10
+cơ_quan báo_chí	10
+cơ_quan thực_hiện nhiệm_vụ quản_lý nhà_nước	10
+thực_hiện chức_năng quản_lý nhà_nước	10
+thẩm_quyền xét_duyệt	10
+ban_hành thẩm_quyền trình	10
+ban_hành thẩm_quyền trình cơ_quan nhà_nước thẩm_quyền	10
+cơ_quan ban_hành_văn_bản	10
+quản_lý nhà_nước du_lịch	10
+yêu_cầu cơ_quan quản_lý	9
+cơ_quan nhà_nước thẩm_quyền văn_hóa	9
+kiến_nghị thẩm_quyền	9
+quản_lý nhà_nước đo_lường	9
+quyết_định cơ_quan nhà_nước	9
+cơ_quan quản_lý nhà_nước giáo_dục	9
+cơ_quan thẩm_quyền xử_lý	9
+chính_phủ thống_nhất quản_lý nhà_nước công_tác	9
+thực_hiện thống_nhất quản_lý nhà_nước	9
+cơ_quan quản_lý nhà_nước thẩm_quyền điện_ảnh	9
+thẩm_quyền kiến_nghị	9
+báo_cáo cơ_quan quản_lý nhà_nước	8
+quản_lý nhà_nước thương_mại	8
+chức_năng quản_lý nhà_nước	8
+quản_lý nhà_nước giáo_dục	8
+trình cơ_quan	8
+thanh_tra phạm_vi quản_lý nhà_nước	8
+quản_lý chặt_chẽ	8
+ban_hành thẩm_quyền trình thẩm_quyền	7
+quyền yêu_cầu cơ_quan	7
+quản_lý nhà_nước thẩm_quyền	7
+thông_báo văn_bản cơ_quan	7
+cơ_quan quản_lý nhà_nước dạy nghề	7
+giấy_phép phổ_biến cơ_quan quản_lý nhà_nước thẩm_quyền điện_ảnh	7
+quản_lý nhà_nước khoáng_sản	7
+đề_nghị cơ_quan nhà_nước	7
+quản_lý chất_lượng	7
+quản_lý nhà_nước báo_chí	7
+phối_hợp cơ_quan quản_lý	7
+kiến_nghị cơ_quan nhà_nước thẩm_quyền xử_lý	7
+nhà_nước hữu_quan	6
+chính_phủ quyết_định	6
+phạm_vi nhiệm_vụ	6
+trình cơ_quan nhà_nước	6
+thực_hiện hoạt_động	6
+bồi_thường nhà_nước	6
+thẩm_quyền trình	6
+cơ_quan quản_lý nhà_nước công_tác bồi_thường	6
+thực_hiện quy_định	6
+ban_hành quyết_định	6
+cơ_quan chuyên_ngành	6
+ban_hành trình thẩm_quyền	5
+phạm_vi trách_nhiệm	5
+quy_định chính_phủ	5
+thẩm_quyền lãnh_thổ	5
+xử_lý thẩm_quyền kiến_nghị cơ_quan nhà_nước thẩm_quyền xử_lý vi_phạm	5
+ban_hành thẩm_quyền văn_bản	5
+chính_phủ thống_nhất	5
+nhà_nước trung_ương	5
+thẩm_quyền kiến_nghị thẩm_quyền	5
+cơ_quan đăng_ký	5
+quản_lý hệ_thống	5
+cơ_quan hải_quan	5
+quản_lý nhà_nước chuyên_ngành hàng_không dân_dụng	5
+thẩm_quyền chấp_thuận	5
+cơ_quan chính_phủ trách_nhiệm	5
+yêu_cầu cơ_quan quản_lý nhà_nước	4
+trình chính_phủ	4
+cơ_quan quản_lý nhà_nước giáo_dục nghề_nghiệp trung_ương	4
+quyết_định xử_lý cơ_quan	4
+quản_lý giáo_dục	4
+hệ_thống quản_lý	4
+pháp_luật cơ_quan nhà_nước	4
+ban_hành văn_bản	4
+báo_cáo chính_phủ	4
+thông_báo cơ_quan quản_lý	4
+trách_nhiệm thực_hiện quản_lý nhà_nước	3
+cơ_quan chính_phủ phạm_vi	3
+quản_lý ngành	3
+xử_lý thẩm_quyền kiến_nghị cơ_quan nhà_nước thẩm_quyền	3
+văn_bản kiến_nghị	3
+ngành trung_ương	3
+quản_lý nhà_nước công_tác bồi_thường nhà_nước	3
+quản_lý nhà_nước chất_lượng hàng_hoá	3
+nhà_nước chuyên_ngành	3
+thực_hiện thống_nhất quản_lý	3
+chính_phủ ban_hành	3
+nhiệm_vụ quản_lý nhà_nước	3
+quản_lý cạnh_tranh	3
+thực_hiện quản_lý nhà_nước hoạt_động	3
+hướng_dẫn cơ_quan quản_lý	3
+đề_nghị cơ_quan quản_lý	3
+nhà_nước thẩm_quyền xét_duyệt	3
+cơ_quan chính_phủ uỷ_ban nhân_dân	3
+nhà_nước thẩm_quyền quyết_định	3
+cơ_quan thẩm_quyền đảng	3
+công_tác quản_lý	3
+trách_nhiệm pháp_luật	3
+báo_cáo chính_phủ công_tác	3
+thống_nhất quản_lý công_tác	3
+kiến_nghị cơ_quan thẩm_quyền xử_lý	3
+tư_pháp cơ_quan thẩm_quyền	3
+trách_nhiệm phối_hợp cơ_quan quản_lý nhà_nước	3
+quản_lý nhà_nước chất_lượng	3
+chính_phủ thực_hiện	3
+nội_dung quy_định	3
+thẩm_quyền trình cơ_quan nhà_nước thẩm_quyền	3
+quyết_định giao	2
+nhà_nước thẩm_quyền quy_định pháp_luật	2
+chế_độ cơ_quan nhà_nước thẩm_quyền	2
+phối_hợp công_tác	2
+trình chính_phủ phê_duyệt	2
+cơ_quan trung_ương tổ_chức chính_trị	2
+quản_lý nhà_nước dạy nghề	2
+quản_lý nhà_nước hoạt_động xuất_bản	2
+nội_dung đăng_ký	2
+quyền_lực nhà_nước	2
+chính_phủ phê_duyệt	2
+trách_nhiệm phối_hợp cơ_quan quản_lý	2
+trách_nhiệm báo_cáo	2
+ngành quản_lý	2
+cơ_quan trung_ương tổ_chức	2
+xử_lý thẩm_quyền kiến_nghị cơ_quan	2
+thẩm_quyền kiến_nghị cơ_quan	2
+thẩm_quyền ban_hành_văn_bản	2
+cơ_quan quản_lý nhà_nước giáo_dục nghề_nghiệp	2
+quản_lý nhà_nước xuất_bản	2
+trung_ương thực_hiện quản_lý nhà_nước	2
+trách_nhiệm thực_hiện yêu_cầu	2
+thống_nhất quản_lý nhà_nước công_tác	2
+chức_năng quản_lý	2
+thực_hiện nhiệm_vụ quản_lý nhà_nước	2
+ban_hành hướng_dẫn	2
+quản_lý nhà_nước tín_ngưỡng	2
+quản_lý nhà_nước bưu_chính	2
+chính_phủ quy_định	2
+thực_hiện quản_lý nhà_nước công_tác	2
+cơ_quan quản_lý nhà_nước dạy nghề trung_ương	2
+phối_hợp cơ_quan liên_quan	2
+chính_phủ thực_hiện quản_lý	2
+chính_phủ thống_nhất quản_lý nhà_nước hoạt_động	2
+trách_nhiệm thực_hiện	2
+quyết_định hành_chính	2
+quản_lý nhà_nước hải_quan	2
+đối_với lĩnh_vực	1
+quyết_định xử_lý	1
+quyền yêu_cầu	1
+quyền kiến_nghị cơ_quan	1
+hoạt_động cơ_quan hữu_quan	1
+phép hoạt_động	1
+tư_pháp trách_nhiệm chính_phủ thực_hiện quản_lý	1
+nhà_nước du_lịch trung_ương	1
+nội_dung giáo_dục	1
+quyền đề_nghị	1
+uỷ_ban nhân_dân thực_hiện quản_lý	1
+phép xuất_bản	1
+hoạt_động lĩnh_vực	1
+trình cơ_quan thẩm_quyền ban_hành_văn_bản	1
+giao nhiệm_vụ	1
+trách_nhiệm chính_phủ thực_hiện quản_lý	1
+điện_tử cơ_quan nhà_nước	1
+ngành lĩnh_vực	1
+quản_lý nhà_nước lâm_nghiệp	1
+ban_hành tổ_chức thực_hiện	1
+thanh_tra chính_phủ	1
+cơ_quan thẩm_quyền ban_hành_văn_bản	1
+nhân_dân thực_hiện quản_lý nhà_nước	1
+cơ_quan giao nhiệm_vụ	1
+ngành liên_quan	1
+xem_xét báo_cáo	1
+nhà_nước đo_lường	1
+liên_quan hoạt_động	1
+nhà_nước thẩm_quyền ban_hành	1
+tăng_cường hiệu_lực quản_lý	1
+cơ_quan nhà_nước thẩm_quyền ban_hành_văn_bản	1
+nhiệm_vụ giao	1
+cơ_quan nhà_nước thẩm_quyền xử_lý vi_phạm	1
+phép cơ_quan nhà_nước	1
+thống_nhất quản_lý nhà_nước hoạt_động	1
+tổ_chức thực_hiện	1
+hướng_dẫn thực_hiện	1
+nhà_nước trung_ương địa_phương	1
+trung_ương thực_hiện quản_lý	1
+thực_hiện chế_độ báo_cáo	1
+nhà_nước công_tác	1
+văn_bản thông_báo	1
+hướng_dẫn cơ_quan quản_lý chuyên_ngành	1
+thẩm_quyền trình cơ_quan	1
+thực_hiện chế_độ thống_kê	1
+ngang liên_quan	1
+thẩm_quyền quy_định chi_tiết	1
+nhân_dân thực_hiện quản_lý	1
+thẩm_quyền kiến_nghị cơ_quan nhà_nước thẩm_quyền xử_lý	1
+chủ_quản xuất_bản	1
+ban_hành ban_hành thẩm_quyền văn_bản	1
+thực_hiện văn_bản	1
+trách_nhiệm pháp_luật nội_dung	1
+trách_nhiệm thông_báo văn_bản	1
+nhà_nước thẩm_quyền phê_duyệt	1
+quản_lý nhà_nước giáo_dục nghề_nghiệp	1
+chính_phủ trình	1
+nhà_nước du_lịch	1
+kiến_nghị cơ_quan nhà_nước thẩm_quyền xử_lý vi_phạm	1
+đăng_ký cơ_quan nhà_nước	1
+hướng_dẫn hoạt_động	1
+cơ_quan thống_kê trung_ương	1
+du_lịch trung_ương	1
+phối_hợp tư_pháp	1
+ban_hành ban_hành thẩm_quyền	1
+quản_lý nhà_nước đối_với hoạt_động	1
+thẩm_quyền nước_ngoài	1
+quản_lý nhà_nước chuyên_ngành	1
+hướng_dẫn nội_dung	1
+phối_hợp hoạt_động	1
+phạm_vi địa_phương	1
+thủ_trưởng cơ_quan giao	1
+thực_hiện quy_định chính_phủ	1
+quy_định pháp_luật	1
+trung_ương địa_phương	1
+cơ_quan nhà_nước thẩm_quyền cơ_quan trung_ương tổ_chức chính_trị	1
+hoạt_động văn_hóa	1
+phối_hợp uỷ_ban	1
+liên_tịch cơ_quan nhà_nước thẩm_quyền trung_ương cơ_quan nhà_nước thẩm_quyền	1
+quản_lý nhà_nước công_tác bồi_thường	1
+văn_bản yêu_cầu	1
+phạm_vi chức_năng	1
+thủ_trưởng cơ_quan chuyên_môn uỷ_ban nhân_dân	1
+cơ_quan quản_lý nhà_nước thẩm_quyền điện_ảnh quyết_định phát_sóng	1
+ban_hành trình	1
+hoạt_động lãnh_thổ	1

@@ -1,0 +1,7 @@
+biến_đổi khí_hậu	105
+đồng_bào dân_tộc_thiểu_số	73
+ứng_phó biến_đổi khí_hậu	71
+giám_sát biến_đổi khí_hậu	48
+tiếng ồn	39
+tiếng dân_tộc_thiểu_số	24
+lồng_ghép nội_dung	3

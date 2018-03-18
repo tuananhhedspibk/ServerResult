@@ -1,0 +1,29 @@
+sản_xuất phim	54
+chương ii	36
+chương i	35
+chương iii	35
+chương iv	33
+chương v	29
+băng âm_thanh	27
+phổ_biến phim	26
+đĩa âm_thanh	26
+mục ii	26
+cơ_sở điện_ảnh	25
+lưu_trữ phim	24
+doanh_nghiệp sản_xuất phim	22
+mục i	22
+chương vii	19
+phát_hành phim	18
+đĩa phim	17
+băng phim	17
+hoạt_động điện_ảnh	16
+quyết_định phát_sóng	13
+cơ_sở sản_xuất	12
+giấy_phép phổ_biến	11
+kỷ_niệm chương	10
+sản_xuất nhập_khẩu	8
+chương 7	6
+cơ_sở phát_hành	3
+phim giấy_phép phổ_biến	3
+tư_liệu sản_xuất	1
+sản_xuất vật_liệu	1

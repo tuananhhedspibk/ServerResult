@@ -1,0 +1,48 @@
+phục_hồi chức_năng	94
+chăm_sóc sức_khỏe	84
+sức_khỏe con_người	80
+chăm_sóc sức_khoẻ	70
+bảo_vệ sức_khoẻ	53
+khám sức_khỏe	49
+tính_mạng con_người	49
+bảo_vệ sức_khoẻ nhân_dân	41
+phục_hồi sức_khỏe	37
+sức_khoẻ con_người	36
+chăm_sóc cao_tuổi	35
+dụng_cụ chỉnh_hình	33
+khuyết_tật đặc_biệt	33
+xác_định mức_độ khuyết_tật	33
+sức_khỏe cộng_đồng	31
+khám sức_khoẻ	30
+mai_táng phí	29
+hòa_nhập cộng_đồng	28
+phát_huy vai_trò cao_tuổi	27
+tình_trạng sức_khỏe	25
+sức_khoẻ nhân_dân	20
+hội cao_tuổi	19
+vật_phẩm hại sức_khoẻ con_người	19
+chăm_sóc y_tế	18
+điều_trị ổn_định	18
+hoà_nhập cộng_đồng	18
+tổn_hại sức_khoẻ	17
+trợ_giúp khuyết_tật	16
+mức_độ khuyết_tật	12
+hại sức_khoẻ	11
+hội nông_dân	11
+hội cựu_chiến_binh	10
+nhân_viên y_tế	10
+bảo_vệ tính_mạng	10
+trách_nhiệm chăm_sóc	9
+tổn_hại sức_khỏe	9
+hại sức_khỏe	8
+vật_phẩm hại	7
+phát_huy vai_trò	7
+chăm_sóc khuyết_tật	6
+hại sức_khoẻ con_người	5
+vận_động nhân_dân	4
+sức_khỏe sinh_sản	4
+ổn_định cuộc_sống	4
+bảo_vệ phát_huy	4
+y_tế trách_nhiệm	1
+suy_giảm chức_năng	1
+vai_trò cao_tuổi	1

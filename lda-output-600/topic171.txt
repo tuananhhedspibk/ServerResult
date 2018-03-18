@@ -1,0 +1,2 @@
+khai_báo gian_dối	35
+từ_chối khai_báo	20

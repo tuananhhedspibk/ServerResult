@@ -1,0 +1,80 @@
+dự_trữ quốc_gia	353
+an_ninh quốc_gia	218
+hàng dự_trữ quốc_gia	169
+bảo_vệ an_ninh quốc_gia	120
+ngành quản_lý hàng dự_trữ quốc_gia	91
+lợi_ích quốc_gia	88
+bảo_quản hàng dự_trữ quốc_gia	73
+bảo_vật quốc_gia	64
+kho dự_trữ quốc_gia	48
+bảo_vệ an_ninh	44
+xuất hàng dự_trữ quốc_gia	44
+xâm_phạm an_ninh quốc_gia	43
+tội xâm_phạm an_ninh quốc_gia	43
+quốc_gia tiếp_nhận	40
+thực_hiện chính_sách tiền_tệ quốc_gia	36
+bảo_vệ công_trình quan_trọng_liên_quan an_ninh quốc_gia	35
+tiền_tệ quốc_gia	30
+danh_mục hàng dự_trữ quốc_gia	29
+an_ninh hàng	26
+an_ninh lợi_ích quốc_gia	25
+chính_sách tiền_tệ quốc_gia	24
+mua hàng dự_trữ quốc_gia	23
+thực_hiện nhiệm_vụ bảo_vệ an_ninh quốc_gia	22
+cơ_quan chuyên_trách bảo_vệ an_ninh quốc_gia	22
+công_trình quan_trọng quốc_gia	22
+địa_điểm thu_gom hàng lẻ	21
+công_trình quan_trọng_liên_quan an_ninh quốc_gia	20
+quan_trọng quốc_gia	19
+an_ninh quốc_gia trật_tự	19
+trung_tâm điều_phối quốc_gia	17
+luân_phiên đổi	16
+hoạt_động xâm_phạm an_ninh quốc_gia	16
+công_trình quan_trọng	15
+quỹ dự_trữ quốc_gia	15
+kế_hoạch dự_trữ quốc_gia	15
+bảo_vệ an_ninh tổ_quốc	13
+quyết_định nhập	10
+quan_trọng an_ninh	10
+mục_tiêu quốc_gia	9
+thực_hiện nhiệm_vụ bảo_vệ an_ninh	8
+chuyên_trách bảo_vệ an_ninh quốc_gia	8
+nhiệm_vụ bảo_vệ an_ninh quốc_gia	8
+chính_sách tiền_tệ	7
+số_lượng hàng	6
+luân_phiên đổi hàng	6
+hàng dự_trữ	5
+bảo_vệ công_trình	5
+nhiệm_vụ bảo_vệ	5
+quản_lý hàng dự_trữ quốc_gia	4
+thu_gom hàng lẻ	4
+vườn quốc_gia	4
+công_tác bảo_vệ an_ninh	3
+tội xâm_phạm an_ninh	3
+an_ninh trật_tự	3
+mua hàng	3
+danh_mục hàng	3
+thực_hiện chính_sách tiền_tệ	3
+xuất hàng	3
+bảo_vệ trật_tự	2
+công_tác bảo_vệ	2
+xâm_phạm an_ninh	2
+quan_trọng_liên_quan an_ninh quốc_gia	2
+ngành quản_lý	2
+mua hàng dự_trữ	2
+bảo_quản hàng dự_trữ	2
+bảo_quản hàng	1
+hàng hàng	1
+hoạt_động xâm_phạm an_ninh	1
+quản_lý ngành	1
+đổi hàng	1
+kho dự_trữ	1
+quỹ dự_trữ	1
+thực_hiện nhiệm_vụ bảo_vệ	1
+bảo_vệ tổ_quốc	1
+thực_hiện hoạt_động	1
+hoạt_động lãnh_thổ	1
+thu_gom hàng	1
+nhiệm_vụ bảo_vệ an_ninh	1
+địa_điểm thu_gom	1
+xâm_phạm lợi_ích	1

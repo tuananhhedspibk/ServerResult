@@ -1,0 +1,23 @@
+việt nam dân_chủ cộng_hoà	90
+hoạt_động hóa_chất	65
+an_toàn hóa_chất	41
+hóa_chất nguy_hiểm	41
+ứng_phó sự_cố hóa_chất	37
+danh_mục hóa_chất	36
+kinh_doanh hóa_chất	35
+chủ_tịch việt nam dân_chủ cộng_hoà	23
+hóa chất_độc	23
+đặc_tính nguy_hiểm	23
+sử_dụng hóa_chất	21
+công_dân việt nam dân_chủ cộng_hoà	19
+sự_cố hóa_chất	14
+kế_hoạch phòng_ngừa	13
+hóa_chất danh_mục hóa_chất	5
+việt nam	5
+phối_hợp công_thương	4
+hóa_chất danh_mục	2
+ứng_phó sự_cố	2
+dân_chủ cộng_hoà	1
+danh_mục cấm	1
+cấm sử_dụng	1
+hoạt_động kinh_doanh	1

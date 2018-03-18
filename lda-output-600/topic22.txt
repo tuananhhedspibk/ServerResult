@@ -1,0 +1,56 @@
+tuỳ tính_chất	285
+tùy tính_chất	269
+căn_cứ xác_định	125
+căn_cứ tính_chất	82
+tính_chất chuyên_nghiệp	75
+căn_cứ kết_quả	64
+trường_hợp xác_định	62
+phù_hợp tính_chất	51
+tình_thế cấp_thiết	50
+tuỳ trường_hợp	49
+xác_định cơ_sở	48
+tình_tiết_giảm nhẹ	41
+tùy trường_hợp	40
+chứng_cứ xác_định	38
+tính_chất phức_tạp	37
+trường_hợp cấp_thiết	37
+tuỳ mức_độ	34
+xác_định căn_cứ	34
+tuỳ mức_độ nhẹ	33
+căn_cứ kết_luận	31
+xác_định mục_tiêu	31
+xác_định cụ_thể	29
+xác_định nguyên_nhân	28
+căn_cứ rõ_ràng	24
+tính_chất đặc_thù	23
+xác_định mức_độ	22
+tình_tiết phức_tạp	21
+phát_hiện tình_tiết	19
+căn_cứ tình_hình	18
+xác_định mã_số	18
+căn_cứ quy_mô	17
+kết_luận cuối_cùng	16
+tính_chất mức_độ	16
+tiêu_chí xác_định	15
+kết_luận sơ_bộ	14
+tuỳ tính_chất nội_dung	12
+tính_chất nguy_hiểm	12
+phù_hợp tình_hình	10
+tình_tiết tình_tiết_giảm nhẹ	10
+tình_tiết phát_hiện	10
+trường_hợp phát_hiện	9
+tùy mức_độ	9
+luật tùy tính_chất	9
+xác_định hành_vi	8
+căn_cứ nhu_cầu	8
+phù_hợp mục_tiêu	8
+trường_hợp cụ_thể	7
+xác_định kết_quả	7
+mức_độ nguy_hiểm	6
+loại_trừ nguyên_nhân	6
+phù_hợp quy_mô	5
+phù_hợp nội_dung	4
+pháp_luật tùy tính_chất	3
+tính_chất nội_dung	1
+căn_cứ pháp_luật	1
+trường_hợp nhu_cầu	1

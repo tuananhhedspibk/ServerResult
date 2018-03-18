@@ -1,0 +1,50 @@
+hiệu chuẩn	128
+chuẩn đo_lường	92
+chứng_nhận hợp quy	46
+chuẩn quốc_gia	41
+công_bố hợp quy	40
+đơn_vị đo_lường	39
+phương_tiện đo_lường	38
+đoàn kiểm_tra	36
+tổ_chức kiểm_định	35
+chứng_nhận hợp chuẩn	34
+tổ_chức chứng_nhận phù_hợp	32
+đánh_giá phù_hợp	32
+kiểm_tra nhà_nước đo_lường	31
+tổ_chức đánh_giá phù_hợp	31
+dấu hợp quy	27
+kỹ_thuật đo_lường	27
+hợp chuẩn	25
+kết_quả kiểm_định	23
+kết_quả đánh_giá phù_hợp	21
+thừa_nhận lẫn	21
+dấu hợp chuẩn	20
+hoạt_động đo_lường	20
+giấy chứng_nhận kiểm_định	19
+phòng thử_nghiệm	19
+chi_phí mẫu	19
+kết_quả kiểm_tra	18
+hợp quy	17
+yêu_cầu kỹ_thuật đo_lường	16
+độ chính_xác	15
+phù_hợp yêu_cầu	13
+hoạt_động kiểm_định	12
+nhà_nước đo_lường	11
+kết_quả đánh_giá	8
+pháp_luật đo_lường	6
+công_bố kết_quả	5
+đánh_giá kết_quả	5
+sử_dụng dấu	4
+sử_dụng phương_tiện	3
+chứng_nhận phù_hợp	3
+kiểm_tra hoạt_động	2
+chứng_nhận hợp	2
+kiểm_tra kết_quả	2
+công_bố hợp	2
+lựa_chọn tổ_chức	2
+chứng_nhận kiểm_định	1
+tổ_chức hoạt_động	1
+phương_pháp đánh_giá	1
+phương_tiện kỹ_thuật	1
+giấy chứng_nhận	1
+tổ_chức tuyên_truyền	1

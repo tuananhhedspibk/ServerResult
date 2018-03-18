@@ -1,0 +1,42 @@
+đường_thuỷ nội_địa	120
+đường thủy nội_địa	70
+giao_thông đường_thuỷ nội_địa	58
+lái phương_tiện	51
+giao_thông đường thủy nội_địa	50
+phương_tiện động_cơ	45
+đối_với phương_tiện	45
+máy trưởng	44
+bến thuỷ nội_địa	43
+nội thuỷ	31
+phương_tiện đi	26
+đảm_nhiệm chức_danh	26
+giao_thông đường_thuỷ	23
+sức chở	21
+phương_tiện thủy nội_địa	21
+cờ hiệu	20
+kết_cấu_hạ_tầng giao_thông đường_thuỷ nội_địa	20
+bến thủy nội_địa	17
+bến phao	17
+tổng công_suất máy	17
+thủy nội_địa	16
+tín_hiệu phương_tiện	15
+đường thủy	14
+5 mét	14
+chủ phương_tiện	13
+đường giao_thông	12
+phát tín_hiệu	11
+giao_thông đường thủy	11
+" cờ	10
+thuỷ nội_địa	9
+phương_tiện giao_thông đường_thuỷ	8
+công_suất máy	7
+giao_thông đường	6
+bến cảng	6
+đối_với hàng_hoá	5
+phương_tiện thủy	4
+phương_tiện giao_thông	3
+tổng công_suất	2
+bảo_vệ luồng	2
+bến thủy	1
+bến thuỷ	1
+kết_cấu_hạ_tầng giao_thông	1

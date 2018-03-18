@@ -1,0 +1,133 @@
+vấn_đề liên_quan	243
+trình_bày ý_kiến	196
+phát_biểu ý_kiến	113
+ý_kiến văn_bản	111
+thẩm_định tại_chỗ	100
+ý_kiến cơ_quan	86
+tham_gia ý_kiến	85
+tổ_chức ý_kiến	85
+giải_quyết vấn_đề	84
+nội_dung liên_quan	67
+vấn_đề ý_kiến	65
+ý_kiến thẩm_định	58
+tài_liệu liên_quan	58
+góp ý_kiến	57
+tiếp_thu ý_kiến	53
+tổng_hợp ý_kiến	51
+tham_khảo ý_kiến	45
+thống_nhất ý_kiến	45
+liên_quan nội_dung	41
+tổ_chức thẩm_định	40
+tài_liệu cần_thiết	38
+vấn_đề cụ_thể	38
+thẩm_định nội_dung	38
+trình_bày nội_dung	38
+tài_liệu liên_quan nội_dung	36
+ghi ý_kiến	34
+giải_trình vấn_đề	34
+tiếp_thu ý_kiến thẩm_định	34
+tiếp_thu ý_kiến góp_ý	33
+quyền bổ_sung ý_kiến	32
+giải_quyết vấn_đề liên_quan	32
+nội_dung thẩm_định	30
+ý_kiến cử_tri	28
+tóm_tắt nội_dung	28
+ý_kiến góp_ý	28
+trình_bày trung_thực	25
+bàn vấn_đề liên_quan	23
+vấn_đề quan_trọng	23
+ý_kiến phát_biểu	23
+kết_luận vấn_đề	22
+ý_kiến thống_nhất	22
+trình_bày trung_thực_sự_việc	21
+phù_hợp nội_dung	21
+trình_bày bổ_sung	21
+tài_liệu phục_vụ	20
+vấn_đề cần_thiết	20
+vấn_đề nội_dung	20
+tài_liệu liên_quan nội_dung thanh_tra	20
+văn_bản kiến_nghị	20
+cá_nhân tham_gia ý_kiến	20
+trả_lời vấn_đề cần_thiết	19
+lắng_nghe ý_kiến	19
+giải_trình vấn_đề liên_quan nội_dung thanh_tra	19
+bổ_sung ý_kiến	19
+ý_kiến đồng_ý	19
+ý_kiến văn_bản ngoại_giao	18
+giải_trình vấn_đề liên_quan	18
+kiến_nghị vấn_đề liên_quan tổ_chức	18
+tham_gia góp ý_kiến	16
+thông_báo nội_dung	16
+giải_quyết vấn_đề phát_sinh	16
+vấn_đề liên_quan nội_dung thanh_tra	15
+tổ_chức ý_kiến nhận_xét	15
+liên_quan nội_dung thanh_tra	15
+đồng_ý nội_dung	15
+vấn_đề liên_quan nội_dung	14
+nêu vấn_đề	14
+văn_bản ghi ý_kiến	14
+phát_biểu quan_điểm	13
+vấn_đề phát_sinh	13
+xem_xét tại_chỗ	12
+nêu ý_kiến	12
+nội_dung cần_thiết	11
+trình_bày vấn_đề	11
+trả_lời phát_biểu	11
+ý_kiến thành_viên	10
+thẩm_định dự_thảo	9
+kiểm_sát_viên phát_biểu ý_kiến	9
+trả_lời văn_bản	9
+liên_quan nội_dung dự_án	8
+ý_kiến dự_thảo	8
+dự_thảo ý_kiến	8
+ý_kiến nội_dung	8
+nêu cần_thiết	8
+trình_bày tóm_tắt nội_dung	8
+ý_kiến vấn_đề	7
+giải_trình vấn_đề liên_quan nội_dung	7
+trả_lời vấn_đề	7
+cá_nhân liên_quan	6
+kiến_nghị cơ_quan	6
+vật_chứng liên_quan	5
+kiến_nghị vấn_đề	5
+kiến_nghị vấn_đề liên_quan	5
+trình_bày ý_kiến nội_dung	5
+văn_bản cơ_quan	5
+ghi nội_dung	5
+ý_kiến nội_dung kháng_cáo	5
+nội_dung ghi	5
+giải_trình tiếp_thu	4
+cơ_quan thanh_tra	4
+đồng_ý văn_bản	4
+xem_xét trả_lời	4
+giải_quyết kiến_nghị	4
+quyền kiến_nghị	4
+lựa_chọn tổ_chức	4
+cụ_thể nội_dung	3
+xem_xét văn_bản	3
+trình_bày bổ_sung vấn_đề	3
+xem_xét kiến_nghị	3
+nội_dung dự_thảo	3
+nội_dung kháng_cáo	3
+ý_kiến dự_án	3
+nội_dung dự_án	3
+thẩm_định dự_án	2
+liên_quan giải_quyết	2
+trình_bày tóm_tắt	2
+thống_nhất dự_thảo	2
+tổ_chức thành_viên	2
+bàn vấn_đề	2
+thành_viên tham_gia	2
+cần_thiết liên_quan	2
+giải_quyết trả_lời	2
+ý_kiến nhận_xét	2
+văn_bản trả_lời	2
+tổ_chức biên_soạn	2
+quyền kiến_nghị cơ_quan	1
+bổ_sung tài_liệu	1
+liên_quan kháng_cáo	1
+kết_luận kiến_nghị	1
+trả_lời kiến_nghị	1
+phát_sinh quyền	1
+phù_hợp mục_đích	1
+xem_xét vật_chứng	1

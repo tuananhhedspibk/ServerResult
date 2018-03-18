@@ -1,0 +1,155 @@
+chấp_hành_hình_phạt tù	234
+phạt tù	215
+phạt tù sáu	110
+hình_phạt bổ_sung	96
+phạt tù hai bảy	88
+cơ_sở giam_giữ	88
+tù chung_thân	78
+tù chung_thân tử_hình	74
+cải_tạo giam_giữ	74
+phạt cải_tạo giam_giữ	69
+phạt cảnh_cáo	65
+cải_tạo giam_giữ phạt tù	59
+hình_phạt tù	58
+kết_án phạt tù	57
+phạt tù mười	54
+phạt tù hai	53
+phạt tù bảy	50
+chuyển_giao chấp_hành_hình_phạt tù	49
+phạt tù mười :	47
+phạt tù mười hai	46
+phạt tù hai bảy :	45
+phạt tù mười hai hai mươi	45
+phạt tiền	45
+miễn hình_phạt	43
+miễn chấp_hành_hình_phạt	43
+phạt tù bảy mười lăm :	42
+phạt tù mười lăm	41
+hình_phạt tuyên	41
+khung hình_phạt	41
+tù thời_hạn	39
+áp_dụng hình_phạt	38
+kết_án tù	38
+phạt cải_tạo giam_giữ phạt tù	37
+kết_án tử_hình	36
+phạt cải_tạo giam_giữ phạt tù sáu	36
+tù chung_thân :	35
+phạt tù mười hai mươi	34
+chấp_hành xong hình_phạt tù	34
+cải_tạo giam_giữ phạt tù sáu	32
+hai mươi	32
+tái_phạmnguy hiểm	31
+phạt tù bảy mười lăm	30
+tha tù thời_hạn điều_kiện	28
+tù chung_thân tử_hình :	28
+mười lăm	28
+phạt cải_tạo	27
+chấp_hành xong hình_phạt	26
+thời_hạn chấp_hành_hình_phạt	24
+hoãn_chấp_hành_hình_phạt tù	23
+phạt tù mười lăm hai mươi :	23
+phạt tù hai mươi	22
+cải_tạo giam_giữ hai phạt tù hai	22
+thời_hạn chấp_hành_hình_phạt tù	21
+xử_phạt tù	21
+tổng_hợp hình_phạt	21
+thủ_trưởng cơ_sở giam_giữ	19
+kết_án chấp_hành_hình_phạt	19
+tổng_hợp hình_phạt bản_án	18
+phạt tù hai mười	18
+hình_phạt áp_dụng	18
+mười hai	17
+hình_phạt tử_hình	17
+hai trăm	14
+phạm_tội hậu_quả nghiêm_trọng phạt tù mười	14
+tha tù thời_hạn	14
+phạm_tội hậu_quả đặc_biệt nghiêm_trọng phạt tù mười	14
+hình_phạt cải_tạo giam_giữ	14
+thi_hành_hình_phạt tù	14
+hai mươi tù chung_thân	14
+phạt cải_tạo giam_giữ hai	14
+chung_thân tử_hình :	14
+mười lăm :	13
+đặc_biệt nghiêm_trọng phạt tù mười hai	12
+thời_gian chấp_hành_hình_phạt	12
+hình_phạt tiền	12
+cải_tạo đơn_vị_kỷ_luật	12
+bịphạt tù	12
+chấp_hành hình_phạt	11
+phạt tù mười hai hai	11
+hình_phạt nhẹ	11
+cải_tạo giam_giữ hai	10
+giam_giữ phạt tù	10
+mười :	9
+hậu_quả nghiêm_trọng phạt tù	9
+hai phạt tù sáu	9
+hai phạt tù hai	9
+chấp_hành bản_án	8
+hai hai	8
+miễn chấp_hành	8
+hình_phạt bản_án	8
+kết_án bản_án	8
+hậu_quả nghiêm_trọng phạt tù hai bảy	7
+tiền phạt	7
+hình_phạt hình_phạt	7
+thời_hạn bảy	7
+phạm_tội hậu_quả đặc_biệt nghiêm_trọng phạt tù	7
+tù sáu	6
+hậu_quả đặc_biệt nghiêm_trọng phạt tù	6
+tù hai	6
+phạt tù mười lăm hai mươi	6
+nghiêm_trọng phạt tù	6
+bản_án tử_hình	5
+hai mươi tù	5
+hình_phạt đối_với	5
+chấp_hành xong	5
+nghiêm_trọng phạt tù mười hai	4
+phạt cải_tạo giam_giữ hai phạt tù	4
+hai phạt tù	4
+hai mươi lăm	4
+phạm_tội hậu_quả nghiêm_trọng phạt tù	4
+phạt tù bảy mười	3
+thời_hạn mười lăm	3
+mươi nghìn	3
+giam_giữ hai	3
+cải_tạo giam_giữ hai phạt tù	3
+quy_định_hình_phạt tù	3
+mươi lăm	3
+bổ_sung :	3
+đặc_biệt nghiêm_trọng phạt tù mười	3
+tù mười lăm	3
+tha tù	3
+nghiêm_trọng phạt tù hai bảy	3
+hậu_quả đặc_biệt nghiêm_trọng phạt tù mười	2
+đặc_biệt nghiêm_trọng phạt tù	2
+phạt cải_tạo giam_giữ phạt	2
+thời_hạn chấp_hành	2
+đặc_biệt nghiêm_trọng phạt tù bảy	2
+hậu_quả nghiêm_trọng phạt tù mười	2
+nghiêm_trọng phạt tù bảy	2
+hậu_quả nghiêm_trọng phạt tù hai	2
+hình_phạt cải_tạo	2
+giam_giữ phạt tù sáu	2
+bảy mười lăm	2
+hai bảy	2
+nghiêm_trọng phạt tù mười	2
+tù mười	2
+mươi tù	1
+tù mười hai hai mươi	1
+đối_với kết_án	1
+mười lăm mười	1
+trường_hợp phạt tù mười	1
+trường_hợp đặc_biệt nghiêm_trọng phạt tù	1
+hai hai mươi	1
+nghiêm_trọng phạt	1
+đặc_biệt nghiêm_trọng	1
+mười lăm hai mươi	1
+cảnh_cáo phạt tiền	1
+sáu mươi	1
+mười hai mươi	1
+phạm_tội hậu_quả đặc_biệt nghiêm_trọng phạt	1
+tộitrong trường_hợp đặc_biệt nghiêm_trọng phạt tù mười hai	1
+cải_tạo giam_giữ phạt	1
+thời_hạn hai mươi	1
+tù mười lăm hai mươi	1
+nghiêm_trọng phạt tù hai	1

@@ -1,0 +1,25 @@
+đài truyền_hình	62
+sử_dụng tác_phẩm	58
+đối_với tác_phẩm	47
+quyền tác_giả	37
+đồng tác_giả	35
+tác_phẩm văn_học	35
+đài phát_thanh	32
+đài phát_thanh - truyền_hình	29
+đài phát_thanh - truyền_hình tỉnh	25
+phổ_biến tác_phẩm	25
+biểu_diễn nghệ_thuật	22
+chương_trình phát_thanh	21
+tác_phẩm điện_ảnh	19
+sử_dụng tác_phẩm công_bố	18
+tác_phẩm công_bố	17
+quyền tác_giả đối_với tác_phẩm	12
+quyền sử_dụng	7
+trả_thù_lao tác_giả	4
+tác_giả đối_với tác_phẩm	4
+truyền_hình tỉnh	2
+đài phát_thanh -	2
+quyền tác_giả đối_với	2
+xuất_bản tác_phẩm	1
+phát_thanh - truyền_hình	1
+đối_với loại_hình	1

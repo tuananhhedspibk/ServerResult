@@ -1,0 +1,102 @@
+bộ_trưởng quốc_phòng	275
+bảo_đảm quốc_phòng	148
+giáo_dục quốc_phòng an_ninh	133
+trưng_cầu dân	127
+toàn dân	125
+phục_vụ quốc_phòng	91
+công_nhân viên_chức quốc_phòng	90
+quốc_phòng an_ninh	85
+bộ_trưởng quốc_phòng quy_định	81
+tình_trạng khẩn_cấp	70
+kinh_tế quốc dân	67
+công_nhân quốc_phòng	65
+sở_hữu toàn dân	58
+quốc_phòng toàn dân	56
+tổ_chức trưng_cầu dân	54
+hệ_thống giáo_dục quốc dân	54
+ban_bố tình_trạng khẩn_cấp	48
+thống_nhất bộ_trưởng quốc_phòng	42
+liên_hợp quốc	42
+tình_trạng chiến_tranh	41
+phối_hợp quốc_phòng	38
+viên_chức quốc_phòng	37
+bỏ_phiếu trưng_cầu dân	37
+phiếu trưng_cầu dân	34
+bộ_trưởng quốc_phòng quyết_định	33
+tài_sản sở_hữu toàn dân	33
+bảo_đảm an_ninh	33
+tổ trưng_cầu dân	30
+an_ninh chính_trị	29
+kết_quả trưng_cầu dân	28
+bồi_dưỡng kiến_thức quốc_phòng an_ninh	27
+nhiệm_vụ quốc_phòng	26
+lĩnh_vực quốc_phòng	26
+khối đại_đoàn_kết toàn dân_tộc	25
+tình_trạng khẩn_cấp quốc_phòng	25
+giáo_dục quốc_phòng	23
+cơ_sở giáo_dục hệ_thống giáo_dục quốc dân	23
+nhân_viên quốc_phòng	23
+phong_trào toàn dân	23
+đề_nghị trưng_cầu dân	22
+bộ_trưởng công_thương	22
+mục_đích quốc_phòng	22
+nghìn dân	20
+dân chủ_nhân_dân	20
+bộ_trưởng nội_vụ	19
+chiến_tranh xâm_lược	19
+quyết_định tuyên_bố tình_trạng chiến_tranh	19
+phát_triển kinh_tế quốc dân	18
+tuyên_truyền trưng_cầu dân	16
+phục_vụ mục_đích quốc_phòng	15
+hội_đồng quốc_phòng an_ninh	15
+mục_tiêu dân giàu	15
+xây_dựng quốc_phòng toàn dân	14
+dân giàu	14
+bảo_đảm thống_nhất	13
+lĩnh_vực kinh_tế	13
+đề_nghị bộ_trưởng	12
+lý_do quốc_phòng	12
+quốc_phòng chủ_trì	11
+mẫu thống_nhất	9
+toàn dân_tộc	7
+thống_nhất bộ_trưởng	6
+đại_đoàn_kết toàn dân_tộc	6
+hệ_thống giáo_dục	6
+phối_hợp công_thương	6
+kiến_thức quốc_phòng	6
+bồi_dưỡng kiến_thức quốc_phòng	6
+lĩnh_vực giáo_dục	6
+tuyên_bố tình_trạng chiến_tranh	6
+an_ninh trật_tự	5
+phối_hợp bộ_trưởng	5
+quốc dân	5
+bảo_vệ an_ninh	5
+giáo_dục quốc dân	4
+xây_dựng khối đại_đoàn_kết	4
+khối đại_đoàn_kết	4
+kiến_thức quốc_phòng an_ninh	4
+bảo_đảm trật_tự	4
+sử_dụng mục_đích quốc_phòng	3
+phục_vụ mục_đích	3
+tổ_chức kinh_tế	3
+công_nhân viên_chức	2
+khẩn_cấp quốc_phòng	2
+quyết_định trưng_cầu	2
+xây_dựng hệ_thống	2
+toàn dân bảo_vệ an_ninh tổ_quốc	2
+tình_trạng tài_sản	2
+chuyên_dùng phục_vụ	2
+cơ_sở giáo_dục	2
+giáo_dục hệ_thống giáo_dục quốc dân	2
+hệ_thống tổ_chức	1
+phiếu trưng_cầu	1
+mẫu quy_định	1
+cơ_sở giáo_dục hệ_thống	1
+mục_tiêu giáo_dục	1
+giáo_dục hệ_thống	1
+mục_tiêu dân	1
+mục_tiêu phát_triển	1
+tối_cao thống_nhất bộ_trưởng quốc_phòng	1
+nhân_dân tối_cao thống_nhất bộ_trưởng quốc_phòng	1
+tối_cao thống_nhất bộ_trưởng	1
+xây_dựng cơ_sở	1

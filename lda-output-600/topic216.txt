@@ -1,0 +1,107 @@
+phân_biệt đối_xử	131
+thực_hiện quyền	129
+quyền tự_do	89
+thực_hiện chính_sách	80
+bảo_đảm quyền	68
+công_dân quyền	58
+thuần_phong mỹ_tục dân_tộc	54
+quyền nghĩa_vụ	42
+tước một_số quyền công_dân	40
+quyền tự_do tín_ngưỡng	39
+phát_huy vai_trò	38
+tiếng_nói chữ_viết	36
+tước quyền	36
+phân_biệt dân_tộc	34
+bình_đẳng lợi	33
+quyền tự_chủ	33
+quyền công_dân	32
+thực_hiện chính_sách dân_tộc	31
+phát_huy truyền_thống	31
+chính_sách cơ_bản	30
+làm_tròn nghĩa_vụ	28
+vai_trò chủ_đạo	28
+quyền nghĩa_vụ công_dân	28
+phát_huy tiềm_năng	27
+tự_do tín_ngưỡng	25
+nguyên_tắc cơ_bản	25
+thuần_phong mỹ_tục	25
+thực_hiện nghĩa_vụ	23
+chính_sách dân_tộc	23
+thực_hiện quyền giám_sát	22
+quyền nghĩa_vụ thanh_niên	22
+bảo_đảm thực_hiện quyền	22
+chính_sách tôn_giáo	22
+quyền bào_chữa	21
+phát_huy quyền làm_chủ nhân_dân	21
+nghĩa_vụ công_dân	21
+thực_hiện chính_sách dân_tộc chính_sách tôn_giáo	21
+quyền tự_do ngôn_luận	20
+quyền nghĩa_vụ cơ_bản công_dân	20
+vận_động nhân_dân thực_hiện	20
+truyền_thống tốt_đẹp	20
+bảo_đảm thực_hiện	19
+quyền con_người	19
+quyền làm_chủ nhân_dân	19
+bản_sắc dân_tộc	18
+chữ_viết dân_tộc	18
+quyền bình_đẳng	17
+chính_sách hậu_phương quân_đội	16
+bảo_đảm quyền bình_đẳng	16
+nguyên_tắc tự_nguyện	16
+quyền tiếng_nói	15
+phát_huy sáng_kiến	15
+bào_chữa viên nhân_dân	15
+đối_xử bình_đẳng	15
+tốt_đẹp dân_tộc	15
+thực_hiện đường_lối	14
+công_dân thực_hiện quyền	14
+quyền đề_nghị	13
+góp_phần bảo_đảm	13
+thực_hiện nguyên_tắc	13
+tự_do báo_chí	12
+cản_trở thực_hiện quyền	12
+quyền làm_chủ tập_thể	11
+thực_hiện một_số	11
+chính_sách đối_với	10
+bảo_đảm bình_đẳng	10
+bình_đẳng quyền nghĩa_vụ	10
+mỹ_tục dân_tộc	10
+thực_hiện quyền giám_sát tối_cao	10
+giữ_gìn phát_huy	9
+nguyên_tắc bình_đẳng	9
+làm_chủ tập_thể	9
+thực_hiện dân_chủ	9
+phát_huy quyền làm_chủ	8
+giám_sát thực_hiện chính_sách	8
+thực_hiện quyền nghĩa_vụ	8
+thực_hiện nghĩa_vụ đối_với	7
+bình_đẳng dân_tộc	7
+thực_hiện đầy_đủ	7
+hậu_phương quân_đội	7
+nhân_phẩm công_dân	6
+bảo_đảm nguyên_tắc	6
+vận_động nhân_dân	5
+giám_sát thực_hiện	5
+giữ_gìn thuần_phong	5
+chính_sách hậu_phương	5
+phát_huy quyền	4
+tự_do ngôn_luận	4
+bảo_đảm thực_hiện chính_sách	4
+tự_nguyện thực_hiện	3
+chính_sách dân_số	2
+công_dân độ	2
+thừa_nhận lẫn	2
+thực_hiện đầy_đủ nghĩa_vụ	2
+quyền biểu_quyết	2
+quyền làm_chủ	2
+đầy_đủ nghĩa_vụ	2
+giữ_gìn thuần_phong mỹ_tục	2
+đối_với con_người	1
+nghĩa_vụ cơ_bản công_dân	1
+bảo_đảm thực_hiện nghĩa_vụ	1
+đối_với một_số	1
+cơ_bản công_dân	1
+quyền giám_sát tối_cao	1
+bào_chữa bào_chữa	1
+tước một_số quyền	1
+làm_chủ nhân_dân	1

@@ -1,0 +1,146 @@
+đại_biểu quốc_hội	615
+đoàn đại_biểu quốc_hội	221
+đoàn giám_sát	163
+25 12 2001 quốc_hội khoá x	87
+quốc_hội ban_hành luật	80
+hoạt_động giám_sát	75
+nghị_quyết quốc_hội	74
+chương_trình giám_sát	59
+đại_biểu quốc_hội quyền	54
+quốc_hội khoá	51
+đoàn đại_biểu quốc_hội đại_biểu quốc_hội	49
+kế_hoạch giám_sát	47
+luật quốc_hội khoá xi	40
+quốc_hội ban_hành luật sửa_đổi	35
+căn_cứ nghị_quyết quốc_hội	35
+giám_sát hoạt_động chính_phủ	34
+luật quốc_hội khoá ix	31
+căn_cứ nghị_quyết	29
+giám_sát hoạt_động	29
+căn_cứ chương_trình giám_sát	29
+luật quốc_hội khoá viii	29
+giám_sát thực_hiện luật	28
+dự_kiến chương_trình	27
+kiến_nghị giám_sát	25
+đại_biểu dân_cử	25
+luật quốc_hội	24
+giám_sát quốc_hội	24
+cơ_quan quốc_hội thành_lập	23
+căn_cứ nghị_quyết quốc_hội khoá x	23
+giám_sát chuyên_đề	23
+luật nghị_quyết quốc_hội	23
+25 12 2001 quốc_hội khóa x	23
+quốc_hội bầu	22
+quốc_hội thông_qua	21
+biểu_quyết tán_thành	21
+kiến_nghị luật	21
+khoá quốc_hội	21
+ít_nhất hai tổng_số đại_biểu quốc_hội biểu_quyết tán_thành	20
+hoạt_động giám_sát quốc_hội	20
+ít_nhất tổng_số đại_biểu quốc_hội	20
+đại_biểu quốc_hội hoạt_động chuyên_trách	19
+luật quốc_hội khoá xii	19
+thành_phần đoàn giám_sát	19
+kết_quả giám_sát	17
+quốc_hội khoá x	17
+căn_cứ kết_quả giám_sát	17
+quốc_hội khóa	17
+thành_lập đoàn giám_sát	17
+căn_cứ nghị_quyết quốc_hội khoá ix	17
+chương_trình giám_sát hằng	17
+nhiệm_vụ đại_biểu	16
+giám_sát tối_cao	16
+quốc_hội khoá xi	16
+quốc_hội thành_lập	16
+luật quốc_hội khoá	15
+trưởng_đoàn đại_biểu quốc_hội	15
+bầu_cử đại_biểu quốc_hội	15
+khóa x	15
+khoá xi	14
+nhiệm_kỳ quốc_hội	14
+tổng_số đại_biểu quốc_hội	14
+nhiệm_kỳ khoá	13
+nửa tổng_số đại_biểu quốc_hội biểu_quyết tán_thành	13
+đoàn đại_biểu	13
+quốc_hội biểu_quyết	12
+quốc_hội nhiệm_kỳ	11
+vấn_đề đoàn giám_sát	10
+đại_biểu quốc_hội đoàn	10
+bãi_nhiệm đại_biểu quốc_hội	10
+/ qh10 25 12 2001 quốc_hội khoá x	10
+giám_sát hoạt_động cơ_quan	9
+thực_hiện quyền giám_sát	9
+đại_biểu quốc_hội bầu	9
+quốc_hội khoá ix	9
+hoạt_động chuyên_trách	9
+giám_sát thực_hiện	8
+bầu đại_biểu quốc_hội	8
+quốc_hội khoá viii	7
+thông_qua chương_trình	7
+quốc_hội ban_hành	6
+căn_cứ chương_trình	6
+luật bầu_cử đại_biểu quốc_hội	6
+thực_hiện quyền giám_sát tối_cao	6
+giám_sát hằng	6
+nửa tổng_số	5
+căn_cứ nghị_quyết quốc_hội khoá	5
+nửa tổng_số đại_biểu quốc_hội	5
+ban_hành nghị_quyết	5
+khóa xi	5
+thực_hiện chương_trình giám_sát	5
+số51 / 2001 / qh10 25 12 2001	5
+thông_qua hoạt_động	5
+thành_phần đoàn	5
+đại_biểu quốc_hội biểu_quyết tán_thành	5
+thành_lập đoàn	5
+hai tổng_số	4
+khoá x	4
+hai tổng_số đại_biểu quốc_hội	4
+quốc_hội giám_sát	4
+ban_hành luật	4
+25 12 2001	4
+quyền biểu_quyết	4
+khoá ix	4
+kiến_nghị cơ_quan	4
+kế_hoạch hằng	3
+thông_qua nghị_quyết	3
+khoá viii	3
+/ qh10 25 12 2001 quốc_hội khóa x	3
+giám_sát thực_hiện nghị_quyết	3
+thực_hiện chương_trình	3
+quyền kiến_nghị	3
+quốc_hội đại_biểu quốc_hội	3
+khoá xiii	2
+ít_nhất hai tổng_số	2
+khoá xii	2
+chất_vấn đại_biểu quốc_hội	2
+đại_biểu quốc_hội biểu_quyết	2
+giám_sát thông_qua hoạt_động	2
+quyền giám_sát tối_cao	2
+thông_qua_ngày 25	2
+thông_qua nửa tổng_số	2
+25 12	2
+nghị_quyết thông_qua	2
+biểu_quyết vấn_đề	2
+ban_hành luật sửa_đổi	2
+thực_hiện nghị_quyết	2
+vấn_đề nhiệm_vụ	2
+giám_sát đoàn đại_biểu quốc_hội	2
+thực_hiện nhiệm_vụ	1
+vấn_đề đại_biểu	1
+bầu_cử đại_biểu	1
+/ 2001 / qh10 25 12 2001	1
+luật sửa_đổi	1
+quốc_hội thực_hiện quyền giám_sát	1
+khóa xii	1
+đại_biểu bầu	1
+bãi_nhiệm đại_biểu	1
+quốc_hội khóa x	1
+thực_hiện kế_hoạch	1
+đoàn đại_biểu quốc_hội đại_biểu	1
+hai tổng_số đại_biểu quốc_hội biểu_quyết tán_thành	1
+kết_quả thực_hiện	1
+đại_biểu quốc_hội đại_biểu quốc_hội	1
+thực_hiện thông_qua	1
+biểu_quyết thông_qua	1
+căn_cứ kết_quả	1

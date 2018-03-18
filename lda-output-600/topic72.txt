@@ -1,0 +1,194 @@
+nộp thuế	704
+cơ_quan thuế	380
+miễn thuế	267
+đối_tượng nộp thuế	177
+tiền phạt	175
+cơ_quan quản_lý thuế	171
+tiền thuế	169
+thuế giá_trị gia_tăng	164
+thuế tiêu_thụ đặc_biệt	148
+thuế nộp	141
+hoàn thuế	123
+thu thuế	106
+thuế xuất_khẩu	106
+thuế tài_nguyên	105
+cán_bộ thuế	83
+căn_cứ thuế	76
+thời_hạn nộp thuế	71
+quản_lý thuế	66
+quyết_toán thuế	66
+giá thuế	64
+khai man	60
+nộp tiền thuế	59
+tiền chậm nộp	52
+nộp phạt	51
+nộp chậm	50
+chậm nộp	47
+đối_tượng thuế	45
+nộp tiền	43
+thuế giá_trị gia_tăng đầu_vào	42
+nộp hồ_sơ khai thuế	42
+kiểm_tra thuế	42
+thuế nộp thuế	41
+gian_lận thuế	39
+thanh_tra thuế	37
+thuế doanh_thu	36
+giá_trị gia_tăng	34
+hồ_sơ khai thuế	34
+kho bảo thuế	32
+khai thuế	32
+tiền thuế nộp	32
+thuế đối_với	29
+nộp thuế tiêu_thụ đặc_biệt	29
+cơ_quan thu thuế	29
+thu tiền	29
+phạt tiền	28
+miễn thuế_nhập_khẩu	28
+nộp tờ khai	28
+công_chức quản_lý thuế	28
+ấn_định thuế	27
+nghĩa_vụ nộp thuế	27
+hoàn_thành nghĩa_vụ nộp thuế	27
+thuế nhà_đất	26
+phương_pháp khấu_trừ thuế	25
+gia_hạn nộp thuế	25
+nộp thuế tài_nguyên	25
+trốn_thuế số_lượng	25
+lợi_tức thuế	24
+phạt 0	23
+bổ_sung một_số luật thuế tiêu_thụ đặc_biệt	22
+thuế tuyệt_đối	22
+nộp thuế giá_trị gia_tăng	22
+thủ_trưởng cơ_quan quản_lý thuế	22
+mã_số thuế	22
+xét thuế	22
+kê_khai thuế	21
+diện thuế tiêu_thụ đặc_biệt	19
+hồ_sơ hoàn thuế	19
+thời_hạn nộp	19
+tờ khai	19
+viện_trợ hoàn	19
+hoàn thuế giá_trị gia_tăng	18
+thuế cơ_quan thuế	18
+biểu_thuế tiêu_thụ đặc_biệt	18
+kê_khai nộp thuế	18
+xét miễn thuế	18
+quyết_định kiểm_tra thuế	17
+xoá nợ tiền thuế	17
+mặt_hàng diện thuế tiêu_thụ đặc_biệt	17
+phát_sinh nghĩa_vụ thuế	17
+khai sai	16
+tiền thuế hoàn	16
+thuế công_thương_nghiệp	16
+nộp thuế doanh_thu	16
+thuế nợ	16
+viện_trợ nhân_đạo	15
+luật thuế giá_trị gia_tăng	15
+cơ_sở kinh_doanh nộp thuế	15
+nộp thuế xuất_khẩu	15
+nợ tiền thuế	15
+nộp thừa	15
+tiền thuế tiền phạt	15
+pháp_lệnh thuế nông_nghiệp	14
+lệnh thu	14
+nộp thuế nộp thuế	14
+hoàn_trả tiền thuế	14
+thuế nông_nghiệp	13
+diện thuế	13
+nộp thuế đầy_đủ	13
+luật thuế xuất_khẩu	13
+nộp thuế_nhập_khẩu	13
+nộp đầy_đủ	13
+nghì tiền	13
+đối_tượng nộp	12
+tờ khai thuế	12
+nộp tiền phạt	12
+thuế tiêu_thụ đặc_biệt nộp	12
+nộp chậm tiền thuế	11
+thu tiền thuế	11
+nộp thuế nộp	11
+khấu_trừ thuế	11
+thu thuế khoản thu	11
+cơ_quan thuế trực_tiếp_quản_lý thu thuế	11
+luật thuế tiêu_thụ đặc_biệt	11
+tiền thuế nợ	11
+phát_sinh nghĩa_vụ	10
+tiêu_thụ đặc_biệt	9
+trích tiền	9
+tiền thu	8
+khấu_trừ tiền	8
+cơ_quan thuế trực_tiếp_quản_lý	8
+thuế ấn_định	8
+thuế trực_tiếp_quản_lý thu thuế	7
+diện kiểm_tra	7
+đối_tượng diện	7
+luật thuế doanh_thu	7
+tiền phạt quy_định	6
+chứng_từ hồ_sơ	6
+thủ_trưởng cơ_quan	6
+tiền nộp	6
+nộp hồ_sơ	6
+nghĩa_vụ nộp	6
+thuế thuế_suất	6
+thuế_suất đối_với	6
+tiền phạt thu	6
+đầu_vào khấu_trừ	5
+đối_với một_số	5
+thuế trực_tiếp_quản_lý	5
+hồ_sơ khai	5
+miễn kiểm_tra	5
+lưu kho	5
+nộp thuế thực_hiện nghĩa_vụ	4
+hồ_sơ hoàn	4
+chứng_từ nộp	4
+thuế khoản thu	3
+thuế nộp tiền thuế	3
+xét miễn	3
+bổ_sung một_số luật thuế	3
+thuế_nhập_khẩu đối_với	3
+bổ_sung hồ_sơ	3
+thuế tiền phạt	3
+tiền chậm	3
+đối_với cán_bộ	3
+gia_hạn nộp	3
+cơ_quan quản_lý	3
+tiền nộp chậm	3
+thuế hoàn	3
+luật thuế	3
+giá_trị đặc_biệt	2
+căn_cứ quyết_định	2
+cơ_sở kinh_doanh nộp	2
+chậm tiền	2
+nộp thuế quy_định	2
+khai_báo cơ_quan	2
+tiền tài_khoản	2
+thuế giá_trị	2
+hoàn_thành nghĩa_vụ nộp	2
+thuế nộp tiền	2
+phương_pháp khấu_trừ	1
+tiền thuế tiền	1
+đối_với khoản thu	1
+khoản tiền phạt	1
+bảo thuế	1
+thực_hiện nghĩa_vụ	1
+tiêu_thụ đặc_biệt nộp	1
+tài_khoản tiền	1
+nộp khoản	1
+miễn tiền	1
+kiểm_tra thực_hiện	1
+chứng_từ thu	1
+thời_hạn gia_hạn	1
+chậm tiền thuế	1
+quản_lý nợ	1
+thuế chậm	1
+thu tiền phạt	1
+quản_lý cán_bộ	1
+hoàn_trả tiền	1
+xoá nợ	1
+thực_hiện đầy_đủ	1
+thời_hạn xét	1
+thuế_suất thuế	1
+miễn nộp	1
+khoản thu	1
+thực_hiện một_số	1
+nộp tờ	1

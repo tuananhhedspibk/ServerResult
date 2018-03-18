@@ -1,0 +1,154 @@
+thời_hạn mười lăm	324
+thời_hạn mươi	273
+thời_hạn 05 làm_việc	213
+thời_hạn 10	179
+thời_hạn 03 làm_việc	162
+mười lăm	156
+thời_hạn mười	152
+thời_hạn bảy	133
+thời_hạn làm_việc	130
+thời_hạn 24	109
+sáu mươi	96
+thời_hạn 05	85
+thời_hạn bảy làm_việc	82
+chậm nhất_là	82
+hai mươi	75
+mười hai	66
+thời_hạn 20	64
+bốn mươi lăm	64
+chậm 15	63
+thời_hạn 02 làm_việc	58
+thời_hạn hai mươi	57
+chậm nhất_là mười lăm	57
+thời_hạn sáu mươi	57
+thời_hạn 07 làm_việc	56
+chậm bảy	55
+thời_hạn 10 làm_việc	54
+chậm nhất_là mười	53
+thời_hạn mười làm_việc	52
+chậm nhất_là 10	49
+chậm 20	45
+chậm hai mươi	45
+thời_hạn hai	44
+03 làm_việc	43
+thời_hạn sáu	40
+thời_hạn 15	39
+05 làm_việc	38
+mười tám trở	38
+ít_nhất hai	37
+mười tám	37
+hai mươi lăm	37
+chậm mươi	37
+mươi nghìn	36
+thời_hạn 03	36
+thời_hạn chín mươi	35
+thời_hạn 02	35
+kéo_dài thời_hạn	35
+chín mươi	35
+thời_hạn mười hai	32
+bốn mươi	31
+chậm 30	30
+ít_nhất 05	29
+mươi lăm	26
+trăm tám mươi	26
+thời_hạn ghi	24
+thời_hạn 07	24
+hai mươi bốn	22
+chỗ làm_việc	22
+03 liên_tiếp	21
+giải_quyết thời_hạn mười lăm	21
+chậm hai	20
+10 làm_việc	20
+mười lăm mười tám	20
+thời_hạn dôi nhật	20
+hai mươi mốt	20
+công_bố chậm nhất_là mười lăm	19
+thời_hạn 01 làm_việc	19
+hai trở	19
+chậm nhất_là 07	18
+thời_hạn hai mươi bốn	18
+thanh_niên mười sáu mười tám	18
+thời_hạn bốn	17
+chậm nhất_là 05 làm_việc	17
+công_bố chậm	17
+chậm sáu mươi	17
+chậm bốn mươi	17
+mười phần_trăm	16
+chậm nhất_là 05	16
+thời_hạn 45	16
+thời_hạn 30	16
+chậm mười lăm	16
+05 trở	15
+gia_hạn thời_hạn	15
+hai trăm	14
+kết_thúc thời_hạn	14
+chín mười	14
+chậm tiếp_nhận	13
+chậm nhất_là 03	13
+thời_hạn nhất_định	12
+thời_hạn chậm nhất_là mười lăm	12
+chậm hai mươi bầu_cử	11
+thời_hạn bốn mươi	11
+thời_hạn ít_nhất	11
+07 làm_việc	10
+thời_hạn chậm	10
+bốn nghìn	10
+chậm chín mươi	10
+bảy mươi	9
+chậm mươi bầu_cử	9
+chậm mười	9
+bảy mười	8
+phức_tạp thời_hạn	8
+mười sáu	8
+bốn mươi tám	8
+thời_hạn gia_hạn	8
+bảy làm_việc	8
+mười mười lăm	8
+mươi lăm bầu_cử	7
+mười hai mươi	7
+ít_nhất 02	7
+hai nghìn	7
+mười mười	7
+ít_nhất sáu	6
+công_bố chậm nhất_là mười	6
+mười lăm hai mươi	6
+chậm sáu	6
+02 làm_việc	6
+mười sáu mười tám	5
+05 10	5
+mươi mốt	5
+điều_ước quốc_tế thời_hạn mười lăm	5
+thời_hạn chín	5
+chậm chín	4
+03 trở	4
+mười làm_việc	4
+chậm nhất_là mười lăm bầu_cử	4
+công_bố chậm nhất_là	3
+thời_hạn kết_thúc	3
+thời_hạn 01	3
+tám mươi	3
+tám trở	3
+thời_hạn giải_quyết	3
+nghìn trở	3
+03 10	2
+15 trở	2
+thời_hạn 12	2
+mười bầu_cử	2
+ít_nhất 03	2
+sáu mười	2
+điều_ước quốc_tế thời_hạn mười	2
+01 10	2
+sáu mười tám	2
+nhất_là 03	1
+hai hai	1
+chậm bốn	1
+quốc_tế thời_hạn mười	1
+mươi bầu_cử	1
+20 trở	1
+12 20	1
+05 12	1
+nhất_là 10	1
+02 05	1
+02 trở	1
+trăm tám	1
+03 07	1

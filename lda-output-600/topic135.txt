@@ -1,0 +1,222 @@
+cơ_quan điều_tra	811
+tiến_hành tố_tụng	214
+cơ_quan tiến_hành tố_tụng	210
+cơ_quan giao nhiệm_vụ tiến_hành một_số hoạt_động điều_tra	177
+báo tội_phạm	166
+kiến_nghị khởi_tố	161
+tiến_hành điều_tra	151
+hoạt_động điều_tra	147
+thẩm_quyền tiến_hành tố_tụng	122
+yêu_cầu cơ_quan	107
+yêu_cầu cơ_quan điều_tra	95
+phó thủ_trưởng cơ_quan điều_tra	93
+dấu_hiệu tội_phạm	93
+điều_tra bổ_sung	91
+cơ_quan thẩm_quyền tiến_hành tố_tụng	90
+kết_thúc điều_tra	82
+thủ_trưởng cơ_quan điều_tra	82
+cơ_quan thẩm_quyền	76
+hoạt_động tố_tụng	75
+kết_luận điều_tra	75
+gia_hạn điều_tra	75
+hoạt_động tố_tụng_hình_sự	72
+khám_nghiệm hiện_trường	69
+thời_hạn điều_tra	64
+cán_bộ điều_tra	63
+cơ_quan an_ninh điều_tra	63
+kiến_nghị cơ_quan	59
+cơ_quan công_an	58
+cơ_quan điều_tra thẩm_quyền	55
+hồ_sơ điều_tra bổ_sung	47
+thực_nghiệm điều_tra	46
+quân_đội nhân_dân giao nhiệm_vụ tiến_hành một_số hoạt_động điều_tra	45
+cơ_quan điều_tra hình_sự	45
+cơ_quan tiến_hành	44
+giai_đoạn điều_tra	43
+điều_tra hình_sự	42
+giao nhiệm_vụ tiến_hành một_số hoạt_động điều_tra	42
+hành_vi_tố_tụng cơ_quan	40
+thẩm_quyền điều_tra cơ_quan điều_tra	39
+đình_chỉ điều_tra	39
+thẩm_quyền tiến_hành	39
+điều_tra cơ_quan điều_tra	38
+khám_nghiệm tử_thi	38
+cơ_quan cảnh_sát điều_tra	37
+thay_đổi tiến_hành tố_tụng	37
+thẩm_quyền điều_tra	36
+tiến_hành hoạt_động	36
+tội_phạm thẩm_quyền xét_xử	35
+đề_nghị thay_đổi tiến_hành tố_tụng	35
+điều_tra xét_xử	35
+giải_quyết tố_giác	33
+giải_quyết tội_phạm	33
+quá_trình điều_tra	33
+báo tội_phạm kiến_nghị khởi_tố	32
+cảnh_sát điều_tra tội_phạm	32
+phục_hồi điều_tra	32
+tiến_hành một_số hoạt_động điều_tra	31
+tiến_hành hoạt_động tố_tụng	28
+tố_giác tội_phạm	28
+oan vô_tội	27
+lọt tội_phạm	27
+tiến_hành hoạt_động điều_tra	27
+cơ_quan thẩm_quyền tiến_hành	27
+phó thủ_trưởng cơ_quan	25
+gia_hạn điều_tra hai	24
+đề_nghị cơ_quan	24
+điều_tra tội_phạm	24
+nhiệm_vụ giao	24
+công_tác điều_tra	24
+cơ_quan tiến_hành tố_tụng_hình_sự	24
+có_mặt giấy triệu_tập cơ_quan điều_tra	23
+cơ_quan điều_tra bắt	23
+dấu_vết tội_phạm	21
+kiểm_tra hoạt_động điều_tra	21
+tiến_hành biện_pháp điều_tra	20
+tiếp_nhận tố_giác	20
+hoạt_động điều_tra hình_sự	19
+quyết_định phục_hồi điều_tra	19
+cơ_quan điều_tra tiến_hành điều_tra	19
+phát_hiện tội_phạm	18
+hồ_sơ cơ_quan điều_tra	18
+thủ_trưởng cơ_quan	18
+điều_tra_viên tiến_hành	18
+quyết_định phân_công thay_đổi phó	18
+yêu_cầu điều_tra bổ_sung	18
+cơ_quan cảnh_sát điều_tra công_an huyện	17
+tiến_hành khám_xét	17
+tiến_hành tố_tụng_hình_sự	17
+phó thủ_trưởng	17
+từ_chối tiến_hành tố_tụng thay_đổi	17
+yêu_cầu cơ_quan tiến_hành tố_tụng	17
+chứng_minh bị_can thực_hiện tội_phạm	17
+tiết_lộ bí_mật điều_tra	17
+tổ_chức điều_tra hình_sự	17
+tiến_hành xác_minh	16
+tiến_hành hoạt_động tố_tụng thẩm_quyền	16
+báo cơ_quan	16
+thực_hiện tội_phạm	15
+cơ_quan thẩm_quyền nước_ngoài	15
+cơ_quan điều_tra hình_sự khu_vực	15
+cảnh_sát điều_tra tội_phạm trật_tự xã_hội	14
+từ_chối tiến_hành tố_tụng đề_nghị thay_đổi	14
+áp_dụng biện_pháp điều_tra tố_tụng đặc_biệt	14
+cơ_quan điều_tra quân_đội nhân_dân	14
+từ_chối tiến_hành tố_tụng	14
+kết_quả điều_tra	13
+cơ_quan thẩm_quyền giải_quyết	13
+phát_hiện dấu_hiệu tội_phạm	13
+công_tác điều_tra hình_sự	13
+cục cảnh_sát điều_tra tội_phạm	13
+yêu_cầu cơ_quan thẩm_quyền	13
+niêm_phong tiến_hành	12
+thẩm_quyền xét_xử	12
+cơ_quan cảnh_sát điều_tra công_an	12
+bí_mật điều_tra	12
+hoạt_động tố_tụng_hình_sự xác_định	11
+tiến_hành xét_xử	11
+quyết_định đình_chỉ điều_tra	11
+cơ_quan giao	11
+thẩm_quyền hoạt_động tố_tụng_hình_sự xác_định	10
+điều_tra bổ_sung thời_hạn	10
+yêu_cầu thay_đổi	9
+điều_tra tố_tụng đặc_biệt	9
+khởi_tố hình_sự	9
+yêu_cầu thay_đổi tiến_hành tố_tụng	9
+cơ_quan an_ninh điều_tra công_an	8
+điều_tra thẩm_quyền	8
+pháp_lệnh tổ_chức điều_tra hình_sự	8
+cơ_quan giao nhiệm_vụ	7
+tội_phạm thẩm_quyền	7
+biện_pháp điều_tra tố_tụng đặc_biệt	7
+đề_nghị thay_đổi	7
+cơ_quan điều_tra công_an	6
+thực_hiện nhiệm_vụ	6
+chỉ_đạo hoạt_động điều_tra	6
+thay_đổi điều_tra_viên	6
+thẩm_quyền hoạt_động tố_tụng_hình_sự	6
+thẩm_quyền giải_quyết	6
+hồ_sơ yêu_cầu	6
+tiến_hành một_số	5
+giao nhiệm_vụ	5
+tiến_hành có_mặt	5
+tiến_hành một_số hoạt_động	5
+tiến_hành khám_nghiệm	5
+tố_tụng thẩm_quyền	5
+cơ_quan cảnh_sát	5
+kiểm_tra hoạt_động	5
+từ_chối tiến_hành	5
+cơ_quan chuyên_trách	5
+tiến_hành kiểm_tra	5
+giao nhiệm_vụ tiến_hành một_số hoạt_động điều_tra thực_hiện	4
+khởi_tố bị_can	4
+giấy triệu_tập	4
+thẩm_quyền kiến_nghị thẩm_quyền	4
+yêu_cầu cơ_quan điều_tra truy_nã	4
+một_số hoạt_động điều_tra	4
+tội_phạm cơ_quan điều_tra	4
+cơ_quan điều_tra tiến_hành	4
+giải_quyết yêu_cầu	3
+tội_phạm thẩm_quyền xét_xử tòa_án	3
+tiến_hành hòa_giải	3
+cục điều_tra	3
+giai_đoạn quá_trình	3
+cấu_thành tội_phạm	3
+điều_tra cơ_quan giao nhiệm_vụ tiến_hành một_số hoạt_động điều_tra	3
+nhân_dân giao nhiệm_vụ tiến_hành một_số hoạt_động điều_tra	3
+cơ_quan tiến_hành tố_tụng thẩm_quyền	3
+hình_sự quân_đội nhân_dân	2
+điều_tra quy_định luật_tố_tụng_hình_sự	2
+an_ninh điều_tra công_an	2
+đề_nghị cơ_quan thẩm_quyền	2
+kiến_nghị cơ_quan thẩm_quyền	2
+phát_hiện dấu_hiệu	2
+bổ_sung một_số	2
+quá_trình tiến_hành	2
+quyết_định gia_hạn	2
+tội_phạm thẩm_quyền điều_tra	2
+giai_đoạn xét_xử	2
+quyết_định thay_đổi	2
+giấy chứng_minh	2
+bị_can thực_hiện tội_phạm	2
+đình_chỉ giải_quyết	2
+tiến_hành biện_pháp	2
+một_số hoạt_động	2
+giấy triệu_tập cơ_quan điều_tra	2
+giao khu_vực	1
+bí_mật công_tác	1
+giấy triệu_tập cơ_quan	1
+an_ninh điều_tra	1
+có_mặt giấy triệu_tập cơ_quan	1
+gia_hạn thời_hạn	1
+kiến_nghị thẩm_quyền	1
+quá_trình thực_hiện	1
+nhân_dân giao nhiệm_vụ tiến_hành	1
+tổ_chức thực_hiện	1
+bổ_sung hồ_sơ	1
+điều_tra đề_nghị truy_tố	1
+thay_đổi bổ_sung	1
+thẩm_quyền quyết_định	1
+khai_báo cơ_quan	1
+áp_dụng biện_pháp điều_tra tố_tụng	1
+thực_hiện hoạt_động	1
+thẩm_quyền kiến_nghị cơ_quan	1
+thẩm_quyền kiến_nghị	1
+quyết_định khởi_tố	1
+nhân_dân giao nhiệm_vụ tiến_hành một_số	1
+giao nhiệm_vụ tiến_hành	1
+công_an nhân_dân	1
+thủ_trưởng cơ_quan giao	1
+tiến_hành tố_tụng thay_đổi	1
+chỉ_đạo hoạt_động	1
+quân_đội giao	1
+thẩm_quyền giải_quyết yêu_cầu	1
+thẩm_quyền nước_ngoài	1
+quân_đội nhân_dân giao nhiệm_vụ	1
+từ_chối thực_hiện	1
+quyết_định phục_hồi	1
+nhiệm_vụ tiến_hành	1
+giao nhiệm_vụ tiến_hành một_số hoạt_động	1
+kiểm_tra hồ_sơ	1
+yêu_cầu cơ_quan tiến_hành	1
+yêu_cầu thay_đổi tiến_hành	1

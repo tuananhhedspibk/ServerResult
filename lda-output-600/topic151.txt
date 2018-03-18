@@ -1,0 +1,222 @@
+sử_dụng lao_động	1014
+vệ_sinh lao_động	582
+hợp_đồng lao_động	337
+tai_nạn lao_động	309
+an_toàn lao_động	162
+đối_với lao_động	131
+lao_động đi làm_việc nước_ngoài	128
+lao_động làm_việc	119
+lao_động nữ	110
+tập_thể lao_động	108
+thoả_ước lao_động tập_thể	101
+giải_quyết tranh_chấp lao_động	93
+chấm_dứt hợp_đồng lao_động	84
+bảo_hộ lao_động	78
+lao_động sử_dụng lao_động	69
+suy_giảm khả_năng lao_động	67
+hợp_đồng làm_việc	65
+thỏa_ước lao_động tập_thể	62
+nội_quy lao_động	58
+thời_giờ làm_việc	58
+hợp_đồng lao_động đi làm_việc nước_ngoài	56
+đơn_phương chấm_dứt hợp_đồng lao_động	55
+hội_đồng trọng_tài lao_động	52
+khả_năng lao_động	52
+quan_hệ lao_động	50
+công_việc nặng_nhọc	49
+đi làm_việc nước_ngoài	49
+thoả_ước tập_thể	49
+thương_lượng tập_thể	48
+xử_lý kỷ_luật lao_động	47
+thị_trường lao_động	44
+điều_tra tai_nạn lao_động	44
+bảo_hiểm tai_nạn lao_động	44
+giao_kết_hợp_đồng lao_động	44
+đại_diện tập_thể lao_động	43
+thời_giờ nghỉ_ngơi	42
+tranh_chấp lao_động	42
+hai tranh_chấp	39
+kỷ_luật lao_động	39
+tranh_chấp lao_động tập_thể	38
+nghĩa_vụ lao_động công_ích	37
+giải_quyết đình_công	37
+giám_định_mức suy_giảm khả_năng lao_động	36
+sử_dụng lao_động trách_nhiệm	36
+hợp_đồng lao_động xác_định thời_hạn	35
+sức lao_động	35
+vệ_sinh lao_động làm_việc	34
+tuyển_dụng lao_động	34
+thực_hiện nghĩa_vụ lao_động công_ích	32
+làm_việc hợp_đồng lao_động	32
+bộ_luật lao_động	31
+giải_quyết việc_làm	30
+giải_quyết tranh_chấp lao_động tập_thể	30
+đại_diện sử_dụng lao_động	29
+cải_thiện điều_kiện lao_động	28
+thông_tin thị_trường lao_động	27
+việc_làm lao_động	26
+tổ_chức đại_diện tập_thể lao_động	26
+thiết_bị làm_việc	26
+sử_dụng lao_động nữ	26
+thực_hiện hợp_đồng lao_động	26
+trở_lại làm_việc	25
+quyền_lợi lao_động	25
+hoạt_động lao_động đi làm_việc nước_ngoài	25
+lãnh_đạo đình_công	25
+làm_việc nước_ngoài	25
+vệ_sinh lao_động nghiêm_trọng	23
+tổ_chức đại_diện sử_dụng lao_động	23
+tập_thể lao_động sử_dụng lao_động	23
+anh_hùng lao_động	23
+lao_động chết	23
+thành_quả lao_động	23
+lao_động tai_nạn lao_động	23
+tiền_lương lao_động	22
+tiếp_tục làm_việc	22
+liên_đoàn lao_động	22
+lao_động cao_tuổi	22
+trợ_cấp tai_nạn lao_động	21
+hợp_đồng lao_động giao_kết	21
+lao_động thành_niên	20
+ngừng đình_công	20
+lao_động đi làm_việc nước_ngoài hình_thức thực_tập nâng cao_tay_nghề	20
+hội_đồng hoà_giải_lao_động cơ_sở hoà_giải_viên lao_động	20
+lao_động đi	20
+lao_động làm_việc hợp_đồng lao_động	19
+hợp_đồng lao_động vô_hiệu	19
+nguy_cơ tai_nạn lao_động	19
+ký_kết_hợp_đồng lao_động	19
+lao_động trở_lại làm_việc	19
+tiêu_chuẩn an_toàn lao_động	19
+trợ_cấp sức lao_động	19
+phương_án sử_dụng lao_động	18
+hợp_đồng cung_ứng lao_động	18
+hội_đồng hoà_giải_lao_động cơ_sở	17
+nghĩa_vụ lao_động	17
+cưỡng_bức lao_động	17
+tranh_chấp lao_động cá_nhân	17
+lao_động đi làm_việc nước_ngoài hợp_đồng	17
+hoà_giải_viên lao_động	17
+nghề công_việc	17
+hội_đồng trọng_tài lao_động tỉnh	16
+dịch_vụ việc_làm	16
+năng_suất lao_động	16
+lao_động đi làm_việc	16
+lao_động tập_thể	15
+công_việc phù_hợp	15
+giải_quyết tranh_chấp	14
+lao_động nghỉ	14
+nước_ngoài làm_việc	14
+tổ_chức sự_nghiệp lao_động đi làm_việc nước_ngoài	14
+lao_động khuyết_tật	14
+cung_ứng lao_động	13
+đi làm_việc	12
+xảy tai_nạn lao_động	12
+quyền sử_dụng	12
+đi làm_việc nước_ngoài hợp_đồng	12
+sử_dụng lao_động đóng	12
+hoạt_động dịch_vụ lao_động đi làm_việc nước_ngoài	12
+mức_độ suy_giảm khả_năng lao_động	11
+lao_động tham_gia_bảo_hiểm_xã_hội	11
+chế_độ tai_nạn lao_động	11
+chấm_dứt hợp_đồng làm_việc	11
+lao_động công_ích	10
+tiếp_tục sử_dụng	10
+chỗ làm_việc	10
+trách_nhiệm giải_quyết	10
+điều_kiện làm_việc	10
+bố_trí công_việc	10
+làm_việc chế_độ tập_thể	10
+trợ_cấp việc_làm	9
+tranh_chấp quyền	9
+lao_động đối_với lao_động	9
+thực_hiện công_việc	9
+vi_phạm kỷ_luật lao_động	9
+nghĩa_vụ lao_động công_ích hằng	9
+tranh_chấp lao_động tập_thể quyền	8
+bảo_hiểm_xã_hội đối_với lao_động	8
+chế_độ làm_việc	8
+hợp_đồng lao_động đi	8
+đối_với nữ	7
+chế_độ bảo_hiểm tai_nạn lao_động	7
+phương_án sử_dụng	7
+dịch_vụ lao_động đi làm_việc nước_ngoài	7
+chấm_dứt hoạt_động	6
+công_ích hằng	6
+cải_thiện điều_kiện làm_việc	5
+giải_quyết công_việc	5
+hợp_đồng thuê	5
+chấm_dứt hợp_đồng	5
+hình_thức thực_tập nâng cao_tay_nghề	5
+trọng_tài lao_động	4
+tai_nạn rủi_ro	4
+làm_việc chế_độ	4
+làm_việc hợp_đồng	4
+lao_động đóng	4
+hợp_đồng giao_kết	4
+thời_hạn giải_quyết	3
+hội_đồng hoà_giải_lao_động cơ_sở hoà_giải_viên	3
+xử_lý kỷ_luật	3
+giới_thiệu việc_làm	3
+thực_tập nâng cao_tay_nghề	3
+vụ tai_nạn	3
+hoà_giải_lao_động cơ_sở	3
+lao_động công_ích hằng	3
+tổ_chức sự_nghiệp lao_động	3
+lao_động trở_lại	3
+hợp_đồng ký_kết	3
+thời_hạn làm_việc	2
+bảo_hiểm_xã_hội lao_động	2
+kỷ_luật hình_thức	2
+thời_hạn điều_tra	2
+sử_dụng thiết_bị	2
+phù_hợp khả_năng	2
+thực_hiện hợp_đồng	2
+tổ_chức hoạt_động	2
+lao_động giao_kết	2
+suy_giảm khả_năng	2
+lao_động nghỉ_việc	2
+kỷ_luật đối_với	2
+đại_diện tập_thể	2
+thực_hiện phương_án	2
+lao_động xác_định thời_hạn	2
+tranh_chấp hợp_đồng	2
+tổ_chức sự_nghiệp	2
+tiêu_chuẩn vệ_sinh	2
+tuyên_bố hợp_đồng lao_động	2
+vi_phạm hợp_đồng	2
+sử_dụng dịch_vụ	2
+chấm_dứt quan_hệ	1
+giải_quyết tranh_chấp hợp_đồng	1
+tranh_chấp giải_quyết	1
+cá_nhân nước_ngoài	1
+nguy_cơ tai_nạn	1
+ký_kết thoả_ước	1
+xảy tai_nạn	1
+mức_độ suy_giảm khả_năng	1
+hội_đồng hoà_giải_lao_động	1
+tập_thể vô_hiệu	1
+thực_hiện chế_độ	1
+hợp_đồng dịch_vụ	1
+xác_định thời_hạn	1
+đi làm_việc nước_ngoài hình_thức thực_tập	1
+trọng_tài nước_ngoài	1
+tiền_lương đóng	1
+nâng năng_suất	1
+tiếp_tục đi	1
+nâng cao_tay_nghề	1
+phương_án bố_trí	1
+đi làm_việc nước_ngoài hình_thức thực_tập nâng cao_tay_nghề	1
+cá_nhân chết	1
+lao_động đi làm_việc nước_ngoài hình_thức	1
+hình_thức hợp_đồng	1
+hội_đồng trọng_tài	1
+cơ_sở hoà_giải_viên lao_động	1
+đại_diện tổ_chức	1
+đóng bảo_hiểm_xã_hội	1
+sự_nghiệp lao_động đi làm_việc nước_ngoài	1
+điều_kiện an_toàn	1
+quyền nghĩa_vụ	1
+lao_động tai_nạn	1
+thực_tập nâng	1
+đi làm_việc nước_ngoài hình_thức	1

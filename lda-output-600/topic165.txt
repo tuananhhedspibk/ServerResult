@@ -1,0 +1,17 @@
+khai_thác tàu_bay	78
+chỉ_huy tàu_bay	32
+giấy_phép khai_thác	19
+chỉ_huy tầu_bay	16
+can_thiệp bất_hợp_pháp	15
+tầu_bay dân_dụng	15
+mệnh_lệnh chỉ_huy	7
+chứng_chỉ chuyên_môn	6
+đề_nghị giấy_phép	5
+giấy_phép sử_dụng	5
+sử_dụng thiết_bị	3
+thủ_tục thanh_lý	3
+thủ_tục giấy_phép	2
+đối_với tàu_bay	1
+phục_vụ mục_đích	1
+thủ_tục công_nhận	1
+sử_dụng mục_đích	1

@@ -1,0 +1,8 @@
+địa_bàn thủ_đô	28
+thủ_đô hà_nội	26
+phát_triển thủ_đô	24
+bảo_vệ thủ_đô	22
+thành_phố hà_nội	11
+mở_rộng giao_lưu	3
+dân_cư địa_bàn	2
+ưu_tiên phát_triển	1

@@ -1,0 +1,71 @@
+chi_phí liên_quan	123
+thanh_toán chi_phí	108
+chi_phí hợp_lý	104
+xảy sự_cố	102
+khắc_phục hậu_quả	91
+khắc_phục hậu_quả thiên_tai	72
+xảy tai_nạn	56
+khắc_phục sự_cố	52
+chi_phí phát_sinh	50
+bất_cứ lúc_nào	41
+trường_hợp xảy	39
+sự_cố xảy	39
+tai_nạn đâm va	36
+liên_quan quá_trình điều_tra	35
+lợi_ích liên_quan	32
+đâm va	26
+xảy sự_kiện	26
+tổn_thất xảy	26
+có_thể xảy	25
+điều_tra tai_nạn	24
+nguy_cơ xảy sự_cố	24
+tổn_thất phát_sinh	24
+không_thể khắc_phục	22
+nguy_cơ xảy	22
+phân_bổ tổn_thất	21
+thanh_toán chi_phí hợp_lý	21
+hạn_chế tổn_thất	20
+vụ tai_nạn	19
+thanh_toán chi_phí phát_sinh	19
+khắc_phục nguyên_nhân	18
+chi_phí hợp_lý liên_quan	17
+xảy tổn_thất	17
+chi_phí đi_lại	17
+hợp_lý chi_trả	15
+bù_đắp chi_phí	15
+liên_quan quá_trình	15
+khắc_phục tình_trạng	14
+tổn_thất toàn_bộ	14
+tổn_thất liên_quan	14
+suốt quá_trình	13
+khắc_phục hậu_quả dịch_bệnh	13
+chi_phí cần_thiết	13
+tranh_chấp liên_quan	12
+chi_phí bảo_quản	12
+loại_trừ nguyên_nhân	11
+thù_lao chi_phí	11
+phát_sinh quá_trình	10
+liên_quan hoạt_động	9
+chi_trả chi_phí	9
+tranh_chấp phát_sinh	9
+khắc_phục hậu_quả sự_cố	8
+nguyên_nhân bất_khả_kháng	8
+điều_tra vụ	6
+liên_quan vụ	6
+quá_trình điều_tra	6
+nguy_cơ sự_cố	5
+phòng_ngừa tai_nạn	4
+phát_sinh tranh_chấp	4
+kể_cả trường_hợp	4
+liên_quan trực_tiếp	3
+hậu_quả sự_cố	3
+phát_sinh hoạt_động	3
+hậu_quả thiên_tai	2
+liên_quan trực_tiếp vụ	2
+vụ tranh_chấp	2
+tranh_chấp phát_sinh hoạt_động	2
+cần_thiết liên_quan	2
+trường_hợp cần_thiết	2
+nguy_cơ tai_nạn	2
+sự_kiện bất_khả_kháng	1
+trường_hợp không_thể	1

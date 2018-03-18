@@ -1,0 +1,40 @@
+vụ_việc cạnh_tranh	74
+hội_đồng xử_lý vụ_việc cạnh_tranh	54
+quyết_định giải_quyết khiếu_nại quyết_định xử_lý vụ_việc cạnh_tranh	53
+quyết_định xử_lý vụ_việc cạnh_tranh	48
+cạnh_tranh lành_mạnh	39
+hạn_chế cạnh_tranh	33
+thoả_thuận hạn_chế cạnh_tranh	27
+tham_gia_tố_tụng cạnh_tranh	26
+hội_đồng cạnh_tranh	25
+sức cạnh_tranh	23
+khả_năng cạnh_tranh	20
+thành_viên hội_đồng xử_lý vụ_việc cạnh_tranh	18
+chủ_tịch hội_đồng cạnh_tranh	18
+xử_lý vụ_việc cạnh_tranh	17
+hành_vi cạnh_tranh lành_mạnh	16
+tiến_hành tố_tụng cạnh_tranh	12
+xử_lý vật_chứng	11
+quyết_định xử_lý	10
+xử_lý vụ_việc	9
+hội_đồng xử_lý vụ_việc	8
+tố_tụng cạnh_tranh	6
+hành_vi cạnh_tranh	6
+giải_quyết vụ_việc	6
+giải_quyết khiếu_nại quyết_định xử_lý vụ_việc cạnh_tranh	5
+tham_gia thị_trường	5
+thành_viên hội_đồng	4
+bãi_bỏ quyết_định	4
+khiếu_nại quyết_định xử_lý vụ_việc cạnh_tranh	4
+giải_quyết khiếu_nại	3
+quyết_định đình_chỉ giải_quyết	3
+thoả_thuận hạn_chế	2
+hành_vi cấm	2
+quyết_định giải_quyết khiếu_nại quyết_định xử_lý vụ_việc	1
+quyết_định đình_chỉ	1
+tiến_hành tố_tụng	1
+thành_viên tham_gia	1
+đình_chỉ giải_quyết	1
+khiếu_nại quyết_định	1
+hội_đồng thành_viên	1
+xử_lý hành_vi	1

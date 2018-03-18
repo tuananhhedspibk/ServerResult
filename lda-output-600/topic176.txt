@@ -1,0 +1,144 @@
+đóng bảo_hiểm_xã_hội	177
+nghỉ hưu	161
+hưởng lương hưu	116
+hưởng trợ_cấp	108
+lương cơ_sở	80
+lương tối_thiểu	79
+cơ_quan bảo_hiểm_xã_hội	74
+thời_gian đóng bảo_hiểm_xã_hội	71
+lương hưu	69
+hưởng lương	65
+quỹ bảo_hiểm_xã_hội	64
+sổ bảo_hiểm_xã_hội	58
+hưởng trợ_cấp thất_nghiệp	55
+hưởng bảo_hiểm_xã_hội	50
+tổ_chức bảo_hiểm_xã_hội	48
+trợ_cấp thôi_việc	48
+hưởng chế_độ	42
+bình_quân tiền_lương đóng bảo_hiểm_xã_hội	38
+hưởng chế_độ ốm_đau	37
+chế_độ bảo_hiểm_xã_hội	37
+pháp_luật bảo_hiểm_xã_hội	35
+đóng bảo_hiểm_thất_nghiệp	35
+nghỉ lễ	32
+hưởng chế_độ hưu_trí	31
+trợ_cấp bảo_hiểm_xã_hội	31
+hưởng chế_độ thai_sản	31
+điều_kiện hưởng lương hưu	29
+chế_độ tiền_lương	27
+tiền công đóng bảo_hiểm_xã_hội	26
+bảo_lưu thời_gian đóng bảo_hiểm_xã_hội	26
+nghỉ_việc hưởng chế_độ thai_sản	26
+tiền_lương đóng bảo_hiểm_xã_hội	25
+thời_gian nghỉ	24
+nghỉ hằng	24
+trợ_cấp việc_làm	23
+bình_quân thu_nhập đóng bảo_hiểm_xã_hội	23
+nhà_nước mua bảo_hiểm_y_tế	23
+chế_độ tử_tuất	22
+nghỉ hằng tuần	22
+nghỉ hàng	22
+bình_quân tiền_lương	21
+hưởng chế_độ bảo_hiểm_xã_hội	21
+tháng_lương tối_thiểu	20
+tham_gia_bảo_hiểm_xã_hội bắt_buộc	20
+đóng bảo_hiểm_xã_hội bắt_buộc	20
+bảo_hiểm_xã_hội bắt_buộc	20
+chế_độ hưu_trí	19
+phương_thức đóng	19
+tiền đóng	19
+bậc lương	19
+nghỉ tết	18
+nghỉ dưỡng_sức	18
+trợ_cấp bảo_hiểm_xã_hội hằng	18
+lao_động tham_gia_bảo_hiểm_xã_hội	17
+trợ_cấp tuất	17
+đóng quỹ	17
+trợ_cấp thất_nghiệp	17
+thời_gian đóng	17
+bảng lương	16
+đóng hằng	16
+% tiền_lương	16
+lương hưu hằng	16
+hưởng trợ_cấp tuất	16
+tham_gia_bảo_hiểm_xã_hội tự_nguyện	15
+hưởng nguyên lương	15
+chế_độ bảo_hiểm_y_tế	14
+trợ_cấp mai_táng	14
+bảo_hiểm_xã_hội quy_định	13
+lao_động đóng	12
+thời_gian nghỉ_việc	12
+chế_độ ốm_đau	12
+quỹ hưu_trí tử_tuất	12
+thực_hiện chế_độ tiền_lương	12
+thân_nhân hưởng trợ_cấp	12
+bảo_hiểm_xã_hội tự_nguyện	12
+thời_gian hưởng chế_độ	12
+hồ_sơ hưởng chế_độ	11
+thời_gian điều_trị	11
+nghỉ thai_sản	11
+phụ_cấp khu_vực	11
+chế_độ thai_sản	11
+điều_kiện hưởng chế_độ	10
+bảo_hiểm_xã_hội đóng	10
+lao_động hưởng chế_độ	10
+hưởng chế_độ thai_sản quy_định	9
+hưởng tiền_lương	9
+quỹ bảo_hiểm_thất_nghiệp	9
+đóng bảo_hiểm_y_tế	9
+lao_động nghỉ_việc	8
+trợ_cấp tuất hằng	8
+tiền_lương đóng	8
+hưu_trí tử_tuất	7
+nguyên lương	7
+đóng hằng đối_tượng	6
+lao_động nghỉ	6
+thân_nhân hưởng	6
+bảo_hiểm_xã_hội hằng	6
+lao_động hưởng	6
+bảo_hiểm_xã_hội lao_động	6
+khoản trợ_cấp	6
+điều_kiện hưởng	6
+thời_gian hưởng	5
+đóng hằng đối_tượng quy_định	5
+hằng quý	5
+hưởng khoản	4
+nghỉ_việc hưởng	4
+chế_độ tiền_lương nhà_nước quy_định	4
+thai_sản quy_định	4
+chế_độ phụ_cấp	4
+quỹ hưu_trí	4
+nghỉ_việc hưởng chế_độ	4
+% lương cơ_sở	3
+tiền_lương phụ_cấp	3
+thu_nhập đóng bảo_hiểm_xã_hội	3
+chế_độ trợ_cấp	3
+tiền công	3
+khoản phụ_cấp	3
+% lương	3
+chế_độ tiền_lương nhà_nước	3
+phụ_cấp thâm_niên	3
+tiền_lương lao_động	2
+dừng đóng	2
+thời_điểm hưởng	2
+thực_hiện chế_độ	2
+tuất hằng	2
+hưởng trợ_cấp hàng	2
+hồ_sơ hưởng	2
+quỹ bảo_hiểm_y_tế	2
+mua bảo_hiểm_y_tế	1
+bình_quân tiền_lương đóng	1
+tự_nguyện thực_hiện	1
+hưởng khoản tiền	1
+khu_vực nguy_hiểm	1
+nghỉ hưởng	1
+hưởng phụ_cấp	1
+hưởng khoản trợ_cấp	1
+lương phụ_cấp	1
+tổ_chức bảo_hiểm_y_tế	1
+tổ_chức mai_táng	1
+bảo_lưu thời_gian đóng	1
+khoản tiền	1
+hưởng nguyên	1
+tiếp_tục hưởng	1
+khoản thu_nhập	1

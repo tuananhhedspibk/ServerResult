@@ -1,0 +1,16 @@
+thông_điệp dữ_liệu	138
+động_viên công_nghiệp	109
+công_nghiệp quốc_phòng	101
+doanh_nghiệp công_nghiệp	45
+tổng động_viên động_viên cục_bộ	33
+xây_dựng phát_triển công_nghiệp quốc_phòng	21
+kiểm_tra sẵn_sàng động_viên	21
+tổng tham_mưu_trưởng	20
+động_viên cục_bộ	19
+lệnh tổng động_viên	11
+tổng công_ty	11
+quốc_phòng chủ_trì	6
+phát_triển công_nghiệp	6
+tổng động_viên	5
+phát_triển công_nghiệp quốc_phòng	5
+lệnh động_viên	5

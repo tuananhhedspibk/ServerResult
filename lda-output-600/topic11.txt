@@ -1,0 +1,3 @@
+thời_hiệu khiếu_nại	16
+chậm tiếp_nhận	9
+mở_rộng giao_lưu	6

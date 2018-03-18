@@ -1,0 +1,17 @@
+nêu gương	33
+hàm ngoại_giao	31
+nội_bộ đoàn_kết	27
+quá_trình cống_hiến	25
+huân ao động	19
+phục_vụ chiến_đấu	16
+ngành ngoại_giao	15
+15 trở	12
+20 trở	12
+tặng_thưởng huân_chương	8
+tổng_cục tương_đương	7
+công_tác đối_ngoại	5
+10 15	1
+công_tác ngành	1
+15 20	1
+phục_vụ công_tác	1
+thời_gian phục_vụ	1

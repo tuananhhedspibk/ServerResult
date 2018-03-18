@@ -1,0 +1,46 @@
+đăng_ký thường_trú	66
+cơ_quan quản_lý xuất nhập_cảnh	61
+sổ hộ_khẩu	41
+thẻ tạm_trú	34
+giấy_tờ giá_trị	29
+đăng_ký tạm_trú	25
+thẻ thường_trú	25
+nước_ngoài nhập_cảnh	25
+hộ_khẩu thường_trú	23
+tạm hoãn xuất_cảnh	22
+nước_ngoài thường_trú	21
+thường_trú tạm_trú	20
+miễn thị_thực	20
+cá_nhân mời	18
+sổ tạm_trú	18
+hoãn xuất_cảnh	16
+xuất nhập_cảnh	16
+cửa_khẩu quốc_tế	11
+đi_lại nước_ngoài	10
+nước_ngoài cư_trú	10
+cư_trú nước_ngoài	9
+giả_mạo giấy_tờ	7
+phù_hợp mục_đích	7
+thu_hồi thẻ	6
+quản_lý xuất nhập_cảnh	6
+thủ_tục đăng_ký	6
+nước_ngoài phép	4
+đăng_ký hộ_khẩu	4
+hộ_chiếu giấy_tờ	3
+cơ_quan đăng_ký	3
+giấy_tờ giả	3
+gia_hạn tạm	2
+tạm hoãn	2
+hộ_chiếu chứng_thực	2
+xuất_trình thẻ	2
+giá_trị sử_dụng	2
+xuất_trình giấy_tờ	2
+xoá đăng_ký	1
+sổ đăng_ký	1
+quản_lý sử_dụng	1
+tạm xuất	1
+đổi thẻ	1
+quản_lý xuất	1
+đề_nghị thẻ	1
+cơ_quan quản_lý	1
+vợ chồng	1

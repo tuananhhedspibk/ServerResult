@@ -1,0 +1,32 @@
+khu_vực biên_giới	93
+biên_giới quốc_gia	71
+khu_vực cấm	54
+chủ_quyền quốc_gia	51
+khu_vực hạn_chế	32
+toàn_vẹn lãnh_thổ	31
+lợi_ích quốc_gia	31
+khu_vực chiến_sự	31
+khu_vực địa_lý	28
+bảo_vệ chủ_quyền	28
+bảo_vệ biên_giới quốc_gia	27
+đối_tượng cảnh_vệ	26
+khu_vực phòng_thủ	25
+khu_vực thế_giới	24
+phòng_thủ dân_sự	24
+lực_lượng cảnh_vệ	22
+khu_vực nguy_hiểm	20
+cư_dân biên_giới	17
+lãnh_thổ quốc_gia	17
+chủ_quyền toàn_vẹn lãnh_thổ	15
+xác_định khu_vực	14
+phù_hợp đối_tượng	10
+công_tác cảnh_vệ	10
+bảo_vệ biên_giới	8
+khu_vực lân_cận	6
+bảo_vệ nghiêm_ngặt	5
+tạm_thời cấm	4
+khu_vực tạm_thời cấm	2
+bảo_vệ lợi_ích	1
+lực_lượng bảo_vệ	1
+công_tác bảo_vệ	1
+chủ_quyền toàn_vẹn	1

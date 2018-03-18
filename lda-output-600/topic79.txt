@@ -1,0 +1,35 @@
+đa_dạng sinh_học	151
+đào_tạo nhân_lực	83
+phát_triển nhân_lực	77
+phát_triển bền_vững	76
+bảo_tồn đa_dạng sinh_học	58
+huy_động nguồn_lực	55
+phát_triển thị_trường	40
+cơ_sở bảo_tồn đa_dạng sinh_học	23
+bảo_tồn phát_triển bền_vững đa_dạng sinh_học	22
+huy_động nhân_lực	22
+đào_tạo nhân_lực công_nghệ_cao	21
+huy_động nguồn_lực xã_hội	19
+tiêu_chí phân_loại	18
+quy_hoạch tổng_thể bảo_tồn đa_dạng sinh_học	17
+hình_thành phát_triển	16
+phát_triển công_nghiệp	15
+chế_phẩm sinh_học	14
+cơ_sở đào_tạo	13
+phát_triển công_nghệ_cao	12
+quy_hoạch phát_triển	10
+quy_hoạch bảo_tồn đa_dạng sinh_học	9
+nhân_lực công_nghệ_cao	9
+bảo_tồn phát_triển	8
+giai_đoạn phát_triển	8
+nguồn_lực phát_triển	6
+nguồn_lực xã_hội	5
+cơ_chế thị_trường	3
+phát_triển bền_vững đa_dạng sinh_học	3
+tổng_thể phát_triển	3
+bảo_tồn phát_triển bền_vững	3
+quy_hoạch tổng_thể phát_triển	2
+quy_hoạch tổng_thể	2
+quốc_gia phát_triển công_nghệ_cao	2
+tổng_thể bảo_tồn đa_dạng sinh_học	1
+quy_hoạch bảo_tồn	1

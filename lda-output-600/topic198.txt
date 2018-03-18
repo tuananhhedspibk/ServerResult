@@ -1,0 +1,25 @@
+hàng giả	46
+buôn_bán hàng giả	35
+thủ_đoạn xảo_quyệt	35
+vũ_lực thủ_đoạn	23
+tiền giả	22
+vật phạm_pháp số_lượng	22
+thủ_đoạn tinh_vi	21
+chỉ_huy sĩ_quan	19
+giấy_tờ giả	18
+tương_đương số_lượng	16
+kim_khí quý	13
+vật phạm_pháp	11
+buôn_bán hàng	11
+lâm tình_trạng	10
+chiến_tranh xâm_lược	8
+đe_doạ vũ_lực	8
+hàng cấm	7
+địch bắt	5
+mệnh_lệnh chỉ_huy	4
+phạm_pháp số_lượng	4
+giả_mạo giấy_tờ	4
+trốn_thuế số_lượng	3
+truy_tố xét_xử	2
+tổ_chức tín_dụng	1
+cấm lưu_hành	1

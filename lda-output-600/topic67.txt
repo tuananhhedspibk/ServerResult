@@ -1,0 +1,53 @@
+giá thị_trường	92
+giá mua	66
+giá khởi_điểm	61
+giá dịch_vụ	59
+thẩm_định giá tài_sản	53
+giá dịch_vụ vận_chuyển	53
+bình_ổn giá	46
+giá thị_trường thời_điểm	36
+doanh_nghiệp thẩm_định_giá	33
+thẩm_định viên giá	33
+giá niêm_yết	33
+giá hàng_hóa	30
+giá hàng_hoá	29
+xác_định giá	29
+tổ_chức thẩm_định_giá	28
+điều_chỉnh giá	27
+kết_quả thẩm_định_giá	24
+giá tài_sản	24
+giá ghi hóa_đơn	22
+hiệp_thương giá	22
+chỉ_số giá	21
+yếu_tố hình_thành giá	17
+chấp_nhận giá	17
+giá bán_lẻ	16
+giá thuê	13
+chênh_lệch giá	13
+giá giá	12
+thị_trường thời_điểm	10
+giá bán_lẻ điện	10
+thoả_thuận giá	8
+đường vận_chuyển	7
+biện_pháp bình_ổn giá	7
+tổ_chức thẩm_định	6
+dịch_vụ vận_chuyển	5
+định_giá tài_sản	5
+giá ghi	4
+mua hàng_hoá	4
+thẩm_định giá	4
+biểu giá	3
+hình_thành giá	3
+giá chuyển_nhượng	3
+dịch_vụ thẩm_định_giá	3
+ghi hóa_đơn	3
+mua tài_sản	2
+giá điện	2
+viên giá	2
+thuê mặt_nước	1
+liên_kết tổ_chức	1
+xác_định thời_điểm	1
+thuê dịch_vụ	1
+vận_chuyển hàng_hoá	1
+thẩm_định viên	1
+hàng_hoá mua	1

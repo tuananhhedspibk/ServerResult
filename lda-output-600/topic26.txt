@@ -1,0 +1,18 @@
+hòa giải	144
+tổ dân_phố	129
+hòa giải_viên	76
+hòa giải cơ_sở	67
+tổ_trưởng tổ dân_phố	53
+tổ_trưởng tổ	43
+hòa giải thành	38
+tiến_hành hòa_giải	27
+kết_quả hòa giải thành	18
+tổ hòa_giải	17
+hoạt_động hòa giải cơ_sở	12
+công_nhận kết_quả hòa giải thành	8
+tổ hòa giải	8
+công_nhận kết_quả	4
+thành_viên tổ	3
+kết_quả hòa giải	2
+tiến_hành hoạt_động	1
+giải thành	1

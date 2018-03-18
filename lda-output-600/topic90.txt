@@ -1,0 +1,47 @@
+cảng biển	228
+chuyến đi	73
+ven biển	71
+bến cảng	54
+tuyến đường	50
+biển báo_hiệu	31
+chìm biển	31
+biển dâng	31
+quyền chủ_quyền	29
+đường hàng_không	28
+cảng hàng_không	28
+kiểm_soát biển	28
+lấn biển	27
+quyền tài_phán	26
+bắt_đầu chuyến đi	25
+đáy biển	25
+tuyến hàng_hải	25
+bờ biển	25
+tiếp_giáp lãnh_hải	23
+rời cảng	21
+khu_vực biển	20
+mặt_nước biển	17
+rời cảng biển	17
+quãng đường	16
+đi đường	16
+cảng cạn	15
+ven bờ	15
+giấy_phép chìm biển	15
+cờ hiệu	10
+quyền tài_phán quốc_gia	10
+cờ quốc_tịch	9
+đường đi	8
+khu_vực cảng	8
+vùng_đất cảng	8
+cứu_hộ hàng_hải	7
+hệ_thống cảng	7
+đi lãnh_hải	6
+đường ngoại_giao	5
+bãi bồi	3
+ven sông	3
+bãi bồi ven sông	2
+chủ_quyền quốc_gia	2
+bãi sông	2
+quốc_tịch quốc_tịch	1
+tài_phán quốc_gia	1
+hệ_thống kiểm_soát	1
+tuyến sông	1

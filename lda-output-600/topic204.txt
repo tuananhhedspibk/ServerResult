@@ -1,0 +1,68 @@
+hội_đồng quản_trị	728
+thành_viên hội_đồng quản_trị	389
+hội_đồng dân_tộc	385
+hội_đồng thành_viên	243
+chủ_tịch hội_đồng quản_trị	156
+thành_viên hội_đồng thành_viên	135
+chủ_tịch hội_đồng thành_viên	132
+hội_đồng thẩm_định	124
+thành_viên hội_đồng	118
+hội_đồng tư_vấn	104
+họp hội_đồng thành_viên	66
+chủ_tịch hội_đồng	56
+thành_lập hội_đồng	47
+hội_đồng thành_viên chủ_tịch công_ty	46
+họp hội_đồng quản_trị	42
+quyết_định hội_đồng thành_viên	38
+chủ_tịch hội_đồng dân_tộc	36
+triệu_tập_họp hội_đồng thành_viên	33
+đại_hội thành_viên	31
+nghị_quyết hội_đồng thành_viên	28
+thành_lập hội_đồng thẩm_định	27
+thành_phần hội_đồng	26
+chủ_tịch thành_viên hội_đồng quản_trị	23
+thường_trực hội_đồng dân_tộc	22
+hội_đồng thành_viên chấp_thuận	21
+biên_bản họp hội_đồng thành_viên	18
+nhiệm_kỳ hội_đồng quản_trị	17
+thành_viên hội_đồng dân_tộc	16
+chấm_dứt tư_cách thành_viên	15
+đề_nghị hội_đồng	15
+chủ_tịch công_ty	14
+số_lượng thành_viên	13
+trở_thành thành_viên	12
+kết_luận hội_đồng	12
+độc_lập hội_đồng quản_trị	12
+tư_cách thành_viên	12
+nghị_quyết hội_đồng	9
+số_lượng thành_viên hội_đồng	8
+nhiệm_kỳ hội_đồng	6
+giám_sát hội_đồng dân_tộc	6
+hội_đồng quản_trị triệu_tập_họp	5
+tổng_số thành_viên hội_đồng	5
+đề_nghị chủ_tịch	5
+thành_viên chấp_thuận	5
+hội_đồng quản_trị giám_đốc	5
+họp hội_đồng	5
+đề_nghị chủ_tịch hội_đồng	4
+biên_bản họp hội_đồng	4
+quyết_định thành_lập	4
+thành_viên chủ_tịch	4
+quyết_định hội_đồng	4
+chủ_tịch thành_viên	3
+thường_trực hội_đồng	3
+danh_sách thành_viên	3
+hội_đồng thành_viên chủ_tịch	3
+đề_cử hội_đồng	2
+đề_nghị giám_đốc	2
+biên_bản họp	2
+chủ_tịch thành_viên hội_đồng	2
+thay_mặt hội_đồng	2
+triệu_tập_họp hội_đồng	2
+quyết_định thành_lập công_ty	1
+họp kết_luận	1
+độc_lập dân_tộc	1
+nghị_quyết đại_hội	1
+thành_viên công_ty	1
+chấm_dứt tư_cách	1
+quyết_định thành_lập hội_đồng	1

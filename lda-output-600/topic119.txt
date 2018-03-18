@@ -1,0 +1,29 @@
+thể_dục thể_thao	211
+thi_đấu thể_thao	77
+thể_thao du_lịch	76
+hoạt_động thể_dục	42
+môn thể_thao	37
+hoạt_động thể_thao	30
+liên_đoàn_thể_thao quốc_gia	25
+câu lạc_bộ thể_thao chuyên_nghiệp	24
+thể_thao quần_chúng	16
+tham_gia hoạt_động thể_dục	16
+phát_triển thể_dục	15
+uỷ_ban thể_dục thể_thao	15
+thể_thao chuyên_nghiệp	15
+thể_thao thành_tích	14
+câu lạc_bộ	13
+trường năng_khiếu	11
+chủ_nhiệm uỷ_ban	11
+năng_khiếu thể_thao	9
+giải thi_đấu	8
+quản_lý nhà_nước thể_dục thể_thao	6
+phát_triển tài_năng	4
+đăng_k ‎	4
+nhà_nước thể_dục thể_thao	4
+sự_nghiệp thể_dục	2
+du_lịch du_lịch	1
+phát_triển sự_nghiệp	1
+tham_gia hoạt_động	1
+câu lạc_bộ thể_thao	1
+phát_triển du_lịch	1

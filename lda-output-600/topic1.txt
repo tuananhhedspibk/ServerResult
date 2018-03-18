@@ -1,0 +1,33 @@
+trưng_dụng tài_sản	99
+tài_sản trưng_dụng	80
+huy_động lực_lượng	59
+đơn_vị dự_bị động_viên	43
+tài_sản trưng_mua	40
+lực_lượng chuyên_trách	31
+xây_dựng huy_động lực_lượng dự_bị động_viên	30
+xây_dựng lực_lượng	29
+trưng_mua tài_sản	29
+quyết_định huy_động	28
+lực_lượng dự_bị động_viên	28
+phối_hợp lực_lượng	27
+lực_lượng tuần_tra	27
+dự_bị động_viên	24
+sử_dụng tài_sản	24
+quyết_định trưng_dụng tài_sản	21
+quyết_định trưng_mua tài_sản	15
+quyết_định trưng_mua	15
+vật_nuôi tài_sản	15
+huy_động lực_lượng dự_bị động_viên	14
+chấp_hành quyết_định	8
+đối_với tài_sản	7
+hoàn_trả tài_sản	5
+huy_động nhân_lực	5
+chấp_hành lệnh	4
+tặng tài_sản	3
+quyết_định trưng_dụng	3
+lực_lượng nòng_cốt	3
+quyết_định hoàn_trả	3
+hiện_trạng tài_sản	2
+lực_lượng dự_bị	2
+xây_dựng huy_động lực_lượng	1
+lệnh động_viên	1

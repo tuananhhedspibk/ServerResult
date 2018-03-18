@@ -1,0 +1,100 @@
+quản tài_viên	157
+hội_nghị chủ_nợ	121
+đơn yêu_cầu thủ_tục phá_sản	93
+hợp_tác_xã khả_năng thanh_toán	87
+hợp_tác_xã phá_sản	86
+tuyên_bố phá_sản	73
+nộp đơn yêu_cầu thủ_tục phá_sản	72
+hợp_tác_xã lâm tình_trạng phá_sản	71
+quyết_định tuyên_bố doanh_nghiệp	68
+thủ_tục phá_sản	65
+tiến_hành thủ_tục phá_sản	63
+quyết_định thủ_tục phá_sản	55
+tham_gia hội_nghị chủ_nợ	53
+chủ_nợ bảo_đảm	50
+quyết_định tuyên_bố phá_sản	47
+danh_sách chủ_nợ	35
+tham_gia thủ_tục phá_sản	33
+giải_quyết phá_sản	33
+nộp đơn	33
+lâm tình_trạng phá_sản	31
+nghị_quyết hội_nghị chủ_nợ	30
+mắc nợ	29
+yêu_cầu thủ_tục phá_sản	28
+nợ bảo_đảm	27
+phá_sản doanh_nghiệp	25
+thủ_tục thanh_lý_tài_sản	25
+tuyên_bố phá_sản doanh_nghiệp	24
+đòi nợ	24
+tạm_ứng chi_phí phá_sản	22
+thụ_lý đơn yêu_cầu thủ_tục phá_sản	22
+hợp_tác_xã tuyên_bố phá_sản	21
+yêu_cầu tuyên_bố phá_sản doanh_nghiệp	20
+vụ_việc phá_sản	19
+quyết_định tuyên_bố phá_sản doanh_nghiệp	18
+nộp lệ_phí phá_sản	18
+tòa_án nhân_dân quyết_định thủ_tục phá_sản	18
+khả_năng thanh_toán	17
+lâm tình_trạng	17
+áp_dụng thủ_tục	16
+danh_sách mắc nợ	14
+thủ_tục giải_quyết	13
+doanh_nghiệp mắc nợ	12
+nợ chủ_nợ	11
+tuyên_bố doanh_nghiệp	11
+quyết_định thủ_tục thanh_lý_tài_sản	10
+quyết_định tuyên_bố	10
+thanh_lý_tài_sản doanh_nghiệp	10
+chi_phí phá_sản	10
+thẩm_phán quyết_định	9
+quyết_định giải_quyết	9
+hội_nghị chủ_nợ thông_qua	9
+yêu_cầu tuyên_bố phá_sản	8
+nguyên quyết_định	8
+giải_quyết yêu_cầu tuyên_bố phá_sản doanh_nghiệp	7
+thủ_tục thanh_lý	6
+thụ_lý đơn	6
+thẩm_phán quyết_định công_nhận	5
+quyết_định kháng_nghị	5
+giải_quyết yêu_cầu tuyên_bố phá_sản	5
+huỷ quyết_định	5
+quyết_định thay_đổi	4
+đơn yêu_cầu	4
+giải_quyết yêu_cầu	4
+quá_trình giải_quyết	4
+hợp_tác_xã khả_năng	3
+thay_đổi thẩm_phán	3
+kháng_nghị quyết_định	3
+tham_gia hội_nghị	3
+quyết_định đơn yêu_cầu	3
+thông_qua nghị_quyết	3
+thanh_toán nợ	3
+tạm_ứng chi_phí	3
+nộp lệ_phí	2
+tiến_hành thủ_tục	2
+lệ_phí phá_sản	2
+thông_qua quyết_định	2
+quyết_định thu_hồi	2
+địa_chỉ yêu_cầu	2
+giải_quyết vụ_việc	2
+giải_quyết thủ_tục	2
+nộp đơn yêu_cầu	2
+thủ_tục phục_hồi	2
+thẩm_phán xem_xét	2
+nợ doanh_nghiệp	2
+tòa_án tuyên_bố	1
+yêu_cầu áp_dụng	1
+thẩm_phán tiến_hành	1
+yêu_cầu tuyên_bố	1
+tình_trạng phá_sản	1
+nghị_quyết hội_nghị	1
+thủ_tục giải_quyết yêu_cầu	1
+quyết_định công_nhận	1
+hợp_tác_xã lâm tình_trạng	1
+thanh_toán chi_phí	1
+xem_xét đơn	1
+yêu_cầu thủ_tục	1
+quyết_định hoãn	1
+tòa_án nhân_dân	1
+thụ_lý vụ_việc	1
+quyết_định áp_dụng thủ_tục	1

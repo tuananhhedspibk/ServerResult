@@ -1,0 +1,71 @@
+vật_liệu nổ	111
+vật_liệu hạt_nhân	77
+vật_liệu nổ công_nghiệp	75
+an_toàn bức_xạ	75
+nhà_máy_điện hạt_nhân	71
+cơ_sở bức_xạ	67
+thiết_bị hạt_nhân	66
+chất_thải phóng_xạ	65
+an_toàn kiểm_soát bức_xạ	59
+vật_liệu phóng_xạ	42
+cơ_quan an_toàn bức_xạ hạt_nhân	41
+sự_cố bức_xạ	40
+tiến_hành công_việc bức_xạ	38
+ứng_phó sự_cố	38
+công_việc bức_xạ	33
+nhiên_liệu hạt_nhân	33
+cơ_quan quản_lý nhà_nước an_toàn kiểm_soát bức_xạ	32
+nhân_viên bức_xạ	32
+chất phóng_xạ	30
+cơ_sở hạt_nhân	28
+an_toàn hạt_nhân	28
+lò phản_ứng hạt_nhân nghiên_cứu	27
+vật_liệu nổ công_cụ hỗ_trợ	25
+năng_lượng nguyên_tử	24
+ứng_dụng năng_lượng nguyên_tử	21
+giấy_phép tiến_hành công_việc bức_xạ	21
+lò phản_ứng hạt_nhân	21
+sự_cố hạt_nhân	21
+thiết_bị bức_xạ	20
+vận_hành thử	20
+cá_nhân tiến_hành công_việc bức_xạ	19
+bảo_đảm an_toàn bức_xạ	19
+kế_hoạch ứng_phó sự_cố	18
+tẩy xạ	18
+bảo_đảm an_toàn	18
+chứa_chất phóng_xạ	18
+liều chiếu_xạ	17
+khắc_phục sự_cố bức_xạ	17
+lĩnh_vực năng_lượng nguyên_tử	17
+đối_với con_người	15
+dịch_vụ hỗ_trợ ứng_dụng năng_lượng nguyên_tử	15
+an_toàn bức_xạ hạt_nhân	13
+phụ_trách an_toàn	11
+báo_cáo phân_tích an_toàn	11
+giấy_phép vận_chuyển	8
+vật_thể nhiễm	7
+phân_tích an_toàn	7
+đối_với cơ_sở	5
+sử_dụng năng_lượng	4
+quản_lý nhà_nước an_toàn kiểm_soát bức_xạ	4
+sử_dụng thiết_bị	4
+kiểm_soát bức_xạ	4
+vận_chuyển vật_liệu nổ	4
+khắc_phục sự_cố	3
+quản_lý nhà_nước an_toàn	2
+hỗ_trợ ứng_dụng năng_lượng nguyên_tử	2
+sử_dụng vật_liệu	2
+giấy_phép nhập_khẩu	2
+cơ_sở nghiên_cứu	2
+lắp_đặt thiết_bị	1
+tiến_hành công_việc	1
+báo_cáo cơ_quan	1
+lò phản_ứng	1
+quản_lý sử_dụng	1
+nổ công_nghiệp	1
+sử_dụng giấy_phép	1
+bức_xạ hạt_nhân	1
+cơ_quan quản_lý nhà_nước an_toàn	1
+sử_dụng dịch_vụ	1
+lưu_giữ chất_thải	1
+lĩnh_vực phụ_trách	1

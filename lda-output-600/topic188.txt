@@ -1,0 +1,60 @@
+quy_định pháp_lệnh	944
+pháp_lệnh quy_định	186
+quy_định pháp_luật	106
+quy_định trước_đây trái pháp_lệnh bãi_bỏ	92
+pháp_lệnh hiệu_lực	76
+tiêu_chuẩn quy_định pháp_lệnh	43
+b d pháp_lệnh	37
+pháp_lệnh áp_dụng đối_với	34
+trường_hợp quy_định pháp_lệnh	28
+tiêu_chuẩn quy_định	27
+nội_dung quy_định pháp_lệnh	25
+vi_phạm quy_định pháp_lệnh	25
+pháp_lệnh thay_thế pháp_lệnh	25
+quy_định pháp_lệnh quy_định pháp_luật	23
+nội_dung quy_định	23
+quy_định pháp_lệnh quy_định pháp_luật liên_quan	23
+trái pháp_lệnh	18
+vi_phạm_quy_định pháp_lệnh	17
+pháp_luật quy_định	14
+pháp_lệnh nhiệm_kỳ	13
+trước_đây trái pháp_lệnh bãi_bỏ	12
+trái pháp_luật	11
+quy_định pháp_lệnh áp_dụng	9
+một_số pháp_lệnh	8
+tuân quy_định pháp_lệnh	8
+quy_định b	8
+tuân quy_định	7
+pháp_lệnh quy_định pháp_luật	7
+trường_hợp quy_định	6
+vi_phạm quy_định	6
+trái quy_định	6
+pháp_lệnh thay_thế	6
+quy_định chương	6
+pháp_lệnh quy_định pháp_luật liên_quan	6
+trái quy_định pháp_luật	6
+áp_dụng quy_định	6
+cố_ý trái	5
+áp_dụng đối_với	5
+d pháp_lệnh	5
+pháp_lệnh áp_dụng	5
+thay_thế pháp_lệnh	5
+hiệu_lực ngày_công_bố	4
+trái pháp_lệnh bãi_bỏ	2
+quy_định pháp_lệnh đề_nghị	2
+quy_định pháp_lệnh tuỳ	2
+quy_định trước_đây trái	2
+quy_định trước_đây trái pháp_lệnh	2
+đối_với trường_hợp quy_định	2
+vi_phạm pháp_luật	2
+quy_định áp_dụng đối_với	2
+quy_định trước_đây	2
+đối_với một_số	2
+cố_ý trái quy_định	2
+nội_dung liên_quan	1
+trường_hợp pháp_luật quy_định	1
+pháp_luật liên_quan	1
+áp_dụng tiêu_chuẩn	1
+vi_phạm quy_định pháp_luật	1
+quy_định d	1
+đối_với trường_hợp	1

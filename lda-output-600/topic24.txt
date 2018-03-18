@@ -1,0 +1,165 @@
+khoản tiền	311
+tiền công	199
+khoản nợ	176
+thanh_toán tiền	162
+tiền gửi	132
+khoản vay	117
+tiền thưởng	100
+khả_năng thanh_toán	99
+thanh_toán khoản nợ	76
+nợ hạn	66
+phát_hành trái_phiếu	63
+khoản thu	62
+thanh_toán nợ	54
+tiền ký_quỹ	53
+phương_thức thanh_toán	47
+nợ công	45
+tiền lãi	45
+tiền thuê	44
+tiền phạt	43
+tiền tài_khoản	43
+quản_lý nợ công	42
+nợ thanh_toán	37
+khoản nợ bảo_đảm	37
+phạt tiền	37
+tiền vay	37
+trúng thưởng	34
+khoản nợ hạn	34
+tài_khoản tiền gửi	33
+khả_năng chi_trả	33
+nợ nước_ngoài	31
+hoàn_trả tiền	31
+hứa thưởng	30
+chi_trả nợ	29
+gửi tiền	29
+thu tiền	29
+thanh_toán giá_trị	27
+thanh_toán khoản	27
+tiền kim_loại	25
+ngoại_tệ tự_do chuyển_đổi	25
+thanh_toán đầy_đủ	24
+thu_hồi nợ	23
+tiền cấp_dưỡng	22
+thanh_toán chi_phí	22
+toàn_bộ tiền	22
+thanh_toán khoản nợ nghĩa_vụ tài_sản	22
+tiền thu	22
+tổng_số tiền	21
+khoản tiền phạt	20
+tiền mua	20
+thanh_toán tiền mua	19
+hưởng khoản tiền	18
+vay nợ	18
+xử_lý lỗ	18
+gốc lãi	18
+báo_cáo nghiên_cứu tiền khả_thi	18
+nghĩa_vụ thanh_toán	17
+lãi tiền	17
+ưu_tiên thanh_toán	17
+lợi_tức thu	17
+tiền gửi kỳ_hạn	17
+xử_lý khoản lỗ	17
+nghiên_cứu tiền khả_thi	16
+hoàn_trả khoản tiền	16
+khoản nợ nghĩa_vụ tài_sản công_ty	16
+tiền chậm	15
+khoản lợi	15
+lãi_suất vay	14
+thu_hồi nợ nước_ngoài	14
+khoản chi_phí	14
+thanh_toán khoản nợ hạn	14
+hoàn_trả khoản	14
+khoản thu_nhập	14
+tài_sản thanh_toán	13
+quản_lý nợ	13
+bao_gồm khoản	13
+nợ gốc	13
+khoản lỗ	13
+khoản nợ thanh_toán	13
+hạn thanh_toán	13
+trích tiền	13
+tài_sản bảo_đảm	13
+tiền hiện_vật	12
+xử_lý nợ	12
+trách_nhiệm khoản nợ	12
+nợ xấu	11
+chi_trả tiền	11
+tài_sản thuê	11
+khoản thù_lao	11
+truy_thu tiền	10
+tiền giả	9
+thông_tin nợ công	9
+trách_nhiệm khoản nợ nghĩa_vụ tài_sản công_ty	9
+tiền chênh_lệch	9
+nợ bảo_đảm	9
+trách_nhiệm khoản nợ thanh_toán	9
+tiền đặt_cọc	8
+bảo_đảm khoản nợ	8
+khoản phí	8
+trách_nhiệm khoản nợ nghĩa_vụ tài_sản	8
+tiền tương_ứng	8
+chậm tiền	7
+lãi khoản	7
+nghĩa_vụ hoàn_trả	7
+thu lợi	6
+khoản nợ nghĩa_vụ tài_sản	6
+tiền hàng	6
+bảo_lãnh bảo_lãnh	6
+hưởng khoản	5
+nợ phát_sinh	5
+mua cổ_phần	5
+phân_chia khoản thu	5
+tiền ghi	5
+bảo_lãnh phát_hành	5
+thu tiền thuê	5
+thu hộ	5
+tiền phạt vi_phạm	4
+tài_sản công	4
+mua tài_sản	4
+tài_khoản tiền	4
+trách_nhiệm hoàn_trả	4
+tự_do chuyển_đổi	4
+thu phí	4
+bảo_đảm thanh_toán khoản	4
+liên_đới trách_nhiệm khoản nợ	4
+nghĩa_vụ liên_đới	4
+hoàn_trả tài_sản	3
+thanh_toán cổ_phần mua	3
+chi_trả chi_phí	3
+nghĩa_vụ tài_sản	3
+ưu_tiên mua	2
+tỷ_lệ giá_trị	2
+bảo_đảm tiết_kiệm	2
+nợ tiền	2
+vay nước_ngoài	2
+giá_trị tài_sản	2
+tiền khả_thi	2
+bất_kỳ khoản	2
+thanh_toán khoản nợ nghĩa_vụ	2
+mua hàng	2
+gửi báo_cáo	2
+tiền phạt thu	2
+thanh_toán cổ_phần	2
+gửi hàng	2
+trách_nhiệm quản_lý	1
+trách_nhiệm gửi	1
+nợ nghĩa_vụ tài_sản	1
+khoản nợ nghĩa_vụ	1
+tiền tối_đa	1
+mua toàn_bộ	1
+công_ty quản_lý	1
+thu tiền phạt	1
+trách_nhiệm khoản nợ nghĩa_vụ	1
+nghĩa_vụ bảo_lãnh	1
+tiền mua hàng	1
+phí thu	1
+liên_đới trách_nhiệm	1
+chi_phí quản_lý	1
+đầy_đủ nghĩa_vụ	1
+khung tiền phạt	1
+thuê thuê	1
+hưởng lợi	1
+giá_trị thực	1
+nghĩa_vụ cấp_dưỡng	1
+thuê hạn	1
+ghi đầy_đủ	1

@@ -1,0 +1,63 @@
+kiểm_toán nhà_nước	403
+tổng_kiểm_toán nhà_nước	215
+đơn_vị kiểm_toán	208
+báo_cáo kiểm_toán	144
+doanh_nghiệp kiểm_toán	126
+kiểm_toán_viên nhà_nước	96
+kiểm_toán_viên hành_nghề	72
+kiểm_toán nội_bộ	70
+thực_hiện kiểm_toán	58
+trưởng_đoàn kiểm_toán	57
+hồ_sơ kiểm_toán	54
+kiểm_toán kiểm_toán nhà_nước	54
+kiểm_toán độc_lập	44
+thành_viên đoàn kiểm_toán	39
+đoàn kiểm_toán	37
+kết_quả kiểm_toán	37
+tổ_trưởng tổ kiểm_toán	34
+kiến_nghị kiểm_toán	31
+kinh_doanh dịch_vụ kiểm_toán	30
+kết_luận kiến_nghị	30
+tổ kiểm_toán	27
+dịch_vụ kiểm_toán	27
+hoạt_động kiểm_toán	26
+tổ_chức kiểm_toán độc_lập	26
+tổng_kiểm_toán nhà_nước quyết_định	24
+kiểm_toán báo_cáo tài_chính	22
+chuẩn_mực kiểm_toán	21
+doanh_nghiệp nhà_nước	19
+nội_dung kiểm_toán	17
+hoạt_động kiểm_toán nhà_nước	16
+kiến_nghị kiểm_toán nhà_nước	16
+kế_hoạch kiểm_toán	15
+kiểm_toán báo_cáo	12
+hoạt_động kiểm_toán độc_lập	11
+doanh_nghiệp kiểm_toán nước_ngoài	11
+thực_hiện kết_luận	10
+kiểm_toán đơn_vị kiểm_toán	9
+chi_nhánh doanh_nghiệp kiểm_toán	8
+cộng_tác_viên kiểm_toán	8
+kiểm_toán kiểm_toán	8
+liên_quan nội_dung kiểm_toán	8
+thành_viên tham_gia	7
+hành_nghề kiểm_toán	7
+phó trưởng_đoàn	6
+báo_cáo kiểm_toán kiểm_toán	6
+báo_cáo tài_chính	5
+kết_quả thực_hiện kết_luận	5
+doanh_nghiệp nhà_nước nắm	4
+báo_cáo kết_quả thực_hiện	4
+kiểm_toán nước_ngoài	4
+xuất_trình thẻ	3
+kết_quả hoạt_động	2
+chi_nhánh doanh_nghiệp kiểm_toán nước_ngoài	2
+báo_cáo kết_quả	2
+hoạt_động dịch_vụ	2
+liên_quan hoạt_động	1
+chi_nhánh doanh_nghiệp	1
+thành_viên tổ	1
+nội_dung báo_cáo	1
+báo_cáo tài_chính đơn_vị	1
+kết_thúc tài_chính	1
+thực_hiện kế_hoạch	1
+hoạt_động kinh_doanh	1

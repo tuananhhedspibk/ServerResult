@@ -1,0 +1,174 @@
+tài_nguyên môi_trường	193
+bảo_vệ môi_trường	120
+thuế tài_nguyên	78
+phòng cháy chữa_cháy	53
+sở tài_nguyên môi_trường	50
+bộ_trưởng tài_nguyên môi_trường	48
+cảnh_sát cơ_động	44
+chỉ_thị môi_trường	44
+quan_trắc môi_trường	42
+phế_liệu nhập_khẩu	41
+thiết_bị sử_dụng	41
+định_mức chi_phí	40
+cơ_sở kinh_doanh vũ_trường	38
+quy_hoạch tài_nguyên	37
+cơ_sở sản_xuất	37
+sản_phẩm tài_nguyên	35
+báo_cáo hiện_trạng môi_trường	35
+an_toàn xã_hội	34
+quy_hoạch phát_triển	33
+quy_hoạch phát_triển sử_dụng năng_lượng sinh khối	33
+ngành tài_nguyên môi_trường	30
+dụng_cụ điện	30
+đề_án quy_hoạch	30
+lực_lượng phòng cháy chữa_cháy	30
+cứu nạn	29
+sản_lượng tài_nguyên	28
+giá thuế	27
+tài_nguyên khai_thác	27
+điện sinh khối	26
+tầng chứa	26
+dự_án phát_điện sử_dụng chất_thải rắn	26
+nhập_khẩu phế_liệu	25
+mục_đích sử_dụng	25
+tổng_cục năng_lượng	25
+khắc_phục hậu_quả	25
+đánh_giá tác_động môi_trường	24
+chống tham_nhũng	24
+kinh_tế - xã_hội	24
+lập quy_hoạch	24
+giá thuế tài_nguyên	23
+nộp thuế	23
+thiết_bị kỹ_thuật	23
+định_mức kinh_tế - kỹ_thuật	23
+phế_liệu nhập_khẩu nguyên_liệu sản_xuất	23
+sử_dụng đất	22
+điều_kiện bảo_vệ môi_trường	22
+nhu_cầu sử_dụng	22
+sản_phẩm công_nghiệp	22
+công_an đơn_vị	21
+nhập_khẩu phế_liệu nguyên_liệu sản_xuất	21
+ngành công_thương	21
+tiềm_năng năng_lượng sinh khối	21
+bộ_trưởng công_an	20
+kỳ quy_hoạch	20
+trang_bị phương_tiện phòng cháy chữa_cháy	20
+phát_triển kinh_tế - xã_hội	19
+sản_lượng tài_nguyên thuế	19
+bộ_trưởng công_thương	19
+ubnd tỉnh	18
+hợp_đồng mua_bán điện	18
+khu chế_xuất	17
+kế_hoạch bảo_vệ môi_trường	17
+khu công_nghiệp	17
+danh_mục cấm nhập_khẩu	17
+số_liệu quan_trắc môi_trường	17
+nguyên_liệu sản_xuất	17
+đề_án quy_hoạch quốc_gia	17
+khí_tượng thủy_văn	17
+giám_đốc công_an	16
+bộ_trưởng tài_chính	15
+cảnh_sát phòng cháy	15
+kết_quả quan_trắc	14
+phép nhập_khẩu	14
+hệ_thống điện	14
+tổng_cục cảnh_sát	13
+thiết_bị đo	13
+phương_tiện phòng cháy chữa_cháy	12
+phòng cháy chữa_cháy đối_với	12
+năng_lượng sinh khối	11
+phát_điện sử_dụng chất_thải rắn	11
+sinh khối	11
+trình bộ_trưởng	11
+bảo_đảm an_toàn phòng cháy chữa_cháy	11
+chống khắc_phục	11
+luật bảo_vệ môi_trường	11
+điều_kiện kinh_tế	10
+địa_bàn tỉnh	10
+sử_dụng chất_thải rắn	10
+an_toàn phòng cháy chữa_cháy	10
+phòng cháy	9
+sử_dụng phế_liệu	9
+môi_trường địa_phương	9
+quản_lý thuế	8
+môi_trường quốc_gia	8
+bảo_đảm an_toàn	8
+hiện_trạng môi_trường	8
+chất_thải rắn	8
+bảo_vệ môi_trường nhập_khẩu phế_liệu nguyên_liệu sản_xuất	7
+cấm nhập_khẩu	7
+trang_bị phương_tiện	6
+đấu nối	6
+đối_với cơ_sở	6
+tờ khai	5
+ngành kinh_tế	5
+tổng_cục_trưởng tổng_cục	5
+an_toàn kỹ_thuật bảo_vệ môi_trường	5
+thuế xác_định	5
+tài_liệu liên_quan	5
+sử_dụng phế_liệu nhập_khẩu	5
+sở tài_chính	4
+đơn_vị liên_quan	4
+phát_triển điện	4
+tiếp_tục sử_dụng	4
+giám_đốc sở	3
+hợp_đồng mua_bán	3
+nhập_khẩu nguyên_liệu	3
+phát_triển sử_dụng năng_lượng sinh khối	3
+sở tài_nguyên	3
+đối_với công_trình	3
+liên_quan hoạt_động	3
+năng_lượng sinh khối tỉnh	3
+phương_tiện đo	3
+đánh_giá tác_động	3
+kinh_tế - kỹ_thuật	3
+đáp_ứng điều_kiện	2
+quản_lý sử_dụng	2
+hoạt_động kinh_doanh	2
+bảo_vệ công_trình	2
+tác_động môi_trường	2
+nhập_khẩu nguyên_liệu sản_xuất	2
+sử_dụng năng_lượng	2
+lập thành	2
+an_toàn thực_phẩm	2
+báo_cáo kết_quả	2
+chi_phí liên_quan	2
+quy_hoạch phát_triển sử_dụng	2
+luật chất_lượng sản_phẩm	2
+phát_triển kinh_tế	2
+phân_bổ :	2
+sử_dụng năng_lượng sinh khối tỉnh	2
+lập kế_hoạch	2
+giá mua	2
+mua_bán điện	2
+tổng công_suất máy	1
+chữa_cháy đối_với	1
+đối_với phương_tiện	1
+báo_cáo tài_chính	1
+kinh_doanh vũ_trường	1
+luật quản_lý thuế	1
+sinh khối tỉnh	1
+tiềm_năng năng_lượng	1
+dự_án phát_điện	1
+phát_điện sử_dụng chất_thải	1
+lập báo_cáo	1
+tài_liệu kỹ_thuật	1
+cảnh_sát phòng	1
+an_toàn phòng	1
+bảo_vệ môi_trường nhập_khẩu	1
+danh_mục cấm	1
+an_toàn phòng cháy	1
+tổng công_suất	1
+trang_bị phương_tiện phòng cháy chữa_cháy đối_với	1
+số_liệu quan_trắc	1
+chất_lượng sản_phẩm	1
+xác_định nguyên_nhân	1
+năng_lượng sinh khối quốc_gia	1
+trang_bị phương_tiện phòng cháy chữa_cháy đối_với phương_tiện	1
+đề_nghị tổng_cục_trưởng tổng_cục	1
+sử_dụng năng_lượng sinh khối quốc_gia	1
+đối_với sản_phẩm	1
+phế_liệu nguyên_liệu sản_xuất	1
+lực_lượng phòng cháy	1
+định_mức kinh_tế	1
+kinh_tế -	1

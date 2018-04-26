@@ -1,0 +1,178 @@
+thực_hiện nhiệm_vụ	232
+chủ đầu_tư	177
+tổ_chức thực_hiện	154
+phạm_vi điều_chỉnh	122
+quá_trình thực_hiện	120
+đối_tượng áp_dụng	117
+báo_cáo kết_quả	98
+phạm_vi quản_lý	90
+ban quản_lý dự_án	83
+kế_hoạch đầu_tư	80
+nhiệm_vụ môi_trường	76
+thực_hiện dự_án	74
+dự_án đầu_tư	74
+xây_dựng kế_hoạch	69
+lựa_chọn nhà_thầu	63
+thực_hiện hợp_đồng	57
+giao nhiệm_vụ	52
+chuyến bay chuyên_cơ	52
+triển_khai thực_hiện	51
+kế_hoạch lựa_chọn nhà_thầu	51
+chủ dự_án	45
+gửi báo_cáo	45
+thực_hiện chế_độ	44
+đối_với dự_án	43
+kết_quả thực_hiện	42
+lập báo_cáo	40
+ký hợp_đồng	40
+phục_vụ công_tác	38
+hoàn_thành nhiệm_vụ	38
+ban kiểm_soát	38
+đối_với gói_thầu	38
+lập kế_hoạch	37
+bảo_đảm an_ninh	37
+lập biên_bản	34
+thực_hiện biện_pháp	34
+thực_hiện công_tác	33
+cảng hàng_không	33
+tàu_bay chuyên_cơ	32
+áp_dụng hình_thức	31
+phát_sinh quá_trình	30
+lập hồ_sơ	30
+ban quản_lý	30
+chế_độ báo_cáo	29
+kết_quả thực_hiện nhiệm_vụ	29
+cán_bộ quản_lý	28
+xây_dựng cơ_bản	28
+công_tác quản_lý	28
+đầu_tư xây_dựng	28
+chỉ_định thầu	27
+phục_vụ hoạt_động	26
+phạm_vi điều_chỉnh đối_tượng áp_dụng	25
+báo_cáo công_tác	25
+báo_cáo tình_hình	25
+áp_dụng đối_với	24
+nhiệm_vụ giao	24
+vị_trí công_tác	24
+xác_định nguyên_nhân	24
+kiểm_soát viên	23
+kinh_phí hoạt_động	22
+vốn đầu_tư xây_dựng	22
+báo_cáo chuyên_đề	20
+thực_hiện nhiệm_vụ môi_trường	20
+danh_mục dự_án	20
+thực_hiện thủ_tục	20
+thực_hiện chức_năng	20
+chi_phí phát_sinh	19
+định_kỳ hàng	19
+dự_toán ngân_sách	19
+khoán kinh_phí	19
+hồ_sơ yêu_cầu	19
+lập dự_toán	19
+quyết_định phê_duyệt	19
+giá gói_thầu	19
+áp_dụng biện_pháp	19
+báo_cáo đtm	18
+quyết_toán kinh_phí	18
+đồng_thời gửi	18
+chào_hàng cạnh_tranh	18
+hóa_đơn thương_mại nội_dung khai_báo xuất_xứ	18
+an_ninh hàng	18
+phạm_vi ảnh_hưởng	18
+đầu_tư nước_ngoài	18
+( đối_với dự_án	17
+thực_hiện nhiệm_vụ kh & amp	17
+phương_án tuần_tra	17
+phạm_vi toàn_quốc	17
+thực_hiện công_việc	17
+lập thành	16
+đánh_giá kết_quả	16
+tổng_hợp báo_cáo	16
+kết_quả đánh_giá	16
+xây_dựng công_trình	15
+dự_toán kinh_phí	15
+trưởng ban	15
+quản_lý trực_tiếp	15
+chấm_dứt hợp_đồng	15
+hồ_sơ đề_xuất	15
+đầu_tư xây_dựng cơ_bản	15
+báo_cáo đmc	14
+phê_duyệt kế_hoạch	14
+quản_lý dự_án	14
+công_tác bồi_thường	14
+thực_hiện chương_trình	14
+báo_cáo định_kỳ	14
+đơn_vị giao	13
+kinh_phí thực_hiện	13
+nhiệm_vụ kh & amp	13
+tổ_chức triển_khai	13
+tiến_độ thực_hiện	12
+thực_hiện nghĩa_vụ	12
+công_chức giao nhiệm_vụ giám_sát	11
+gửi trực_tiếp	11
+tổng_hợp kết_quả	10
+phê_duyệt kế_hoạch lựa_chọn nhà_thầu	10
+đánh_giá năng_lực	10
+vốn đầu_tư	10
+hợp_đồng dự_án	10
+kết_quả kiểm_tra	9
+tổ_chức quốc_tế	9
+kh & amp	9
+tổ_chức cán_bộ	9
+đầu_tư xây_dựng công_trình	9
+trách_nhiệm tổ_chức	9
+công_tác kiểm_tra	9
+đầu_tư dự_án	9
+thực_hiện đầy_đủ	9
+gửi hồ_sơ	8
+ghi hợp_đồng	8
+đối_với chuyến bay	8
+thực_hiện quyền	8
+đối_với cán_bộ	8
+kết_quả thẩm_định	8
+công_trình xây_dựng	7
+công_chức giao nhiệm_vụ	6
+hóa_đơn thương_mại	6
+bảo_đảm an_toàn	6
+trách_nhiệm tổ_chức thực_hiện	6
+hình_thức phù_hợp	5
+dự_án đầu_tư xây_dựng	5
+quyền nghĩa_vụ	5
+tham_gia hoạt_động	5
+đối_với công_trình	5
+hoàn_thiện hồ_sơ	5
+kinh_phí ngân_sách	5
+đề_xuất thực_hiện dự_án	5
+kiểm_tra định_kỳ	4
+nhân_viên nghiệp_vụ	4
+thẩm_định hồ_sơ	4
+tiếp_nhận hồ_sơ	4
+hợp_đồng bảo_đảm	4
+báo_cáo chuyên_đề môi_trường	4
+đảm_bảo an_toàn	3
+lãnh_đạo đơn_vị	3
+hợp_đồng mua_bán	3
+chuyến bay	3
+( đối_với	3
+nội_dung chi	3
+kiểm_tra hồ_sơ	3
+bay chuyên_cơ	3
+phạm_vi hoạt_động chuyên_môn	3
+dự_phòng rủi_ro	3
+thực_hiện công_tác kiểm_tra	2
+theo_dõi tình_hình	2
+phạm_vi hoạt_động	2
+định_mức chi_phí	2
+thi_công xây_dựng	1
+giao nhiệm_vụ giám_sát	1
+thực_hiện nghiệp_vụ	1
+hóa_đơn thương_mại nội_dung	1
+đối_với chuyến	1
+áp_dụng đối_với tổ_chức	1
+trình bộ_trưởng	1
+tiến_hành kiểm_tra	1
+triển_khai chương_trình	1
+nội_dung khai_báo	1
+chi hoạt_động	1
+giám_sát hoạt_động	1
+đầy_đủ hồ_sơ	1

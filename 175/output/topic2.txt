@@ -1,0 +1,186 @@
+đường ngang	230
+sở giao_thông vận_tải	167
+xe cơ_giới	138
+giao_thông vận_tải	138
+xe ô_tô	125
+tổng_cục đường_bộ việt nam	98
+an_toàn giao_thông	86
+kinh_doanh vận_tải	72
+công_trình đường_bộ	58
+hành_lang an_toàn đường_bộ	55
+công_trình thiết_yếu	53
+bộ_trưởng giao_thông vận_tải	51
+giao_thông đường_bộ	50
+chất_lượng xăng_dầu	50
+giấy_phép lưu_hành xe	42
+thuê vận_tải	41
+điều_khiển phương_tiện	39
+điểm_đấu nối	39
+phương_tiện giao_thông cơ_giới đường_bộ	38
+nút giao	38
+bảo_đảm an_toàn	37
+sử_dụng xe ô_tô	36
+chủ xe	36
+phương_tiện đo	36
+thẩm_tra an_toàn giao_thông	34
+quy_hoạch điểm_đấu nối	33
+cơ_quan quản_lý đường_bộ	33
+xây_dựng công_trình thiết_yếu	33
+tuyến đường	31
+tổng trọng_lượng	29
+quản_lý chất_lượng	29
+phạm_vi bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	29
+đường_sắt chuyên_dùng	29
+bộ_trưởng giao_thông vận_tải quy_định	29
+thanh_tra ngành giao_thông vận_tải	29
+pha_chế xăng_dầu	29
+đối_với đường ngang	28
+xây_dựng công_trình	28
+phạm_vi đường ngang	28
+quyền_hạn cơ_cấu tổ_chức giao_thông vận_tải	28
+thẩm_định an_toàn giao_thông	28
+đèn tín_hiệu	27
+xe ô_tô phục_vụ công_tác	27
+tham_gia giao_thông đường_bộ	27
+giám_đốc sở giao_thông vận_tải tỉnh	26
+quốc_lộ 1	26
+xe chạy	26
+tổng_cục_trưởng tổng_cục đường_bộ việt nam	26
+cột đo xăng_dầu	25
+đoạn tuyến	25
+kinh_doanh xăng_dầu	25
+bán_lẻ xăng_dầu	25
+thương_nhân đầu_mối	24
+đảm_bảo an_toàn	23
+tổng_cục đường_bộ việt nam sở giao_thông vận_tải	23
+vận_tải hành_khách	23
+bảo_đảm an_toàn giao_thông	23
+điều_khiển xe	23
+đất đường_bộ	22
+giám_đốc sở giao_thông vận_tải	22
+xếp_hàng hóa	22
+khai_thác tuyến	22
+phép thi_công	22
+xe £	21
+thi_công xây_dựng	21
+cụm trục	21
+xe ô_tô chuyên_dùng	21
+dỡ hàng_hóa	21
+biển báo_hiệu	21
+phương_tiện vận_chuyển	21
+khu_vực đường ngang	20
+bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	20
+đối_với phương_tiện giao_thông cơ_giới đường_bộ	20
+xe bánh xích	20
+bảo_vệ công_trình hàng_hải	20
+bể chứa xăng_dầu	20
+xe quá_khổ giới_hạn	19
+tổng đại_lý	19
+khổ giới_hạn đường_bộ	19
+hàng siêu_trường	19
+5 mét	18
+cục quản_lý đường_bộ	18
+liền kề	18
+cửa_hàng xăng_dầu	18
+tham_gia giao_thông	18
+kinh_doanh kết_cấu_hạ_tầng đường_sắt	18
+tổng_cục tiêu_chuẩn đo_lường chất_lượng	18
+hành_lang an_toàn	17
+kéo rơ_moóc	17
+phương_tiện giao_thông	16
+quản_lý đường_bộ	16
+công_trình xây_dựng	16
+đối_với đường	16
+hai trở đi	15
+chiều rộng	14
+đấu nối	13
+nối quốc_lộ	13
+tiêu_chuẩn đo_lường chất_lượng	13
+lưu_hành xe	13
+bộ_trưởng giao_thông vận_tải ban_hành thông_tư	13
+thi_công công_trình	13
+báo_hiệu đường_bộ	12
+đường ngang gác	11
+xe tải_trọng	11
+xe mô_tô	11
+đăng_ký xe	11
+vận_tải hàng_hóa	11
+tổ_hợp xe	11
+ngành giao_thông vận_tải	10
+xăng_dầu thương_nhân	10
+bộ_trưởng giao_thông vận_tải ban_hành	10
+chấp_thuận chủ_trương	10
+khổ giới_hạn	9
+sử_dụng xe	9
+trục xe	9
+giao_thông vận_tải ban_hành	8
+đối_với phương_tiện	8
+phạm_vi quản_lý	8
+phương_tiện giao_thông đường_sắt	8
+việt nam	8
+chấp_thuận xây_dựng	7
+bảo_vệ công_trình	7
+an_toàn đường_bộ	7
+đối_với công_trình	7
+chủ phương_tiện	7
+chứa xăng_dầu	7
+ô_tô tải	7
+công_trình hàng_hải	7
+tổng_cục đường_bộ	6
+đo xăng_dầu	6
+cửa_hàng bán_lẻ	5
+kết_cấu_hạ_tầng giao_thông	5
+phương_tiện giao_thông cơ_giới	5
+cơ_sở pha_chế	5
+sở giao_thông vận_tải tỉnh	5
+công_tác quản_lý	5
+quản_lý sử_dụng	4
+phép lưu_hành	4
+vận_chuyển hàng	4
+xe ô_tô phục_vụ	4
+thiết_bị đo	4
+trang_bị phương_tiện	3
+cơ_quan ngang	3
+tiêu_chuẩn kỹ_thuật	3
+quyền_hạn cơ_cấu tổ_chức	3
+tiêu_chuẩn công_bố	3
+sử_dụng đất	3
+phạm_vi bảo_vệ	3
+cơ_giới đường_bộ	3
+quyền sử_dụng	3
+chủ sở_hữu	3
+phục_vụ công_tác	3
+đứng đầu	2
+tổng_cục_trưởng tổng_cục	2
+thẩm_định an_toàn	2
+tổng_cục_trưởng tổng_cục đường_bộ	2
+giao_thông vận_tải giao	2
+ô_tô chuyên_dùng	2
+sử_dụng đường_bộ	2
+cột đo	2
+đo_lường chất_lượng	2
+gắn liền	2
+thiết_bị kỹ_thuật	2
+sở giao_thông	2
+giám_đốc sở	2
+giấy_phép lưu_hành	2
+hệ_thống điện	2
+biện_pháp khắc_phục	1
+thanh_tra sở	1
+thương_nhân kinh_doanh	1
+bánh xích	1
+lái xe	1
+kinh_doanh kết_cấu_hạ_tầng	1
+đăng_ký kinh_doanh	1
+xe tập lái	1
+chủ tàu	1
+tổng_cục_trưởng tổng_cục đường_bộ việt	1
+thẩm_định thiết_kế	1
+phạm_vi đường	1
+phạm_vi bảo_vệ công_trình	1
+hai trở	1
+quá_khổ giới_hạn	1
+bể chứa	1
+kết_cấu_hạ_tầng giao_thông đường_bộ	1
+giải_quyết bồi_thường	1
+phạm_vi bảo_vệ kết_cấu_hạ_tầng	1

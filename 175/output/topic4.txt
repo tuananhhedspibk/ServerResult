@@ -1,0 +1,114 @@
+sử_dụng lao_động	80
+hợp_đồng lao_động	70
+tai_nạn lao_động	61
+nghỉ hưu	60
+tổ thẩm_phán	58
+giám_định tư_pháp	58
+phiên họp	55
+tiền thưởng	54
+tổ_trưởng tổ thẩm_phán	51
+thực_hiện chế_độ	50
+đối_với lao_động	49
+xếp thi_đua	48
+liền kề	40
+quỹ tiền_lương	38
+thành_viên tổ thẩm_phán	36
+bộ_luật lao_động	33
+chính_sách đối_với	33
+trại viên	32
+hợp_tác_xã phá_sản	31
+xếp thi_đua chấp_hành quyết_định	31
+tiền bồi_thường	31
+suy_giảm khả_năng lao_động	30
+trợ_cấp thôi_việc	29
+đối_với lao_động dôi_dư	27
+lao_động làm_việc	26
+xếp trung_bình	25
+kháng_nghị quyết_định thủ_tục phá_sản	24
+chấm_dứt hợp_đồng lao_động	24
+trợ_cấp việc_làm	24
+hiệu_trưởng trường_giáo_dưỡng	24
+thăm học_sinh	23
+năng_suất lao_động	23
+kháng_nghị quyết_định tuyên_bố doanh_nghiệp	23
+tổ thẩm_phán giải_quyết	22
+chấp_hành quyết_định	22
+tiền_lương bình_quân	22
+đơn đề_nghị	21
+thực_hiện giám_định	21
+tạm hoãn	21
+liên_lạc điện_thoại	21
+đối_với học_viên cơ_yếu	20
+giải_quyết bồi_thường	20
+hưởng chế_độ	20
+ca làm_việc	19
+nội_quy lao_động	19
+vụ_việc phá_sản	19
+công cách_mạng	19
+thời_gian làm_việc	19
+quản tài_viên	18
+xử_lý kỷ_luật	18
+chế_độ ưu_đãi	18
+hưởng lương	18
+giải_quyết chế_độ	17
+yêu_cầu thủ_tục phá_sản	17
+đề_nghị xem_xét_lại	16
+phụ_cấp lương	16
+tổ thẩm_phán giải_quyết đơn	15
+danh_sách lao_động	14
+đội_trưởng đội	14
+tòa_án nhân_dân	14
+luật phá_sản	13
+tuần xếp	13
+đối_với doanh_nghiệp	11
+quyết_định thủ_tục phá_sản	11
+thủ_tục phá_sản	10
+lao_động dôi_dư	9
+đối_với cán_bộ	9
+tiếp_tục sử_dụng	9
+biên_bản họp	8
+giải_quyết đề_nghị xem_xét_lại	8
+quyết_định tuyên_bố doanh_nghiệp	8
+giải_quyết khiếu_nại	8
+giải_quyết đơn đề_nghị	8
+phụ_trách ca	7
+hộ gia_đình	7
+tổ thẩm_phán thành_viên tổ thẩm_phán	6
+công_tác bồi_thường	6
+tổ_trưởng tổ	6
+kỷ_luật lao_động	6
+quyết_định thành_lập	6
+bộ_trưởng quốc_phòng	5
+lập danh_sách	5
+giải_quyết đơn yêu_cầu thủ_tục phá_sản	5
+chấm_dứt hợp_đồng	5
+tiền gửi	5
+danh_sách đề_nghị	4
+học_viên cơ_yếu	4
+lao_động -	4
+gắn liền	4
+đơn yêu_cầu thủ_tục phá_sản	4
+chứng_minh nhân_dân	4
+tập_thể lao_động	3
+quyền sử_dụng	3
+thẩm_phán giải_quyết	3
+thực_hiện quyền	3
+- tiền	3
+lập biên_bản	2
+chính_sách đảng	2
+chi_trả tiền	2
+cơ_quan điều_tra	2
+hai trở đi	2
+trở đi	2
+thực_hiện thủ_tục	2
+đối_với học_viên	2
+yêu_cầu thủ_tục	1
+thực_hiện công_tác	1
+luật doanh_nghiệp	1
+thực_hiện sắp_xếp	1
+hai trở	1
+quyết_định tuyên_bố	1
+thực_hiện công_việc	1
+nhu_cầu sử_dụng	1
+thực_hiện hợp_đồng	1
+ký hợp_đồng	1

@@ -1,0 +1,96 @@
+thành_phố trực_thuộc trung_ương	221
+kiểm_dịch thực_vật	130
+trang thông_tin điện_tử	82
+chánh văn_phòng	76
+chánh thanh_tra	75
+công_chức thanh_tra chuyên_ngành	64
+tái cấp_vốn	62
+cổng thông_tin điện_tử	55
+thẻ căn_cước công_dân	54
+thanh_tra viên	46
+cục công_nghệ tin_học	40
+hồ_chí minh	40
+phôi văn_bằng	39
+cộng_tác_viên thanh_tra	39
+màu trắng	38
+màu xanh	35
+chứng_chỉ hành_nghề	34
+bản_sao văn_bằng	34
+kiểu_dáng :	32
+thẻ công_chức thanh_tra chuyên_ngành	32
+chất_liệu :	31
+thanh_tra chuyên_ngành	31
+chứng_chỉ sổ gốc	30
+gia_hạn tái cấp_vốn	30
+bảo_vệ thực_vật	28
+thư điện_tử	28
+( hình	27
+màu_sắc :	26
+công_trình nước_sạch nông_thôn tập_trung	24
+điều_chỉnh thông_tin ngân_hàng	24
+thành_phố hồ_chí minh	23
+màu đỏ	22
+thẻ công_chức kiểm_dịch thực_vật	21
+màu đen	20
+màu vàng	20
+hài_cốt liệt_sĩ thông_tin	20
+sổ gốc văn_bằng	19
+trang_phục chữa_cháy	19
+cục_trưởng cục	19
+chứng_chỉ hành_nghề điều_chỉnh phạm_vi hoạt_động chuyên_môn chứng_chỉ hành_nghề	18
+công_nghệ thông_tin	18
+cờ hiệu	17
+sổ gốc	17
+loài cây_trồng	17
+kiểm_dịch thực_vật nội_địa	16
+vay tái cấp_vốn	15
+dữ_liệu điện_tử	15
+cổng thông_tin	14
+hài_cốt liệt_sĩ	13
+cục hàng	12
+cục bảo_vệ thực_vật	12
+thông_tin ngân_hàng	11
+phó trưởng_phòng	11
+liệt_sĩ thông_tin	11
+gắn liền	11
+thành_phố trực_thuộc trung_ương ( gọi	11
+xanh tím_than	10
+thanh_tra sở	9
+công_chức kiểm_dịch thực_vật	9
+in phôi	9
+chữ đệm	8
+căn_cước công_dân	7
+cảng_vụ hàng_hải	7
+điều_chỉnh phạm_vi hoạt_động chuyên_môn chứng_chỉ hành_nghề	7
+phạm_vi điều_chỉnh	6
+đứng đầu	6
+trắng bóng	6
+đội_trưởng đội	6
+( cục	5
+công_nghệ tin_học	5
+phạm_vi hoạt_động chuyên_môn chứng_chỉ hành_nghề	5
+công_chức thanh_tra	5
+chiều rộng	4
+thành_phố trực_thuộc	4
+bản_sao chứng_chỉ	2
+thẻ công_chức thanh_tra	2
+thông_tin điện_tử	2
+tiếp công_dân	1
+phạm_vi hoạt_động	1
+chuyên_môn chứng_chỉ	1
+chuyên_môn chứng_chỉ hành_nghề	1
+hoạt_động nghiệp_vụ	1
+thẻ căn_cước	1
+gốc văn_bằng	1
+thành_phố hồ_chí	1
+cục công_nghệ	1
+kinh_phí hoạt_động	1
+công_trình nước_sạch	1
+cục hàng_hải	1
+điều_chỉnh thông_tin	1
+trực_thuộc trung_ương	1
+thanh_tra ngành	1
+phạm_vi bảo_vệ công_trình	1
+công_trình nước_sạch nông_thôn	1
+chế_độ thu	1
+tập_huấn nghiệp_vụ	1

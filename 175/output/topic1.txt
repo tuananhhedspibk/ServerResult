@@ -1,0 +1,217 @@
+ngân_hàng nhà_nước	157
+nội_dung hạch_toán tài	116
+ngân_sách nhà_nước	109
+tài_khoản phản_ánh	105
+- chi	96
+thu phí	88
+tài_sản cố_định	84
+tài_khoản iii :	82
+tài_khoản ii :	82
+- thu	75
+tiền sử_dụng đất	67
+ngân_hàng nhà_nước việt nam	58
+mã ngân_hàng	56
+tài_khoản phản_ánh khoản	55
+tiền gửi	55
+giấy_tờ có_giá	54
+tài_khoản phản_ánh tiền	53
+tài_khoản hạch_toán	53
+khoản thu	52
+tài_khoản kế_toán	51
+- nợ hạn	49
+tài_khoản phản_ánh giá_trị	46
+khoản chi	44
+- tiền	42
+đồng việt nam	41
+- vay	39
+giao_dịch ngoại_tệ	38
+- cam_kết	38
+tài_khoản phản_ánh khoản chi	37
+sử_dụng tài_khoản ngoại_tệ nước_ngoài	37
+- tiền gửi	37
+đơn_vị nhnn	35
+hộ gia_đình	34
+chế_độ thu	33
+hạch_toán tài_khoản thực_hiện quy_định :	32
+- chênh_lệch	32
+thống_đốc ngân_hàng nhà_nước	32
+thu lệ_phí	32
+công_cụ tài_chính phái_sinh	32
+thu phí sử_dụng đường_bộ trạm thu phí	32
+tổ_chức quốc_tế	32
+phân hệ	31
+hạch_toán tài_khoản	31
+quản_lý sử_dụng	31
+dự_phòng rủi_ro	30
+tài_khoản phản_ánh tiền nhnn	30
+kho_bạc nhà_nước	29
+- thanh_toán	29
+dồn tích	29
+hủy mã ngân_hàng	28
+ngân_hàng nhà_nước chi_nhánh tỉnh	28
+nộp phí	27
+phí lệ_phí	26
+mua_sắm tài_sản cố_định	25
+giá mua	25
+vụ chính_sách tiền_tệ	25
+nộp ngân_sách nhà_nước	24
+hoạt_động xúc_tiến	24
+- lãi thu	24
+tài 1	23
+nội_dung chi	23
+việt nam	23
+tài 2	22
+bảng cân_đối	22
+tài_khoản tổng_hợp	22
+- khoản	22
+chi_nhánh ngân_hàng nước_ngoài	22
+tiền vay	22
+tài 5	22
+kim_loại quý	21
+hoạt_động ngoại_hối	21
+khoản chi_phí	21
+trạm thu phí	21
+tổ_chức tiền_tệ	21
+mua_bán giấy_tờ có_giá	21
+tài_khoản phản_ánh tình_hình	20
+- dự_phòng rủi_ro	20
+ngân_hàng quốc_tế	20
+tài 4	20
+ngân_hàng nước_ngoài	19
+quỹ dự_trữ ngoại_hối	19
+quản_lý sử_dụng phí sử_dụng đường_bộ	19
+hiện tình_hình	19
+quy_định_mức thu	19
+thống_đốc nhnn	19
+tổng_cục dự_trữ nhà_nước trực_tiếp_quản_lý	19
+- chứng_từ giá_trị	18
+tài_khoản phản_ánh khoản thu nhnn	18
+tài_khoản ngoại_tệ nước_ngoài	18
+đơn_vị ngân_hàng nhà_nước	18
+quỹ bình_ổn tỷ_giá quản_lý thị_trường vàng	18
+nội_dung hạch_toán	17
+- lãi	17
+chế_độ kế_toán	17
+hoạt_động nghiệp_vụ	17
+tài 9001	17
+hoạt_động kinh_doanh	17
+dự_trữ ngoại_hối	17
+tài 9	17
+trạm t2	17
+đơn_vị sự_nghiệp	17
+lãi thu	16
+khoản tiền	16
+sử_dụng tài_sản nhà_nước	16
+giao_dịch kỳ_hạn	15
+tài_khoản phản_ánh khoản thu	15
+tiền thu	15
+khoản nợ	15
+trạm t1	15
+chi hoạt_động	15
+phí sử_dụng đường_bộ trạm thu phí	15
+quỹ dự_trữ	14
+quyền sử_dụng đất	14
+thu phí sử_dụng đường_bộ	14
+vụ tài_chính - kế_toán	13
+quản_lý thuế	12
+chính_sách tiền_tệ	11
+nợ hạn	11
+khoản thanh_toán	11
+đầu_tư chứng_khoán	11
+dự_trữ nhà_nước	11
+tài_khoản thích_hợp	10
+khoản vay	10
+hạch_toán tài	10
+kinh_phí hoạt_động	10
+giao_dịch quyền	10
+- nợ	10
+chênh_lệch tỷ_giá	10
+tiền nhnn	10
+vay nước_ngoài	9
+tài_sản nhà_nước	9
+tài_khoản ngoại_tệ	9
+giá_trị ngoại_tệ	9
+chứng_từ giá_trị	9
+giao_dịch hoán_đổi	8
+đồng việt	8
+hoàn vốn	7
+hoạt_động chi_nhánh	7
+thu hoạt_động	7
+chứng_khoán đầu_tư	7
+ghi hợp_đồng	7
+luật ngân_sách nhà_nước	7
+chứng_từ thu	7
+giá_trị tài_sản	6
+sử_dụng ngân_sách nhà_nước	6
+tài_khoản ii	6
+nộp thuế	5
+thực_hiện quy_định	5
+gửi ngân_hàng	5
+ghi sổ	5
+sử_dụng vốn	4
+thanh_toán khoản	4
+thu phí sử_dụng đường_bộ trạm	4
+mục_đích sử_dụng	4
+iii :	4
+quản_lý sử_dụng phí	4
+tài_khoản iii	4
+trạm thu phí cầu	4
+phản_ánh giá_trị	4
+gửi kỳ_hạn	3
+khoản dự_phòng	3
+cam_kết giao_dịch	3
+phản_ánh tình_hình	3
+phí sử_dụng	3
+thực_hiện chế_độ	3
+sử_dụng tài_sản	3
+( )	3
+thực_hiện nghiệp_vụ	2
+chi_trả tiền	2
+sử_dụng tài_khoản ngoại_tệ	2
+quyền mua	2
+phối_hợp vụ	2
+sử_dụng tài_khoản	2
+quản_lý nhà_nước	2
+- dự_phòng	2
+quản_lý quỹ	2
+mua_sắm tài_sản	2
+hạch_toán tài_khoản thực_hiện quy_định	2
+hủy mã	2
+tài_chính hướng_dẫn	2
+chi_phí liên_quan	2
+phụ_cấp lương	2
+vốn vay nước_ngoài	2
+đơn_vị giao	2
+tiền sử_dụng	2
+vay vốn	1
+chi_nhánh tỉnh	1
+tiền gửi ngân_hàng	1
+phản_ánh khoản thu	1
+sử_dụng đất	1
+quy_định hiện_hành	1
+phản_ánh khoản	1
+nhà_nước việt nam	1
+tình_hình thực_tế	1
+chi_phí phát_sinh	1
+tài_chính hướng_dẫn chế_độ	1
+ngoại_tệ nước_ngoài	1
+khoản thu nhnn	1
+sử_dụng đường_bộ trạm thu phí	1
+quản_lý sử_dụng phí sử_dụng	1
+sổ gốc	1
+hợp_đồng mua_bán	1
+vụ tài_chính -	1
+đường_bộ trạm thu phí	1
+phí sử_dụng đường_bộ trạm	1
+ii :	1
+đầu_tư nước_ngoài	1
+hệ_thống điện	1
+phân_bổ :	1
+quỹ đầu_tư	1
+vốn nhà_nước	1
+quỹ bình_ổn	1
+ngân_hàng nhà_nước việt	1
+chi_nhánh ngân_hàng	1
+khoản nợ vay	1
+thực_hiện hợp_đồng	1
+tài_chính phái_sinh	1

@@ -1,0 +1,91 @@
+chữa bệnh	203
+ủy_ban nhân_dân tỉnh	163
+cơ_sở khám bệnh	127
+khám bệnh	102
+nông_nghiệp phát_triển nông_thôn	71
+cảng_vụ hàng_hải	67
+ủy_ban nhân_dân xã	58
+bệnh nghề_nghiệp	53
+viện kiểm_sát nhân_dân	46
+trang_thiết_bị y_tế	45
+viện kiểm_sát quân_sự trung_ương	43
+bộ_trưởng y_tế	42
+hội đông_y	42
+cảng biển	39
+phạm_vi hoạt_động chuyên_môn	37
+y_học cổ_truyền	37
+cơ_sở y_tế	36
+đăng_ký khám bệnh	34
+giấy_phép nhập_khẩu_trang thiết_bị y_tế	32
+ủy_ban nhân_dân	31
+: 10 °	30
+chữa bệnh y_học cổ_truyền	29
+chữa bệnh ban_đầu	29
+rời cảng	29
+106 °	26
+viện kiểm_sát quân_sự	26
+sở nông_nghiệp phát_triển nông_thôn	26
+sở y_tế	26
+bộ_trưởng nông_nghiệp phát_triển nông_thôn	25
+rời cảng biển	24
+ubnd tỉnh	23
+chạy dọc	22
+tỉnh thừa_thiên huế	21
+cảng biển địa_phận tỉnh	21
+quỹ bảo_hiểm_y_tế	21
+chủ_tịch ủy_ban nhân_dân tỉnh	21
+trạm y_tế xã	20
+tiền giang	20
+bến tre	20
+giám_đốc sở y_tế tỉnh	20
+trung_tâm y_tế	19
+nhân_dân tỉnh	19
+sở y_tế tỉnh	19
+ủy_ban nhân_dân huyện	19
+cán_bộ viện kiểm_sát quân_sự	19
+cảng_vụ hàng_hải vũng_tàu	19
+tọa_độ :	18
+chữa bệnh bảo_hiểm_y_tế ban_đầu	18
+long an	17
+phó viện_trưởng viện kiểm_sát quân_sự	17
+nhập_khẩu_trang thiết_bị y_tế	17
+hành_nghề khám bệnh	16
+quân_khu tương_đương	16
+chữa bệnh bảo_hiểm_y_tế	15
+đạo_đức nghề_nghiệp	15
+10 °	11
+tòa_án nhân_dân	11
+viện kiểm_sát quân_sự quân_khu tương_đương	10
+phó trưởng_phòng	10
+bộ_trưởng quốc_phòng	10
+cảng dầu_khí khơi mỏ	9
+dầu_khí khơi mỏ	9
+phạm_vi cảng	9
+giám_đốc sở y_tế	8
+địa_bàn tỉnh	8
+trạm y_tế	8
+giám_đốc sở	8
+viện_trưởng viện kiểm_sát quân_sự	7
+cảng biển địa_phận	6
+phó viện_trưởng	6
+thiết_bị y_tế	5
+hoạt_động chuyên_môn	4
+chủ_tịch ủy_ban nhân_dân	4
+quản_lý y	3
+địa_phận tỉnh	3
+kiểm_sát quân_sự trung_ương	3
+thừa_thiên huế	3
+đăng_ký hoạt_động	3
+cơ_sở khám	2
+viện_trưởng viện	2
+chủ_tịch ủy_ban	2
+y_tế xã	2
+y_tế tỉnh	2
+hành_nghề khám	1
+bộ_trưởng nông_nghiệp phát_triển	1
+viện kiểm_sát	1
+chữa bệnh y_học	1
+nhân_dân xã	1
+trung_ương hội	1
+kiểm_sát quân_sự	1
+quỹ phát_triển	1

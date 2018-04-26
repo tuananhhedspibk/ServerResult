@@ -1,0 +1,230 @@
+/ nđ-cp	441
+căn_cứ nghị_định	335
+căn_cứ luật	187
+quy_định nghị_định	172
+quy_định luật	101
+thủ_tướng chính_phủ	97
+/ tt-btc	97
+luật sửa_đổi	81
+mô - đun	76
+2013 chính_phủ quy_định chức_năng	68
+/ tt-bgtvt	65
+/ nđ-c	58
+12 2015	56
+/ qđ-ttg	56
+chính_phủ quy_định chi_tiết thi_hành một_số luật	55
+bổ_sung một_số luật	51
+11 2014	47
+chính_phủ quy_định	42
+/ tt-byt	41
+/ nđ-cp 20 12 2012 chính_phủ quy_định chức_năng	40
+bổ_sung một_số luật thi_đua	40
+/ tt-btp	39
+chính_phủ quy_định chi_tiết hướng_dẫn thi_hành một_số luật	39
+chính_phủ quy_định chức_năng	35
+10 2015	34
+/ qh12	34
+/ tt-bkhcn	34
+11 2015	33
+31 12	32
+quy_định luật phá_sản	32
+% tổng_số	31
+nghị_định 42/2010 / nđ-cp	31
+thực_hiện quy_định nghị_định	30
+quy_định chi_tiết	29
+/ qh13	29
+2012 chính_phủ quy_định chức_năng	29
+bổ_sung một_số thông_tư	28
+thực_hiện quy_định	28
+11 2013	28
+bổ_sung một_số	28
+căn_cứ nghị_định 107/2012	28
+2015 chính_phủ	27
+/ nđ-cp 14	27
+căn_cứ nghị_định 215/2013 / nđ-cp	27
+/ tt -	25
+quyết_định 32/2015 / qđ-ttg	25
+/ tt-blđtbxh	25
+bổ_sung một_số nghị_định	25
+s / 10 cm2	24
+quy_định quyết_định 32/2015 / qđ-ttg	24
+6 2010	24
+/ nđ-cp 09	23
+% trở	22
+11 2009	22
+luật đấu_thầu 43/2013 / qh13	22
+/ qđ-nhnn	21
+/ nđ-cp 27	21
+/ qh11	20
+căn_cứ tình_hình thực_tế	20
+căn_cứ luật tiêu_chuẩn quy_chuẩn kỹ_thuật 29 6 2006	20
+/ nđ-cp 31	20
+nghị_định 63/2014 / nđ-cp	20
+2014 chính_phủ	20
+/ nđ-cp 17	20
+/ nđ-cp 15	20
+/ nđ-cp 20	20
+c / o	19
+6 2014	19
+quy_định luật đấu_thầu 43/2013 / qh13	19
+quy_định nghị_định 63/2015 / nđ-cp	18
+000 đồng /	18
+/ tt-bct	18
+quyết_định 11/2015 / qđ-ttg	18
+/ nđ-cp 12	18
+chính_phủ quy_định chi_tiết	17
+quy_định luật doanh_nghiệp	17
+/ qđ-bgtvt	17
+2012 chính_phủ	17
+11 2008	17
+thực_hiện quy_định luật	16
+7 2014	16
+kiểm_tra kết_thúc mô - đun	16
+127/2007 / nđ-cp 01 8 2007	16
+quy_định thông_tư	16
+18 6	16
+/ nđ - cp	15
+11/2010 / nđ-cp	15
+quy_định chức_năng	15
+căn_cứ kết_quả	15
+2015 chính_phủ quy_định	15
+một_số nghị_định	15
+26 11	15
+/ nđ-cp 22	15
+quy_định luật thi_đua	13
+2013 chính_phủ	13
+thông_tư 159/2013 / tt-btc	13
+159/2013 / tt-btc	13
+65/2014 / nđ-cp	13
+2013 chính_phủ quy_định	13
+20 %	13
+nghị_định 39/2012	13
+4 2010	13
+10 %	13
+kết_thúc mô - đun	12
+123/2015 / nđ-cp	12
+05/2015 / nđ-cp	12
+50 %	12
+chính_phủ quy_định chi_tiết hướng_dẫn thi_hành một_số	11
+nghị_định 05/2015 / nđ-cp	11
+2013 chính_phủ quy_định chi_tiết	11
+nghị_định 118/2014	11
+2010 chính_phủ	11
+trình thủ_tướng chính_phủ	11
+16 10	11
+/ nđ-cp 24	11
+000 đồng	10
+15 11	10
+tình_hình thực_tế	10
+5 %	10
+4 2012 chính_phủ	10
+/ nđ-cp 26	10
+thông_tư 07/2014 /	10
+nghị_định 63/2015 / nđ-cp	10
+thi_hành một_số luật	10
+thi_hành luật	10
+nghị_định 79/2014	9
+quy_định c	9
+2010 chính_phủ quy_định	9
+chính_phủ sửa_đổi	9
+12 2014	9
+11 2012	9
+thực_hiện chức_năng	9
+chính_phủ quy_định chi_tiết thi_hành	9
+luật phá_sản	9
+5 % trở	9
+chính_phủ quy_định chi_tiết thi_hành luật	9
+70 %	9
+5 2013	8
+20 11	8
+nghị_định 123/2015 / nđ-cp	8
+luật doanh_nghiệp	8
+hướng_dẫn thi_hành một_số	8
+12 2013	8
+42/2010 / nđ-cp	8
+thông_tư 159/2013 /	8
+/ nđ-cp 23	8
+quy_định chi_tiết thi_hành một_số luật	8
+7 2014 chính_phủ	8
+hướng_dẫn thực_hiện một_số	8
+nghị_định 65/2014 / nđ-cp	8
+100 %	8
+07/2014 /	7
+2014 chính_phủ quy_định	7
+quyết_định sửa_đổi	7
+10 2013	7
+29 6 2006	6
+nghị_định 11/2010 / nđ-cp	6
+2012 chính_phủ quy_định	6
+2015 chính_phủ quy_định chi_tiết	6
+12 2012	6
+20 12	5
+63/2014 / nđ-cp	5
+đồng /	5
+chính_phủ quy_định chi_tiết thi_hành một_số	5
+4 2012	5
+nghị_định 45/2015	5
+29 6	5
+hướng_dẫn thực_hiện	5
+một_số luật	5
+hướng_dẫn thi_hành	4
+thông_tư 18/2013 /	4
+quy_định chi_tiết hướng_dẫn thi_hành	4
+nđ - cp	4
+chính_phủ quy_định chi_tiết hướng_dẫn thi_hành	4
+11 2013 chính_phủ	4
+2007 chính_phủ	3
+quy_định nghị_định 63/2015	3
+- đun	3
+đấu_thầu 43/2013 / qh13	3
+quyết_định 11/2015 /	3
+63/2015 / nđ-cp	3
+nghị_định 63/2015	3
+215/2013 /	3
+8 2007	3
+11/2010 /	3
+thông_tư hướng_dẫn	3
+luật thi_đua	3
+quy_định chi_tiết thi_hành một_số	3
+2014 chính_phủ quy_định chi_tiết	3
+tt -	3
+hướng_dẫn thông_tư	3
+17 11	3
+thông_tư 18/2013	2
+nghị_định 127/2007 / nđ-cp 01 8 2007	2
+nghị_định 05/2015	2
+nghị_định 42/2010 /	2
+căn_cứ tình_hình	2
+thông_tư quy_định	2
+quy_định chi_tiết thi_hành	2
+chính_phủ quy_định chi_tiết hướng_dẫn	2
+2011 chính_phủ	2
+nghị_định 63/2015 /	2
+quyết_định 32/2015 /	2
+thông_tư 07/2014	2
+05/2015 /	2
+nghị_định 65/2014	2
+nghị_định 42/2010	2
+10 2013 chính_phủ quy_định	2
+căn_cứ luật tiêu_chuẩn quy_chuẩn	2
+nghị_định 123/2015	2
+/ nđ-cp 20 12	1
+6 2006	1
+quy_định chi_tiết hướng_dẫn thi_hành một_số luật	1
+nghị_định 63/2014	1
+quy_định quyết_định 32/2015 /	1
+nghị_định 11/2010	1
+nđ -	1
+2007 chính_phủ quy_định	1
+01 01	1
+hướng_dẫn thi_hành một_số luật	1
+63/2014 /	1
+159/2013 /	1
+/ nđ -	1
+43/2013 /	1
+kiểm_tra thực_tế	1
+quy_định quy_chuẩn kỹ_thuật	1
+10 2013 chính_phủ	1
+11 2013 chính_phủ quy_định	1
+căn_cứ nghị_định 107/2012 / nđ-cp	1
+mô -	1

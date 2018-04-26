@@ -1,0 +1,208 @@
+tổ_chức tín_dụng	194
+công_bố thông_tin	192
+quyền_hạn cơ_cấu tổ_chức	123
+báo_cáo tài_chính	104
+hội_đồng thành_viên	102
+quỹ bvmtvn	95
+chủ sở_hữu	75
+sở giao_dịch chứng_khoán	74
+khoản nợ	73
+công_ty đại_chúng	70
+công_ty quản_lý quỹ	65
+ủy_ban chứng_khoán nhà_nước	58
+công_ty nông	58
+công_ty cổ_phần	50
+trái_phiếu đặc_biệt	50
+tổ_chức tín_dụng phép	47
+thành_viên hội_đồng thành_viên	47
+sử_dụng vốn	45
+góp vốn	45
+tài_sản bảo_đảm	44
+tổ_chức niêm_yết	42
+lưu ký	41
+giao_dịch bảo_đảm	40
+đăng_ký giao_dịch	40
+chủ_tịch hội_đồng thành_viên	38
+đối_với doanh_nghiệp	36
+bảo_đảm tiền vay	35
+sở tài_chính	35
+vốn góp	34
+công_ty đầu_tư chứng_khoán đại_chúng	34
+quỹ đại_chúng	34
+chứng_chỉ quỹ	33
+công_ty_tnhh mtv	33
+giải_thể công_ty	33
+vốn điều_lệ	33
+công_ty quản_lý_tài_sản	32
+khoản vay	31
+đại_hội_đồng cổ_đông	31
+khoản nợ vay	31
+chủ sở_hữu nhà_nước	30
+khoản vay vốn vay nước_ngoài chính_phủ	29
+công_ty trách_nhiệm hữu_hạn thành_viên nhà_nước chủ sở_hữu	29
+mua nợ	29
+vay vốn	29
+trung_tâm lưu ký chứng_khoán	29
+thực_hiện quyền	28
+đăng_ký giao_dịch bảo_đảm	28
+tổ_chức thay_mặt tài_chính thực_hiện nghiệp_vụ bảo_đảm tiền vay	28
+công_bố báo_cáo tài_chính	28
+công_ty thực_hiện sắp_xếp	27
+quyền_hạn cơ_cấu tổ_chức tài_chính	27
+vốn vay	27
+xử_lý nợ	26
+thực_hiện nghĩa_vụ	25
+đối_với tổ_chức tín_dụng	25
+công_ty trách_nhiệm hữu_hạn	25
+tổ_chức thực_hiện	24
+tổng công_ty	24
+giao_dịch hoán_đổi	24
+quyền mua	23
+công_ty đại_chúng quy_mô	22
+xử_lý_tài_sản bảo_đảm	22
+chứng_khoán đầu_tư	22
+công_bố công_khai	22
+quyết_định hội_đồng thành_viên	22
+bom mìn	21
+tài_sản hình_thành	21
+công_ty giải_thể	20
+hoạt_động kinh_doanh	20
+đối_tượng công_bố thông_tin	20
+thị_trường chứng_khoán	20
+vốn nhà_nước	19
+chủ sở_hữu công_ty	19
+doanh_nghiệp nhà_nước	19
+công_ty sáp_nhập	19
+quyền sở_hữu	18
+quản_lý quỹ	18
+quyết_định giải_thể	18
+bộ_trưởng tài_chính	18
+chuyển_đổi sở_hữu	17
+giá_trị tài_sản	17
+vốn góp nhà_nước	17
+báo_cáo tài_chính bán_niên	17
+sở giao_dịch	17
+100 % vốn	17
+nhà_nước nắm 100 % vốn điều_lệ	17
+báo_cáo tài_chính kiểm_toán	17
+nợ vay	16
+báo_cáo tài_chính quý	16
+nghĩa_vụ nợ	16
+xử_lý khoản nợ vay	16
+đầu_tư chứng_khoán	16
+công_ty trách_nhiệm hữu_hạn thành_viên	15
+cung_cấp thông_tin	15
+ký hợp_đồng	15
+chủ_tịch hội_đồng	14
+quyết_định thành_lập	14
+công_ty đầu_tư chứng_khoán	13
+quỹ đầu_tư	13
+quyền nghĩa_vụ	13
+thành_viên hội_đồng	13
+tài_chính hướng_dẫn	13
+thực_hiện sắp_xếp	12
+quỹ đóng	12
+cơ_cấu tổ_chức	12
+giao_dịch quyền	12
+đầu_tư nước_ngoài	12
+nợ tài_sản	11
+mua cổ_phiếu	11
+giao_dịch chứng_khoán	10
+nắm 100 % vốn điều_lệ	10
+ngành kinh_tế	9
+công_ty quản_lý quỹ công_bố	9
+5 % trở	9
+giao_dịch kỳ_hạn	9
+tài_sản nhà_nước	8
+thực_hiện nghiệp_vụ bảo_đảm tiền vay	8
+đại_diện chủ sở_hữu	8
+hội_đồng quản_trị	8
+quỹ phát_triển	8
+thay_đổi thông_tin	7
+giá mua	7
+nhà_nước chủ sở_hữu	7
+nghĩa_vụ công_bố thông_tin	7
+% trở	7
+vốn đầu_tư	7
+thông_tin ngân_hàng	6
+% vốn	6
+công_ty quản_lý	6
+trách_nhiệm tổ_chức	6
+xử_lý khoản nợ	6
+thành_lập hoạt_động	6
+vay nước_ngoài	6
+thực_hiện nghiệp_vụ	6
+trình hội_đồng	5
+công_ty trách_nhiệm	5
+quyền sử_dụng đất	5
+ngân_hàng nhà_nước	5
+công_ty trách_nhiệm hữu_hạn thành_viên nhà_nước	5
+đăng_ký doanh_nghiệp	5
+100 %	5
+luật doanh_nghiệp	4
+đăng_ký kinh_doanh	4
+quản_lý sử_dụng	4
+vay vốn vay nước_ngoài chính_phủ	4
+tổ_chức chính_trị	4
+sử_dụng tài_sản nhà_nước	4
+đối_với doanh_nghiệp nhà_nước	4
+công_bố báo_cáo	4
+thông_tin liên_quan	4
+trách_nhiệm hữu_hạn	4
+thành_lập hội_đồng	4
+hợp_đồng bảo_đảm	4
+% vốn điều_lệ	4
+chủ đầu_tư	3
+quyền sử_dụng	3
+lưu ký chứng_khoán	3
+nghiệp_vụ bảo_đảm tiền vay	3
+thành_viên ban	3
+khoản tiền	3
+chấm_dứt hợp_đồng	3
+báo_cáo định_kỳ	3
+chấp_thuận chủ_trương	2
+hợp_đồng mua_bán	2
+công_ty đầu_tư	2
+họp hội_đồng	2
+sở_hữu nhà_nước	2
+tổng_số thành_viên	2
+khoản vay vốn vay nước_ngoài	2
+tiền vay	2
+trách_nhiệm tổ_chức thực_hiện	2
+giám_đốc sở	2
+quản_lý nhà_nước	2
+thực_hiện hợp_đồng	2
+100 % vốn điều_lệ	2
+trung_tâm lưu ký	1
+trách_nhiệm hữu_hạn thành_viên nhà_nước chủ sở_hữu	1
+sở_hữu công_ty	1
+bảo_đảm tiền	1
+vấn_đề liên_quan	1
+khoản thanh_toán	1
+xử_lý khoản	1
+mục_đích sử_dụng	1
+hoạt_động nghiệp_vụ	1
+hoạt_động chi_nhánh	1
+50 %	1
+% tổng_số	1
+phát_triển kinh_tế	1
+nợ xấu	1
+thông_tin điện_tử	1
+5 %	1
+mua trái_phiếu	1
+thay_mặt tài_chính thực_hiện nghiệp_vụ bảo_đảm tiền vay	1
+tài_chính kiểm_toán	1
+đầu_tư chứng_khoán đại_chúng	1
+chi_nhánh ngân_hàng	1
+phép lưu_hành	1
+kho_bạc nhà_nước	1
+trình bộ_trưởng	1
+vốn vay nước_ngoài	1
+hướng_dẫn thực_hiện	1
+liên_quan hoạt_động	1
+đăng_ký hoạt_động	1
+thay_mặt tài_chính	1
+phát_triển sử_dụng	1
+thực_hiện đầy_đủ	1
+luật quản_lý	1
+ban quản_lý	1

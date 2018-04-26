@@ -1,0 +1,233 @@
+khoa_học công_nghệ	231
+hình_thức khen_thưởng	120
+thủ_trưởng đơn_vị	116
+lao_động - thương_binh xã_hội	104
+danh_hiệu thi_đua	92
+phong_trào thi_đua	85
+công_tác thi_đua	83
+đề_nghị vụ_trưởng vụ	81
+xét tặng	80
+vụ thi_đua	66
+cụm thi_đua	61
+cá_nhân đề_nghị khen_thưởng	59
+hội_đồng thi_đua - khen_thưởng	58
+ngành tư_pháp	56
+khen_thưởng tuyên_truyền	53
+quỹ thi_đua	51
+đề_nghị khen_thưởng	50
+thủ_trưởng cơ_quan	50
+trình bộ_trưởng	48
+vụ pháp_chế	46
+danh_hiệu “	44
+ngành xây_dựng	44
+hồ_sơ đề_nghị	44
+hội_đồng sáng_kiến	42
+vụ_trưởng vụ	42
+hồ_sơ đề_nghị khen_thưởng	42
+thành_tích xuất_sắc	41
+danh_hiệu “ lao_động tiên_tiến	41
+đơn_vị sự_nghiệp công_lập	38
+bộ_trưởng tư_pháp	37
+bộ_trưởng khoa_học công_nghệ	37
+tặng danh_hiệu thi_đua	36
+vụ_trưởng vụ pháp_chế	34
+khu_vực thi_đua	33
+kỷ_niệm chương “ sự_nghiệp	32
+vụ thi_đua - khen_thưởng	31
+nghiên_cứu khoa_học	31
+thành_viên hội_đồng	31
+hội_đồng thi_đua	31
+tập_thể đề_nghị khen_thưởng	30
+cn cấp_thiết địa_phương	29
+đội chiếu_phim lưu_động	29
+ban thi_đua	29
+pháp điển	29
+xét tặng danh_hiệu thi_đua	28
+đơn_vị sự_nghiệp	27
+tổ_chức chính_trị - xã_hội	27
+danh_hiệu “ chiến_sĩ thi_đua cơ_sở	27
+đối_với tập_thể	26
+báo_cáo thành_tích	26
+hiện_vật khen_thưởng	25
+trình hội_đồng thi_đua - khen_thưởng	25
+xét khen_thưởng	24
+giấy khen	24
+khen_thưởng ngành tư_pháp	24
+đề_tài nghiên_cứu khoa_học	24
+biên_bản họp	23
+chủ_tịch hội_đồng	23
+tổ_chức phong_trào thi_đua	23
+sở khoa_học công_nghệ	23
+khối thi_đua	22
+khen_thưởng ngành	22
+“ giải_thưởng	22
+hoạt_động khoa_học công_nghệ	22
+giám_đốc sở	21
+đề_nghị tổng_cục_trưởng tổng_cục	21
+hồ_sơ đề_nghị xét tặng	21
+phát_động phong_trào thi_đua	20
+thủ_trưởng đơn_vị trực_thuộc	20
+danh_hiệu “ chiến_sĩ thi_đua	20
+trình thẩm_quyền	20
+phát_triển khoa_học công_nghệ	20
+đơn_vị trực_thuộc	19
+chính_sách đảng	19
+danh_hiệu vinh_dự nhà_nước	19
+đơn_vị liên_quan	19
+sở lao_động - thương_binh xã_hội	19
+cá_nhân đề_nghị	19
+“ khen thủ_tướng chính_phủ	19
+nhiệm_vụ khoa_học công_nghệ	19
+“ cờ thi_đua	19
+khen bộ_trưởng	19
+“ khen bộ_trưởng	18
+danh_hiệu “ cờ thi_đua	18
+quyết_định công_nhận	18
+thi_đua - khen_thưởng	18
+báo_cáo thành_tích tập_thể	18
+“ cờ thi_đua chính_phủ	18
+vụ tổ_chức cán_bộ	18
+tổng_cục chính_trị	17
+quá_trình cống_hiến	17
+dây_chuyền công_nghệ	17
+danh_hiệu “ chiến_sĩ thi_đua toàn_quốc	17
+khen_thưởng tuyên truyề	17
+cờ thi_đua chính_phủ	16
+hội_đồng thi_đua - khen_thưởng tài_nguyên môi_trường	16
+danh_hiệu “ tập_thể lao_động xuất_sắc	16
+“ tập_thể lao_động tiên_tiến	16
+cờ thi_đua	15
+hình_thức khen_thưởng thẩm_quyền	15
+tập_thể lao_động tiên_tiến	15
+giúp bộ_trưởng	15
+quyết_định thành_lập	15
+sở tư_pháp	15
+thi_đua chuyên_đề	14
+thẩm_quyền quyết_định	14
+hình_thức khen_thưởng thẩm_quyền bộ_trưởng	14
+thành_lập hội_đồng	13
+quyết_định tặng	12
+đơn_vị kèm danh_sách	12
+trình khen_thưởng	11
+tổ_chức chính_trị	11
+biên_bản họp hội_đồng	11
+khen_thưởng trình	11
+thi_đua cơ_sở	11
+phó_chủ_tịch hội_đồng	11
+vụ_trưởng vụ khoa_học công_nghệ	10
+“ lao_động tiên_tiến	10
+tổ_chức cán_bộ	10
+vụ khoa_học công_nghệ	10
+hội_đồng thi_đua - khen_thưởng ngành tư_pháp	10
+“ chiến_sĩ thi_đua	10
+luật thi_đua	10
+sáng_kiến cơ_sở	10
+kỷ_niệm chương	9
+biên_bản họp hội_đồng thi_đua	9
+tặng danh_hiệu “	9
+họp hội_đồng	9
+thực_hiện nhiệm_vụ khoa_học công_nghệ	9
+đề_nghị xét tặng	9
+tổng_cục_trưởng tổng_cục	8
+thương_binh xã_hội	8
+khen thủ_tướng chính_phủ	8
+“ khen	8
+phối_hợp đơn_vị	8
+danh_hiệu thi_đua hình_thức khen_thưởng	8
+cấp_thiết địa_phương	8
+chiến_sĩ thi_đua cơ_sở	7
+trưởng ban	7
+“ chiến_sĩ thi_đua toàn_quốc	7
+lưu_trữ hồ_sơ	7
+phối_hợp vụ	7
+đối_với cán_bộ	7
+vụ tài_chính	7
+trình thủ_tướng chính_phủ	7
+“ chiến_sĩ thi_đua cơ_sở	7
+đơn_vị chủ_trì	7
+chiến_sĩ thi_đua toàn_quốc	6
+thủ_tướng chính_phủ	6
+“ chiến_sỹ	6
+hồ_sơ đề_nghị xét	6
+khen_thưởng thẩm_quyền	6
+phát_triển kinh_tế - xã_hội	6
+hoàn_thiện hồ_sơ	6
+thi_đua ngành	6
+khen_thưởng tài_nguyên môi_trường	5
+cơ_quan chủ_trì	5
+tổ_chức cá_nhân	5
+đề_nghị xét	5
+thi_đua toàn_quốc	5
+lao_động tiên_tiến	5
+đề_nghị công_nhận	4
+thẩm_định hồ_sơ	4
+kinh_tế - xã_hội	4
+kèm danh_sách	4
+phối_hợp đơn_vị liên_quan	4
+công_nghệ thông_tin	4
+“ tập_thể lao_động xuất_sắc	4
+cơ_quan chính_phủ	4
+gửi hồ_sơ	3
+cơ_sở vật_chất	3
+trình hội_đồng	3
+chiếu_phim lưu_động	3
+đơn_vị giao	3
+văn_bản đề_nghị	3
+kèm danh_sách tập_thể	3
+tập_thể lao_động xuất_sắc	3
+hoàn_thành nhiệm_vụ	3
+cá_nhân liên_quan	3
+thành_tích tập_thể	3
+hội_đồng thẩm_định	3
+chính_sách đối_với	3
+thường_trực hội_đồng	3
+trình hội_đồng thi_đua	3
+tặng kỷ_niệm	3
+tổ_chức chính_trị -	2
+tập_thể lao_động	2
+tờ_trình đề_nghị	2
+cơ_quan nhà_nước	2
+công_nhận sáng_kiến	2
+cn cấp_thiết	2
+lãnh_đạo đơn_vị	2
+tổng_số thành_viên	2
+danh_sách tập_thể	2
+chiến_sĩ thi_đua	2
+báo_cáo chuyên_đề	2
+liên_quan hoạt_động	2
+cơ_quan điều_tra	2
+đề_tài nghiên_cứu	2
+chiến_sỹ thi_đua	2
+xét tặng danh_hiệu	1
+vụ khoa_học	1
+danh_sách đề_nghị	1
+ngành kinh_tế	1
+thi_đua - khen_thưởng ngành tư_pháp	1
+phối_hợp cơ_quan	1
+nhiệm_vụ khoa_học	1
+gửi cơ_quan	1
+danh_sách lao_động	1
+vinh_dự nhà_nước	1
+xét tặng danh_hiệu “	1
+nhiệm_vụ môi_trường	1
+tặng danh_hiệu	1
+thực_hiện công_tác	1
+“ sự_nghiệp	1
+- xã_hội	1
+thực_hiện nhiệm_vụ khoa_học	1
+chính_trị - xã_hội	1
+danh_hiệu vinh_dự	1
+khen_thưởng thẩm_quyền bộ_trưởng	1
+xây_dựng cơ_sở	1
+tặng kỷ_niệm chương	1
+thi_đua chính_phủ	1
+tổ_chức thực_hiện	1
+tập_thể đề_nghị	1
+quỹ phát_triển	1
+thẩm_quyền xem_xét	1
+hồ_sơ đăng_ký	1
+đội_trưởng đội	1
+tặng “	1
+giấy xác_nhận	1
+hồ_sơ đề_nghị xét tặng danh_hiệu	1
+tổ_chức cá_nhân liên_quan	1

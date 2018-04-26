@@ -1,0 +1,214 @@
+cơ_quan thẩm_quyền	247
+cơ_quan kiểm_tra	117
+thủ_trưởng cơ_quan	106
+cơ_quan quản_lý	101
+văn_bản đề_nghị	92
+văn_bản quy_phạm pháp_luật	76
+đáp_ứng yêu_cầu	75
+xử_lý vi_phạm	70
+ngân_sách nhà_nước	69
+thẩm_quyền phê_duyệt	67
+cơ_quan nhà_nước thẩm_quyền	65
+cơ_quan quản_lý nhà_nước	61
+cung_cấp dịch_vụ	59
+nêu lý_do	58
+văn_bản chấp_thuận	56
+cơ_quan chính_phủ	56
+lô hàng	55
+quản_lý nhà_nước	53
+cơ_quan ngang	51
+thanh_tra chính_phủ	49
+cơ_quan kiểm_soát	48
+thông_báo văn_bản	47
+cơ_quan giám_sát	47
+chương_trình giám_sát dư_lượng	47
+giám_sát hoạt_động đoàn thanh_tra	46
+kết_quả kiểm_nghiệm	46
+chương_trình giám_sát	46
+văn_bản thông_báo	46
+kiểm_tra nhà_nước	45
+kết_quả kiểm_tra	44
+tổng thanh_tra chính_phủ	44
+biện_pháp xử_lý	44
+cơ_quan nhà_nước	42
+cơ_quan thuế	41
+quyết_định thanh_tra	41
+hành_vi vi_phạm	39
+quyết_định phê_duyệt	39
+phối_hợp cơ_quan	38
+hành_vi vi_phạm pháp_luật	37
+số_hiệu mạng	37
+tạm ngừng	36
+đơn_vị liên_quan	35
+quyết_định thành_lập	35
+văn_bản trả_lời	34
+thẩm_quyền quyết_định	33
+thủ_trưởng đơn_vị	33
+cơ_quan chủ_trì	32
+thông_báo kết_quả	32
+văn_bản yêu_cầu	32
+phân_bổ :	32
+quyết_định sửa_đổi	31
+cung_cấp thông_tin	31
+mẫu giám_sát	30
+quản_lý sử_dụng	30
+thức_ăn chăn_nuôi	30
+tổ giám_sát	30
+trưởng_đoàn thanh_tra	29
+văn_bản sửa_đổi	29
+thành_viên đoàn thanh_tra	29
+sử_dụng ngân_sách nhà_nước	29
+phân_bổ mã	28
+xử_lý vi_phạm hành_chính	28
+thuê_bao viễn_thông	28
+đáp_ứng điều_kiện	27
+văn_bản hướng_dẫn	27
+đoàn thanh_tra	27
+cơ_sở kiểm_nghiệm	26
+giải_quyết khiếu_nại	26
+xử_phạt vi_phạm hành_chính	25
+thủy_sản nuôi	25
+di_động mặt_đất	24
+xử_lý văn_bản quy_phạm pháp_luật	24
+thu_hồi giấy_phép	23
+trả_lời văn_bản nêu lý_do	22
+doanh_nghiệp viễn_thông	22
+quản_lý chất_lượng	22
+cơ_quan hải_quan	22
+cơ_quan thẩm_quyền phê_duyệt	22
+định_kỳ hàng	22
+thủ_trưởng cơ_quan ngang	22
+hoạt_động quản_lý hành_chính	22
+văn_bản quy_phạm pháp_luật liên_quan	21
+đoàn kiểm_tra	21
+cơ_quan thẩm_quyền nước_ngoài	21
+biện_pháp khắc_phục	20
+quản_lý sử_dụng kho	20
+cục viễn_thông	20
+hoạt_động kinh_doanh	20
+cơ_sở sản_xuất	20
+thuê thuê_bao viễn_thông	20
+tố_cáo phòng	20
+cơ_quan quản_lý nhà_nước thẩm_quyền	20
+thuê_bao mạng viễn_thông	20
+mạng viễn_thông	20
+tiếp công_dân	20
+dịch_vụ gọi	20
+quản_lý thuế	20
+độc_tố sinh_học	19
+xử_lý văn_bản	19
+dịch_vụ viễn_thông	19
+vi_phạm pháp_luật	19
+phiếu kiểm_soát thu_hoạch	19
+phân_công cơ_quan thuế	19
+giới_hạn tối_đa phép	19
+kinh_doanh dịch_vụ	19
+nuôi_trồng thủy_sản	19
+cục quản_lý	19
+quyết_định thu_hồi	18
+kiểm_soát thu_hoạch	18
+ý_kiến văn_bản	18
+gửi cơ_quan	18
+doanh_nghiệp cung_cấp dịch_vụ	18
+phép thành_lập hoạt_động	18
+cơ_quan đăng_ký	16
+giấy_phép thành_lập hoạt_động	16
+hệ_thống hóa_văn_bản quy_phạm pháp_luật	16
+thực_hiện chương_trình giám_sát dư_lượng	16
+chủ_trì phối_hợp	15
+quyết_định công_nhận	15
+phối_hợp đơn_vị liên_quan	15
+giám_sát hoạt_động	15
+vi_phạm hành_chính	14
+chất_lượng nông_lâm_sản thủy_sản	14
+đơn_vị trực_thuộc	13
+quy_phạm pháp_luật	13
+đơn đề_nghị	13
+đơn_vị chủ_trì soạn_thảo	13
+phối_hợp đơn_vị	13
+thông_tin liên_quan	13
+liên_quan hoạt_động	13
+thông_báo cơ_quan	13
+hệ_thống thông_tin	13
+đăng_ký hoạt_động	13
+đối_với doanh_nghiệp	12
+tham_gia hoạt_động	12
+nhu_cầu sử_dụng	12
+phép lưu_hành	11
+gửi văn_bản	11
+hoạt_động đoàn thanh_tra	11
+thực_hiện chương_trình giám_sát	11
+phân_bổ địa_chỉ	11
+đơn_vị thanh_tra chính_phủ	10
+quản_lý trực_tiếp	10
+triển_khai chương_trình giám_sát	10
+thẩm_quyền xem_xét	10
+chủ_trì soạn_thảo	10
+kết_quả giám_sát	9
+cập_nhật thông_tin	9
+mục_đích sử_dụng	8
+tiến_hành kiểm_tra	8
+xử_lý kỷ_luật	8
+đăng_ký doanh_nghiệp	8
+thẩm_quyền phép	8
+văn_bản nêu lý_do	8
+dịch_vụ đăng_ký	7
+trình thẩm_quyền	7
+tiếp_tục sử_dụng	7
+trả_lời văn_bản	7
+cơ_quan điều_tra	7
+đơn_vị chủ_trì	7
+kiểm_tra thực_tế	7
+tổng thanh_tra	7
+kiểm_tra định_kỳ	6
+quyền sử_dụng	6
+thành_viên đoàn	6
+tham_gia chương_trình	6
+đối_với cơ_sở	6
+tập_huấn nghiệp_vụ	6
+giám_sát dư_lượng	5
+hành_chính lĩnh_vực	5
+cục hàng	5
+quản_lý chất_lượng nông_lâm_sản thủy_sản	5
+quản_lý hành_chính	5
+luật quản_lý thuế	5
+doanh_nghiệp nhà_nước	5
+thành_lập hoạt_động	5
+thủ_trưởng đơn_vị trực_thuộc	4
+tổ_chức quốc_tế	4
+pháp_luật liên_quan	4
+tối_đa phép	4
+phép thành_lập	4
+đồng_thời gửi	4
+kiểm_tra chất_lượng	4
+giấy_phép thành_lập	4
+đơn yêu_cầu	4
+đăng_ký kinh_doanh	3
+thực_hiện biện_pháp	3
+luật quản_lý	3
+khắc_phục hậu_quả	3
+xử_lý hành_vi	3
+luật ngân_sách nhà_nước	2
+xử_phạt vi_phạm	2
+chấp_hành quyết_định	2
+gửi trực_tiếp	2
+sử_dụng ngân_sách	2
+tổ_chức triển_khai	2
+đề_nghị giấy_phép	2
+hoạt_động nghiệp_vụ	2
+chính_phủ sửa_đổi	2
+cơ_quan thuế quản_lý	1
+thành_viên nhà_nước	1
+cộng_tác_viên thanh_tra	1
+quản_lý chất_lượng nông_lâm_sản	1
+tổ_chức thực_hiện	1
+triển_khai thực_hiện	1
+giới_hạn tối_đa	1
+quy_phạm pháp_luật liên_quan	1
+triển_khai chương_trình	1
+kết_quả thực_hiện	1
+thực_hiện chương_trình	1
+hướng_dẫn thực_hiện	1
+nhà_nước thẩm_quyền	1
+phép nhập_khẩu	1
+hệ_thống hóa_văn_bản	1

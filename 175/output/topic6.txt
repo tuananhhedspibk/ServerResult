@@ -1,0 +1,135 @@
+giấy_phép lái_xe	233
+chương_trình đào_tạo	178
+cơ_sở đào_tạo	91
+chứng_chỉ kỹ_năng nghề quốc_gia	82
+kiểm_tra sát_hạch	64
+giáo_trình đào_tạo	50
+giấy_phép lái_xe hạng	49
+sát_hạch lái_xe	47
+kỳ sát_hạch	46
+cơ_sở đào_tạo sơ_cấp	46
+đổi giấy_phép lái_xe	45
+dự sát_hạch	42
+chứng_chỉ sơ_cấp	42
+khóa học	41
+trung_tâm sát_hạch lái_xe	41
+bồi_dưỡng thường_xuyên	39
+trình_độ sơ_cấp	36
+nhà_giáo dạy trình_độ sơ_cấp	35
+thực_hành lái_xe	33
+đứng đầu_cơ_sở đào_tạo sơ_cấp	33
+nội_dung bồi_dưỡng	31
+cơ_sở đào_tạo lái_xe	31
+kỹ_năng nghề	31
+nâng hạng	29
+hội_đồng thẩm_định	29
+lái_xe ô_tô	27
+sát_hạch lý_thuyết	26
+đăng_kiểm_viên thực_hiện công_tác kiểm_tra hạng	26
+hội_đồng kiểm_tra sát_hạch	26
+đào_tạo lái_xe	26
+đào_tạo thường_xuyên	23
+trọng_tải toàn_phần	23
+xe tập lái	22
+trình_độ chuyên_môn	22
+năng_lực thực_hành	22
+bồi_dưỡng nâng	22
+ban quản_lý sát_hạch	21
+kết_thúc khóa học	21
+trung_tâm sát_hạch	21
+dạy nghề	20
+dự kiểm_tra	20
+hạng b1	20
+chủ_tịch hội_đồng	20
+phòng học	20
+hạng a1	20
+tập_huấn nghiệp_vụ	20
+công_nhận đăng_kiểm_viên	19
+học nghề	19
+bản_sao chứng_chỉ sơ_cấp	19
+giáo_viên dạy thực_hành lái_xe	18
+kiểm_tra thực_tế	18
+đứng đầu	17
+đào_tạo trình_độ sơ_cấp	17
+đánh_giá kết_quả học_tập	17
+đề_nghị công_nhận đăng_kiểm_viên	17
+hạng ii	17
+tổ sát_hạch	15
+quyết_định công_nhận	14
+đứng đầu_cơ_sở	13
+nhân_viên nghiệp_vụ	13
+hạng i	13
+cơ_sở vật_chất	13
+giấy_phép đào_tạo lái_xe	13
+kết_quả kiểm_tra	12
+đào_tạo lái_xe ô_tô	11
+hạng iii	11
+thành_viên hội_đồng	11
+tập lái	11
+giáo_viên dạy	11
+hội_đồng thẩm_định chương_trình	11
+kiểm_tra định_kỳ	10
+đáp_ứng yêu_cầu	10
+chương_trình bồi_dưỡng	10
+đề_nghị công_nhận	10
+kết_quả học_tập	10
+đánh_giá năng_lực	10
+kết_quả đánh_giá	9
+tổng_hợp kết_quả	9
+hình_thức kiểm_tra	9
+thực_hiện chương_trình	9
+thẩm_định thiết_kế	7
+đứng đầu_cơ_sở đào_tạo	7
+chứng_chỉ kỹ_năng nghề	7
+đào_tạo sơ_cấp	7
+kỹ_năng nghề quốc_gia	7
+lái xe	6
+tổ_trưởng tổ	6
+chuẩn quốc_gia	6
+thành_lập hội_đồng	6
+đăng_kiểm_viên thực_hiện	5
+đáp_ứng điều_kiện	5
+đăng_kiểm_viên thực_hiện công_tác kiểm_tra	5
+danh_sách đề_nghị	5
+đánh_giá kết_quả	5
+hoạt_động chuyên_môn	5
+đối_với học_viên	4
+cơ_sở y_tế	4
+họp hội_đồng	4
+đào_tạo trình_độ	4
+đề_nghị giấy_phép	4
+kiểm_tra kết_thúc	4
+dạy trình_độ sơ_cấp	3
+thực_hiện công_tác kiểm_tra	3
+thành_viên tổ	3
+chứng_chỉ hành_nghề	3
+quyết_định thành_lập	3
+công_tác kiểm_tra	3
+hội_đồng kiểm_tra	3
+quản_lý sát_hạch	3
+thẩm_định chương_trình	3
+kết_quả thẩm_định	3
+dạy thực_hành	2
+chương_trình môn_học	2
+thành_viên ban	2
+công_tác quản_lý	2
+tham_gia hoạt_động	2
+dạy thực_hành lái_xe	2
+phó_chủ_tịch hội_đồng	2
+thực_hiện công_việc	2
+kết_thúc khóa	2
+đăng_kiểm_viên thực_hiện công_tác	2
+chứng_chỉ kỹ_năng	2
+thi kết_thúc	1
+thực_hiện nghiệp_vụ	1
+thành_lập tổ	1
+giấy_phép thành_lập hoạt_động	1
+cơ_sở sản_xuất	1
+giáo_viên dạy thực_hành	1
+thực_hiện công_tác kiểm_tra hạng	1
+50 %	1
+đổi giấy_phép	1
+lái_xe hạng a1	1
+lái_xe hạng b1	1
+lái_xe hạng	1
+ghi sổ	1

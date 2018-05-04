@@ -1,0 +1,392 @@
+sở tài_chính	778
+sở tài_nguyên môi_trường	561
+thủ_trưởng sở	415
+tài_nguyên môi_trường	412
+phối_hợp sở	391
+giám_đốc sở	379
+sở tư_pháp	356
+sở tài_chính - vật_giá	263
+sở công_thương	229
+sở nội_vụ	203
+sở y_tế	182
+giám_đốc sở nội_vụ	157
+thanh_tra sở	154
+phòng tài_nguyên môi_trường	144
+sở ngoại_vụ	142
+phối_hợp sở tài_chính	138
+giám_đốc sở tài_chính	135
+bộ_trưởng tài_chính	124
+gửi sở tài_chính	121
+giám_đốc sở tư_pháp	121
+sở xây_dựng	114
+gửi sở	108
+giám_đốc sở :	101
+xét tờ_trình	96
+đề_nghị giám_đốc sở tài_chính tờ_trình	96
+phối_hợp sở tài_nguyên môi_trường	91
+nội_vụ hướng_dẫn chức_năng	90
+giám_đốc trung_tâm	89
+sở văn_hóa	84
+phòng tư_pháp	82
+giám_đốc sở y_tế	76
+giám_đốc sở tài_nguyên môi_trường	74
+đề_nghị giám_đốc sở	73
+sở địa_chính	69
+chủ_trì phối_hợp sở	68
+gửi tài_chính	67
+trách_nhiệm sở	66
+phối_hợp tài_chính	65
+kính gửi :	64
+đề_nghị giám_đốc sở tài_nguyên môi_trường tờ_trình	63
+bộ_trưởng tư_pháp	63
+cơ_quan_tài_nguyên môi_trường	60
+sở thông_tin truyền_thông	59
+phòng tài_chính - kế_hoạch huyện	55
+bộ_trưởng tài_chính hướng_dẫn	55
+đề_nghị xây_dựng nghị_quyết	55
+sở tài_chính vật_giá	54
+phòng tài_chính - kế_hoạch	54
+gửi sở tài_nguyên môi_trường	53
+bộ_trưởng nội_vụ	53
+phối_hợp sở thông_tin truyền_thông	49
+phòng tài_chính	48
+giám_đốc sở xây_dựng	48
+gửi sở tài_chính - vật_giá	47
+phiếu lý_lịch tư_pháp	46
+phối_hợp sở xây_dựng	46
+giám_định tư_pháp	45
+chủ_trì phối_hợp	44
+đề_nghị giám_đốc sở tài_chính	44
+tài_chính hướng_dẫn	44
+giám_đốc sở : tài_chính	44
+thuế tài_nguyên	42
+phòng tài_nguyên môi_trường huyện	41
+chánh thanh_tra sở	41
+cơ_sở dữ_liệu tài_nguyên môi_trường	40
+sở tài_chính trách_nhiệm	40
+môi trườn	40
+đề_nghị giám_đốc sở nội_vụ tờ_trình	38
+đề_nghị giám_đốc	38
+lý_lịch tư_pháp	37
+xây_dựng kế_hoạch	37
+gửi sở tài_chính thẩm_định	36
+sở tài_chính - vật_giá tỉnh	36
+bộ_trưởng tài_chính quy_định	35
+sở tài_chính chủ_trì	35
+sở tài_nguyên môi_trường trách_nhiệm	35
+phối_hợp giám_đốc sở nội_vụ	35
+đề_nghị giám_đốc sở tư_pháp tờ_trình	33
+trực_thuộc sở	33
+tài_nguyên môi_trường quy_định	33
+giúp giám_đốc sở	32
+giám_đốc sở : tài_nguyên môi_trường	32
+giám_đốc sở kế_hoạch đầu_tư	32
+bộ_trưởng tài_nguyên môi_trường quy_định	31
+phó_giám_đốc sở	31
+giám_đốc phó_giám_đốc	31
+- nội_vụ hướng_dẫn chức_năng	29
+phối_hợp sở công_thương	29
+phối_hợp sở tài_chính - vật_giá	29
+lãnh_đạo sở	29
+tư_pháp - hộ_tịch	29
+đề_nghị giám_đốc sở xây_dựng tờ_trình	28
+giám_đốc sở văn_hóa	28
+bộ_trưởng tài_nguyên môi_trường	28
+nội_vụ hướng_dẫn	28
+chủ_trì phối_hợp sở tài_chính	27
+đề_nghị giám_đốc sở công_thương tờ_trình	27
+phối_hợp sở nội_vụ	27
+ý_kiến thẩm_định sở tài_chính	26
+chủ_trì phối_hợp tài_chính	26
+phòng nội_vụ	26
+trách_nhiệm phối_hợp sở	26
+sở tài_chính tổng_hợp	26
+bộ_phận tiếp_nhận kết_quả sở tài_nguyên môi_trường	26
+giám_đốc sở ngoại_vụ	26
+- tài_chính	25
+trưởng_phòng tư_pháp	25
+trực_thuộc sở nội_vụ	25
+tài_nguyên tính_chất lý	25
+giám_đốc phó_giám_đốc sở	25
+sở tài_nguyên môi_trường ký	25
+sở kế_hoạch đầu_tư	24
+giám_đốc sở công_thương	24
+gửi sở tài_chính tổng_hợp	23
+sở tài_nguyên môi_trường chủ_trì	23
+phó_chánh thanh_tra	23
+nghiệp_vụ sở	22
+đề_nghị giám_đốc sở giao_thông vận_tải tờ_trình	22
+phối_hợp sở kế_hoạch đầu_tư	22
+trình sở tài_nguyên môi_trường	22
+tài_nguyên môi_trường hướng_dẫn	21
+giao sở tài_chính chủ_trì	21
+đề_nghị giám_đốc sở kế_hoạch đầu_tư	21
+phòng tài_nguyên môi_trường kiểm_tra	21
+phó_chánh thanh_tra sở	21
+giúp bộ_trưởng	21
+phòng tài_chính huyện	21
+cơ_sở dữ_liệu	21
+giám_đốc sở thông_tin truyền_thông	21
+trách_nhiệm giám_đốc	21
+dữ_liệu tài_nguyên môi_trường	20
+tài_nguyên môi_trường quy_định chi_tiết	20
+yêu_cầu phiếu lý_lịch tư_pháp	20
+phối_hợp sở văn_hóa	20
+đề_nghị giám_đốc sở tài_nguyên môi_trường	20
+đề_nghị giám_đốc sở văn_hóa	20
+sở tài_chính thẩm_định	19
+đề_nghị giám_đốc sở thông_tin truyền_thông tờ_trình	19
+tư_pháp hướng_dẫn	19
+gửi sở tư_pháp	19
+sở tài_chính vật_giá tỉnh	18
+giám_đốc thẩm	18
+tờ_trình phòng tài_nguyên môi_trường	18
+giám_đốc sở tài_chính - vật_giá	18
+xây_dựng cơ_sở dữ_liệu	17
+tài_chính - vật_giá	17
+phó_giám_đốc trung_tâm	17
+biên_chế sở	17
+giao sở tài_chính	16
+hiệp_định tương_trợ tư_pháp	16
+phòng tài_chính -	16
+phòng văn_hóa thông_tin	16
+sở thông_tin truyền_thông tổng_hợp	16
+sở tài_nguyên môi_trường tổng_hợp	16
+sở giao_thông	15
+đề_nghị sở tài_chính tờ_trình	15
+kỷ_luật giám_đốc	15
+hồ_sơ đề_nghị xây_dựng nghị_quyết	15
+y_tế chủ_trì	15
+đề_nghị xây_dựng	15
+đề_nghị sở	15
+thị_xã long_khánh	15
+cơ_sở đề_nghị	15
+đề_nghị giám_đốc sở nội_vụ	15
+chánh thanh_tra	15
+bộ_trưởng xây_dựng	14
+tài_chính sửa_đổi	14
+tài_chính -	14
+thông_tin truyền_thông	14
+chức_năng tham_mưu	14
+đề_nghị giám_đốc sở xây_dựng	14
+trách_nhiệm phối_hợp	13
+tài_nguyên thiên_nhiên	13
+tài_chính hướng_dẫn thuế tài_nguyên	13
+kính gửi	12
+giúp_việc giám_đốc sở	12
+xét đề_nghị	12
+sở công_thương chủ_trì	12
+- tài_chính hướng_dẫn	12
+bộ_trưởng công_thương	12
+lập đề_nghị xây_dựng nghị_quyết	12
+phiếu thông_tin	12
+phòng y_tế	12
+đề_nghị giám_đốc sở tư_pháp	11
+tài_chính quy_định	11
+tài_chính chủ_trì	11
+xét đề_nghị giám_đốc sở	11
+tài_chính quy_định_chế_độ	11
+bộ_trưởng tài_chính sửa_đổi	11
+kế_hoạch tài_chính	10
+giám_đốc điều_hành	10
+bộ_trưởng tài_nguyên môi_trường quy_định chi_tiết	10
+bộ_trưởng tài_chính ban_hành	10
+phối_hợp phòng	10
+bộ_trưởng văn_hóa	10
+giúp giám_đốc	10
+tờ_trình đề_nghị	10
+sở xây_dựng chủ_trì	9
+trách_nhiệm hướng_dẫn	9
+sở tài_nguyên	9
+giao sở	9
+đề_nghị sở tài_chính	9
+trách_nhiệm giúp	9
+sở tài_chính -	9
+hướng_dẫn thuế tài_nguyên	8
+tư_pháp chủ_trì	8
+đồng_thời gửi	8
+hướng_dẫn chức_năng	8
+đề_nghị giám_đốc sở giao_thông vận_tải	8
+y_tế hướng_dẫn	8
+quy_định chức_năng	8
+bộ_trưởng thông_tin truyền_thông	8
+tài_chính chủ_trì phối_hợp	8
+giao sở xây_dựng	8
+sở tài_chính tờ_trình	8
+2014 bộ_trưởng	7
+giúp_việc giám_đốc	7
+sở giao_thông vận_tải	7
+phòng chức_năng	7
+lập đề_nghị xây_dựng	7
+y_tế -	7
+bộ_trưởng nội_vụ hướng_dẫn	7
+hướng_dẫn nghiệp_vụ	6
+tài_nguyên môi_trường quy_định hồ_sơ	6
+trách_nhiệm chủ_trì	6
+- nội_vụ	6
+nội_vụ tài_chính	6
+phòng nội_vụ -	6
+sở tư_pháp trách_nhiệm	6
+thông_tin địa_chính	6
+đề_nghị giám_đốc sở thông_tin truyền_thông	6
+phối_hợp thanh_tra	6
+tương_trợ tư_pháp	6
+xây_dựng cơ_sở	6
+bộ_trưởng y_tế	6
+tư_pháp tổng_hợp	6
+đề_nghị giám_đốc sở công_thương	5
+chủ_trì thẩm_định	5
+kết_quả sở tài_nguyên môi_trường	5
+nội_vụ -	5
+thẩm_định sở tài_chính	5
+cơ_sở y_tế	5
+trực_thuộc sở y_tế	5
+tổng_hợp gửi tài_chính	5
+tổng_hợp tài_nguyên	5
+sở nội_vụ )	5
+sở tài_chính tham_mưu	5
+trách_nhiệm tham_mưu	5
+2014 bộ_trưởng tài_chính	5
+phòng tài_nguyên	5
+tham_mưu giúp	4
+tài_chính thẩm_định	4
+6 2014 bộ_trưởng tài_nguyên môi_trường quy_định chi_tiết	4
+đồng_thời gửi sở	4
+tư_pháp trách_nhiệm	4
+thanh_tra tỉnh	4
+sở kế_hoạch	4
+y_tế huyện	4
+lãnh_đạo phòng	4
+sở thông_tin	4
+tài_chính tổng_hợp	4
+kế_hoạch đầu_tư	4
+sở tài_nguyên môi_trường tờ_trình	4
+sở y_tế tỉnh	4
+6 2014 tài_nguyên môi_trường quy_định chi_tiết	4
+bộ_trưởng nội_vụ ban_hành	4
+văn_bản gửi sở	4
+sở công_thương tờ_trình	3
+sở kế_hoạch đầu_tư tổng_hợp	3
+2015 bộ_trưởng tài_nguyên môi_trường	3
+chức_năng giúp	3
+y_tế - tài_chính	3
+trách_nhiệm tổng_hợp	3
+thủ_trưởng cơ_sở	3
+hải phòng	3
+giám_đốc sở nội_vụ tờ_trình	3
+cơ_sở ý_kiến thẩm_định	3
+cơ_sở dữ_liệu tài_nguyên	3
+giúp lãnh_đạo	3
+vật_giá tỉnh	3
+đề_nghị giám_đốc sở lao_động	3
+6 2014 tài_nguyên môi_trường quy_định	3
+- thông_tin	3
+bộ_trưởng tài_chính quy_định_chế_độ	3
+sở thông_tin truyền_thông tờ_trình	3
+bổ_nhiệm giám_đốc	3
+sở xây_dựng tổng_hợp	3
+gửi kế_hoạch	3
+tổng_hợp kế_hoạch	3
+gửi phòng tài_chính	3
+môi_trường quy_định	3
+lập kế_hoạch	3
+giám_đốc sở giao_thông vận_tải	3
+tài_chính vật_giá	3
+gửi hồ_sơ	3
+tài_chính ban_hành	3
+nội_vụ tài_chính hướng_dẫn	3
+2014 tài_nguyên môi_trường	3
+đầu_tư xây_dựng	3
+phòng văn_hóa	2
+trách_nhiệm kiểm_tra	2
+bộ_trưởng kế_hoạch đầu_tư	2
+6 2014 bộ_trưởng tài_nguyên môi_trường quy_định	2
+tài_nguyên địa_bàn tỉnh	2
+tài_nguyên môi_trường chủ_trì	2
+đề_nghị xét	2
+môi_trường trách_nhiệm	2
+kế_hoạch đầu_tư hướng_dẫn	2
+phối_hợp sở kế_hoạch	2
+nội_vụ - tài_chính	2
+2015 bộ_trưởng	2
+sở xây_dựng tờ_trình	2
+sở giao_thông vận_tải tờ_trình	2
+2014 tài_chính	2
+- tài_chính -	2
+ngoại_vụ trách_nhiệm	2
+huyện trách_nhiệm	2
+sở văn_hóa -	2
+thông_tin truyền_thông tờ_trình	2
+sở tài_chính - vật_giá sở	2
+thẩm_định sở tư_pháp	2
+- vật_giá	2
+sử_dụng cơ_sở dữ_liệu tài_nguyên môi_trường	2
+phối_hợp sở lao_động	2
+giao chủ_trì	2
+kết_quả thẩm_định	2
+tài_nguyên môi	2
+gửi sở kế_hoạch đầu_tư	2
+chánh thanh_tra tỉnh	2
+tài_chính - tư_pháp	2
+trung_tâm y_tế huyện	2
+văn_hóa thông_tin	2
+sở nội_vụ tờ_trình	2
+y_tế ban_hành	2
+tài_chính - kế_hoạch	1
+đồng_thời phối_hợp	1
+văn_bản hướng_dẫn	1
+đề_nghị ban_hành	1
+gửi phiếu	1
+xét đề_nghị giám_đốc	1
+- nội_vụ -	1
+bộ_phận tiếp_nhận kết_quả sở	1
+lý trình	1
+cơ_sở ý_kiến	1
+- vật_giá tỉnh	1
+quy_định chi_tiết	1
+tài_chính - kế_hoạch huyện	1
+sở tư_pháp tờ_trình	1
+gửi phòng tài_chính -	1
+2014 bộ_trưởng tài_nguyên môi_trường	1
+văn_hóa - thông_tin	1
+phối_hợp sở giao_thông vận_tải	1
+dữ_liệu tài_nguyên	1
+đề_nghị giám_đốc sở giao_thông	1
+tổng_hợp ý_kiến	1
+giám_đốc sở lao_động	1
+- tài_chính - y_tế	1
+hồ_sơ đề_nghị	1
+thẩm_định hồ_sơ đề_nghị	1
+hiệp_định tương_trợ	1
+hồ_sơ gửi	1
+thanh_tra giao_thông	1
+tài_nguyên môi_trường huyện	1
+thông_tin truyền_thông tổng_hợp	1
+văn_bản gửi	1
+văn_bản đề_nghị	1
+kiểm_tra hồ_sơ	1
+sở xây_dựng sở	1
+công_thương tờ_trình	1
+xây_dựng nghị_quyết	1
+hướng_dẫn kiểm_tra	1
+hướng_dẫn lập	1
+giám_đốc sở giao_thông	1
+giao_thông vận_tải	1
+2014 bộ_trưởng tài_nguyên môi_trường quy_định	1
+- nội_vụ hướng_dẫn	1
+tính_chất lý	1
+bộ_phận tiếp_nhận kết_quả sở tài_nguyên	1
+tổng_hợp trình	1
+- vật_giá trách_nhiệm	1
+ý_kiến thẩm_định	1
+tài_chính - vật_giá tỉnh	1
+giám_định tư_pháp địa_bàn	1
+kế_hoạch đầu_tư tài_chính	1
+tài_nguyên môi_trường trách_nhiệm	1
+nghiệp_vụ thanh_tra	1
+bộ_trưởng giao_thông	1
+tài_chính - nội_vụ	1
+xây_dựng văn_bản	1
+trung_tâm y_tế	1
+trách_nhiệm thẩm_định	1
+tổng_hợp kết_quả	1

@@ -1,0 +1,204 @@
+chữa_cháy rừng	181
+trồng rừng	178
+rừng phòng_hộ	170
+bảo_vệ rừng	167
+rừng sản_xuất	100
+rừng đặc_dụng	98
+kiểm_dịch thực_vật	85
+rừng trồng	82
+thuốc bảo_vệ thực_vật	82
+bảo_vệ thực_vật	79
+kiểm_lâm nhân_dân	67
+cháy rừng	66
+ngành lâm_nghiệp	66
+chi_cục kiểm_lâm	66
+diện_tích rừng	61
+chủ rừng	54
+bảo_vệ phát_triển rừng	53
+rừng tự_nhiên	53
+thợ lặn	47
+quỹ nuôi rừng	47
+hạt kiểm_lâm	46
+ty lâm_nghiệp	46
+đất rừng phòng_hộ	46
+lực_lượng kiểm_lâm	43
+thực_vật rừng	43
+chế_biến gỗ	41
+tiền nuôi rừng	41
+cơ_quan kiểm_lâm	40
+động_vật hoang_dã	39
+lực_lượng kiểm_lâm nhân_dân	38
+đất rừng	38
+vườn quốc_gia	37
+giao đất lâm_nghiệp	35
+gỗ tròn	35
+giao rừng	34
+nộp tiền nuôi rừng	32
+sâm ngọc_linh	32
+phá dỡ	31
+vật_nuôi lâm_nghiệp	30
+gỗ quý	30
+kinh_tế lâm_nghiệp	29
+phát_triển rừng	29
+khoanh nuôi	29
+động_vật rừng	27
+sản_xuất lâm_nghiệp	27
+cục kiểm_lâm	26
+bảo_vệ kiểm_dịch thực_vật	26
+chặt phá rừng	26
+phá rừng	26
+động_vật rừng_quý	25
+che_phủ rừng	25
+vật_tư lâm_sản	24
+cơ_quan kiểm_dịch thực_vật	24
+công_tác bảo_vệ	24
+khoanh nuôi tái_sinh	24
+nghề rừng	24
+cơ_sở chế_biến gỗ	23
+thuốc thú_y	23
+đất lâm_nghiệp	22
+khoanh định	22
+trồng phân_tán	22
+nguyên_liệu gỗ	22
+vận_chuyển lâm_sản	21
+đất rừng đặc_dụng	21
+rừng trồng nguyên_liệu gỗ	21
+lâm_trường quốc_doanh	21
+kiểm_dịch động_vật	20
+sản_phẩm chế_biến lâm_sản	20
+cây_gỗ nguy_cấp	20
+ban quản_lý rừng đặc_dụng	20
+thành rừng	19
+động_vật rừng nguy_cấp	19
+diện kiểm_dịch thực_vật	19
+đặc_sản rừng	19
+phá rừng sản_xuất	19
+sản_phẩm động_vật	19
+giao đất	19
+liên_hiệp lâm	18
+hiếm ia	18
+khu bảo_tồn thiên_nhiên	18
+tổng_cục lâm_nghiệp	18
+khu rừng	18
+nuôi gốc	17
+khai_thác lâm_sản	17
+nguyên_liệu giấy	17
+rừng phòng_hộ rừng đặc_dụng	17
+5 triệu ha rừng	17
+đất rừng sản_xuất	17
+bảo_vệ rừng quản_lý lâm_sản	17
+hiếm ib	17
+thông_thường iv viii	17
+chống chặt	17
+khoán rừng đất lâm_nghiệp	17
+lâm_sản gỗ	16
+thu tiền nuôi rừng	15
+buôn_bán trái_phép	15
+xây_dựng kinh_tế lâm_nghiệp	15
+quản_lý bảo_vệ rừng	14
+kiểm_dịch thú_y	14
+hệ sinh_thái	14
+cung_cấp nguyên_liệu	13
+mở_rộng diện_tích	13
+rừng đất lâm_nghiệp	13
+gỗ thông_thường	13
+chi_cục_trưởng chi_cục kiểm_lâm	13
+trồng công_nghiệp	13
+chặt phá	12
+diện_tích trồng	12
+đất trồng	12
+bảo_tồn thiên_nhiên	12
+mục_đích lâm_nghiệp	12
+nnưdcnc phú_yên	11
+nuôi rừng	11
+phép khai_thác	11
+chế_biến lâm_sản	10
+phòng_hộ đầu	10
+gỗ tròn thông_thường	9
+diện kiểm_dịch	9
+phá rừng trái_phép	9
+đất sản_xuất	9
+bảo_vệ phát_triển	8
+thuốc trừ_sâu	8
+rừng trái_phép	8
+bảo_vệ rừng quản_lý	8
+loài động_vật	8
+khai_thác trái_phép	7
+quản_lý bảo_vệ	7
+cơ_quan kiểm_dịch	6
+khu nnưdcnc phú_yên	6
+tái_sinh rừng	6
+sản_phẩm chế_biến	6
+lực_lượng bảo_vệ	6
+phòng_hộ xung_yếu	6
+phòng_hộ rừng	6
+khoán rừng	6
+đất trống	6
+khu bảo_tồn	6
+hai ngành	5
+trồng rừng nguyên_liệu	5
+5 m3	5
+phát_triển kinh_tế	5
+nguyên_liệu thuốc	5
+chi_cục_trưởng chi_cục	4
+điều_lệ kiểm_dịch	4
+chống cháy	4
+quốc_doanh lâm_nghiệp	4
+quỹ đất	4
+nguyên_liệu sản_xuất	4
+5 ha	4
+5 triệu	4
+rừng nguyên_liệu	4
+trại cải_tạo	3
+vận_chuyển trái_phép	3
+trồng lâu_năm	3
+tiền bảo_vệ	3
+diện_tích đất	3
+luật bảo_vệ phát_triển rừng	3
+chăm_sóc bảo_vệ	3
+khu đất	3
+phát_triển sản_xuất	3
+đầu quý	3
+khu nnưdcnc	2
+m3 gỗ	2
+phân khu	2
+chu_kỳ sản_xuất	2
+quản_lý khai_thác	2
+chiếm tỷ_lệ	2
+ngành kinh_tế	2
+quản_lý quỹ	2
+phòng_chống cháy	2
+bảo_vệ kiểm_dịch	2
+ban quản_lý rừng	2
+công_nghiệp chế_biến	2
+cơ_sở sản_xuất	2
+cá_nhân sản_xuất	2
+ha rừng	2
+tỷ_lệ che_phủ	2
+vườn hoa	2
+cơ_sở chế_biến	2
+hạt kiểm_lâm rừng	1
+quỹ nuôi	1
+ngành công_nghiệp	1
+khối_lượng sản_phẩm	1
+thuốc thông_thường	1
+tập_thể cá_nhân	1
+thuốc dược_liệu	1
+bảo_vệ chăm_sóc	1
+cá_nhân nuôi_dưỡng	1
+thu tiền nuôi	1
+tiền nuôi	1
+công_tác phòng_chống	1
+khai_thác bảo_vệ	1
+đất vườn	1
+thuốc bảo_vệ	1
+trồng 5 triệu ha	1
+phát_triển nông	1
+công_tác quản_lý	1
+thiệt_hại tính_mạng	1
+quý iv	1
+nằm khu	1
+cục quản_lý	1
+thành tiền	1
+triệu ha rừng	1
+đất khu	1

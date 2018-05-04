@@ -1,0 +1,593 @@
+đối_với cán_bộ	418
+phó trưởng_phòng	248
+công_chức xã	188
+phòng chuyên_môn	181
+ủy ban_hành_chính tỉnh	166
+chuyên_môn nghiệp_vụ	144
+ủy ban_hành_chính	137
+cán_bộ xã	135
+ủy ban_hành_chính khu	128
+vị_trí việc_làm	127
+cán_bộ chuyên_trách	124
+bồi_dưỡng cán_bộ	118
+biên_chế công_chức	103
+đối_với cán_bộ xã	103
+trình_độ chuyên_môn	102
+đối_với công_chức	98
+chức_danh lãnh_đạo	95
+biên_chế nhà_nước	93
+phụ_trách kế_toán	91
+đối_với chức_danh	89
+ngạch công_chức	89
+bồi_dưỡng nghiệp_vụ	87
+số_lượng làm_việc	83
+cử cán_bộ	82
+ủy ban_hành_chính địa_phương	80
+bồi_dưỡng cán_bộ công_chức nhà_nước	78
+bố_trí cán_bộ	77
+ngạch chuyên_viên	76
+đơn_vị kế_toán	75
+viên_chức nhà_nước	75
+chỉ_tiêu biên_chế	75
+đội_ngũ cán_bộ	73
+cán_bộ y_tế xã	73
+thời_gian công_tác	70
+bổ_nhiệm kế_toán_trưởng	70
+tiêu_chuẩn chức_danh	69
+ủy ban_hành_chính xã	67
+tương_đương trở	66
+cán_bộ lãnh_đạo	65
+chính_sách đối_với cán_bộ	64
+bổ_nhiệm ngạch	63
+trưởng trạm	62
+phó hiệu_trưởng	59
+chính_sách đối_với	57
+cán_bộ công_nhân_viên	53
+cán_bộ phụ_trách	52
+đội chủ_lực	52
+liền kề	52
+viên_chức chuyên_môn	51
+nghiệp_vụ chuyên_môn	50
+cán_bộ công_tác	49
+cán_bộ công_chức	48
+bổ_nhiệm chức_vụ	48
+cán_bộ quản_lý	47
+cán_bộ y_tế	47
+xã đội	46
+tiêu_chuẩn chuyên_môn	46
+lưới_điện trung áp nông_thôn	46
+thuê kế_toán_trưởng	45
+hoạt_động chuyên_trách xã	45
+phó đơn_vị	44
+cán_bộ công_nhân_viên_chức	42
+tinh_giản biên_chế	41
+cán_bộ nhân_viên	40
+ủy ban_hành_chính huyện	40
+biên_chế hành_chính	40
+đảng nhà_nước	39
+đảm_bảo tiêu_chuẩn	39
+cán_bộ chuyên_môn	39
+đối_với chức_danh lãnh_đạo	39
+viên_chức làm_việc	39
+chính_sách đảng	38
+chức_vụ lãnh_đạo	38
+phẩm_chất đạo_đức	37
+cơ_cấu ngạch công_chức	37
+chức_danh chuyên_môn	37
+chuyên_trách xã	36
+thời_gian tập_sự	36
+mã_số ngạch	36
+bồi_dưỡng kiến_thức	35
+phẩm_chất chính_trị	35
+chức_danh trưởng_phòng	35
+cán_bộ chuyên_trách xã	35
+công_chức lãnh_đạo	34
+lưới_điện trung áp	34
+định_mức biên_chế	34
+biên_chế công_tác	34
+bồi_dưỡng chuyên_môn	33
+trình_độ lý_luận chính_trị	33
+công_chức công_tác	33
+viên_chức a1	32
+phó trưởng_phòng phụ_trách	32
+bố_trí 01	32
+bổ_nhiệm chức_danh	32
+trở đi	31
+thời_gian công_tác liên_tục	31
+phó trưởng_phòng tương_đương	31
+công_tác liên_tục	31
+công_chức cơ_quan	30
+lý_luận chính_trị	30
+áp_dụng đối_với công_chức	30
+áp_dụng đối_với cán_bộ	30
+viên_chức lãnh_đạo	30
+miễn_nhiệm cán_bộ	30
+lĩnh_vực công_tác	30
+ngạch chuyên_viên cao_cấp	30
+phù_hợp chuyên_môn	30
+phù_hợp vị_trí việc_làm	29
+công_tác cơ_yếu	29
+ngạch công_chức hành_chính	29
+tiêu_chuẩn cụ_thể	29
+chức_danh bổ_nhiệm	29
+số_lượng cán_bộ	29
+phòng công_chứng	29
+đặc_thù đối_với công_chức	28
+bồi_dưỡng nâng cao_trình_độ	28
+hoạt_động chuyên_trách	28
+đường_lối đảng	27
+chức_danh nghề_nghiệp	27
+chức_danh công_chức	27
+nữ hộ_sinh	27
+trạm bưu_điện xã	27
+tiêu_chuẩn bổ_nhiệm	26
+công_chức nhà_nước	26
+bưu_điện xã	26
+đối_với trưởng	26
+ngạch bổ_nhiệm	26
+tiêu_chuẩn ngạch công_chức	26
+bố_trí kế_toán_trưởng	26
+tổ_chức cán_bộ	26
+chức_danh bầu_cử	25
+khung năng_lực ngoại_ngữ	25
+chức_danh đối_với trưởng	25
+vị_trí công_tác	25
+tiêu_chuẩn nghiệp_vụ	25
+phó chi_cục_trưởng chi_cục	24
+đi công_tác	24
+chuyên_môn kỹ_thuật	24
+công_chức nhà_nước đi công_tác	24
+kinh_nghiệm công_tác	24
+tổng biên_chế	24
+tuyển_dụng thôi_việc	24
+nâng ngạch	24
+phụ_trách công_tác	23
+đào_tạo cán_bộ	23
+chức_danh tương_đương	23
+phù_hợp chức_danh	23
+đối_với xã	23
+thủ_tục bổ_nhiệm	23
+công_chức a1	23
+đối_với nữ	22
+tổng phụ_trách	22
+chính_sách đảng nhà_nước	22
+đối_với cán_bộ y_tế xã	22
+quản_trị nhân_lực	22
+tổng phụ_trách đội	22
+chức_danh trưởng	22
+thi_tuyển công_chức	22
+phó kế_toán_trưởng	21
+viên_chức biên_chế	21
+sức_mạnh tập_thể	21
+công_chức hành_chính	21
+quyết_định bổ_nhiệm	21
+đội phó	21
+tổng biên_chế hành_chính	20
+chính_quyền xã	20
+đình_chỉ công_tác	20
+biên_chế cơ_quan	20
+tuyển_dụng công_chức	20
+chức_danh chuyên_trách	20
+- cán_bộ	20
+dự thi_tuyển công_chức thi nâng ngạch cán_bộ	20
+xem_xét bổ_nhiệm	20
+công_tác kế_toán	19
+ngạch cán_sự	19
+chuyên_trách công_tác	19
+viên_chức lao_động	19
+2005 nội_vụ	19
+làm_việc ban_đêm	19
+mặt công_tác	19
+nữ cán_bộ	19
+chứng_chỉ bồi_dưỡng	19
+trở đối_với	19
+chế_độ đối_với cán_bộ	19
+tổng_số biên_chế	19
+thời_gian công_tác ngành	19
+chức_vụ tương_đương	19
+thành_lập phòng chuyên_môn	18
+cơ_quan chuyên_môn	18
+ngạch viên_chức	18
+tuyển_dụng biên_chế nhà_nước	18
+phòng chuyên_môn nghiệp_vụ	18
+gọi phòng chuyên_môn	18
+áp_dụng đối_với	18
+nâng cao_trình_độ	18
+cơ_cấu viên_chức chức_danh nghề_nghiệp	18
+phụ_cấp kế_toán_trưởng	18
+bồi_dưỡng chuyên_môn nghiệp_vụ	18
+kế_toán_trưởng phụ_trách kế_toán	18
+đảng_uỷ xã	18
+ngạch viên_chức chuyên_ngành	18
+phòng công_chứng nhà_nước	18
+tiêu_chuẩn điều_kiện	18
+đối_với cán_bộ lãnh_đạo	18
+lãnh_đạo cơ_quan	17
+điều_kiện bổ_nhiệm	17
+bồi_dưỡng đối_với	17
+tuyển_dụng viên_chức	17
+bố_trí người_làm phụ_trách kế_toán	17
+cán_bộ kiêm_nhiệm	17
+chức_danh lãnh_đạo tiêu_chuẩn	17
+lĩnh_vực phân_công	17
+chứng_chỉ ngoại_ngữ	17
+bố_trí biên_chế	17
+điều_động công_tác	17
+lĩnh_vực chuyên_môn	17
+viên_chức ngành	17
+phó phòng	16
+hội_nghị cán_bộ – công_chức cơ_quan	16
+công_tác quản_lý	16
+tổ_chức biên_chế	16
+tiêu_chuẩn nghiệp_vụ ngạch công_chức	16
+đảm_nhận chức_danh	16
+tuyển_dụng chính_thức	16
+bằng_cấp chuyên_môn	16
+thay_thế kế_toán_trưởng	16
+công_chức làm_việc	16
+kiểm_toán nhà_nước	16
+cán_bộ xã già_yếu nghỉ_việc	16
+phù_hợp chuyên_ngành	16
+đối_với cơ_quan	15
+trưởng công_an xã	15
+viên_chức thôi_việc	15
+nâng năng_lực	15
+thay_đổi chức_danh	15
+biên_chế quản_lý nhà_nước	15
+thời_gian thử	15
+trình_độ đại_học trở	15
+đối_với đơn_vị	15
+biên_chế viên_chức	15
+tiêu_chuẩn xếp_hạng	15
+chức_danh cán_bộ	15
+số_lượng biên_chế	15
+ủy ban	15
+đặc_điểm công_tác	15
+cán_bộ chuyên_trách công_tác	15
+toàn_thể cán_bộ	14
+bậc công_chức hành_chính	14
+trình_độ cao_đẳng	14
+công_chứng nhà_nước	14
+bổ_nhiệm thẩm_phán	14
+công_tác chuyên_môn	14
+phù_hợp đặc_điểm	14
+hội_nghị cán_bộ – công_chức	14
+lĩnh_vực kế_toán	14
+cử đi công_tác	14
+công_tác phòng	13
+viên_chức xem_xét bổ_nhiệm	13
+cán_bộ chiến_sĩ	13
+cán_bộ công_chức nhà_nước	13
+y_tế xã	13
+phân_công phụ_trách	13
+sắp_xếp biên_chế	13
+định biên_chế	13
+tốt_nghiệp đại_học trở	13
+nâng năng_lực cán_bộ	13
+quản_lý nhà_nước	13
+cử đi	13
+đối_với hoạt_động chuyên_trách xã	13
+kinh_nghiệm thực_tiễn	13
+quản_lý biên_chế	13
+chuyên_ngành đào_tạo	13
+trạm y_tế xã	12
+chức_danh mã_số ngạch	12
+cán_bộ – công_chức	12
+thời_gian đi công_tác	12
+ngạch chức_danh	12
+hải phòng	12
+nâng cao_trình_độ chuyên_môn	12
+kiêm_nhiệm chức_danh	12
+chi_cục văn_thư	11
+nắm vững	11
+trợ_cấp cán_bộ xã	11
+tiêu_chuẩn cụ_thể chức_danh	11
+đề_nghị bổ_nhiệm	11
+danh_sách cán_bộ	11
+cơ_quan nhà_nước	11
+công_tác pháp_chế	11
+công tá	11
+điều_kiện thành_lập	11
+cán_bộ – công_chức cơ_quan	11
+cơ_quan đảng	11
+cán_bộ đi	10
+phó_trưởng đơn_vị	10
+nhân_viên y_tế	10
+trợ_cấp cán_bộ	10
+chức_vụ trưởng_phòng	10
+thời_gian làm_việc	10
+cơ_cấu chức_danh	10
+phó chi_cục_trưởng	10
+- đối_với chức_danh	10
+kỷ_luật khiển_trách	10
+công_an xã	10
+già_yếu nghỉ_việc	10
+đấu_tranh phòng	10
+năng_lực quản_lý	10
+xã phường	10
+viên_chức ngành y_tế	10
+phòng tiêu_chuẩn	9
+công_nhân_viên_chức nhà_nước	9
+lãnh_đạo phòng	9
+điều_kiện năng_lực	9
+chủ_trương đảng	9
+nội_vụ xem_xét	9
+điều_kiện làm_việc	9
+thành_lập phòng	9
+chức_danh chủ_tịch	9
+giáo_viên tổng phụ_trách đội	9
+phụ_trách lĩnh_vực	9
+nghiệp_vụ cán_bộ	9
+uỷ_viên thường_trực	9
+nghiệp_vụ công_tác	9
+chi_cục_trưởng chi_cục	9
+tiêu_chuẩn nghiệp_vụ ngạch	9
+công_tác đào_tạo	9
+kế_hoạch dài_hạn	8
+đào_tạo nhân_lực	8
+tuyển_dụng biên_chế	8
+chuyên_viên cao_cấp	8
+đảm_nhiệm chức_vụ	8
+ngành y_tế	8
+bí_thư chi_bộ	8
+chuyên_viên tương_đương trở	8
+huyện trở	8
+chuyên_ngành đào_tạo phù_hợp	8
+bồi_dưỡng đối_với cán_bộ	8
+chức_danh mã_số	8
+đại_học trở	8
+phù_hợp khả_năng	8
+nội_vụ nghiên_cứu	8
+viên_chức hành_chính	8
+tổ_chức chính_trị	8
+phù_hợp vị_trí	8
+đào_tạo bồi_dưỡng	8
+- đối_với	8
+khiển_trách trở	7
+trưởng công_an	7
+đề_án vị_trí việc_làm	7
+phó trưởng ban	7
+bố_trí công_việc	7
+tiêu_chuẩn chức_danh đối_với	7
+biên_chế sự_nghiệp	7
+trình_độ đại_học	7
+trưởng ban	7
+địa_phương quản_lý	7
+đối_với cán_bộ y_tế	7
+đảm_bảo điều_kiện	7
+đề_nghị ủy ban_hành_chính	7
+biên_chế giáo_viên	6
+đáp_ứng tiêu_chuẩn	6
+trung áp	6
+kế_hoạch đào_tạo	6
+hành_chính nhà_nước	6
+gọi phòng	6
+cán_bộ bưu_điện	6
+chống tham_nhũng	6
+chức_danh đối_với	6
+thi nâng ngạch	6
+quyết_định tuyển_dụng	6
+tốt_nghiệp đại_học	6
+bồi_dưỡng đội_ngũ	6
+thay_đổi công_việc	6
+người_làm phụ_trách kế_toán	6
+tổ công_tác	5
+nâng ý_thức	5
+hội_nghị chuyên_môn	5
+đối_với hoạt_động	5
+tài_sản lưới_điện trung áp nông_thôn	5
+bậc công_chức	5
+cán_bộ xã già_yếu	5
+cán_bộ xã nghỉ_việc	5
+kế_hoạch biên_chế	5
+phòng nội_vụ	5
+đáp_ứng điều_kiện	5
+phó trưởng	5
+bồi_dưỡng nâng	5
+viên_chức cử	5
+quy_hoạch mạng_lưới	5
+tiêu_chuẩn thuê phòng	5
+bố_trí sắp_xếp	5
+quản_lý nhà_nước đối_với	5
+tuyển biên_chế	5
+trạm bưu_điện	5
+quản_lý hành_chính	5
+trưởng_phòng chuyên_môn	5
+đi đào_tạo	5
+cơ_quan hành_chính	5
+dự thi_tuyển công_chức	5
+ngành bưu_điện	5
+phù_hợp tiêu_chuẩn	5
+phù_hợp điều_kiện	4
+chính_quyền địa_phương	4
+áp_dụng đối_với cơ_quan	4
+thi nâng ngạch cán_bộ	4
+phòng y_tế	4
+giáo_viên tổng phụ_trách	4
+thi nâng	4
+trình_độ đào_tạo	4
+lĩnh_vực kế_toán thống_kê	4
+làm_việc trạm	4
+sự_nghiệp nhà_nước	4
+hội_nghị cán_bộ	4
+đối_với thẩm_phán	4
+cơ_quan hành_chính nhà_nước	4
+đối_với cán_bộ chuyên_trách	4
+ủy ban kế_hoạch nhà_nước	4
+cao_cấp tương_đương	4
+khung năng_lực	4
+nâng ngạch cán_bộ	4
+kế_toán_trưởng đơn_vị	4
+cơ_cấu viên_chức	4
+lợi_dụng chức_vụ	4
+đặc_điểm cụ_thể	4
+tổng thời_gian	4
+nhà_nước lĩnh_vực	4
+thị_trấn tổ_chức	4
+sắp_xếp tổ_chức	4
+chức_vụ kế_toán_trưởng	4
+ban cơ_yếu	3
+ngạch chuyên_viên tương_đương	3
+đối_với người_làm	3
+công_tác đấu_tranh phòng	3
+hoạt_động nghiệp_vụ	3
+trưởng_phòng tương_đương	3
+ít_nhất 03	3
+phát_huy sức_mạnh	3
+làm_việc cơ_quan	3
+thuê phòng	3
+hoạt_động lĩnh_vực	3
+đề_nghị cơ_quan	3
+phù_hợp đặc_thù	3
+đơn_vị cử	3
+chế_độ chính_sách đối_với	3
+trình_độ sơ_cấp	3
+03 trở	3
+chính_sách tiền_lương	3
+tiêu_chuẩn 2	3
+cử đi đào_tạo	3
+dự hội_nghị	3
+kiến_thức quản_lý	3
+chống lãng_phí	3
+ngành địa_phương	3
+đề_nghị đơn_vị	3
+viên_chức hành_chính sự_nghiệp	3
+phụ_cấp kiêm_nhiệm	3
+chuyên_môn y_tế	3
+quyết_định thành_lập	3
+chế_độ kiêm_nhiệm	3
+thủ_tục thành_lập	3
+nghiệp_vụ ngạch	3
+nghiệp_vụ ngạch công_chức	3
+quyết_định xếp_hạng	3
+tiền_lương đối_với cán_bộ	3
+đối_với giáo_viên	3
+đối_với cơ_quan nhà_nước	3
+thời_gian đi	3
+quyết_định cử	3
+đơn_vị hành_chính	2
+thời_gian đào_tạo	2
+đơn_vị sự_nghiệp	2
+tiền_lương công_chức	2
+phụ_cấp đối_với cán_bộ	2
+tiêu_chuẩn ngạch	2
+y_tế huyện	2
+chỉ_tiêu kế_hoạch	2
+quản_lý nhà_nước công_tác	2
+công_tác y_tế	2
+kế_toán thống_kê	2
+thi_tuyển công_chức thi nâng ngạch cán_bộ	2
+phí dự thi_tuyển công_chức thi nâng ngạch cán_bộ	2
+công_tác quản_lý nhà_nước	2
+ban pháp_chế	2
+đối_với hoạt_động chuyên_trách	2
+trưởng_phòng phụ_trách	2
+phụ_cấp đặc_thù đối_với công_chức	2
+nghiệp_vụ bưu_điện	2
+bố_trí người_làm	2
+lĩnh_vực công_tác phân_công	2
+phụ_cấp chức_vụ	2
+cơ_cấu viên_chức chức_danh	2
+cơ_quan thường_trực	2
+đối_với công_nhân_viên_chức	2
+ưu_tiên bố_trí	2
+đối_với công	2
+bậc 2	2
+phụ_cấp chức_vụ lãnh_đạo	2
+công_an phường	2
+thi_tuyển công_chức thi nâng ngạch	2
+cơ_quan quản_lý	2
+công cách_mạng	2
+gắn liền	2
+đơn_vị cử đi	2
+công_tác đấu_tranh	2
+quản_lý ngành	2
+quản_lý chuyên_ngành	2
+tài_sản lưới_điện trung áp	2
+trợ_cấp đối_với cán_bộ	2
+kỹ_thuật nghiệp_vụ	2
+ngành tỉnh	2
+nhà_nước đảm_bảo	2
+bồi_dưỡng cán_bộ công_chức	2
+đề_nghị trưởng	2
+tiêu_chuẩn kỹ_thuật	2
+đối_với tập_thể	2
+cơ_cấu ngạch	2
+dự thi_tuyển công_chức thi nâng ngạch	2
+chế_độ đối_với	2
+chuyên_viên tương_đương	2
+cụ_thể địa_phương	1
+01 2005	1
+đơn_vị cử đi công_tác	1
+lĩnh_vực y_tế	1
+hoạt_động sự_nghiệp	1
+chế_độ kế_toán hành_chính sự_nghiệp	1
+ủy ban kế_hoạch	1
+điều_kiện cụ_thể	1
+viên_chức lao_động làm_việc	1
+tổng tiền_lương	1
+ban_hành_chính xã	1
+kế_toán – thống_kê	1
+tỉnh quyết_định bổ_nhiệm	1
+01 01	1
+thủ_tục hành_chính	1
+đình_chỉ hoạt_động	1
+sự_nghiệp y_tế	1
+quy_định_chế_độ bồi_dưỡng	1
+ban_hành_chính khu	1
+chế_độ bồi_dưỡng đối_với	1
+đào_tạo phù_hợp	1
+xã già_yếu	1
+cơ_cấu tổ_chức cơ_quan chuyên_môn	1
+ít_nhất 2/3	1
+xếp_hạng đơn_vị	1
+kiêm chức	1
+làm_việc chế_độ	1
+trung áp nông_thôn	1
+đặc_thù đối_với	1
+giáo_viên chuyên_trách	1
+chính_trị -	1
+cơ_quan y_tế	1
+chế_độ tiền_lương đối_với cán_bộ	1
+kế_toán hành_chính sự_nghiệp	1
+đảm_bảo hoạt_động	1
+ban_hành_chính huyện	1
+thời_gian 01	1
+cơ_quan nhà_nước đơn_vị sự_nghiệp	1
+– công_chức	1
+quản_lý nhà_nước lĩnh_vực	1
+đề_nghị xếp_hạng	1
+xem_xét quyết_định	1
+lao_động đi	1
+phụ_cấp thường_trực	1
+phòng chống	1
+đơn_vị sự_nghiệp nhà_nước	1
+cơ_quan hành_chính sự_nghiệp	1
+kỹ_thuật nhà_nước	1
+cơ_quan hành_chính nhà_nước tỉnh	1
+hành_chính nhà_nước địa_phương	1
+kỷ_luật lao_động	1
+ít_nhất 01	1
+hoạt_động nghiên_cứu	1
+hoạt_động đội	1
+chế_độ kế_toán	1
+công_tác quy_hoạch	1
+đi làm_việc	1
+đề_nghị ủy	1
+lĩnh_vực quản_lý	1
+năng_lực cán_bộ	1
+cơ_quan quản_lý nhà_nước	1
+phù_hợp quy_hoạch	1
+tài_sản nhà_nước	1
+làm_việc cơ_quan nhà_nước	1
+định khung	1
+đội_ngũ giáo_viên	1
+kiểm_toán độc_lập	1
+quản_lý nhà_nước chuyên_ngành	1
+quản_lý nhà_nước hoạt_động	1
+đảm_bảo phù_hợp	1
+phòng tiêu_chuẩn 2	1
+điều_kiện cụ_thể địa_phương	1
+hành_chính nhà_nước tỉnh	1
+đấu_tranh chống	1
+địa_phương đảm_bảo	1

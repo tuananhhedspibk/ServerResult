@@ -1,0 +1,386 @@
+khoa_học công_nghệ	609
+công_nghệ môi_trường	322
+sở khoa_học công_nghệ	198
+nghiên_cứu khoa_học	189
+nhiệm_vụ khoa_học công_nghệ	159
+nhiệm_vụ khoa_học công_nghệ tỉnh	139
+khoa_học kỹ_thuật	138
+khoa_học công_nghệ môi_trường	109
+tiếp công_dân	109
+uỷ_ban khoa_học kỹ_thuật nhà_nước	99
+phiếu công_trái	96
+tổ_chức khoa_học công_nghệ	93
+chuyển_giao công_nghệ	87
+thực_hiện nhiệm_vụ khoa_học công_nghệ	83
+nghiên_cứu khoa_học kỹ_thuật	73
+chủ_nhiệm đề_tài	73
+sở khoa_học	71
+giao trực_tiếp	67
+thực_hiện nhiệm_vụ khoa_học công_nghệ tỉnh	66
+hoạt_động khoa_học công_nghệ	63
+đối_với đề_tài	63
+đề_tài nghiên_cứu	62
+giải_pháp hữu_ích	60
+nghiên_cứu khoa_học phát_triển công_nghệ	56
+thực_hiện đề_tài	55
+giám_đốc sở khoa_học công_nghệ	52
+áp_dụng sáng_kiến	49
+khoa_học công_nghệ tỉnh	47
+đề_xuất đặt_hàng	44
+khoa_học - kỹ_thuật	43
+cơ_sở nghiên_cứu	43
+đánh_giá nghiệm_thu	42
+đối_với nhiệm_vụ khoa_học công_nghệ	42
+kết_quả nghiên_cứu	40
+chất_lượng sản_phẩm	36
+nhiệm_vụ tiếp công_dân	36
+đổi_mới công_nghệ	36
+quỹ phát_triển khoa_học - kỹ_thuật tập_trung	35
+đề_tài nghiên_cứu khoa_học	35
+luật_khoa_học công_nghệ	34
+phản_ánh trụ_sở tiếp công_dân địa_điểm tiếp công_dân	33
+tiến_bộ kỹ_thuật	33
+bộ_trưởng khoa_học công_nghệ	33
+địa_điểm tiếp công_dân	32
+tiêu_chuẩn đo_lường chất_lượng	32
+nghiên_cứu khoa_học triển_khai kỹ_thuật	31
+kỹ_thuật tiến_bộ	31
+uỷ_ban khoa_học nhà_nước	31
+nghiên_cứu đề_tài	30
+chủ_nhiệm nhiệm_vụ	30
+ứng_dụng công_nghệ	29
+phát_hành công_trái	29
+kinh tế-xã hội	28
+công_nghệ thông_tin	28
+phát_triển công_nghệ	28
+đơn đặt_hàng	27
+lĩnh_vực khoa_học công_nghệ	27
+thực_hiện nhiệm_vụ bảo_vệ môi_trường	27
+quy_trình công_nghệ	27
+nghiên_cứu triển_khai	27
+phát_triển khoa_học công_nghệ	27
+xác_định nhiệm_vụ khoa_học công_nghệ	27
+công_nghệ sản_xuất	26
+kết_quả nghiên_cứu khoa_học	26
+thực_hiện nhiệm_vụ	25
+tổ_chức nghiên_cứu khoa_học	24
+dự_án sản_xuất thử_nghiệm	24
+nhiệm_vụ khoa_học công_nghệ cơ_sở	24
+liên_hiệp hội khoa_học kỹ_thuật	23
+cải_tiến kỹ_thuật	23
+sản_phẩm cuối_cùng	23
+ứng_dụng tiến_bộ khoa_học kỹ_thuật	22
+thanh_lý hợp_đồng	22
+chương_trình khoa_học công_nghệ trọng_điểm nhà_nước	22
+đơn_vị thực_hiện đề_tài	22
+giao nhiệm_vụ	22
+đánh_giá kết_quả	21
+nghiên_cứu ứng_dụng	21
+đăng_ký chất_lượng	21
+ứng_dụng tiến_bộ khoa_học	21
+thủ_trưởng cơ_sở	20
+công_nghệ bảo_vệ môi_trường	20
+ứng_dụng kỹ_thuật	20
+lĩnh_vực khoa_học	20
+đề_nghị giám_đốc sở khoa_học công_nghệ	20
+kết_quả thực_hiện nhiệm_vụ khoa_học công_nghệ	20
+cơ_quan quản_lý khoa_học	20
+ứng_dụng tiến_bộ khoa_học công_nghệ	20
+ủy_ban khoa_học kỹ_thuật nhà_nước	19
+trụ_sở tiếp công_dân	19
+đối_với sản_phẩm	19
+hội_đồng tư_vấn khoa_học công_nghệ	19
+chuyên_gia_tư_vấn độc_lập	19
+kinh_phí nghiên_cứu khoa_học	18
+đối_với người_làm nhiệm_vụ tiếp công_dân	18
+cơ_sở vật_chất kỹ_thuật	18
+đề_cương nghiên_cứu	18
+giao trực_tiếp tổ_chức cá_nhân thực_hiện nhiệm_vụ khoa_học công_nghệ tỉnh	18
+cơ_quan nghiên_cứu triển_khai	18
+tiêu_chuẩn đo_lường chất_lượng sản_phẩm	18
+giải_pháp kỹ_thuật	17
+tiêu_chuẩn kỹ_thuật	17
+chất_lượng hàng_hoá	17
+tiến_bộ khoa_học kỹ_thuật	16
+ứng_dụng tiến_bộ	16
+sáng_kiến sáng_chế	16
+cơ_sở vật_chất	16
+chi_cục tiêu_chuẩn đo_lường chất_lượng	16
+huy_động tiềm_lực khoa_học công_nghệ	16
+nghiên_cứu cơ_bản	16
+tiềm_lực khoa_học công_nghệ	16
+sản_xuất thử_nghiệm	16
+cán_bộ khoa_học	16
+kinh_phí đề_tài	16
+kinh_phí thực_hiện đề_tài	15
+nhiệm_vụ khoa_học	15
+tác_giả sáng_chế	15
+văn_bằng bảo_hộ	15
+công_nghệ sinh_học	15
+hoạt_động khoa_học	15
+đề_tài cấp_bộ	15
+chế thử	15
+kinh_phí thực_hiện	14
+uỷ_ban toàn_quốc liên_hiệp hội	14
+phát_triển khoa_học	14
+quỹ phát_triển khoa_học - kỹ_thuật	14
+trọng_điểm nhà_nước	14
+tổ_chức thực_hiện	14
+tố_cáo công_dân	14
+viện nghiên_cứu	14
+quy_định_chế_độ bồi_dưỡng đối_với người_làm nhiệm_vụ tiếp công_dân	13
+kinh_phí thu_hồi nhiệm_vụ khoa_học	13
+bộ_trưởng khoa_học	13
+quỹ phát_triển khoa_học công_nghệ	13
+sản_xuất thử	13
+nghiệm_thu kết_quả	13
+thưởng tác_giả	13
+bảo_vệ môi_trường	13
+công_tác nghiên_cứu khoa_học	13
+hoạt_động nghiên_cứu	13
+tiến_bộ khoa_học - kỹ_thuật	13
+trụ_sở tiếp công_dân địa_điểm tiếp công_dân	13
+ứng_dụng kết_quả	12
+tổ_chức nghiên_cứu	12
+bồi_dưỡng đối_với người_làm nhiệm_vụ tiếp công_dân	12
+người_làm nhiệm_vụ	12
+xác_định nhiệm_vụ	12
+sự_nghiệp khoa_học công_nghệ	12
+cán_bộ khoa_học kỹ_thuật	12
+- đo_lường - chất_lượng	12
+nghiên_cứu sửa_đổi	11
+nhiệm_vụ khoa_học công_nghệ đặt_hàng	11
+ứng_dụng công_nghệ thông_tin	11
+giao trực_tiếp nhiệm_vụ khoa_học công_nghệ	11
+khoa_học công_nghệ cơ_sở	10
+uỷ_ban khoa_học kỹ_thuật	10
+công_nghệ môi_trường hướng_dẫn	10
+thông_số kỹ_thuật	10
+phát_triển sự_nghiệp	10
+kết_quả thực_hiện nhiệm_vụ khoa_học công_nghệ tỉnh	10
+phát_triển kinh tế-xã hội	10
+chủ_nhiệm nhiệm_vụ khoa_học công_nghệ	10
+quy_chuẩn kỹ_thuật	9
+chủ_trì đề_tài	9
+tổ_chức khoa_học	9
+kinh_phí sự_nghiệp	9
+quy_trình kỹ_thuật	9
+đối_với hoạt_động	9
+- đối_với	9
+danh_mục nhiệm_vụ khoa_học công_nghệ	9
+sản_xuất sản_phẩm	9
+tổ_chức chủ_trì	9
+chương_trình khoa_học công_nghệ	8
+quỹ phát_triển hoạt_động sự_nghiệp	8
+kinh_phí hoạt_động	8
+công_tác tiếp công_dân	8
+sự_nghiệp khoa_học	8
+hợp_đồng đặt_hàng	8
+nhiệm_vụ khoa_học công_nghệ sử_dụng ngân_sách nhà_nước	8
+đối_với kinh_phí thu_hồi	8
+cơ_sở sản_xuất	7
+tiêu_chuẩn - đo_lường - chất_lượng	7
+đổi_mới sáng_tạo	7
+cá_nhân thực_hiện nhiệm_vụ khoa_học công_nghệ	7
+phương_tiện kỹ_thuật	7
+kinh_phí sự_nghiệp môi_trường	7
+nhiệm_vụ giao	7
+quản_lý nhà_nước chất_lượng hàng_hoá	7
+đối_với dự_án	7
+công_bố tiêu_chuẩn	7
+tiến_bộ khoa_học công_nghệ	7
+sản_xuất đời_sống	6
+đánh_giá chất_lượng	6
+chuyển_giao kết_quả	6
+đề_xuất giải_pháp	6
+nghiên_cứu khoa_học triển_khai	6
+nghiệm_thu nhiệm_vụ khoa_học công_nghệ	6
+hội_đồng nghiệm_thu	6
+kiểm_định kỹ_thuật	6
+quỹ phát_triển	6
+kỹ_thuật trình_bày	6
+giám_đốc sở khoa_học	6
+phản_ánh trụ_sở tiếp công_dân	6
+bảo_hộ quyền	6
+hoàn_thành nhiệm_vụ	6
+khoa_học công_nghệ sử_dụng ngân_sách nhà_nước	6
+đo_lường chất_lượng	5
+bảo_vệ phát_triển	5
+chi_cục tiêu_chuẩn	5
+công_tác nghiên_cứu	5
+danh_mục sản_phẩm	5
+tiêu_chuẩn đo_lường	5
+xác_định cơ_sở	5
+kinh_phí thực_hiện nhiệm_vụ	5
+nghiệm_thu nhiệm_vụ	5
+công_bố kết_quả	5
+giao trực_tiếp tổ_chức cá_nhân thực_hiện nhiệm_vụ khoa_học công_nghệ	5
+quản_lý chất_lượng	5
+đối_với nhiệm_vụ khoa_học	5
+tiêu_chuẩn - đo_lường -	5
+dự_án thu_hồi	5
+giao chủ_trì	5
+kết_quả thực_hiện	5
+lợi_ích vật_chất	4
+tiêu_chuẩn chất_lượng	4
+kinh_phí sự_nghiệp khoa_học	4
+nghiên_cứu đề_xuất	4
+nhà_nước chất_lượng hàng_hoá	4
+- kỹ_thuật	4
+sáng_kiến cải_tiến	4
+đơn_vị giao nhiệm_vụ	4
+kinh_phí thu_hồi	4
+tổ_chức hoạt_động	4
+nhân_lực chất_lượng	4
+nhãn_hiệu hàng_hoá	4
+hợp_đồng thực_hiện nhiệm_vụ	4
+thu_hồi kinh_phí	4
+nhiệm_vụ bảo_vệ môi_trường	4
+giao trực_tiếp nhiệm_vụ	4
+thực_hiện hợp_đồng	3
+nghiên_cứu khoa_học phát_triển	3
+khoa_học kỹ_thuật nhà_nước	3
+tiến_bộ khoa_học	3
+sản_phẩm hàng_hoá	3
+huy_động tiềm_lực	3
+nhiệm_vụ bảo_vệ	3
+uỷ_ban toàn_quốc liên_hiệp	3
+triển_khai thực_hiện	3
+liên_hiệp hội khoa_học kỹ_thuật tỉnh	3
+đăng_ký bảo_hộ	3
+đơn_vị chủ_trì	3
+quy_chuẩn kỹ_thuật quốc_gia	3
+khoa_học công_nghệ trọng_điểm nhà_nước	3
+cá_nhân thực_hiện nhiệm_vụ khoa_học công_nghệ tỉnh	3
+chủ_nhiệm chương_trình	3
+trực_tiếp nhiệm_vụ	3
+công_bố danh_mục	3
+sử_dụng sản_phẩm	3
+- đối_với dự_án	3
+tổ_chức cá_nhân	3
+kết_quả đánh_giá	3
+quy_định_chế_độ bồi_dưỡng đối_với người_làm nhiệm_vụ	3
+chương_trình khoa_học	3
+nhiệm_vụ khoa_học công_nghệ quốc_gia	3
+hội khoa_học	2
+định_hướng phát_triển	2
+quyền tác_giả đối_với	2
+tổ_chức hội	2
+phê_duyệt đề_tài	2
+đối_với người_làm	2
+áp_dụng đối_với	2
+sản_phẩm sản_xuất	2
+đo_lường chất_lượng sản_phẩm	2
+tổ_chức cá_nhân thực_hiện	2
+phát_triển kinh	2
+hoàn_thành nhiệm_vụ giao	2
+ứng_dụng khoa_học	2
+đơn_vị sản_xuất	2
+kết_quả thực_hiện nhiệm_vụ	2
+thực_hiện dự_án	2
+triển_khai kỹ_thuật	2
+công_tác thông_tin	2
+khoa_học công_nghệ đặt_hàng	2
+đối_với cơ_sở	2
+cán_bộ quản_lý	2
+quản_lý nhà_nước đối_với	2
+đăng_ký hoạt_động	2
+người_làm nhiệm_vụ tiếp công_dân	2
+công_nhận kết_quả	2
+đối_với hàng_hoá	2
+giám_đốc sở	2
+quyền tác_giả	2
+quản_lý nhà_nước chất_lượng	2
+nhà_nước đặt_hàng	2
+nhà_nước giao	2
+trụ_sở tiếp	2
+đơn_vị chủ_trì thực_hiện	2
+công_nghệ trọng_điểm nhà_nước	2
+quản_lý chất_lượng hàng_hoá	2
+lĩnh_vực quản_lý sở	2
+hội_đồng tư_vấn	2
+công_nghệ tỉnh	2
+phương_pháp xác_định	2
+hợp_đồng thực_hiện nhiệm_vụ khoa_học công_nghệ	2
+kết_quả hoạt_động	2
+đối_với người_làm nhiệm_vụ	2
+ngừng hoạt_động	2
+chủ_trì chủ_nhiệm	2
+nhiệm_vụ giải_pháp	2
+tổ_chức tư_vấn	1
+phê_duyệt kết_quả	1
+dự_án sử_dụng	1
+triển_khai công_tác	1
+đối_với đơn_vị	1
+đối_với cơ_quan	1
+giao trực_tiếp tổ_chức	1
+toàn_quốc liên_hiệp	1
+công_tác quản_lý	1
+công_nghệ trọng_điểm	1
+uỷ_ban toàn_quốc liên_hiệp hội văn_học nghệ_thuật	1
+đo_lường - chất_lượng	1
+trụ_sở tiếp công_dân địa_điểm tiếp	1
+đối_với cơ_sở sản_xuất	1
+cá_nhân sản_xuất	1
+áp_dụng tiến_bộ	1
+uỷ_ban khoa_học	1
+thực_hiện nhiệm_vụ quản_lý nhà_nước	1
+kinh_phí đối_với nhiệm_vụ khoa_học công_nghệ	1
+danh_mục hàng_hoá	1
+quản_lý quỹ	1
+kỹ_thuật nhà_nước	1
+quy_trình sản_xuất	1
+công_nghệ sử_dụng ngân_sách nhà_nước	1
+thư_ký hội_đồng	1
+cá_nhân hoạt_động	1
+thông_tin xác_định	1
+khoa_học công_nghệ trọng_điểm	1
+ngân_sách nhà_nước	1
+quản_lý nhà_nước	1
+địa_điểm tiếp	1
+tổ_chức triển_khai	1
+tổ_chức sự_nghiệp	1
+hoạt_động sự_nghiệp	1
+giao trực_tiếp tổ_chức cá_nhân thực_hiện nhiệm_vụ	1
+đối_với cây_trồng	1
+đối_với phương_tiện	1
+nhà_nước chất_lượng	1
+đánh_giá mức_độ	1
+thực_hiện nhiệm_vụ khoa_học	1
+đơn_vị tư_vấn	1
+cá_nhân phản_ánh	1
+ngân_sách tỉnh	1
+đo_lường -	1
+hội_đồng tư_vấn xác_định nhiệm_vụ	1
+xã_hội liên_hiệp hội khoa_học kỹ_thuật	1
+tư_vấn xác_định nhiệm_vụ	1
+lợi_ích quốc_gia	1
+chiến_lược phát_triển	1
+chủ_trì tổ_chức	1
+phát_triển nhân_lực	1
+xác_định nhiệm_vụ khoa_học	1
+hướng_dẫn thực_hiện	1
+khoa_học phát_triển công_nghệ	1
+giải_pháp thực_hiện	1
+quyền công_dân	1
+phát_triển khoa_học -	1
+nhiệm_vụ quản_lý nhà_nước	1
+hội khoa_học kỹ_thuật	1
+nhiệm_vụ tiếp	1
+vật_chất kỹ_thuật	1
+nhà_nước lĩnh_vực	1
+cá_nhân thực_hiện nhiệm_vụ	1
+quản_lý chương_trình	1
+thủ_trưởng sở	1
+kỹ_thuật sử_dụng	1
+thực_hiện công_tác	1
+quản_lý trực_tiếp	1
+môi_trường đối_với dự_án	1
+hoạt_động thông_tin	1
+cá_nhân trực_tiếp	1
+đối_với cán_bộ	1
+triển_khai thực_hiện dự_án	1
+kinh_phí chương_trình	1
+cá_nhân đăng_ký	1
+triển_khai dự_án	1
+- đo_lường -	1

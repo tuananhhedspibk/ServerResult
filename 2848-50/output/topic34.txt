@@ -1,0 +1,470 @@
+điều_chỉnh giá	165
+giá dịch_vụ	164
+giá bán_lẻ	161
+chênh_lệch giá	134
+cung_ứng dịch_vụ	113
+giá tối_đa	109
+kê_khai giá	100
+trợ cước	90
+phương_án giá	90
+uỷ_ban vật_giá nhà_nước	84
+giá mua	84
+đăng_ký giá	83
+trợ cước vận_chuyển	82
+giá điện	80
+bình_ổn giá	79
+dịch_vụ công_ích	79
+nhập kho	77
+giá bán_buôn	71
+đối_với sản_phẩm	70
+tiêu_thụ sản_phẩm	70
+giá thị_trường	69
+giá thuế	67
+giá tiêu_thụ nước_sạch	64
+giá cước	62
+đơn_vị nội_thương	61
+áp_dụng giá	60
+vận_chuyển rác_thải sinh_hoạt	57
+mua hàng	56
+cung_ứng vật_tư	56
+bảng giá thuế tài_nguyên	53
+giá chỉ_đạo	53
+lập phương_án giá	52
+ngành nội_thương	51
+giá bán_buôn công_nghiệp	51
+giá cụ_thể	51
+tiêu_thụ nước_sạch	51
+xây_dựng phương_án giá	51
+vật_tư hàng_hoá	51
+biểu giá	51
+đối_với hàng_hóa	49
+dịch_vụ thu_gom	48
+giá sản_phẩm	48
+giá cung_cấp	47
+giá_cả thị_trường	46
+nguyên giá	46
+giá bán_buôn vật_tư	43
+bảng giá	43
+cước vận_chuyển	41
+giá vật_tư	40
+ngành điện	40
+sản_xuất cung_ứng sản_phẩm	39
+thuế tài_nguyên	39
+quản_lý nhà_nước giá	38
+thực_hiện kê_khai giá	38
+đối_với mặt_hàng	37
+khoản chênh_lệch giá	37
+nguyên vật_liệu	36
+giá hàng_hóa	36
+giá gạo	36
+công_tơ điện	35
+hàng hóa	35
+ngành lương_thực	35
+giá thuê	34
+chiết_khấu lưu_thông	34
+văn_bản kê_khai giá	34
+giá thu_mua	34
+điện sinh_hoạt	33
+quỹ bình_ổn giá	33
+dịch_vụ công_ích thủy_lợi	33
+giá thoả_thuận	32
+giá chuẩn	32
+sử_dụng dịch_vụ	32
+sử_dụng điện	32
+biện_pháp bình_ổn giá	31
+uỷ_ban vật_giá nhà_nước quyết_định_giá	30
+giá thuế tài_nguyên	30
+cung_ứng sản_phẩm	29
+đơn_vị cung_ứng dịch_vụ	29
+thanh_toán giá	29
+giá cước vận_chuyển	28
+hàng tồn_kho	28
+giá niêm_yết	27
+phiếu giá	27
+dịch_vụ công_ích quản_lý	27
+danh_mục hàng_hóa	27
+đơn_vị cung_cấp nước_sạch	26
+hiệp_thương giá	26
+rà_soát biểu_mẫu đăng_ký giá	26
+ban_hành bảng giá thuế tài_nguyên	26
+thực_hiện đăng_ký giá	26
+phụ giá	25
+giá dịch_vụ sử_dụng	25
+tài_nguyên môi_trường quy_định chi_tiết phương pháp_định_giá đất	25
+giá xi_măng	25
+tiêu_thụ nước_sạch sinh_hoạt	25
+mặt_hàng chính_sách	25
+dự_trữ lưu_thông	25
+giá chỉ_đạo nhà_nước	24
+bảng kê	24
+ăn_cắp điện	24
+thuốc trừ_sâu	24
+dịch_vụ nhà_nước định_giá	24
+danh_mục sản_phẩm	24
+dịch_vụ sử_dụng đò	24
+giá tối_đa đối_với	24
+thu giá dịch_vụ	24
+đại_lý quyền quyết_định_giá	24
+quy_định danh_mục sản_phẩm dịch_vụ	23
+chi_phí vận_chuyển	23
+giá bán_buôn xí_nghiệp	23
+kiểm_tra yếu_tố hình_thành giá	23
+mặt_bằng giá	23
+mua lương_thực	23
+biểu_mẫu đăng_ký giá	23
+nước_sạch sinh_hoạt	22
+cung_ứng dầu	22
+doanh_số hàng	21
+tỷ_lệ hao_hụt	21
+giá vật_liệu xây_dựng	21
+sản_phẩm dở_dang	21
+vật_tư tiêu_hao	21
+tỷ_lệ nội_địa_hóa	21
+kho dầu_mỏ sản_phẩm dầu_mỏ	20
+đối_với đơn_vị	20
+toàn ngành	20
+nguyên giá tscđ	20
+mua_bán điện	20
+danh_mục trợ_giá	20
+xây_dựng phương_án	20
+bảng tổng_kết tài_sản	20
+danh_mục sản_phẩm dịch_vụ	20
+dịch_vụ thực_hiện bình_ổn giá	19
+tổ_chức hiệp_thương giá	19
+dịch_vụ sử_dụng cảng	19
+mua vật_tư	19
+thẩm_định phương_án giá	19
+chiết_khấu lưu_thông vật_tư	18
+áp_dụng biện_pháp	18
+nguyên giá tài_sản cố_định	18
+yếu_tố hình_thành giá	18
+nhập vật_tư	18
+bảng giá thuế	18
+xi_măng thị_trường	18
+giá trung_bình	18
+điều_lệ quản_lý giá	17
+liên_bộ uỷ_ban vật_giá nhà_nước -	17
+điện thương_phẩm	17
+quy_định khung_giá	17
+cung_cấp dịch_vụ	17
+bù chênh_lệch giá	17
+giao_nộp sản_phẩm	17
+thay_đổi quyền quyết_định_giá	17
+quyết_định_giá tiêu_thụ nước_sạch	17
+phụ giá chất_lượng	17
+cung_cấp điện	17
+cửa_hàng thương_nghiệp	17
+niêm_yết giá	17
+bảng giá thuế tài_nguyên đối_với	17
+giá dịch_vụ thu_gom	17
+hàng_hoá tồn_kho	16
+quy_định giá dịch_vụ	16
+nhà_nước định_giá	16
+hàng tiêu_dùng	16
+sản_phẩm hàng_hoá	16
+tiếp_nhận văn_bản kê_khai giá	16
+quy_định_mức giá	16
+kinh_doanh hàng_hóa	16
+bù_giá điện	16
+một_số mặt_hàng	15
+kém phẩm_chất	15
+quyết_định_giá bán_buôn xí_nghiệp	15
+chênh_lệch giá vật_tư	15
+giá thóc	15
+đơn_vị sản_xuất	14
+tài_chính quy_định phương pháp_định_giá đối_với hàng_hóa	14
+lập bảng kê	14
+sở tài chính-vật giá	14
+kinh_doanh xi_măng	14
+cung_cấp nước_sạch	14
+thuế tài_nguyên đối_với	14
+giá tài_sản	13
+đối_với hàng_hoá	13
+chỉ_số giá	13
+giá dịch_vụ kỹ_thuật	13
+chênh_lệch gia_công	13
+thu giá	13
+khung_giá thuế tài_nguyên	13
+uỷ_ban vật_giá	13
+gia_công chế_biến	13
+giá tiêu_thụ	13
+vận_chuyển hàng_hóa	12
+tài_chính quy_định khung_giá thuế tài_nguyên đối_với	12
+sản_xuất kinh_doanh	12
+đơn_vị cung_cấp dịch_vụ	12
+bảng kê thanh_toán	12
+hội_đồng_bộ_trưởng uỷ_ban vật_giá nhà_nước	12
+sản_xuất tiêu_thụ	12
+phương pháp_định_giá	11
+chiết_khấu thương_nghiệp	11
+ban_hành bảng giá	11
+biến_động giá	11
+giá bán_lẻ thuốc	11
+liên_bộ uỷ_ban vật_giá nhà_nước	11
+tỷ_lệ chiết_khấu	11
+thẩm_quyền quyết_định_giá	11
+dịch_vụ kỹ_thuật	11
+phổ_biến thị_trường	11
+- đối_với	11
+quy_định danh_mục sản_phẩm	11
+vật_liệu xây_dựng	11
+kinh_doanh mặt_hàng	10
+trợ_giá trợ cước	10
+lập phương_án	10
+cung_ứng thuốc	10
+giá lệ_phí trước_bạ đối_với	10
+kinh_doanh dịch_vụ	10
+: thanh_toán giá	10
+giá sinh_hoạt	10
+sử_dụng nước_sạch	10
+tài_sản nhà_nước	10
+chi_phí dịch_vụ	9
+tối_đa khung_giá	8
+quy_định chi_tiết phương pháp_định_giá đất	8
+hội_đồng_bộ_trưởng ban_hành	8
+quản_lý thị_trường	8
+thu giá dịch_vụ sử_dụng	8
+mua_bán hàng_hoá	8
+bán_buôn công_nghiệp	8
+vận_chuyển hàng	8
+bù chênh_lệch	8
+giá thuế tài_nguyên đối_với	8
+uỷ_ban vật_giá nhà_nước -	8
+nguyên nhiên vật_liệu	8
+sản_phẩm dịch_vụ	8
+tài chính-vật giá	8
+đăng_ký kinh_doanh	8
+thị_trường biến_động	8
+đối_với một_số	8
+cước vận_chuyển hàng_hóa	7
+khung_giá dịch_vụ	7
+đơn_vị cung_ứng	7
+đối_với lưới_điện	7
+chi_phí lưu_thông	7
+quản_lý sử_dụng	7
+giá_thành sản_phẩm	7
+giá vật_liệu	7
+bán_lẻ thuốc	7
+bảng kê_khai	7
+chi_phí sản_xuất	7
+điạ phương	7
+chi_phí hợp_lý	6
+ban_hành giá dịch_vụ	6
+sản_xuất tiêu_dùng	6
+bán_buôn vật_tư	6
+khung_giá thuế tài_nguyên đối_với	6
+dự_trữ mặt_hàng	6
+chính_sách đối_với	6
+dự_trữ vật_tư	6
+- đối_với đơn_vị	6
+thị_trường tiêu_thụ	6
+rác_thải sinh_hoạt	6
+vận_chuyển hàng_hoá	6
+chất_lượng sản_phẩm	6
+quy_định_mức giá dịch_vụ	6
+tối_đa dịch_vụ thu_gom	6
+phục_vụ sinh_hoạt	6
+hàng nhập	6
+chất_lượng dịch_vụ	6
+hợp_đồng mua_bán điện	5
+khoản chênh_lệch	5
+quản_lý nhà_nước giá địa_bàn tỉnh	5
+đối_với tài_sản	5
+quy_định bảng giá	5
+giá lệ_phí trước_bạ	5
+thị_trường thời_điểm	5
+bảng giá lệ_phí trước_bạ	5
+bảng giá đất	5
+thực_hiện bình_ổn giá	5
+giá xăng thời_điểm	5
+quy_định cụ_thể	5
+sản_phẩm sản_xuất	5
+phương pháp_định_giá đối_với hàng_hóa	5
+vận_chuyển rác_thải	5
+mặt_hàng thuốc	5
+tài_chính quy_định phương pháp_định_giá	5
+biểu cước	5
+chi_phí vật_tư	5
+thương_nhân kinh_doanh	5
+phương_pháp xác_định_giá	5
+hợp_đồng mua_bán	4
+khung_giá thuế	4
+điện phục_vụ	4
+sản_xuất sản_phẩm	4
+vận_chuyển rác_thải sinh_hoạt địa_bàn	4
+kho thuốc	4
+bảng giá thuế tài_nguyên địa_bàn tỉnh	4
+quyền quyết_định_giá	4
+vật_giá nhà_nước	4
+lưu_thông thị_trường	4
+bán_buôn xí_nghiệp	4
+giá tối_đa dịch_vụ	4
+lập danh_mục	4
+hộ kinh_doanh	4
+thực_hiện kê_khai	4
+sử_dụng hợp_lý	4
+chi_phí mua	4
+đối_với khu_vực	4
+hàng kém	4
+lập bảng	4
+gia_công hàng	4
+thực_hiện biện_pháp bình_ổn giá	4
+quy_định khung_giá thuế tài_nguyên	4
+đơn_vị thương_nghiệp	3
+dịch_vụ uỷ_ban vật_giá nhà_nước	3
+danh_mục hàng_hoá	3
+giá đất	3
+hợp_đồng gia_công	3
+thực_hiện quy_định	3
+vật_tư kỹ_thuật	3
+tài_sản cố_định	3
+11/11/2016 tài_chính	3
+tiêu_dùng sinh_hoạt	3
+nhiên vật_liệu	3
+sinh_hoạt hộ	3
+định_giá tài_sản	3
+phiếu mua	3
+ban_hành điều_lệ quản_lý giá	3
+yếu_tố hình_thành	3
+chỉ_đạo sở	3
+bảng kê chi_tiết	3
+đối_với hộ	3
+hình_thành giá	3
+giá tài_sản cố_định	3
+hàng nhập_khẩu	3
+lưu kho	3
+tài_chính quy_định phương pháp_định_giá đối_với	3
+cung_cấp nguyên_liệu	3
+quản_lý điện	3
+sử_dụng sản_phẩm	3
+dầu_mỏ sản_phẩm dầu_mỏ	3
+chi_phí quản_lý	3
+đơn_vị sản_xuất kinh_doanh	2
+ban_hành quy_định_mức	2
+sản_phẩm chế_biến	2
+mua thuốc	2
+thuế lãi	2
+trị_giá hàng	2
+quy_định phương pháp_định_giá	2
+ban_hành bảng	2
+sản_lượng hàng_hoá	2
+chất_lượng hàng_hoá	2
+tài_chính quy_định khung_giá	2
+điều_chỉnh bảng giá	2
+đơn_vị sử_dụng	2
+phương pháp_định_giá đất	2
+áp_dụng đối_với	2
+quản_lý sử_dụng tài_sản	2
+chỉ_đạo đơn_vị	2
+quy_định danh_mục	2
+lập phiếu	2
+hồ_sơ phương_án giá	2
+đơn_vị quản_lý	2
+biện_pháp bình_ổn	2
+- chi_phí	2
+sản_phẩm công_nghiệp	2
+- vật_giá	2
+quy_định điều_lệ	2
+đối_với khoản	2
+ban_hành đơn_giá	2
+quyền sử_dụng	2
+phương_án giá gửi sở	2
+giá_cả thị_trường biến_động	2
+thanh_toán chi_phí	2
+kinh_doanh thương_nghiệp	2
+quỹ bình_ổn	2
+quy_định khung_giá thuế tài_nguyên đối_với	2
+sản_xuất vật_liệu xây_dựng	2
+phục_vụ sản_xuất	2
+dịch_vụ sử_dụng	2
+thực_hiện chính_sách	2
+ban_hành danh_mục	2
+kinh_doanh sản_phẩm	2
+đối_với đơn_vị sản_xuất	1
+cụ_thể hóa	1
+nhà_nước địa_bàn	1
+sử_dụng đò	1
+văn_bản thoả_thuận	1
+chất_lượng thuốc	1
+giá đất cụ_thể	1
+hội_đồng_bộ_trưởng uỷ_ban vật_giá	1
+nhà_nước văn_bản	1
+sử_dụng tài_sản nhà_nước	1
+khoản chi_phí	1
+đăng_ký kinh_doanh địa_bàn	1
+nhà_nước chất_lượng	1
+đối_với xí_nghiệp	1
+kiểm_tra quản_lý sử_dụng	1
+danh_mục sản_phẩm dịch_vụ uỷ_ban vật_giá nhà_nước	1
+trợ_giá trợ	1
+liên_bộ tài	1
+một_số biện_pháp	1
+kê chi_tiết	1
+quy_định phương	1
+thực_hiện biện_pháp	1
+tài_chính quy_định phương	1
+xí_nghiệp sản_xuất	1
+một_số khoản	1
+danh_mục chi_tiết	1
+kê_khai đăng_ký	1
+phương_án giá gửi	1
+- tỷ_lệ	1
+nguyên giá tài_sản	1
+mua vận_chuyển	1
+hộ kinh_doanh cá_thể	1
+nhà_nước quyết_định_giá	1
+công_ích thủy_lợi	1
+đơn_giá xây_dựng	1
+nhà_nước chất_lượng hàng_hoá	1
+áp_dụng quy_định	1
+nhà_nước thẩm_quyền	1
+quản_lý nhà_nước giá địa_bàn	1
+kỹ_thuật nhà_nước	1
+điện hộ	1
+bảng tổng_kết	1
+đơn_vị cung_cấp	1
+vật_giá nhà_nước quyết_định_giá	1
+giá tscđ	1
+áp_dụng đơn_giá	1
+mua tài_sản	1
+kê thanh_toán	1
+sản_xuất công_nghiệp	1
+giá thuế tài_nguyên địa_bàn tỉnh	1
+quy_định khung_giá thuế	1
+tài_sản lưới_điện	1
+giá_thành sản_xuất	1
+điều_chỉnh bảng giá đất	1
+giá đối_với hàng_hóa	1
+công_bố danh_mục	1
+quản_lý ngành	1
+áp_dụng thuế_suất	1
+- biểu	1
+sản_xuất phụ	1
+sinh_hoạt địa_bàn	1
+ngành tỉnh	1
+quy_định chi_tiết	1
+tối_đa dịch_vụ	1
+sử_dụng vật_liệu	1
+thuốc thiết_yếu	1
+nhập_khẩu thuốc	1
+lập quỹ	1
+1985 quy_định	1
+sở xây_dựng	1
+kinh_doanh vàng_bạc	1
+đơn_giá thuê	1
+vận_chuyển rác_thải sinh_hoạt sử_dụng	1
+quyết_định_giá bán_buôn	1
+thuê tài_sản	1
+quỹ đất	1
+hợp_đồng đặt_hàng	1
+nhà_nước đặt_hàng	1
+lưu_thông vật_tư	1
+thu thuế	1
+phương_án giá trình	1
+thoả_thuận văn_bản	1
+sản_xuất cung_ứng	1
+vô_tuyến điện	1
+neo đậu	1
+đăng_ký chất_lượng	1
+phân_phối sử_dụng	1
+tối_đa dịch_vụ sử_dụng	1

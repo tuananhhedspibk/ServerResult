@@ -1,0 +1,314 @@
+nghiện ma_túy	201
+điều_tra thống_kê	188
+khai_thác khoáng_sản	160
+chất ma_tuý	155
+chất ma_túy	123
+cai_nghiện ma_túy	119
+nghiện ma_tuý	117
+chống ma_tuý	114
+hoạt_động khoáng_sản	111
+tổng_cục thống_kê	100
+khai_thác quản_lý chợ	79
+thăm_dò khoáng_sản	73
+tổng_cục địa_chất	64
+bán_dâm cai_nghiện ma_túy	63
+khai_thác sử_dụng	61
+thăm_dò địa_chất	61
+bảo_vệ khoáng_sản khai_thác	58
+phương_án địa_chất	57
+tài_nguyên khoáng_sản	54
+nhựa thuốc_phiện	51
+khai_thác mỏ	51
+cơ_sở cai_nghiện ma_túy	48
+khai_thác chợ	48
+chuyển_đổi chợ	46
+tình_tiết_giảm nhẹ	45
+điều_trị nghiện chất dạng thuốc_phiện thuốc thay_thế	44
+giấy_phép khai_thác khoáng_sản	43
+vận_chuyển trái_phép	42
+tìm_kiếm cứu nạn	42
+tội_phạm ma_tuý	41
+đấu_giá quyền khai_thác khoáng_sản	39
+điều_tra cơ_bản địa_chất tài_nguyên khoáng_sản	38
+sử_dụng trái_phép	37
+quy_hoạch thăm_dò	37
+trái_phép chất ma_tuý	37
+mỏ khoáng_sản	37
+hoạt_động khai_thác khoáng_sản	35
+đơn_vị địa_chất	35
+hoạt_động khai_thác	35
+tàng_trữ trái_phép	35
+đề_án điều_tra cơ_bản địa_chất tài_nguyên khoáng_sản	34
+sử_dụng trái_phép chất ma_tuý	33
+trữ_lượng khoáng_sản	33
+khoáng_sản khai_thác	33
+điều_tra cơ_bản	32
+quyền khai_thác khoáng_sản	32
+tổng điều_tra	32
+vận_chuyển trái_phép chất ma_tuý	32
+chống ma_túy	31
+phiếu điều_tra thống_kê	31
+thực_hiện điều_tra thống_kê	31
+điều_tra_viên thống_kê	30
+phương_án chuyển_đổi chợ	30
+giấy_phép khai_thác	30
+phép khai_thác	30
+cai_nghiện bắt_buộc	28
+tiền chất	28
+nhân_cách nghiện ma_túy	28
+điều_trị cắt_cơn	28
+tại_gia_đình cộng_đồng	27
+hoạt_động khoáng_sản trái_phép	27
+hội_đồng xét_duyệt trữ_lượng khoáng_sản	27
+nhiệm_vụ địa_chất	26
+quản_lý chợ	26
+chợ hạng iii	26
+chống tệ_nạn	25
+chống kiểm_soát ma_tuý	25
+cá_nhân khai_thác	25
+trăm gam	25
+chợ hạng	25
+thuốc nghiện	24
+cá_nhân khai_thác khoáng_sản	24
+sử_dụng khoáng_sản	24
+thống_kê tội_phạm	23
+chế_biến khoáng_sản	23
+cai_nghiện ma_tuý	23
+tiền quyền khai_thác khoáng_sản	23
+cứu nạn	23
+khu_vực cấm	23
+tạm_thời cấm hoạt_động khoáng_sản	23
+khoáng_sản địa_bàn tỉnh	22
+chợ hạng ii	22
+cai_nghiện tự_nguyện	22
+cư_trú ổn_định	22
+mẫu phiếu điều_tra thống_kê	21
+nhựa cần_sa	21
+cá_nhân hoạt_động khoáng_sản	21
+thể lỏng	21
+sử_dụng số_liệu	21
+hoạt_động thăm_dò	21
+đối_với nghiện ma_túy	21
+chuyển_đổi nghề tìm_kiếm việc_làm	21
+mua_bán trái_phép chiếm_đoạt	20
+hai mươi	20
+tìm_kiếm thăm_dò	20
+buôn_bán trái_phép	20
+giá_trị tài_sản	20
+luật khoáng_sản	20
+trái_phép chất ma_túy	20
++ thuốc_phiện	20
+chữa_trị trung_tâm	20
+cá_nhân giấy_phép khai_thác khoáng_sản	19
+tài_sản chiếm_đoạt giá_trị	19
+thu_thập số_liệu	19
+cai_nghiện ma_tuý tại_gia_đình cộng_đồng	18
+điều_trị nghiện ma_túy	18
+đối_với chợ	18
+trọng_lượng chất ma_túy	18
+mua_bán trái_phép	18
+chiếm_đoạt tài_sản	17
+quyền khai_thác	17
+số_liệu thống_kê	17
+khai_thác trái_phép	17
+cơ_sở cai_nghiện bắt_buộc	17
+điều_tra thống_kê :	17
+cục thống_kê	16
+khai_thác khoáng_sản trái_phép	16
+bảo_vệ tài_nguyên khoáng_sản	16
+khoáng_sản kim_loại	16
+phương_án chuyển_đổi	16
+hối_lộ giá_trị	16
+cơ_sở cai_nghiện	16
+quỹ trái_phép	16
+phương_án điều_tra	15
+kinh_doanh trái_phép	15
+sử_dụng kinh_doanh chợ	14
+hoạt_động khoáng_sản địa_bàn tỉnh	14
+điều_tra địa_chất	14
+phép hoạt_động khoáng_sản	14
+phương_án điều_tra thống_kê	14
+ban chuyển_đổi chợ huyện	14
+dịch_vụ điều_trị nghiện chất dạng thuốc_phiện thuốc thay_thế	14
+chợ chuyển_đổi	14
+tổng_số_lượng chất	13
+khoáng_sản trái_phép	12
+thu_hồi giấy_phép	12
+tổng_cục mỏ địa_chất	12
+giấy_phép hoạt_động	12
+lập quỹ	11
+trái_phép chất ma_tuý "	11
+quản_lý nhà_nước khoáng_sản	11
+giấy_phép thăm_dò khoáng_sản	11
+hai trăm	11
+chống tội_phạm	11
+trăm năm_mươi	11
+quản_lý hoạt_động khoáng_sản	11
+địa_chất khoáng_sản	11
+đóng cửa mỏ	11
+khai_thác tài_nguyên	10
+cá_nhân hoạt_động	10
+tài_sản xhcn	10
+khai_thác sử_dụng khoáng_sản	10
+đóng cửa	10
+chợ địa_bàn	10
+phiếu điều_tra	10
+ban chuyển_đổi chợ	10
+cai_nghiện trung_tâm	10
+cá_nhân giấy_phép	10
+thể rắn	9
+tổng_cục_trưởng tổng_cục	9
+mươi gam	9
+cơ_sở điều_trị	9
++ chất ma_túy	9
+hoạt_động khoáng_sản địa_bàn	9
+điều_tra tội_phạm ma_tuý	9
+đề_án đóng cửa mỏ	9
+mỏ địa_chất	9
++ chất ma_túy thể	9
+chủ_trì tổ_chức điều_tra thống_kê	9
+tài_sản giá_trị	8
+sản_xuất trái_phép	8
+chợ hạng 1	8
+bán_dâm cai_nghiện	8
+cơ_sở điều_trị nghiện	8
+cai_nghiện ma_túy tại_gia_đình	8
+quản_lý sử_dụng	8
+hoạt_động điều_tra cơ_bản	7
+tiến_hành hoạt_động	7
+chợ đầu_mối	7
+điều_trị nghiện	7
+bảo_vệ khoáng_sản	7
+thu_thập tài_liệu	7
+chất ma_tuý số_lượng	7
+kết_quả điều_tra thống_kê	7
+khoáng_sản thẩm_quyền	7
+quản_lý khai_thác	6
+cơ_sở cai_nghiện ma_túy tỉnh	6
+điều_tra thăm_dò địa_chất	6
+chống kiểm_soát	6
+tiến_hành điều_tra	6
+cá_nhân phép	6
+giấy_phép vận_chuyển	6
+chuyển_đổi chợ huyện	6
+đối_với khai_thác khoáng_sản	5
+điều_tra thăm_dò	5
+đồ_dùng cá_nhân	5
+giấy_phép thăm_dò	5
+cá_nhân sử_dụng	5
+quản_lý hoạt_động khoáng_sản địa_bàn tỉnh	5
+kinh_doanh chợ	5
+điều_tra cơ_bản địa_chất	5
+đề_án thăm_dò	5
+khoáng_sản địa_bàn	5
+đối_với hoạt_động	5
+cá_nhân kinh_doanh	5
+tiền thuốc	5
+lập phương_án	5
+nâng_cấp chợ	5
+bảo_vệ tài_nguyên	5
+hai chất	5
+giấy_phép sử_dụng	5
+sử_dụng quỹ	4
+sáu mươi	4
+số_lượng giá_trị	4
+chuyển_đổi nghề	4
+giá_trị sử_dụng	4
+xét_duyệt trữ_lượng khoáng_sản	4
+đề_án đóng cửa	4
+địa_chất hoàn_thành	4
+đấu_giá quyền khai_thác	4
+ban quản_lý chợ	4
+đối_với nghiện	4
+khai_thác bảo_vệ	4
+tìm_kiếm việc_làm	4
+gia_hạn giấy_phép	3
+phiếu kiểm_soát	3
++ chất	3
+quản_lý hoạt_động	3
+đề_án điều_tra cơ_bản địa_chất	3
+tài_sản nhà_nước	3
+tài_nguyên thiên_nhiên	3
+cai_nghiện tại_gia_đình	3
+nghiện chất dạng thuốc_phiện thuốc thay_thế	3
+tình_trạng nghiện	3
+phép sử_dụng	3
+quyền quản_lý	3
+điều_tra cơ_bản địa_chất tài_nguyên	3
+chuyển_đổi nghề tìm_kiếm	3
+thuốc thay_thế	3
+điều_trị ổn_định	3
+thẩm_quyền giấy_phép	2
+kết_thúc điều_tra	2
+thuốc_phiện thuốc thay_thế	2
+tổ_chức cá_nhân	2
+quy_hoạch sử_dụng	2
+đơn_vị sử_dụng	2
+bảo_vệ tài_sản	2
+tiền ký_quỹ	2
+cấm hoạt_động khoáng_sản	2
+mục_đích sử_dụng	2
+khai_thác khoáng_sản địa_bàn tỉnh	2
+sử_dụng mục_đích	2
+sản_xuất trái_phép chất	2
+điều_trị nghiện chất dạng thuốc_phiện	2
+hội_đồng xét_duyệt trữ_lượng	2
+sử_dụng tài_sản	2
+lập đề_án	2
+giấy_phép kinh_doanh	2
+tổng giá_trị	2
+ban chuyển_đổi	2
+kết_quả điều_tra	2
+phép hoạt_động	2
+giá_trị trăm	2
+điều_tra tội_phạm	2
+nghiện chất dạng thuốc_phiện	2
+quyền sử_dụng	2
+hoạt_động điều_tra	2
+chất dạng thuốc_phiện thuốc thay_thế	1
+cai_nghiện ma_tuý tại_gia_đình	1
+phương_tiện vận_chuyển	1
+cục điều_tra	1
+chất ma_túy thể	1
+mua_bán trái_phép chất	1
+điều_trị nghiện chất dạng	1
+dịch_vụ điều_trị nghiện chất dạng thuốc_phiện	1
+kiểm_soát ma_tuý	1
+thực_hiện đề_án	1
+quản_lý nhà_nước tài_nguyên	1
+tìm_kiếm cứu	1
+nhiệm_vụ bảo_vệ	1
+đơn_vị chủ_trì	1
+chất ma_tuý "	1
+sử_dụng trái_phép chất	1
+khu_vực sản_xuất	1
+khai_thác khoáng_sản địa_bàn	1
+trái_phép "	1
+đối_với cơ_sở	1
+phép kinh_doanh	1
+giá_trị sản_lượng	1
+thi_hành_pháp_lệnh bảo_vệ	1
+dịch_vụ điều_trị nghiện chất dạng	1
+chất dạng thuốc_phiện	1
+chuyển_đổi mục_đích sử_dụng	1
+tổ_chức hoạt_động	1
+khoáng_sản khai_thác địa_bàn	1
+1 kg	1
+phép mục_đích sử_dụng	1
+kinh_doanh khai_thác	1
+dịch_vụ điều_trị	1
+hội_đồng xét_duyệt	1
+mẫu phiếu	1
+tố_giác tội_phạm	1
+ma_túy tự_nguyện	1
+phương_án bảo_vệ	1
+tạm_thời cấm	1
+đề_án điều_tra	1
+xác_định_giá_trị tài_sản	1
+hoạt_động kinh_doanh	1
+cơ_sở chế_biến	1
+tài_nguyên địa_bàn	1
+cá_nhân giấy_phép khai_thác	1
+đề_án điều_tra cơ_bản địa_chất tài_nguyên	1
+mục_đích kinh_doanh	1
+mục_đích sản_xuất	1

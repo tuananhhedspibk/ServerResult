@@ -1,0 +1,577 @@
+( )	1729
+( bao_gồm	745
+( đối_với	682
+đối_với trường_hợp	619
+( kể_cả	596
+( trừ	541
+( gọi	490
+( gọi tắt	481
+- trường_hợp	235
+( phụ_lục	227
+( mẫu_số	217
+( mẫu	212
+trừ trường_hợp	202
+trở đi	192
+( 0	185
+trường_hợp đặc_biệt	177
+trường_hợp cần_thiết	159
+( trường_hợp	157
+( ghi	155
+( viết tắt	155
+- đối_với	149
+tỷ_lệ phần_trăm ( % )	132
+( trừ trường_hợp	124
+xã )	122
+tài chín	112
+5 ( phẩy nă làm_việc	107
+việt_nam (	103
+hội_đồng_bộ_trưởng ( chính_phủ )	98
+trở lê	96
+mẫu biểu	94
+% )	92
+chậm nhất_là	86
+( kèm	86
+quy địn	83
+thời_hạn 02 làm_việc	78
+trở (	77
+( vụ	75
+( cục	74
+( chi_tiết	72
+tỷ_lệ phần_trăm	71
+đối_với xã	70
+5 (	69
+thời_hạn ( 0	69
+hai mươi	62
+( hai	56
+trừ đi	56
+( mã_số	56
+thời_gian làm_việc	55
+05 làm_việc	55
+thị_trấn ( gọi	53
+thời_hạn 15	53
+thời_gian 0	52
+( cat	52
+( danh_mục	51
+10 làm_việc	50
+* * *	50
+( gọi tắt nghị_định	48
+chậm 15	47
+( đối_với trường_hợp	47
+gọi tắt	46
+thời_hạn 05 làm_việc	46
+( b	46
+( phân_biệt	45
+hai ( 0	45
+nhân dâ	44
+( thiế	44
+thị_trấn ( gọi xã )	43
+tỷ_lệ ( % )	42
+( biểu	41
+thời_hạn 30	41
+thời_hạn 03	41
+( ký )	40
+xác_định tỷ_lệ	39
+( mẫu phụ_lục	39
+( huyệ	39
+bốn ( 0	39
+thời_hạn 03 làm_việc	38
+phụ_lục 01	37
+( bản_sao	37
+5 b	37
+nhân (	37
+thời_hạn 10	37
+03 làm_việc	36
+thành_phố )	36
+huyện ( quậ	36
+tổng_giám_đốc ( giám đố	35
+( đối_với doanh_nghiệp	35
+kéo_dài thời_gian	35
+chính_phủ )	35
+quyết địn	35
+( bốn	35
+01 ( mộ	34
+chủ_tịch hội_đồng_bộ_trưởng ( thủ_tướng chính_phủ )	33
+việt_nam -	33
+( cầ	33
+( mẫu_số 1	33
+xác_định thời_hạn	32
+( chi_tiết phụ_lục	32
+( kể_cả trường_hợp	32
+bồi dưỡn	32
+uỷ quyề	31
+thời_gian 01 ( mộ làm_việc	31
+thời_hạn 10 làm_việc	31
+01 ( mộ làm_việc	31
+05 (	31
+thời_hạn 05	31
+15 làm_việc	30
+thời_hạn hai ( 0	30
+viết tắt	30
+cũ (	29
+mẫu_số 01	29
+( thành_phố )	29
+vụ_trưởng vụ	29
+thời_gian thực_hiện_tại a	28
+hai trở đi	28
+( mã_số 17 a	28
+( tổng_cục	28
+thị_trấn ( gọi tắt	28
+thời_hạn 5 làm_việc	27
+lề_lối làm_việc	27
+( trừ thiết_kế công_nghệ )	27
+5 ( phẩy nă làm_việc kết_quả	27
+quy đinh	27
+vợ ( chồn	27
+đối_với một_số	27
+nhân khẩ	27
+hành chín	27
+( phườn	26
+( mẫ	26
+trường_hợp đột_xuất	26
+( tức_là	26
+( mã_số 15	26
+thời_gian 03 ( b làm_việc	26
+5 ( phẩy nă làm_việc giấy_tờ chứng_minh	26
+hai (	26
+mẫu phân_tích	25
+thành_phố ( gọi	25
+thời_gian đi	25
+thời_hạn 15 làm_việc	25
+huyện trở	25
+y_tế ( vụ	25
+( ký_tên	25
+phụ_lục 02	25
+% (	25
+kéo_dài thời_hạn	25
+thời_gian thực_hiện_tại	25
+chậm 30	25
+mười lăm	25
+hai trở	25
+( chín	25
+( đối_với trại_giam	24
+thẩm quyề	24
+( mười	24
+( mã_số 17	24
+( 12 thán	24
+thời_hạn 07	24
+đô_thị (	24
+( mã_số 16 b	24
+thế_giới (	23
+( bảo	23
+chậm 05 làm_việc	23
+thời_hạn 5	23
+mẫu_số 02	23
+( đối_với dự_án	23
+ngoại_tệ )	23
+( mẫu_số 0	23
+( % )	22
+( * )	22
+chữ_viết tắt	22
+đến_nơi làm_việc	22
+( - ) chiết_khấu	22
+( chia thán	22
+( sở nội_vụ )	21
+( ký_tên đóng dấ	21
+02 ( ha	21
+tỷ_lệ 1/500	21
+thời_hạn 07 làm_việc	21
+( mẫu quy địn	21
+03 ( b	21
+07 làm_việc	21
+quốc_tế )	21
+( cũ )	21
+thị_trấn (	21
+tài sả	20
+10 ( mườ	20
+tài_chính ( tổng_cục thuế ) phát_hành	20
+( mã_số 16 a	20
+( kinh_phí nghiệ	20
+5 làm_việc	20
+( [	20
+chủ_tịch hội_đồng_bộ_trưởng	20
+trường_hợp thay_đổi	20
+( mẫu_số 7 -	20
+thời_gian thực_hiện_tại b	19
+yêu cầ	19
+( trừ 5 trọng_lượng	19
+ha trở	19
+cũ )	19
+01 01	19
+ít_nhất 01	19
+trừ trường_hợp đặc_biệt	19
+xã ( phườn	19
+( kể_cả thời_gian	19
+quý )	19
+tác_giả ( đồng tác_giả )	19
+tài_chính ( vụ	18
+tỷ_lệ phần_trăm ( % ) phân_chia	18
+công_nghệ ( )	18
+trở đối_với	18
+kết_thúc thời_hạn	18
+trường_hợp xác_định	18
+chính_phủ ( gọi	18
+ít_nhất hai	18
+( năm_mươi	18
+hàng nă	18
+mẫu_số 03	18
+( gọi tắt huyệ	18
+cộng_hoà liên_bang séc slôvakia ( cũ ) trở	18
+( viết tắt nghị_định	18
+02 làm_việc	18
+( 5 %	18
+kể_cả trường_hợp	18
+chỗ làm_việc	18
+một_số trường_hợp	18
+07 ( bả làm_việc	17
+3 ( b	17
+đối_với chủng_loại ( cat	17
+( gọi_là	17
+nội_vụ ( cục	17
+( gọi huyệ	17
+( sửa đổ	17
+trừ trường_hợp quy_định	17
+( viết gọn	17
+thẩm địn	17
+ít_nhất 05	17
+tài_chính ( vụ tcđ	17
+trường_hợp không_thể	16
+trường_hợp thiên_tai	16
+( mẫu_số 02	16
+vợ chồng	16
+chậm 05	16
+15 km trở	16
+thời_hạn mười	16
+tài_chính ( tổng_cục thuế )	16
+thành_phố ( gọi tắt	16
+việt_nam ( gọi tắt	16
+15 ( mười lă	15
+( trăm	15
+việt_nam ( gọi	15
+( nă	15
+thời_hạn 7	15
+( mẫu_số 03	15
+phần_trăm ( % )	14
+chậm 10	14
+thời_gian 03 ( b	14
+5 %	14
+( đối_với xã	14
+03 (	14
+5 % )	14
+một_số trường_hợp đặc_biệt	14
+km trở ( đối_với xã	13
+( mẫu_số 01	13
+01 (	13
+phụ_cấp ( )	13
+( quậ	13
+đối_với doanh_nghiệp	13
+đi làm_việc	13
+( 36 thán	13
+thời_hạn bảy	13
+km trở	13
+5 trở	13
+ít_nhất 03	13
+05 ( nă làm_việc	13
+nước_ngoài (	13
+tỉnh ( thành_phố )	13
+mẫu_số 04	12
+cao_cấp (	12
+tài_chính ( vụ tài_chính	12
+trường_hợp khẩn_cấp	12
+( chia	12
+kèm biểu	12
+thời_hạn 02	12
+chậm 5	12
+( viết	12
+85 ( 85	12
+( trừ dự_án	11
+quốc_lộ )	11
+trường_hợp cá_biệt	11
+( cũ ) trở	11
+( mã_số 16	11
+10 %	11
+thời_gian 02 ( ha làm_việc	11
+trường_hợp đi	11
+nội_vụ )	11
+36 thán	11
+thời_hạn tối_đa	11
+phụ_lục 03	11
+thời_gian 02 ( ha làm_việc hồ_sơ	11
+sáu mươi	10
+- bản_sao	10
+phần_trăm (	10
+thời_hạn 20	10
+phụ_lục 04	10
+tk 85 ( 85	10
+mẫu phụ_lục	10
+ghi mã_số	10
+thời_gian 01	10
+hàng thán	10
+05 trở	10
+05 ( nă	10
+tỷ_lệ phần_trăm trọng_lượng	10
+( ha	10
+khu_vực ( )	10
+thời_gian 02 ( ha	10
+tỷ_lệ phần_trăm ( % ) phân_chia khoản	10
+phần_trăm trọng_lượng	10
+( nă =	10
+tối_đa 05	9
+trừ khoản	9
+cộng_hoà liên_bang séc slôvakia ( cũ )	9
+thiết_kế công_nghệ ( )	9
+trụ_sở làm_việc	9
+( gọi tắt tỉn	9
+chủ_quản (	9
+gửi tài_chính ( vụ	9
+( bao_gồm kinh_phí	9
+tối_đa 03	9
+hai trăm	9
+nông_thôn (	9
+( phẩy	9
+- tỷ_lệ	9
+liên_quan ( )	9
+thời_gian tối_đa	9
+tiếp_tục làm_việc	9
+chậm 20	9
+đồng (	9
+khoản trừ	8
+( od	8
+thời_gian 01 ( mộ	8
+thuế )	8
+môi_trường ( đối_với	8
+( vụ tài_chính	8
+( nội_vụ )	8
+( mười lă	8
+( chính_phủ )	8
+chủ_quản ( đối_với	8
+01 10	8
+05 01	8
+mẫu_số 0	8
+đối_với khoản	8
+tỉnh ( gọi	8
+phụ_lục 0	8
+vòng 5	8
+02 ( ha làm_việc	8
+( bao_gồm tiền	8
+môi_trường ( bao_gồm	7
+% trở	7
+thiết_kế mẫu	7
+( trường_hợp thiết_kế hai bướ	7
+chủng_loại ( cat	7
+hội_đồng_bộ_trưởng ( thủ_tướng chính_phủ )	7
+( gọi xã )	7
+trước_bạ )	7
+hội_đồng_bộ_trưởng (	7
+thời_gian 03	7
+( b làm_việc	7
+nă làm_việc	6
+tỷ_lệ %	6
+12 thán	6
+03 ( b làm_việc	6
+tỷ_lệ phần_trăm phân_chia	6
+( trường_hợp thiết_kế bướ	6
+03 trở	6
+chậm tiến_độ	6
+( hệ_số	6
+( trừ khoản	6
+cộng_hoà liên_bang	6
+tiệp khắc ( cũ )	6
+( tổng_cục thuế )	6
+( kèm biểu	6
+02 (	6
+( mườ	6
+ký )	6
+( 85	6
+vòng 15	5
+đối_với vụ	5
+5 ( phẩy nă làm_việc hồ_sơ	5
+thị_trấn huyện	5
+đóng dấ	5
+bốn mươi	5
+01 02	5
+15 %	5
+tác_giả (	5
+15 10	5
+( mộ	5
+( bao_gồm khoản	5
+tỷ_lệ phân_chia	5
+trở ( đối_với	5
+85 %	5
+giấy_tờ cần_thiết	5
+b khoản	5
+chủ_tịch hội_đồng_bộ_trưởng (	4
+chia thán	4
+biểu phụ_lục	4
+mẫu_số 1	4
+10 km trở	4
+03 02	4
+12 hàng	4
+trường_hợp thiết_kế hai	4
+chuyên_viên (	4
+gọi tắt nghị_định	4
+thời_hạn hai	4
+thời_gian 05	4
+( bả làm_việc	4
+chính_thức (	4
+trường_hợp thiết_kế	4
+tác_giả )	4
+đối_với dự_án	4
+nước_ngoài ( gọi	4
+b làm_việc	4
+15 5	4
+phụ_lục 1	4
+( 0 làm_việc	4
+( gọi xã	4
+đối_với khu_vực	4
+mã_số 01	4
+xác_định khoản	4
+thành_phố tỉnh ( gọi	4
+thành_phố tỉnh ( gọi huyệ	4
+01 7	4
+chi_tiết kèm	3
+công_nghệ )	3
+thời_hạn mười lăm	3
+) chiết_khấu	3
+không_thể đi	3
+ít_nhất 30	3
+05 5	3
+chiếm tỷ_lệ	3
+đóng trụ_sở	3
+17 a	3
+phụ_cấp khu_vực ( )	3
+( vụ tcđ	3
+thời_gian 02	3
+thời_hạn quy_định	3
+thủ_tướng chính_phủ )	3
+07 ( bả	3
+bao_gồm khoản	3
+a b	3
+33 -	3
+( chiếm	3
+( kể_cả phụ_cấp	3
+05 10	3
+( b làm_việc hồ_sơ	3
+20 %	3
+tài_chính ( tổng_cục	3
+85 (	3
+phẩy nă làm_việc	3
+giám đố	3
+= 0	2
+chi_tiết phụ_lục	2
+tỷ_lệ chiết_khấu	2
+- tài_chính	2
+tắt nghị_định	2
+16 làm_việc	2
+tối_đa 1	2
+( 36	2
+kể_cả phụ_cấp	2
+nhân hệ_số	2
+cao_cấp ( mã_số	2
+chia quý	2
+viết gọn	2
+đi làm_việc thời_hạn	2
+bao_gồm thuế	2
+ha làm_việc	2
+15 km	2
+sửa đổ	2
+thủ_tướng chính_phủ	2
+( gọi ubnd huyệ	2
+ít_nhất 5	2
+thời_gian đóng	2
+- đối_với khoản	2
+tối_đa 15	2
+05 12	2
+( mẫu_số 7	2
+tiệp khắc	2
+ít_nhất 10	2
+trung_ương (	2
+gọi tỉn	2
+đồng tác_giả )	2
+chi_tiết phụ_lục kèm	2
+sở tài	2
+thời_gian 03 ( b làm_việc hồ_sơ	2
+- biểu	2
+* )	2
+tối_đa 3	2
+kể_cả thời_gian	2
+tk 85	2
+kèm bản_sao	1
+( gọi tỉn	1
+- đối_với doanh_nghiệp	1
+quy_định chi_tiết	1
+biểu 1	1
+30 %	1
+tối_đa 30	1
+( ha làm_việc	1
+( đồng tác_giả )	1
+tắt tỉn	1
+15 01	1
+tỉnh ( gọi huyệ	1
+( giám	1
+( bả	1
+đối_với chủng_loại (	1
+làm_việc hồ_sơ	1
+phụ_lục kèm	1
+thời_gian 01 (	1
+làm_việc nước_ngoài	1
+thiết_kế công_nghệ )	1
+phụ_lục 3	1
+5 làm_việc hồ_sơ	1
+nă =	1
+mẫu_số 7	1
+5 ha	1
+đi làm_việc thời_hạn nước_ngoài	1
+đồng trở	1
+xếp_hạng đặc_biệt	1
+15 02	1
+tổng_giám_đốc (	1
+- nội_vụ	1
+mẫu quy địn	1
+chủng_loại (	1
+quốc_tế khu_vực	1
+quy_định b	1
+tiệp khắc (	1
+mã_số 17	1
+nhân tỉnh	1
+( cũ	1
+trung_ương ( gọi tắt	1
+thời_hạn gửi	1
+( giám đố	1
+( thủ_tướng chính_phủ )	1
+trung_ương ( gọi	1
+giấy_tờ quy_định	1
+3 trở	1
+bao_gồm tiền	1
+phẩy nă	1
+gửi kèm	1
+cục thuế tỉnh	1
+hồ_sơ thiết_kế	1
+thị_trấn ( gọi xã	1
+phẩy nă làm_việc hồ_sơ	1
+trường_hợp hồ_sơ	1
+ít_nhất 3	1
+tổng_giám_đốc ( giám	1
+phẩy nă làm_việc giấy_tờ chứng_minh	1
+sở nội_vụ )	1
+séc slôvakia	1
+trăm năm_mươi	1
+phụ_lục 1 kèm	1
+05 tỷ	1
+( tổng_cục thuế	1
+bả làm_việc	1
+- đối_với dự_án	1
+gọi tắt huyệ	1
+doanh nghiệ	1
+tối_đa 5	1
+cộng_hoà liên_bang séc slôvakia	1
+tổng_cục thuế	1
+thành_phố tỉnh	1
+công_nghệ môi_trường	1
+tổng_cục thuế )	1
+15 ký	1
+16 a	1
+ubnd tỉn	1
+02 10	1
+10 tỷ	1
+( %	1
+10 % trở	1

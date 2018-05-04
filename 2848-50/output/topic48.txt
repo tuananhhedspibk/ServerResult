@@ -1,0 +1,214 @@
+đứng đầu	141
+máy_móc thiết_bị	112
+đứng đầu_cơ_quan	78
+csgd-đt ct	74
+vũ_khí quân_dụng	68
+thiết_bị chuyên_dùng	64
+nguyên vật_liệu	58
+chiều sâu	49
+vật kiến_trúc	48
+phương_tiện kỹ_thuật quân_sự	48
+cỡ chữ	46
+chân giả	45
+phương_tiện làm_việc	44
+máy vi_tính	43
+chất phóng_xạ	42
+phó đứng đầu	40
+giấy_phép sử_dụng	40
+trang_bị phương_tiện	38
+danh_mục máy_móc	38
+đầu dòng	35
+phương_tiện vận_chuyển	35
+đầu tư_sản_xuất	34
+dầu_nhờn động_cơ	34
+thiết_bị bức_xạ	33
+thuốc pháo_hoa	33
+kiểu chữ đứng	33
+dòng chữ	31
+trang_bị vktt	30
+dụng_cụ chỉnh_hình	28
+cấp_phát trang_phục	28
+chữ in	28
+màu đỏ	27
+vật_tư thiết_bị	26
+chất bọt	26
+mua_sắm trang_phục	25
+gạch đầu dòng	25
+chữ in hoa	25
+niên_hạn sử_dụng	25
+phương_tiện trợ_giúp	25
+bổ_sung gạch đầu dòng	25
+đứng đầu_cơ_quan đại_diện	25
+thiết_bị văn_phòng	25
+máy phát	24
+cơ_sở bức_xạ	24
+tiếng ồn	23
+mua_sắm thiết_bị	22
+yếu_tố nguy_hiểm	22
+độ mật	22
+bụi phổi	22
+yếu_tố độc_hại	21
+đồng_phục phương_tiện chuyên_dùng	21
+phó đứng đầu_cơ_quan	21
+thiết_bị máy_móc	20
+thành_phần thể_thức	20
+mũ cứng	20
+vật_liệu nổ	20
+giá_trị sử_dụng	19
+mau hỏng	19
+phép sử_dụng	19
+than thu_hồi	19
+áp_dụng đất nằm hẻm chiều rộng ( đầu hẻ	18
+( phân_biệt chiều rộng hẻ	18
+thiết_bị kỹ_thuật	18
+phóng_xạ hở	18
+đầu hẻm	18
+chống rét	18
+sử_dụng vktt	18
+trách_nhiệm đứng đầu	18
+nguyên nhiên vật_liệu	18
+sử_dụng máy_móc	18
+sử_dụng thiết_bị	17
+trình_bày ô	17
+bê_tông cốt thép	17
+phương_tiện kỹ_thuật	17
+hạn sử_dụng	17
+thái nguyên	16
+sử_dụng máy	16
+phương_tiện chữa_cháy	16
+thiết_bị phát	16
+sản_xuất gạch ngói nung	15
+kỹ_thuật trình_bày	15
+lắp_đặt thiết_bị	15
+gạch ngói nung	15
+trang_bị dụng_cụ	15
+quá_trình sản_xuất	14
+thời_hạn sử_dụng	14
+tiếp_tục sử_dụng	14
+vải sản_xuất	14
+mua thiết_bị	14
+chữ "	14
+mua máy	13
+cháy nổ	13
+sử_dụng vũ_khí	13
+chiều rộng	12
+kinh_phí mua_sắm trang_phục	12
+phương_tiện chuyên_dùng	12
+gạch ngói	11
+" "	11
+nằm danh_mục	11
+danh_mục nghề	10
+sử_dụng phương_tiện	10
+bàn ghế	10
+mặt kỹ_thuật	10
+kg gạo	9
+- ct	9
+thu_hồi giấy_phép	9
+chuyên_dùng phục_vụ	9
+đứng đầu đơn_vị	8
+chất yêu_cầu nghiêm_ngặt	8
+sử_dụng mục_đích	8
+đánh_số thứ_tự	7
+mặt sàn	7
+giấy_phép vận_chuyển	7
+cốt thép	7
+chỗ làm_việc	7
+máy thi_công	7
+niên độ	7
+chống cháy	6
+dây_chuyền sản_xuất	6
+bố_trí công_việc	6
+yêu_cầu kỹ_thuật	6
+chế_độ trang_phục	6
+mua_sắm trang_thiết_bị	6
+sử_dụng vật_liệu nổ	6
+mẫu dấu	5
+in hoa	5
+công_việc nặng_nhọc	5
+kiểu chữ	5
+phát hình	5
+cơ_sở sản_xuất	5
+thiết_bị phục_vụ	4
+thiết_bị phòng	4
+số_lượng giá_trị	4
+mua_sắm vật_tư	4
+phó đứng	4
+chế thử	4
+sử_dụng công_cụ	4
+sử_dụng vật_liệu	4
+tiêu_chuẩn kỹ_thuật	4
+thuốc - nguyên_liệu	3
+bức_xạ hạt_nhân	3
+làm_việc cơ_sở	3
+yêu_cầu nghiêm_ngặt	3
+đơn_vị sử_dụng	3
+sản_xuất gạch ngói	3
+nghề công_việc	3
+mua_sắm tập_trung	3
+trách_nhiệm đứng	3
+tập_trung huấn_luyện	3
+vật_tư kỹ_thuật	3
+gắn liền	3
+chiều rộng (	3
+mua_sắm dụng_cụ	3
+thiết_bị phòng cháy	3
+phục_vụ sản_xuất	3
+mua vật_tư	3
+phục_vụ sinh_hoạt	3
+nguyên_liệu thuốc	3
+mục_đích sử_dụng	2
+làm_việc bộ_phận	2
+sửa_chữa thường_xuyên	2
+văn_phòng đại_diện	2
+huấn_luyện quân_sự	2
+phương_tiện phục_vụ	2
+- kỹ_thuật	2
+mua thuốc	2
+sản_xuất thử	2
+phát thuốc	2
+nhân_viên phục_vụ	2
+kỹ_thuật quân_sự	2
+nguyên_liệu sản_xuất	2
+điều_khiển phương_tiện	2
+lớp huấn_luyện	2
+tràn dầu	2
+mua_sắm đồ_dùng	2
+tiếp_tục làm_việc	2
+danh_mục thuốc	2
+mua_sắm máy_móc	2
+hai chiều	2
+m chiều	1
+phục_vụ mục_đích	1
+thông_số kỹ_thuật	1
+đồng_phục phương_tiện	1
+kinh_phí mua_sắm	1
+quá_trình thi_công	1
+giá_trị hiện_vật	1
+nhiên vật_liệu	1
+phòng cháy	1
+lắp_đặt hệ_thống	1
+( danh_mục	1
+hoàn_toàn trách_nhiệm	1
+mua_sắm phương_tiện	1
+đơn_vị thi_công	1
+đầu_cơ_quan đại_diện	1
+nhiễm chất_độc hoá_học	1
+phương_tiện nghề cá	1
+đất sản_xuất	1
+bổ_sung danh_mục	1
+sử_dụng điện	1
+- nguyên_liệu	1
+hệ_thống thang	1
+phép mục_đích sử_dụng	1
+kiểm_tra yếu_tố	1
+kỹ_thuật sử_dụng	1
+vận_hành hệ_thống	1
+sản_xuất gạch	1
+( phân_biệt	1
+ít_nhất hai	1
+đội phó	1
+220 kv	1
+sản_xuất vật_liệu	1
+bình tuyển	1
+phơi nhiễm	1
+chất_độc hoá_học	1

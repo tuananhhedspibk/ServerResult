@@ -1,0 +1,478 @@
+hộ gia_đình	903
+chính_sách hỗ_trợ	219
+hộ nghèo	210
+kinh_phí hỗ_trợ	169
+hỗ_trợ kinh_phí	163
+hỗ_trợ tối_đa	155
+công cách_mạng	139
+hưởng chính_sách thương_binh	136
+hỗ_trợ đầu_tư	135
+chính_sách đối_với	120
+hộ dân	117
+hỗ_trợ tái_định_cư	115
+hộ cận nghèo	92
+công_cụ hỗ_trợ	91
+trợ_giúp pháp_lý	86
+ngân_hàng chính_sách xã_hội	85
+nội_dung hỗ_trợ	85
+khuyến công	85
+chính_sách ưu_đãi	84
+điều_kiện hỗ_trợ	84
+thực_hiện chính_sách	83
+hỗ_trợ doanh_nghiệp	82
+ưu_đãi đầu_tư	77
+kinh_phí thực_hiện	76
+công giúp_đỡ cách_mạng	75
+cộng hòa xã_hội chủ_nghĩa việt nam	75
+chính_sách khuyến_khích	73
+hưởng chính_sách	73
+quy_định_mức hỗ_trợ	70
+hoạt_động cách_mạng	67
+đối_với hộ gia_đình	62
+đối_tượng hỗ_trợ	61
+tỷ_lệ hộ nghèo	60
+đối_tượng chính_sách	59
+đối_với hộ	57
+đối_tượng hưởng	56
+chính_sách xã_hội	52
+hỗ_trợ tiền	51
+hoạt_động kháng_chiến	49
+xã hộ	48
+hỗ_trợ chi_phí	48
+hưởng ưu_đãi	47
+cơ_sở thực_hiện xã_hội_hóa	47
+hộ thoát nghèo	47
+đối_với đối_tượng	46
+hỗ_trợ đào_tạo	45
+vay đối_với nghèo đối_tượng chính_sách	44
+hòa giải thương_mại	42
+trợ_giúp kinh_phí	40
+đối_với hoạt_động	39
+hỗ_trợ phát_triển	36
+học_bổng chính_sách	36
+quỹ hỗ_trợ phát_triển	36
+đối_với công cách_mạng	35
+diện chính_sách	35
+trường_hợp hộ gia_đình	34
+đối_với doanh_nghiệp	34
+đề_nghị hỗ_trợ	34
+hưởng ưu_đãi đầu_tư	33
+ưu_đãi công cách_mạng	33
+chế_độ ưu_đãi	32
+hỗ_trợ pháp_lý doanh_nghiệp	32
+lao_động hộ nghèo	31
+khuyến_khích đầu_tư	31
+bảo_tồn đa_dạng sinh_học	31
+hỗ_trợ hoạt_động	30
+quản tài_viên	30
+hộ dân nông_thôn	30
+cơ_sở bảo_trợ xã_hội	28
+ngân_hàng_phục_vụ nghèo	28
+quy_định chính_sách hỗ_trợ	27
+hưởng ưu_đãi thuế_thu_nhập doanh_nghiệp	27
+ưu_đãi giáo_dục	27
+pháp_lệnh ưu_đãi công cách_mạng	27
+giải_quyết chính_sách	27
+hưởng lợi	26
+trợ_giúp xã_hội	26
+đa_dạng sinh_học	26
+cận nghèo	26
+chuẩn văn_hóa	26
+lãi_suất ưu_đãi	26
+dân đi	26
+chi_nhánh ngân_hàng chính_sách xã_hội	26
+sử_dụng công_cụ hỗ_trợ	26
+hộ nông_dân	26
+nghèo đối_tượng chính_sách	25
+huyện nghèo	25
+đối_tượng hưởng chính_sách	25
+quỹ hỗ_trợ	25
+thuế_thu_nhập doanh_nghiệp	24
+xoá đói_giảm nghèo	24
+áp_dụng đối_với giám_định chết	24
+thủ_tướng chính_phủ chính_sách hỗ_trợ	24
+hỗ_trợ lãi_suất	24
+kinh_phí hoạt_động	23
+hưởng chế_độ	23
+chế_độ học_bổng	23
+đối_tượng miễn	23
+công chứn	22
+giấy_phép sử_dụng công_cụ hỗ_trợ	22
+chính_sách khuyến_khích xã_hội_hóa đối_với hoạt_động lĩnh_vực giáo_dục	22
+gia_đình chính_sách	22
+đối_với nghèo đối_tượng chính_sách	21
+hệ_thống xử_lý hộ gia_đình nông_thôn	21
+học_bổng trợ_cấp xã_hội	21
+bảo_trợ xã_hội	21
+hộ đồng_bào dân_tộc_thiểu_số	21
+đối_tượng chính_sách xã_hội	21
+ngân_hàng chính_sách xã_hội vay đối_với nghèo đối_tượng chính_sách	21
+tổng kinh_phí hỗ_trợ	21
+hưởng chính_sách hỗ_trợ	21
+bố_trí tái_định_cư	21
+hòa giải cơ_sở	21
+đối_tượng áp_dụng	21
+hộ dân_tộc_thiểu_số	21
+phụ_nữ hộ nghèo	21
+nông_nghiệp hộ gia_đình	20
+cơ_sở nuôi_dưỡng_thương_binh	20
+thực_hiện chính_sách ưu_đãi	20
+hoạt_động khuyến công	20
+dịch_vụ khuyến công	20
+đặc_biệt ưu_đãi đầu_tư	20
+cơ_chế chính_sách	20
+cấp_vốn hỗ_trợ	20
+kinh_phí chi_trả	19
+đối_tượng hưởng chính_sách xã_hội	19
+hộ nghèo tham_gia dự_án	19
+hiệu chuẩn	19
+pháp_lệnh ưu_đãi hoạt_động cách_mạng	19
+khuyến công_quốc_gia	19
+ưu_đãi thuế	19
+một_số chính_sách hỗ_trợ	19
+hộ gia_đình nông_thôn	18
+hiệu lự	18
+đồng_bào dân_tộc_thiểu_số	18
+hưởng ưu_đãi thuế	18
+đối_với một_số hoạt_động lĩnh_vực	18
+chế_độ chính_sách	18
+thu_nhập doanh_nghiệp thực_hiện dự_án đầu_tư	18
+đối_tượng diện	18
+điều_kiện hưởng	18
+dân tộ	18
+đối_tượng bảo_trợ xã_hội	18
+xã nghèo	17
+thuế_suất ưu_đãi	17
+ưu_đãi thuế_thu_nhập doanh_nghiệp	17
+đối_với hộ nghèo	17
+kinh_phí khuyến công	17
+thực_hiện chính_sách hỗ_trợ	17
+chuẩn nghèo tiếp_cận đa_chiều áp_dụng	17
+hỗ_trợ cụ_thể	16
+chính_sách hỗ_trợ đầu_tư	16
+kinh_phí thực_hiện chính_sách ưu_đãi đối_với công cách_mạng	16
+đối_tượng thụ_hưởng	15
+đối_với trường_hợp	15
+đối_với cơ_sở	15
+hỗ_trợ hộ nghèo	15
+chính_sách ưu_đãi hỗ_trợ đầu_tư	15
+hưởng chính_sách ưu_đãi	15
+hỗ_trợ hộ	15
+hòa giải	14
+chính_sách ưu_đãi hưởng_thụ văn_hoá	14
+kinh_phí thực_hiện chính_sách	14
+một_số chính_sách	14
+chế_độ chính_sách đối_với	14
+chính_sách ưu_đãi hưởng_thụ văn_hóa	14
+đối_với một_số	14
+chế_độ đối_với	14
+khuyến_khích xã_hội_hóa	13
+thực_hiện chi_trả	13
+áp_dụng đối_với	13
+thực_hiện xã_hội_hóa	13
+áp_dụng thuế_suất	13
+giải_quyết việc_làm	13
+danh_sách đối_tượng	13
+điều_chỉnh học_bổng chính_sách	13
+hỗ_trợ 30	13
+xã_hội hóa đầu_tư	12
+quản_lý_tài_chính đối_với ngân_hàng chính_sách xã_hội	12
+định_mức hỗ_trợ	12
+hưởng học_bổng	12
+đối_với dự_án	12
+trợ_giúp kinh_phí nuôi_dưỡng	12
+chính_sách thương_binh	12
+chuẩn nghèo	12
+sinh_hoạt hộ dân nông_thôn	12
+tỷ_lệ hộ	11
+thực_hiện dự_án	11
+kinh_phí hỗ_trợ hoạt_động	11
+thu_nhập doanh_nghiệp	11
+hưởng chế_độ ưu_đãi	11
+thu_hút đầu_tư	11
+hỗ_trợ việc_làm	11
+thoát nghèo	11
+đối_tượng hưởng chế_độ	11
+hoạt_động lĩnh_vực	11
+khuyến_khích phát_triển	11
+tiền công	11
+tìm_kiếm việc_làm	11
+thực_hiện chính_sách ưu_đãi đối_với công cách_mạng	10
+bình_quân thu_nhập	10
+chính_phủ chính_sách	10
+diện chính_sách xã_hội	10
+thụ_hưởng chính_sách	10
+xã_hội chủ_nghĩa	10
+ưu_đãi đối_với công cách_mạng	10
+trợ_cấp ưu_đãi	10
+tín_dụng ưu_đãi	10
+chính_sách hiện_hành	10
+chính_sách an_sinh xã_hội	10
+chính_sách phát_triển	10
+đối_với xã	9
+ưu_đãi đối_với	9
+hoạt_động lĩnh_vực giáo_dục	9
+hộ nghèo chuẩn	9
+hỗ_trợ kinh_phí hoạt_động	9
+ưu_đãi quy_định	9
+chính_sách khuyến_khích xã_hội_hóa	9
+chính_sách khuyến_khích xã_hội_hóa đối_với hoạt_động lĩnh_vực	9
+hỗ_trợ đầu_tư cơ_sở hạ_tầng	9
+chi_nhánh ngân_hàng chính_sách xã_hội tỉnh	9
+chính_sách khuyến_khích phát_triển	9
+ưu_đãi hưởng_thụ văn_hoá	9
+chính_sách ưu_đãi đối_với	9
+đối_với công	8
+luật khuyến_khích đầu_tư	8
+bố_trí kinh_phí	8
+ưu_đãi công	8
+ưu_đãi đầu_tư quy_định	8
+sinh_hoạt hộ	8
+điều_chỉnh học_bổng	8
+diện hưởng	8
+chính_sách thu_hút	8
+ngân_hàng chính_sách xã_hội tỉnh	8
+hỗ_trợ 20	8
+đầu_tư phát_triển	7
+kinh_phí đào_tạo	7
+hỗ_trợ 50	7
+chính_phủ quy_định chính_sách hỗ_trợ	7
+ưu_đãi hưởng_thụ văn_hóa	7
+một_số chính_sách ưu_đãi	7
+định_mức bình_quân	7
+chi_nhánh ngân_hàng chính_sách	7
+đại_diện hộ gia_đình	7
+khuyến công địa_phương	7
+đối_tượng tham_gia	7
+xã_hội hóa	7
+đất hộ gia_đình	7
+sử_dụng kinh_phí hỗ_trợ	7
+vay tối_đa	6
+thu_nhập bình_quân	6
+ngân_hàng chính_sách xã_hội vay	6
+hỗ_trợ pháp_lý	6
+ngân_hàng thương_mại	6
+trợ_cấp xã_hội đối_với học_sinh	6
+ủy_thác ngân_hàng chính_sách xã_hội	6
+hệ_thống thoát	6
+công tá	6
+trường_hợp hộ	6
+đầu_tư công	6
+đối_tượng điều_kiện	6
+kinh_phí thực_hiện chế_độ	6
+tổng kinh_phí	6
+kinh_phí khuyến	6
+thực_hiện chế_độ ưu_đãi	6
+khuyến_khích doanh_nghiệp	6
+quy_mô hộ	5
+ưu_đãi hoạt_động cách_mạng	5
+cộng hòa xã_hội chủ_nghĩa	5
+đối_với hoạt_động lĩnh_vực	5
+kinh_phí nghiệ	5
+diện miễn	5
+trợ cấ	5
+diện hộ	5
+chi_trả trợ_cấp ưu_đãi	5
+trợ_cấp xã_hội	5
+một_số chính_sách khuyến_khích	5
+đối_với hoạt_động lĩnh_vực giáo_dục	5
+ngân_hàng chính_sách	5
+chính_sách hỗ_trợ đào_tạo	5
+đối_tượng quy_định	5
+luật doanh_nghiệp	5
+xã_hội địa_phương	5
+quy_chế quản_lý_tài_chính đối_với ngân_hàng chính_sách xã_hội	5
+quỹ đầu_tư phát_triển	5
+tối_đa 03	4
+học_bổng khuyến_khích	4
+dịch_vụ công	4
+hưởng trợ_cấp	4
+công nghiệ	4
+cam_kết thực_hiện	4
+chi_trả tiền	4
+cơ_sở nuôi_dưỡng	4
+khuyến_khích doanh_nghiệp đầu_tư	4
+thu_nhập thuế	4
+chính_phủ chính_sách khuyến_khích	4
+hướng_dẫn thi_hành một_số pháp_lệnh ưu_đãi hoạt_động cách_mạng	4
+đối_tượng chính_sách địa_bàn tỉnh	4
+ưu_tiên đầu_tư	4
+thương_binh xã_hội	4
+hộ gia	4
+vay ưu_đãi	4
+luật thuế_thu_nhập doanh_nghiệp	4
+lĩnh_vực giáo_dục	3
+nội_dung quy_định	3
+dự_án lĩnh_vực	3
+bố_trí kinh_phí thực_hiện	3
+hoạt_động luật doanh_nghiệp	3
+vay đối_với	3
+chế_độ quy_định	3
+công chín	3
+đối_với đối_tượng hưởng	3
+một_số chế_độ đối_với	3
+hệ_thống xử_lý hộ gia_đình	3
+sử_dụng kinh_phí	3
+hưởng_thụ văn_hóa	3
+an_sinh xã_hội	3
+một_số lĩnh_vực	3
+cơ_sở hạ_tầng	3
+chi_phí thực_tế	3
+cơ_sở đề_nghị	3
+giải_quyết chế_độ	3
+một_số nội_dung	3
+quy_định luật đầu_tư công	3
+nội_dung hoạt_động	3
+đối_tượng vay	3
+chính_sách trợ_giúp	3
+lĩnh_vực văn_hóa	3
+chuẩn nông_thôn	3
+vay giải_quyết việc_làm	3
+chi_phí đầu_tư	3
+cộng hòa	3
+trợ_cấp đối_với	3
+chi_phí hoạt_động	3
+quy_định_mức trợ_cấp	3
+công_cụ hỗ_trợ thi_hành	2
+ủy_thác ngân_hàng chính_sách xã_hội vay	2
+dịch_vụ công lĩnh_vực	2
+quản_lý_tài_chính đối_với	2
+thực_hiện nội_dung	2
+sử_dụng quỹ	2
+đối_tượng chính_sách địa_bàn	2
+đối_với đối_tượng quy_định	2
+trường_hợp đặc_biệt	2
+ưu_đãi hỗ_trợ	2
+vay ngân_hàng	2
+miễn thuế	2
+trợ_cấp đối_tượng	2
+công_cụ lao_động	2
+ngân_hàng chính_sách xã_hội vay đối_với nghèo	2
+thực_hiện chế_độ	2
+giúp_đỡ cách_mạng	2
+ngừng hoạt_động	2
+vay đối_với nghèo đối_tượng chính_sách địa_bàn tỉnh	2
+nghèo đối_tượng chính_sách địa_bàn	2
+tham_gia kháng_chiến	2
+một_số chế_độ	2
+chi_trả chế_độ	2
+tiền vay	2
+chuẩn nghèo tiếp_cận đa_chiều	2
+hoạt_động khuyến	2
+diện hưởng trợ_cấp	2
+hóa đầu_tư	2
+quy_định_mức kinh_phí hỗ_trợ hoạt_động	2
+ưu_tiên phát_triển	2
+vay đối_với nghèo đối_tượng chính_sách địa_bàn	2
+đề_nghị miễn	2
+công giúp_đỡ	2
+cơ_sở pháp_lý	2
+cơ_sở đào_tạo	2
+cơ_chế hoạt_động	2
+ủy_thác ngân_hàng chính_sách xã_hội vay đối_với	2
+hộ đồng_bào	2
+trường_hợp miễn	2
+chi_nhánh doanh_nghiệp	2
+hướng_dẫn một_số nội_dung	2
+kinh_phí hợp_pháp	2
+pháp_lý doanh_nghiệp	2
+áp_dụng đối_với giám_định	2
+kinh_phí thực_hiện chính_sách ưu_đãi đối_với công	2
+xã_hội_hóa đối_với hoạt_động lĩnh_vực giáo_dục	2
+điều_kiện quy_định	2
+ủy_thác ngân_hàng chính_sách xã_hội vay đối_với nghèo	2
+đối_tượng hưởng trợ_cấp	2
+danh_sách đề_nghị	2
+thực_tế tối_đa	2
+tối_đa 50	2
+diện đầu_tư	2
+dân nông_thôn	1
+luật đầu_tư công	1
+chính_sách ưu_đãi hỗ_trợ	1
+chính_sách khuyến_khích xã_hội_hóa đối_với	1
+tối_đa 30	1
+thu_nhập trung_bình	1
+áp_dụng chế_độ	1
+thực_hiện chi_trả trợ_cấp	1
+nghèo tiếp_cận đa_chiều	1
+doanh_nghiệp thực_hiện dự_án đầu_tư	1
+hệ_thống xử_lý	1
+chi_trả đối_tượng	1
+cụ_thể hóa	1
+ngân_hàng chính_sách xã_hội vay đối_với	1
+thủ_tướng chính_phủ chính_sách	1
+hòa xã_hội chủ_nghĩa việt nam	1
+điều_kiện hưởng chế_độ	1
+quản_lý_tài_chính đối_với kinh_phí	1
+thực_hiện một_số	1
+nhu_cầu sử_dụng	1
+quy_định_mức tối_đa	1
+xã_hội_hóa đối_với hoạt_động	1
+phát_triển hệ_thống	1
+hệ_thống xử_lý hộ	1
+ưu_đãi hỗ_trợ đầu_tư	1
+điều_kiện cụ_thể	1
+đi lao_động	1
+chuẩn nghèo tiếp_cận	1
+tối_thiểu 50	1
+lãi_suất vay	1
+đặc_biệt ưu_đãi	1
+cộng hòa xã_hội	1
+nghèo đối_tượng chính_sách địa_bàn tỉnh	1
+xã chuẩn	1
+quỹ học_bổng	1
+hộ thoát	1
+hoạt_động văn_hóa	1
+quy_chế quản_lý_tài_chính đối_với	1
+định_mức kinh_phí hỗ_trợ	1
+chính_phủ một_số chính_sách	1
+pháp_lệnh ưu_đãi	1
+quy_định cơ_chế	1
+đầu_tư cơ_sở hạ_tầng	1
+hộ cận	1
+chính_sách ưu_đãi đối_với công cách_mạng	1
+thực_hiện một_số nội_dung	1
+tối_thiểu quy_định	1
+quy_chế hoạt_động	1
+thời_điểm ngừng	1
+chi_tiết hướng_dẫn thi_hành một_số pháp_lệnh ưu_đãi hoạt_động cách_mạng	1
+vay đối_với nghèo	1
+quỹ việc_làm	1
+kinh_phí thực_hiện chính_sách ưu_đãi	1
+dự_án đầu_tư	1
+hướng_dẫn thực_hiện	1
+xã_hội chủ_nghĩa việt nam	1
+xoá đói_giảm	1
+xử_lý hộ gia_đình nông_thôn	1
+đối_với nghèo	1
+pháp_lệnh ưu_đãi công	1
+thuê_mua xã_hội	1
+đối_với nghèo đối_tượng chính_sách địa_bàn	1
+hưởng trợ_cấp ưu_đãi	1
+quỹ phát_triển	1
+lương cơ_sở	1
+chi_phí đào_tạo	1
+xã_hội_hóa lĩnh_vực	1
+điều_kiện thực_tế	1
+ưu_đãi đối_với công	1
+đối_tượng điều_kiện hưởng	1
+chính_sách chế_độ	1
+giấy_phép sử_dụng	1
+hoạt_động thương_mại	1
+hoạt_động dịch_vụ	1
+thương_binh xã hộ	1
+giấy_phép hoạt_động	1
+nhu_cầu kinh_phí	1
+đối_với dự_án đầu_tư	1
+tham_gia hoạt_động	1
+gia_đình nông_thôn	1
+việt nam	1
+30 5 2008 chính_phủ chính_sách khuyến_khích xã_hội_hóa	1
+chế_độ ưu_đãi đối_với	1
+thực_hiện cơ_chế	1
+cộng hòa xã_hội chủ_nghĩa việt	1
+vay đối_với dự_án	1
+địa_phương ủy_thác	1
+chính_phủ tín_dụng đối_với	1
+hỗ_trợ đầu_tư cơ_sở	1
+hướng_dẫn thực_hiện chính_sách	1

@@ -1,0 +1,828 @@
+hưởng chế_độ	447
+xếp lương	376
+hưởng trợ_cấp	354
+nghỉ hưu	325
+hưởng lương	311
+sinh hoạt_phí	284
+hưởng phụ_cấp	231
+khoản trợ_cấp	217
+lương tối_thiểu	191
+chế_độ phụ_cấp	183
+hệ_số lương	179
+khoản phụ_cấp	168
+bậc lương	162
+lương hưu	162
+chế_độ trợ_cấp	151
+bảng lương	149
+phụ_cấp khu_vực	136
+xếp lương cũ lương	135
+trợ_cấp hàng	129
+phụ_cấp trách_nhiệm	124
+hưởng sinh hoạt_phí	114
+hiện hưởng	113
+hưởng trợ_cấp hàng	110
+phụ_cấp chức_vụ	109
+phụ_cấp lưu_trú	105
+hưởng lương hưu	104
+xét trợ_cấp	100
+hưởng chế_độ bảo_hiểm_xã_hội	98
+phụ_cấp lương	98
+đối_với công_nhân	95
+xếp bậc	95
+quân_nhân chuyên_nghiệp	95
+nâng bậc lương	94
+thang lương	91
+phụ_cấp thâm_niên	91
+hưởng phụ_cấp trách_nhiệm	90
+hưởng lương ngân_sách nhà_nước	89
+tiền_lương tối_thiểu	87
+giải_quyết chế_độ	83
+xếp hệ_số lương	79
+hệ_số lương cũ	78
+trợ_cấp sinh hoạt_phí	78
+lương cũ	77
+đối_tượng hưởng	77
+tiền trợ_cấp	76
+đối_với quân_nhân	74
+chi_trả trợ_cấp	74
+thời_gian nghỉ	72
+lương cấp_bậc	72
+thời_gian xét nâng bậc lương	71
+đối_tượng hưởng chế_độ	71
+trợ_cấp thôi_việc	70
+chế_độ bảo_hiểm_xã_hội	68
+hệ_số 0	68
+hưởng quyền_lợi	67
+xếp lương ngạch	64
+quân_nhân dự_bị	63
+trợ_cấp 1	62
+lương hưu hàng	61
+xếp lương cũ	60
+phụ_cấp thu_hút	59
+phụ_cấp thường_trực	56
+quân_nhân phục_viên	55
+hưởng phụ_cấp chức_vụ	54
+phụ_cấp ưu_đãi nghề	53
+xếp hệ_số lương cũ	53
+phụ_cấp ưu_đãi	52
+trợ_cấp tiền	52
+nâng bậc	52
+hiện đảm_nhiệm	50
+hưởng trợ_cấp sức lao_động	49
+hệ_số lương 4	49
+lương chức_vụ	49
+viên_chức nhà_nước	49
+xếp ngạch	49
+chế_độ tiền_lương	47
+nghỉ ốm	47
+trợ_cấp bảo_hiểm_xã_hội	47
+xếp lương đối_với	47
+hưởng chế_độ trợ_cấp	46
+viên_chức lao_động	46
+nghỉ bù	46
+đối_tượng hưởng trợ_cấp	46
+lương phụ_cấp	45
+hưởng phụ_cấp chức_vụ lãnh_đạo	45
+bảng xếp	44
+trợ_cấp thương_tật	43
+trợ_cấp khó_khăn	43
+xếp lương cũ lương 01 10 2004	42
+hưởng hệ_số chênh_lệch bảo_lưu	42
+hưởng phụ_cấp thâm_niên khung	42
+hưởng chế_độ hưu_trí	42
+xếp hệ_số lương ngạch	41
+chiến_trường b	41
+thời_gian hưởng	41
+quỹ lương	41
+nghỉ_việc hưởng trợ_cấp	41
+kỳ lương hàng	40
+thời_gian làm_việc	39
+chế_độ đãi_ngộ	38
+căn_cứ hệ_số lương cũ	38
+phụ_cấp chức_vụ lãnh_đạo	38
+bậc 1	38
+viên_chức làm_việc	38
+hưởng chế_độ phụ_cấp	37
+hưởng khoản trợ_cấp	37
+viên_chức b	37
+trợ_cấp ưu_đãi	37
+phụ_cấp thâm_niên khung	36
+trợ_cấp sức lao_động	36
+lương cơ_sở	36
+thời_gian nâng bậc lương	36
+cộng phụ_cấp chức_vụ	36
+lương phụ_cấp lương	36
+xếp lương bảng lương	36
+thực_hiện chế_độ	35
+xếp bậc lương	35
+lương ngạch	35
+chức_danh bầu_cử hiện đảm_nhiệm	35
+hệ_số chênh_lệch bảo_lưu	34
+hưởng chế_độ hưu_trí hàng	33
+% lương	33
+chức_vụ bầu_cử	33
+chế_độ đối_với	33
+trợ_cấp ốm_đau	32
+cơ_sở lương hưu	32
+khoản phụ_cấp lương	32
+hưởng nguyên lương	32
+chế_độ_sinh hoạt_phí	32
+nghỉ lễ	31
+cộng phụ_cấp chức_vụ lãnh_đạo phụ_cấp thâm_niên khung ( )	31
+hưởng trợ_cấp ưu_đãi	31
+tháng_lương tối_thiểu	31
+hệ_số 4	31
+hệ_số chênh_lệch bảo_lưu ( )	31
+cộng dồn	30
+0 00 01-7-2000	30
+hệ_số lương 3	30
+xếp hạng	30
+lương hàm	29
+lương hưu trợ_cấp	29
+xếp lương bậc 1	29
+chi_trả chế_độ	29
+chi_trả tiền_lương	28
+: trợ_cấp =	28
+bậc thang	28
+hưởng án_treo	28
+nghỉ sức lao_động	27
+công_việc nặng_nhọc	27
+tiền_tuất hàng	27
+trợ_cấp đối_tượng	27
+bậc 6	27
+hệ_số lương bậc 1	26
+hưởng trợ_cấp sức lao_động hàng	26
+chế_độ chính_sách	26
+cũ ( hệ_số lương cũ	26
+chế_độ tiền_lương đối_với cán_bộ	26
+hệ_số lương cũ 4	26
+hệ_số lương chức_vụ	26
+lương bình_quân	26
+giải_quyết quyền_lợi đối_với	26
+hệ_số lương 5	26
+trợ_cấp đối_với	26
+lĩnh lương	25
+chế_độ cử_tuyển	25
+ngạch chuyên_viên	25
+điều_chỉnh trợ_cấp	25
+chế_độ phụ_cấp ưu_đãi nghề	25
+thời_gian hưởng trợ_cấp	25
+hưởng bảo_hiểm_xã_hội	25
+hưởng phụ_cấp ưu_đãi	25
+đối_tượng hưởng phụ_cấp	25
+điều_chỉnh lương hưu	25
+nâng lương	24
+đối_với đối_tượng	24
+thời_gian tập_sự	24
+bảng xếp lương cũ lương	24
+hệ_số lương 6	24
+( bảng xếp	24
+hướng_dẫn thực_hiện chế_độ phụ_cấp	24
+chế_độ ưu_đãi	24
+01 10 2004	24
+căn_cứ hệ_số lương phụ_cấp thâm_niên khung ( )	24
+xếp lương bậc	24
+đối_tượng hưởng lương	24
+hưởng thù_lao	24
+kiểm_soát viên đê_điều	23
+khung lương	23
+hưởng phụ_cấp thu_hút	23
+hàng tuần	23
+phụ_cấp khu_vực 0	23
+đối_với công_nhân_viên_chức	23
+chức_danh lãnh_đạo hệ_số phụ_cấp chức_vụ 1	23
+hưởng chính_sách	23
+trợ_cấp tuất	23
+lương cơ_sở /	23
+công_nhân_viên_chức nhà_nước	22
+ngạch kiểm_soát viên đê_điều	22
+hệ_số chênh_lệch	22
+lào cam-pu-chia	22
+hưởng phụ_cấp lưu_trú	22
+ngạch phương_pháp viên	22
+bảo_lưu lương	22
+thời_gian hưởng chế_độ	22
+phương_pháp viên	22
+áp_dụng chế_độ	22
+ngạch quay_phim_viên	22
+hệ_số chêch lệch bảo_lưu	22
+thực_hiện xếp lương cũ lương	22
+sức lao_động 81 % trở	22
+chế_độ phụ_cấp trách_nhiệm	22
+tiền_lương tối_thiểu 180	22
+hưởng phụ_cấp khu_vực	22
+cũ ( viên_chức	22
+viên_chức a0	22
+phụ_cấp lưu_động	22
+điều_kiện hưởng trợ_cấp	22
+tổng tiền_lương cộng tiền phụ_cấp trách_nhiệm	22
+hưởng hệ_số chêch lệch bảo_lưu	22
+% lương cấp_bậc	22
+chỉ_số sinh hoạt_phí	21
+hưởng hệ_số	21
+hưởng bảo_lưu	21
+phục_vụ tại_ngũ	21
+thời_gian phục_vụ quân_đội	21
+hệ_số lương ngạch	21
+xếp lương cũ lương 01 10 2004 :	21
+trợ_cấp nhà_trẻ	21
+phụ_cấp thâm_niên khung ( )	21
+thay_đổi công_việc	21
+hưởng trợ_cấp thôi_việc	21
+làm_việc chế_độ	21
+xếp bảng lương	21
+quân_nhân hưu	21
+ngạch điều_dưỡng	21
+nâng ngạch	21
+kiểm_soát viên	20
+bảng lương hành_chính ( 0	20
+bậc 5	20
+cũ xếp lương 01 10 2004	20
+công_an nhân_dân hưởng lương	20
+tổng_hệ_số lương hiện hưởng	20
+tổng_hệ_số lương	20
+suốt thời_gian	20
+tiền_lương phụ_cấp	20
+kỳ lương	20
+buộc thôi_việc	20
+phụ_cấp tái_cử	20
+thời_gian điều_trị	20
+chế_độ hưu_trí	20
+hưởng chế_độ ưu_đãi	20
+bậc 7	20
+hưởng chế_độ phụ_cấp trách_nhiệm nghề	19
+hệ_số phụ_cấp	19
+nghỉ_việc sức lao_động	19
+bảng xếp 5	19
+trợ_cấp chôn_cất	19
+công_nhân cao_su	19
+lương hiện hưởng	19
+xếp bậc 1	19
+thôi_việc sức lao_động	19
+giải_quyết quyền_lợi	19
+( viên_chức a hệ_số lương ngạch	18
+hệ_số lương bậc 2/2	18
+lương bình_quân 5	18
+chính_phủ quy_định tạm_thời chế_độ tiền_lương công_chức	18
+phụ_cấp chức_vụ 0	18
+du_kích tập_trung	18
+hưởng chế_độ bồi_dưỡng	18
+chế_độ chính_sách đối_với	18
+hưởng phụ_cấp thâm_niên	18
+bậc 2	18
+thực_hiện xếp lương	18
+trợ_cấp hưu_trí	18
+bậc 4	18
+thực_hiện 0 00 01-7-2000	18
+ngạch chuyên_viên (	18
+phụ_cấp đắt_đỏ	18
+trở hưởng	18
+chi_trả đối_tượng	17
+trợ_cấp xuất_ngũ	17
+trợ_cấp phục_viên	17
+phương_thức chi_trả	17
+tính_chất lương	17
+xếp lương bậc 2	17
+thay lương	17
+hệ_số phụ_cấp chức_vụ lãnh_đạo	17
+hệ_thống thang	17
+lương tối_thiểu nhà_nước quy_định thời_điểm	17
+hệ_số trượt_giá	17
+tiếp_tục làm_việc	17
+thời_gian công_tác	17
+lĩnh trợ_cấp	17
+phụ_cấp ( )	17
+hệ_số lương xếp	16
+chế_độ sức lao_động	16
+chi_trả chế_độ phụ_cấp	16
+bảng lương nhà_nước quy_định	16
+thực_hiện chi_trả	16
+điều_kiện hưởng	16
+lao_động công_ích hàng	16
+hưởng phụ_cấp ưu_đãi nghề	16
+đối_với cán_bộ	16
+ngạch chuyên_viên cao_cấp	16
+thời_gian xét nâng bậc	15
+chi_trả lương	15
+lương bậc	15
+sĩ_quan dự_bị	15
+chính_sách tiền_lương	15
+hưởng bồi_dưỡng	15
+thời_gian lưu_trú	15
+tiếp_tục hưởng	15
+viên_chức lao_động làm_việc cơ_sở	15
+sức lao_động 61 % trở	15
+lương khoản phụ_cấp	15
+trợ_cấp đầu	15
+bậc lương cũ	15
+lương cũ lương	15
+xếp_hạng thương_tật	15
+hướng_dẫn xếp lương cũ lương	14
+giải_quyết chính_sách	14
+phụ_cấp trách_nhiệm nghề	14
+bảng lương chức_vụ	14
+tiền phụ_cấp	14
+cộng hệ_số chênh_lệch	14
+trợ_cấp sức lao_động hàng	14
+tiền_lương phụ_cấp lương	14
+đối_tượng áp_dụng bảng lương 3	14
+cộng phụ_cấp chức_vụ lãnh_đạo	14
+cán_bộ công_nhân_viên_chức	14
+kinh_phí chi_trả	14
+thực_hiện chế_độ phụ_cấp	14
+hệ_số lương bậc 2	14
+thời_gian tập_trung	14
+chức_vụ dân_cử	14
+thời_điểm ngừng	14
+chức_vụ lãnh_đạo	14
+sức lao_động	14
+ngạch kiểm_soát viên đê_điều cũ	14
+trợ_cấp bệnh_binh	14
+xếp hệ_số	13
+nghỉ_việc hưởng trợ_cấp hàng	13
+đối_với đối_tượng hưởng lương	13
+hưởng trợ_cấp bảo_hiểm_xã_hội	13
+xếp_hạng đặc_biệt	13
+đối_với sĩ_quan	13
+nghỉ_việc hưởng lương	13
+phụ_cấp khu_vực ( )	13
+cũ (	13
+đảm_nhiệm chức_vụ	13
+tổng tiền_lương cộng tiền	13
+chính_phủ chế_độ tiền_lương đối_với cán_bộ	13
+hưởng trợ_cấp ốm_đau	13
+bậc hiện hưởng	13
+trợ_cấp ưu_đãi hàng	13
+trợ_cấp tiền_tuất	13
+xếp lương cũ lương đối_với cán_bộ	13
+khoản tiền	13
+diện hưởng trợ_cấp	13
+chuẩn (	13
+phụ_cấp đặc_thù	13
+thâm_niên khung ( )	12
+xếp lương cũ lương đối_với	12
+điều_chỉnh lương tối_thiểu	12
+( hệ_số	12
+viên_chức thôi_việc	12
+viên_chức a2	12
+căn_cứ hệ_số lương	12
+tuất hàng	12
+điều_chỉnh tiền_lương	12
+lương sinh hoạt_phí	12
+hệ_số lương cộng	12
+cấp_bậc chức_vụ	12
+điều_chỉnh lương	12
+ngạch phát_thanh_viên	12
+ngạch y_tá	12
+xếp lương viên_chức	12
+( viên_chức a	12
+phụ_cấp phẫu_thuật	12
+kinh_phí chi_trả phụ_cấp	12
+nghỉ ốm_đau	12
+( hệ_số lương cũ	12
+chế_độ hiện_hành	12
+hệ_số 1	12
+đối_với đối_tượng hưởng	12
+chế_độ trợ_cấp đối_với	12
+hưởng khoản	12
+hệ_số phụ_cấp chức_vụ 1	11
+chế_độ đối_với quân_nhân	11
+chế_độ phụ_cấp ưu_đãi	11
+chế_độ thôi_việc	11
+hưởng 100 %	11
+tổng tiền_lương	11
+chính_phủ chế_độ	11
+làm_việc cơ_sở	11
+lao_động làm_việc cơ_sở	11
+bậc hiện	11
+lương tối_thiểu nhà_nước quy_định	11
+% lương hiện hưởng	11
+hiện hưởng hệ_số lương	11
+bậc công_chức	11
+chức_danh bầu_cử	11
+điều_kiện hưởng chế_độ	11
+sinh hoạt_phí hàng	11
+5 nghỉ hưu	11
+tỷ_lệ % lương hưu	11
+điều_chỉnh tiền_lương tối_thiểu	11
+chế_độ phụ_cấp đặc_thù	11
+thời_gian phục_vụ	11
+chế_độ nâng bậc lương	11
+kể_cả phụ_cấp	10
+trợ_cấp cán_bộ	10
+nguyên_tắc xếp lương	10
+khoản chênh_lệch	10
+thời_gian nghỉ_việc	10
+( hệ_số lương	10
+trợ_cấp đặc_thù	10
+đối_tượng điều_kiện hưởng	10
+trợ_cấp 100	10
+chế_độ định_lượng	10
+trợ_cấp tiền thuốc	10
+phụ_cấp trách_nhiệm đối_với	10
+viên cao_cấp	10
+đặc_biệt nặng_nhọc	10
+lãnh_đạo hệ_số phụ_cấp chức_vụ 1	10
+tiền_lương cấp_bậc	10
+lương làm_việc ban_đêm	10
+phục_vụ quân_đội	10
+nghề đặc_biệt	10
+bảng lương hành_chính	10
+già_yếu nghỉ_việc	10
+cũ xếp	10
+xếp lương cũ ngạch	10
+hưởng lương ngân_sách	9
+chế_độ nghỉ	9
+nghề công_việc	9
+chế_độ đãi_ngộ đối_với	9
+ngạch cũ	9
+ngạch viên_chức	9
+nguyên lương	9
+phụ_cấp lưu_trú :	9
+tổng tiền_lương cộng	9
+bảng lương nhà_nước	9
+thời_gian hưởng phụ_cấp	9
+lương hệ_số	9
+viên_chức hành_chính	9
+15 % lương	9
+hệ_số lương hiện hưởng	9
+hệ_số lương cũ 2	9
+cao_cấp cũ	9
+kiểm_soát thị_trường	8
+ngạch phương_pháp viên cũ	8
+01 01	8
+phụ_cấp trách_nhiệm công_việc	8
+diện hưởng	8
+hưởng nguyên	8
+sĩ_quan quân_đội	8
+hệ_số phụ_cấp chức_vụ	8
+tiền_lương khoản phụ_cấp	8
+thời_điểm ngừng hưởng trợ_cấp	8
+bảng xếp lương	8
+chính_sách đối_với	8
+viên_chức a	8
+quy_định_mức trợ_cấp	8
+lương khởi_điểm	8
+cũ ngạch	8
+hệ_số chênh_lệch bảo_lưu 0	8
+đối_với khoản	8
+chi_trả phụ_cấp	8
+nghỉ chờ	8
+hưởng hệ_số lương	8
+% lương hưu	7
+hướng_dẫn thực_hiện chế_độ lương	7
+% phụ_cấp thâm_niên khung	7
+lương bậc 2	7
+chính_phủ quy_định tạm_thời chế_độ tiền_lương	7
+hướng_dẫn xếp lương	7
+thực_hiện chế_độ tiền_lương	7
+danh_sách lương	7
+hiện xếp	7
+thủ_tướng chính_phủ chế_độ phụ_cấp	7
+lao_động làm_việc	7
+hưởng ưu_đãi	7
+chế_độ bồi_dưỡng	7
+chế_độ tử_tuất	7
+chết thời_gian	7
+sinh hoạt_phí đối_với	7
+( đối_với	7
+lương bậc 1	7
+tiền phụ_cấp trách_nhiệm	7
+sức lao_động hàng	7
+lương hưu trợ_cấp bảo_hiểm_xã_hội	7
+vận_dụng xếp	7
+quân_nhân hưởng	7
+thực_hiện chi_trả trợ_cấp	7
+chuẩn ( viên_chức	7
+khu_vực hành_chính	7
+thời_gian nâng bậc	7
+lương hiện	6
+% áp_dụng đối_với	6
+tiền chênh_lệch	6
+hàng thán	6
+thời_gian chờ	6
+thôi_việc hưởng	6
+ưu_đãi đối_với	6
+ngạch y_tá cũ	6
+% lương ngạch	6
+cũ )	6
+áp_dụng bảng lương	6
+viên_chức a hệ_số lương ngạch	6
+đối_tượng xét	6
+ngạch quay_phim_viên cũ	6
+chi_trả tiền	6
+y_tá cũ	6
+% sinh hoạt_phí công_tác	6
+ngừng hưởng trợ_cấp sức lao_động	6
+đối_với công_chức	6
+quy_định_chế_độ phụ_cấp	6
+xếp lương cũ lương bảng	6
+đối_với chức_danh lãnh_đạo hệ_số phụ_cấp chức_vụ 1	6
+lương tối_thiểu nhà_nước	6
+hệ_số k	6
+hưởng học_bổng	6
+danh_sách đối_tượng	6
+thời_gian 01	5
+chứng_nhận nghỉ ốm	5
+quỹ tiền_lương	5
+viên_chức lao_động làm_việc	5
+6 2004	5
+hiện hưởng cộng phụ_cấp chức_vụ lãnh_đạo	5
+36 thán	5
+ngạch công_chức	5
+lương 01 10 2004	5
+10 % lương	5
+căn_cứ hệ_số	5
+áp_dụng đối_với	5
+xét hưởng	5
+đối_tượng hưởng chính_sách	5
+chế_độ học_bổng	5
+thâm_niên khung	5
+xét nâng	5
+lưu_trú tạm_thời	5
+lương cũ xếp	5
+làm_việc ban_đêm	5
+bệnh_binh hạng	5
+phụ_cấp thâm_niên khung (	5
+thôi_việc đối_với công_nhân	5
+trợ_cấp nuôi_dưỡng	5
+đơn_giá tiền_lương	5
+chế_độ quy_định	5
+xếp lương 01 10 2004	5
+chế_độ đối_với lao_động	5
+căn_cứ hệ_số lương phụ_cấp	5
+hạng đặc_biệt	5
+chính_sách chế_độ	5
+lương chuyên_môn	4
+lương phụ_cấp thâm_niên	4
+lương đối_với cán_bộ	4
+kinh_phí chi_trả chế_độ	4
+lương chức_danh	4
+thực_hiện xếp lương cũ	4
+bảo_lưu hệ_số	4
+b bảng	4
+làm_việc lào	4
+chi_trả trợ_cấp ưu_đãi	4
+điều_kiện làm_việc	4
+quay_phim_viên cũ	4
+đối_tượng diện	4
+chế_độ phụ_cấp trách_nhiệm nghề	4
+tỷ_lệ % lương	4
+= 0	4
+bình_quân tiền_lương	4
+sức lao_động 61 %	4
+0 00	4
+hiện hưởng cộng	4
+hưu hàng	4
+đối_với khu_vực	4
+: hệ_số	4
+ngạch kiểm_soát viên	4
+viên_chức lãnh_đạo	4
+hướng_dẫn thực_hiện điều_chỉnh	4
+hưởng chế_độ phụ_cấp trách_nhiệm	4
+chế_độ đối_với cán_bộ	4
+% tiền_lương	4
+tiền_lương đối_với cán_bộ	4
+đối_tượng áp_dụng bảng lương	4
+thủ_tướng chính_phủ chế_độ phụ_cấp ưu_đãi	4
+đối_tượng chính_sách	4
+đối_tượng áp_dụng	4
+ưu_đãi nghề	4
+chức_danh lãnh_đạo hệ_số phụ_cấp	4
+phụ_cấp chức_vụ lãnh_đạo ( )	4
+hệ_số điều_chỉnh	4
+hướng_dẫn thực_hiện chế_độ	3
+cũ hưởng	3
+ưu_đãi quy_định	3
+hướng_dẫn chế_độ	3
+tiền_lương công_chức	3
+chế_độ lương làm_việc ban_đêm	3
+phụ_cấp đối_với cán_bộ	3
+( )	3
+thay_đổi chức_danh	3
+chuyên_viên cao_cấp	3
+trách_nhiệm xét_duyệt	3
+bậc công_chức hành_chính	3
+tổng thời_gian	3
+xếp bảng	3
+thời_điểm ngừng hưởng	3
+tiền ăn_theo	3
+quy_định tạm_thời chế_độ tiền_lương công_chức	3
+lương thang lương	3
+đối_với chức_danh	3
+bậc lương ngạch	3
+14/12/2004 chính_phủ	3
+chính_phủ quy_định tạm_thời	3
+hưu_trí hàng	3
+điều_chỉnh bảng	3
+quy_định tạm_thời chế_độ tiền_lương	3
+bù chênh_lệch	3
+chế_độ thù_lao	3
+tiền_lương căn_cứ	3
+xét nâng bậc lương	3
+lĩnh tiền	3
+đài_thọ tiền	3
+chênh_lệch hệ_số lương	3
+thương_tật 21	3
+trợ_cấp =	3
+đối_với chức_danh lãnh_đạo hệ_số phụ_cấp chức_vụ	3
+chế_độ tiền_lương đối_với	3
+xét nâng bậc	3
+% quỹ	3
+nghỉ_việc hưởng	3
+( hệ_số lương cũ 4	3
+( cũ )	3
+lệch bảo_lưu	3
+cộng phụ_cấp	3
+phụ_cấp lương cán_bộ	3
+chế_độ trang_phục	3
+a hệ_số lương	3
+trách_nhiệm hướng_dẫn	3
+viên_chức xếp	3
+hưởng 100	3
+) hiện hưởng	3
+cộng tiền	3
+công_chức làm_việc	3
+đối_tượng quy_định	3
+lương cũ bậc	3
+10 %	2
+hướng_dẫn xếp lương cũ	2
+ngạch kiểm_soát	2
+xếp lương cũ lương 01 10 2004 viên_chức	2
+chế_độ hưu_trí hàng	2
+kinh_phí thực_hiện chế_độ	2
+% lương tối_thiểu	2
+chứng_nhận nghỉ	2
+lao_động 61 %	2
+81 % trở	2
+thời_gian xét	2
+hệ_số chênh_lệch bảo_lưu (	2
+chêch lệch bảo_lưu	2
+lãnh_đạo ( )	2
+tính_chất đặc_thù	2
+thương_tật 21 %	2
+lao_động 61 % trở	2
+% )	2
+61 %	2
+đãi_ngộ đối_với	2
+chế_độ hiện_hành nhà_nước	2
+5 %	2
+tiền thù_lao	2
+lương cũ hưởng	2
+phụ_cấp chức_vụ hệ_số chênh_lệch	2
+lương bậc 2/2	2
+bầu_cử hiện đảm_nhiệm	2
+chuyên_viên (	2
+ngạch xếp lương	2
+thu_hút lao_động	2
+cũ lương	2
+lương xếp ngạch	2
+10 làm_việc	2
+lao_động chết	2
+bảo_hiểm_xã_hội tiền_lương	2
+phương_pháp viên cũ	2
+tạm ngừng	2
+khoản tương_ứng	2
+bồi_dưỡng nâng	2
+kiểm_soát viên đê_điều cũ	2
+lao_động 81 %	2
+tính_chất công_việc	2
+hệ_số lương bậc	2
+sức lao_động thương_tật	2
+01 10 2004 :	2
+hạng thương_tật	2
+tiền_lương cộng tiền phụ_cấp trách_nhiệm	2
+chức_danh lãnh_đạo	2
+trợ_cấp đối_với cán_bộ	2
+bù tiền	2
+( viên_chức a hệ_số lương	2
+chế_độ nâng bậc	2
+thời_gian thực_hiện	2
+lương cộng	2
+công_việc :	2
+hưu :	2
+hướng_dẫn xếp	2
+chức_danh bầu_cử hiện	2
+ngừng hưởng trợ_cấp	2
+( 36 thán	2
+tối_thiểu 10	2
+phục_vụ sinh_hoạt	2
+bảo_lưu hệ_số lương	2
+trở (	2
+hạng tương_ứng	2
+( ) hiện hưởng	2
+lương bảng	2
+chờ giải_quyết	2
+15 làm_việc	1
+lương 01 10 2004 :	1
+nghỉ công_tác	1
+chức_danh hiện	1
+đặc_thù đối_với công_chức	1
+trách_nhiệm nghề	1
+= 1	1
+100 % kinh_phí	1
+đối_tượng điều_kiện	1
+xếp lương bảng	1
+5 b	1
+% đơn_giá	1
+xét tuyển_dụng	1
+khu_vực ( )	1
+tối_thiểu nhà_nước quy_định	1
+chính_phủ )	1
+áp_dụng đối_với công_chức	1
+tối_thiểu quy_định	1
+hưu nghỉ_việc	1
+lương ngạch chuyên_viên	1
+áp_dụng bảng	1
+thực_hiện chế_độ ưu_đãi	1
+thực_hiện chế_độ bồi_dưỡng	1
+( 0	1
+chính_phủ quy_định	1
+điều_kiện :	1
+điều_kiện quy_định	1
+% lương hiện	1
+ngừng hưởng	1
+lao_động công_ích	1
+hệ_số điều_chỉnh (	1
+công_chức nhà_nước	1
+bồi_dưỡng đối_với	1
+lương cộng phụ_cấp	1
+bảo_hiểm_xã_hội đối_với quân_nhân	1
+quy_định tạm_thời	1
+cơ_sở điều_trị	1
+cơ_yếu chính_phủ	1
+bình_quân tiền_lương căn_cứ	1
+ngân_sách nhà_nước	1
+tiền_lương khoản	1
+quỹ bảo_hiểm_xã_hội	1
+( ) hiện	1
+phụ_cấp khu_vực (	1
+chênh_lệch bảo_lưu	1
+thương_tật 4	1
+công_tác lưu_động	1
+nghề lao_động	1
+chính_phủ chế_độ phụ_cấp	1
+phụ_cấp chức_vụ lãnh_đạo phụ_cấp thâm_niên khung	1
+( kể_cả	1
+thâm_niên khung (	1
+xét học_bổng	1
+thời_gian giải_quyết	1
+phụ_cấp chức_vụ hệ_số chênh_lệch bảo_lưu	1
+bảo_lưu ( )	1
+chính_sách hiện_hành	1
+đối_tượng lưu_trú tạm_thời	1
+hạng 1	1
+hạng 3	1
+quyền_lợi đối_với	1
+hưởng cộng	1
+sức lao_động 81 %	1
+phụ_cấp ưu_đãi nghề đối_với	1
+danh_sách cán_bộ	1
+bình_quân đầu	1
+tỷ_lệ ( % )	1
+chính_sách đối_với cán_bộ	1
+điều_chỉnh học_bổng	1
+1 %	1
+hưu trợ_cấp	1
+% tổng	1
+quân_đội nhân_dân	1
+bảo_hiểm_xã_hội quân_đội	1
+đặc_biệt khó_khăn	1
+đối_với cơ_sở	1
+lương bảng lương	1
+36 /	1
+bồi_dưỡng tại_chức	1
+lao_động nặng_nhọc	1
+tối_thiểu nhà_nước	1
+ngạch chức_danh	1
+trở đối_với	1
+01 7	1
+tiền bồi_dưỡng	1
+lãnh_đạo hệ_số phụ_cấp chức_vụ	1
+tiền phụ_cấp lưu_trú	1
+c khoản	1
+khu_vực 0	1
+ngạch xếp	1
+( 36	1
+lương 01	1
+thời_gian thực_hiện công_việc	1
+1985 quy_định	1
+15 7	1
+cải_cách hành_chính	1
+vận_dụng chế_độ	1
+) hiện	1
+bình_quân 5	1
+quy_định điều_lệ bảo_hiểm_xã_hội	1
+khoản kinh_phí	1
+hệ_số lương hiện	1
+phụ_cấp đặc_thù đối_với công_chức	1
+tạm_thời chế_độ tiền_lương	1
+tạm_thời chế_độ	1
+hướng_dẫn thực_hiện	1
+lương xếp	1
+b c	1
+thực_hiện chính_sách	1
+tạm_thời chế_độ tiền_lương công_chức	1
+chế_độ bệnh_binh	1
+bệnh_binh hạng 1	1
+ngạch công_chức hành_chính	1

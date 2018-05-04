@@ -1,0 +1,690 @@
+bảo_vệ môi_trường	553
+tuyến đường	152
+hành_lang an_toàn đường_bộ	151
+đảm_bảo an_toàn	149
+bảo_đảm an_toàn	117
+vệ_sinh môi_trường	115
+ô_nhiễm môi_trường	102
+an_ninh trật_tự	92
+bảo_vệ dân_phố	89
+an_toàn giao_thông	85
+đường tỉnh	84
+xử_lý chất_thải	84
+công_trình hạ_tầng kỹ_thuật	80
+công_trình đường_bộ	78
+hạ_tầng kỹ_thuật	76
+phục_hồi môi_trường	74
+công_trình hạ_tầng kỹ_thuật sử_dụng	73
+đường giao_thông	73
+đường huyện	72
+công_trình công_cộng	71
+trật_tự an_toàn xã_hội	70
+cáp viễn_thông	67
+khu_vực đô_thị	65
+chất_thải rắn sinh_hoạt	63
+quy_chuẩn kỹ_thuật quốc_gia	63
+sử_dụng tạm_thời hè phố	62
+quản_lý bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	60
+kế_hoạch bảo_vệ môi_trường	59
+báo_cáo đánh_giá tác_động môi_trường	58
+chất_thải rắn	57
+quản_lý sử_dụng	57
+đường đô_thị	56
+phạm_vi bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	56
+xử_lý nước_thải	53
+sự_cố môi_trường	52
+phân_loại đô_thị	52
+điểm_đấu nối	51
+công_tác quản_lý lòng_đường	51
+công_trình thiết_yếu	50
+công_tác bảo_vệ	49
+đổi đường công_trình công_cộng	49
+xử_lý chất_thải rắn sinh_hoạt	48
+hành_lang bảo_vệ	47
+hè phố	47
+kỹ_thuật an_toàn	46
+đường xã	46
+quan_trắc môi_trường	46
+phép sử_dụng	46
+bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	44
+nước_sạch vệ_sinh môi_trường nông_thôn	44
+công_trình điện	44
+trạm biến_áp	43
+công_trình giao_thông	43
+khai_thác sử_dụng	41
+danh_lam thắng_cảnh	41
+phép xây_dựng	41
+quy_hoạch đô_thị	40
+bảo_vệ công_trình	39
+đối_với công_trình	38
+mục_đích giao_thông	38
+quy_chuẩn kỹ_thuật	37
+chỉ_giới đường đỏ	37
+công_tác bảo_vệ môi_trường	37
+phép thi_công	36
+tần_số vô_tuyến điện	36
+biển quảng_cáo	36
+phạm_vi đất đường_bộ	36
+trật_tự an_toàn giao_thông	35
+bảo_trì công_trình đường_bộ	35
+quản_lý chất_thải	35
+an_toàn lao_động thi_công xây_dựng công_trình	34
+quản_lý vận_hành	34
+hành_lang an_toàn	34
+xây_dựng công_trình	33
+quản_lý đô_thị	33
+tài_nguyên môi_trường	33
+đánh_giá tác_động môi_trường	33
+bảo_vệ an_ninh	33
+cột treo cáp	33
+quỹ bảo_trì đường_bộ	32
+phí bảo_vệ môi_trường đối_với nước_thải sinh_hoạt	32
+bảo_đảm an_toàn giao_thông	32
+pháp_luật bảo_vệ môi_trường	32
+khai_thác công_trình	31
+trật_tự an_toàn giao_thông đường_bộ đô_thị	31
+cột điện	31
+vô_tuyến điện	31
+giao_thông đường_bộ	30
+chôn lấp	30
+an_toàn bức_xạ	30
+an_toàn lao_động	30
+nhiệm_vụ bảo_vệ môi_trường	29
+công_trình xây_dựng	29
+bảo_vệ môi_trường đối_với	29
+tiêu_chuẩn kỹ_thuật	29
+cải_thiện môi_trường	28
+mỹ_quan đô_thị	28
+quy_hoạch điểm_đấu nối	28
+môi_trường biển	28
+khai_thác bảo_vệ công_trình	27
+khắc_phục sự_cố	27
+hệ_thống thoát	27
+hoạt_động bảo_vệ môi_trường	27
+trật_tự xây_dựng	26
+xây_dựng hệ_thống	26
+cấp_nước sinh_hoạt	26
+đổi đường	26
+bảo_vệ an_toàn	26
+công_trình cấp_nước	25
+thân_thiện môi_trường	25
+phí bảo_vệ môi_trường đối_với nước_thải	25
+thẩm_định báo_cáo đánh_giá tác_động môi_trường	25
+an_toàn bức_xạ hạt_nhân	25
+công_trình hạ_tầng kỹ_thuật viễn_thông thụ_động	25
+tường rào	25
+bảo_đảm an_ninh	25
+đơn_vị quản_lý đường_bộ	25
+phạm_vi ranh_giới	24
+trạm trung_chuyển	24
+chiều rộng	24
+hệ_thống đường	24
+sự_nghiệp môi_trường	24
+sử_dụng hè phố	24
+hệ_thống thu_gom	23
+trạm quan_trắc	23
+sử_dụng công_trình hạ_tầng kỹ_thuật	23
+bãi chôn lấp	23
+tiếp_nhận nước_thải	23
+trung_chuyển container	23
+quy_hoạch_hạ_tầng kỹ_thuật viễn_thông thụ_động	23
+đề_án bảo_vệ môi_trường chi_tiết	22
+khu_vực cấm	22
+bảo_vệ môi_trường khu công_nghiệp	22
+an_toàn đập	22
+trật_tự công_cộng	22
+yêu_cầu kỹ_thuật	22
+chất_thải nguy_hại	22
+phố công_trình công_cộng	22
+đề_án bảo_vệ môi_trường đơn_giản	22
+đường công_trình công_cộng	21
+kinh_phí sự_nghiệp bảo_vệ môi_trường	21
+chỉ_giới xây_dựng	21
+kiểm_soát ô_nhiễm môi_trường	21
+phí bảo_vệ môi_trường đối_với khai_thác khoáng_sản	21
+đề_án bảo_vệ môi_trường	21
+cục tần_số vô_tuyến điện	21
+đảm_bảo an_toàn giao_thông	21
+đảm_bảo yêu_cầu	21
+tuyến đường_dây	21
+phí bảo_vệ môi_trường đối_với nước_thải công_nghiệp	21
+xử_lý rác_thải sinh_hoạt	21
+xử_lý chất_thải rắn	21
+hợp vệ_sinh	20
+tái sử_dụng	20
+khu_vực công_thương_nghiệp	20
+bảo_vệ an_ninh tổ_quốc	20
+bảo_đảm an_toàn mạng_lưới	20
+hiện_trạng môi_trường	20
+cơ_sở hạ_tầng	20
+khu_vực quy_hoạch	20
+bảo_vệ công_trình giao_thông	20
+ảnh_hưởng cảnh_quan	20
+công_trình hạ_tầng	20
+hệ_thống hạ_tầng kỹ_thuật	20
+chi sự_nghiệp môi_trường	19
+trật_tự an_toàn giao_thông đường_bộ trật_tự an_toàn giao_thông đô_thị	19
+đối_với tuyến đường	19
+đường quốc_lộ	19
+xử_lý triệt_để	19
+giải_thưởng môi_trường	19
+an_toàn kỹ_thuật	19
+khu_vực nông_thôn	19
+ảnh_hưởng an_toàn	19
+hạ_tầng kỹ_thuật viễn_thông thụ_động	19
+sơ_đồ vị_trí	19
+an_toàn kỹ_thuật bảo_vệ môi_trường	18
+đất đường_bộ	18
+nhiệm_vụ chi bảo_vệ môi_trường	18
+mật_độ xây_dựng	18
+nước_sạch nông_thôn	18
+đấu nối đường	18
+tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ	18
+cáp treo	18
+thi_công công_trình	18
+sử_dụng nước_sạch	18
+hạ_tầng kỹ_thuật đô_thị	18
+chấp_thuận thi_công	18
+kỹ_thuật viễn_thông thụ_động	18
+quản_lý khai_thác	17
+an_ninh quốc_gia	17
+ảnh_hưởng xấu	17
+vận_chuyển chất_thải rắn sinh_hoạt	17
+tạm_thời hè phố	17
+nối đường tỉnh	17
+bề rộng	17
+đường truyền	17
+khoảng_cách tối_thiểu	17
+kiểm_định kỹ_thuật an_toàn	17
+vệ_sinh công_cộng	17
+môi_trường an_toàn cộng_đồng	17
+đảm_bảo_an_ninh trật_tự	17
+bãi chôn lấp chất_thải	17
+trật_tự an_toàn	17
+đóng bcl	17
+lực_lượng bảo_vệ	17
+quan_trắc phân_tích môi_trường	17
+đảm_bảo_an_ninh trật_tự trung_tâm	17
+an_toàn xã_hội	17
+bảo_đảm an_ninh trật_tự	16
+hộp cáp	16
+đấu nối	16
+ảnh_hưởng an_toàn giao_thông	16
+giữ_gìn an_ninh	16
+xảy sự_cố	16
+quản_lý bảo_vệ	16
+biện_pháp bảo_vệ	16
+đường gom	16
+sử_dụng trái_phép	16
+nằm hành_lang an_toàn đường_bộ	16
+quản_lý công_trình	16
+tác_động tiêu_cực	16
+xây_dựng công_trình hạ_tầng kỹ_thuật viễn_thông thụ_động	15
+đối_với hệ_thống đường tỉnh	15
+quản_lý chất_thải rắn	15
+bảo_vệ môi_trường đối_với khai_thác khoáng_sản	15
+cơ_sở ô_nhiễm môi_trường nghiêm_trọng	15
+bổ_sung quy_hoạch	15
+xây_dựng công_trình thiết_yếu	15
+đối_với khu_vực	15
+trục đường	15
+quản_lý chất_thải rắn sinh_hoạt	15
+bảo_trì đường_bộ	15
+biện_pháp kỹ_thuật	15
+phạm_vi bảo_vệ	15
+sự_nghiệp bảo_vệ môi_trường	15
+công_trình hạ_tầng kỹ_thuật đi cáp viễn_thông	14
+sử_dụng công_trình	14
+vận_hành công_trình	14
+quản_lý trật_tự xây_dựng	14
+treo cáp viễn_thông	14
+cảnh_sát bảo_vệ	14
+quản_lý tổng_hợp tài_nguyên bảo_vệ môi_trường biển	14
+công_trình quy_mô 25 tầng chiều 75 m	14
+phù_hợp quy_hoạch	14
+quy_trình kỹ_thuật	14
+xử_lý rác_thải	13
+đô_thị địa_bàn	13
+công_tác quản_lý	13
+tác_động xấu	13
+bảo_đảm trật_tự an_toàn giao_thông	13
+mặt sàn	13
+sử_dụng tạm_thời lòng_đường	13
+an_toàn vận_hành	13
+nhu_cầu sử_dụng	13
+đảm_bảo tuân_thủ	13
+luật bảo_vệ môi_trường	13
+lắp_đặt công_trình	13
+khắc_phục ô_nhiễm	13
+an_toàn công_trình	13
+kinh_phí sự_nghiệp môi_trường	13
+cục kỹ_thuật nghiệp_vụ i	13
+doanh_nghiệp viễn_thông	13
+chôn lấp chất_thải	13
+chính_phủ quy_định quản_lý bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	13
+công_trình ngầm	13
+phục_vụ sinh_hoạt	13
+hạ_tầng kỹ_thuật đi cáp viễn_thông	12
+bảo_vệ tần_số	12
+xây_dựng kế_hoạch	12
+đô_thị địa_bàn tỉnh	12
+phương_án bảo_vệ	12
+trung_tâm kỹ_thuật tổng_hợp	12
+phục_vụ mục_đích	12
+ứng_phó sự_cố	12
+phạm_vi quản_lý	12
+giữ_gìn trật_tự	12
+công_trình cấp_nước sinh_hoạt	12
+bảo_vệ quyền_lợi	11
+quản_lý an_toàn lao_động thi_công xây_dựng công_trình	11
+phí bảo_vệ môi_trường	11
+an_toàn vệ_sinh	11
+cây_xanh đô_thị	11
+kỹ_thuật đi cáp viễn_thông	11
+quy_hoạch xây_dựng đô_thị	11
+kết_cấu_hạ_tầng giao_thông đường_bộ	11
+sử_dụng mục_đích	11
+chất yêu_cầu nghiêm_ngặt an_toàn	11
+bảo_vệ môi_trường đối_với nước_thải công_nghiệp	10
+quy_hoạch xây_dựng	10
+dịch_vụ xử_lý chất_thải rắn sinh_hoạt	10
+mốc lộ_giới	10
+tràn dầu	10
+kết_cấu_hạ_tầng giao_thông	10
+đối_với hệ_thống đường	10
+mặt kỹ_thuật	10
+biện_pháp bảo_đảm an_toàn	9
+đảm_bảo trật_tự	9
+điện nông_thôn	9
+môi_trường sinh_thái	9
+phép sử_dụng tạm_thời	9
+lắp_đặt hệ_thống	9
+bảo_đảm trật_tự	9
+bảo_vệ tài_nguyên	9
+đi cáp viễn_thông	9
+môi_trường chiến_lược	9
+đường nhánh	9
+rác_thải sinh_hoạt	9
+hệ_thống hạ_tầng	9
+đảm_bảo tiêu_chuẩn	9
+xây_dựng công_trình hạ_tầng kỹ_thuật	9
+đánh_giá môi_trường chiến_lược	9
+giải_pháp kỹ_thuật	9
+trật_tự xây_dựng địa_bàn	9
+bảo_vệ môi_trường đối_với nước_thải sinh_hoạt	9
+tổng_hợp tài_nguyên bảo_vệ môi_trường biển	9
+phê_duyệt báo_cáo đánh_giá tác_động môi_trường	9
+đất hành_lang an_toàn đường_bộ	9
+phạm_vi bảo_vệ kết_cấu_hạ_tầng giao_thông	8
+nước_thải sinh_hoạt	8
+xây_dựng địa_bàn tỉnh	8
+sự_cố tràn dầu	8
+vệ_sinh môi_trường nông_thôn	8
+quy_mô 25 tầng chiều 75 m	8
+sử_dụng hợp_lý	8
+sử_dụng tạm_thời	8
+xây_dựng đô_thị	8
+nối đường	8
+phép thi_công xây_dựng công_trình	8
+kế_hoạch bảo_vệ	8
+đường đi	7
+đường_bộ khai_thác	7
+tài_nguyên bảo_vệ môi_trường	7
+tài_nguyên bảo_vệ môi_trường biển	7
+xấu môi_trường	7
+hạ_tầng thiết_yếu	7
+xây_dựng quy_hoạch	7
+bảo_vệ môi_trường đối_với nước_thải	7
+an_toàn đường_bộ	7
+bảng quảng_cáo	7
+bảo_trì công_trình	7
+tạm_thời lòng_đường	7
+an_toàn giao_thông đường_bộ	7
+vi_phạm pháp_luật bảo_vệ môi_trường	7
+dịch_vụ công_cộng	7
+kiểm_định kỹ_thuật	7
+sử_dụng điện	7
+thông_số kỹ_thuật	7
+xâm_phạm an_ninh quốc_gia	7
+an_ninh trật_tự an_toàn xã_hội	7
+cắm mốc	7
+vận_hành hệ_thống	7
+ban_hành quy_chuẩn kỹ_thuật	7
+viễn_thông địa_bàn	7
+công_trình phục_vụ	7
+sửa_chữa công_trình	7
+hệ_thống kết_cấu_hạ_tầng	7
+môi_trường đối_với	7
+hành_lang an_toàn giao_thông	6
+kiểm_soát ô_nhiễm	6
+bảo_vệ tổ_quốc	6
+bảo_vệ môi_trường biển	6
+dịch_vụ đô_thị	6
+cột treo	6
+viễn_thông địa_bàn tỉnh	6
+khai_thác công_trình nước_sạch	6
+kết_cấu công_trình	6
+môi_trường địa_bàn tỉnh	6
+cục quản_lý	6
+xây_dựng đề_án	6
+sử_dụng đường_bộ	6
+bố_trí lực_lượng	6
+hệ_thống đường tỉnh	6
+sử_dụng tần_số	6
+xác_định vị_trí	6
+vận_chuyển chất_thải	6
+sự_cố công_trình xây_dựng	6
+đơn_vị quản_lý vận_hành	6
+hệ_thống xử_lý	6
+chấp_thuận xây_dựng	6
+công_tác quản_lý bảo_vệ	6
+quản_lý sử_dụng phí	6
+cải_tạo nâng_cấp	6
+vật_liệu xây_dựng	6
+quản_lý lòng_đường	5
+mục_đích sử_dụng	5
+nằm phạm_vi	5
+phạm_vi ảnh_hưởng	5
+phép hoạt_động	5
+bảo_đảm yêu_cầu	5
+bảo_đảm trật_tự an_toàn	5
+công_trình kiến_trúc	5
+tổng_hợp nhu_cầu	5
+đơn_vị thi_công	5
+cơ_sở ô_nhiễm môi_trường	5
+bảo_vệ công_trình thủy_lợi	5
+hạ_tầng viễn_thông	5
+quản_lý đường_bộ	5
+phục_vụ an_ninh	5
+cơ_sở hạ_tầng viễn_thông	5
+đối_với doanh_nghiệp	5
+đối_với tuyến	5
+trật_tự xã_hội	5
+bảng tổng_hợp	5
+nước_sạch vệ_sinh môi_trường	5
+nước_thải công_nghiệp	5
+công_tác đảm_bảo_an_ninh trật_tự	5
+bảo_vệ môi_trường địa_bàn tỉnh	5
+trung_tâm kỹ_thuật	4
+đảm_bảo trật_tự an_toàn giao_thông	4
+kỹ_thuật đô_thị	4
+trật_tự an_toàn giao_thông đường_bộ	4
+địa_bàn tỉnh	4
+giao_thông đô_thị	4
+phục_vụ hoạt_động	4
+thu phí bảo_vệ môi_trường	4
+nằm hành_lang an_toàn	4
+m chiều	4
+đơn_vị sử_dụng	4
+công_trình hạ_tầng kỹ_thuật viễn_thông	4
+phí bảo_vệ	4
+công_trình nước_sạch	4
+công_tác đảm_bảo_an_ninh	4
+quy_hoạch mạng_lưới	4
+thi_công xây_dựng	4
+quản_lý bảo_vệ kết_cấu_hạ_tầng giao_thông	4
+lắp_đặt thiết_bị	4
+nối đường nhánh	4
+nước_sạch sinh_hoạt	4
+vệ_sinh an_toàn	4
+phục_vụ công_tác	4
+luật quy_hoạch đô_thị	4
+quản_lý nhà_nước bảo_vệ môi_trường	4
+biện_pháp xử_lý	4
+sinh_hoạt địa_bàn	4
+môi_trường biển hải_đảo	4
+vệ_sinh công_nghiệp	4
+dọc đường	4
+nằm quy_hoạch	4
+đô_thị i	4
+xây_dựng kết_cấu_hạ_tầng	4
+kỹ_thuật nghiệp_vụ i	4
+quy_định pháp_luật bảo_vệ môi_trường	4
+khai_thác bảo_vệ	4
+xây_dựng công_trình quảng_cáo	4
+quản_lý tổng_hợp tài_nguyên	4
+tiếp_giáp đường	4
+môi_trường nông_thôn	4
+công_trình hạ_tầng kỹ_thuật đi	4
+khai_thác quản_lý	3
+phục_vụ yêu_cầu	3
+yêu_cầu nghiêm_ngặt	3
+quản_lý sử_dụng phí thẩm_định	3
+nâng_cấp công_trình	3
+xây_dựng nông_thôn	3
+bức_xạ hạt_nhân	3
+biện_pháp khắc_phục	3
+bảo_vệ môi_trường địa_bàn	3
+đối_với cơ_sở	3
+đối_với hoạt_động	3
+điều_kiện an_toàn	3
+công_trình nước_sạch nông_thôn	3
+vi_phạm hành_lang	3
+vận_chuyển rác_thải sinh_hoạt địa_bàn	3
+bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ đối_với hệ_thống đường	3
+đóng địa_bàn	3
+cơ_sở xử_lý chất_thải rắn	3
+phạm_vi bảo_vệ kết_cấu_hạ_tầng	3
+truyền_hình tỉnh	3
+sử_dụng đất	3
+hạ_tầng kỹ_thuật sử_dụng	3
+quản_lý an_toàn	3
+đảm_bảo điều_kiện	3
+bảo_vệ tài_sản	3
+rác_thải sinh_hoạt địa_bàn	3
+hệ sinh_thái	3
+đảm_bảo hoạt_động	3
+quy_mô diện_tích	3
+đất hành_lang	3
+đảm_bảo quyền_lợi	3
+khoáng_sản vật_liệu xây_dựng	3
+giao_thông đường_bộ địa_bàn tỉnh	3
+gây_rối trật_tự	3
+công_tác xây_dựng	3
+nông_thôn địa_bàn	3
+an_toàn vệ_sinh lao_động	3
+xây_dựng phương_án	3
+xây_dựng cơ_sở	3
+tác_động môi_trường	3
+phân_tích môi_trường	3
+sự_cố công_trình	3
+đảm_bảo công_tác	3
+cơ_sở bức_xạ	3
+công_tác quy_hoạch	3
+kỹ_thuật sử_dụng	3
+hoạt_động quan_trắc	3
+quy_hoạch chi_tiết	3
+kỹ_thuật nghiệp_vụ	3
+phù_hợp vị_trí	3
+kỹ_thuật viễn_thông thụ_động địa_bàn	3
+thu phí bảo_vệ môi_trường đối_với nước_thải	3
+đánh_giá tác_động	3
+đất hành_lang an_toàn	3
+quản_lý an_toàn lao_động	3
+phí sử_dụng	3
+phục_vụ công_tác quản_lý	3
+tiền phí bảo_vệ môi_trường đối_với nước_thải	3
+sự_cố an_toàn	3
+viễn_thông thụ_động	3
+công_trình đập	3
+sử_dụng quỹ	2
+kỹ_thuật viễn_thông	2
+nhiệm_vụ bảo_vệ	2
+bảo_vệ chăm_sóc	2
+xây_dựng địa_bàn	2
+chính_phủ quản_lý	2
+điện phục_vụ	2
+đơn_vị quản_lý	2
+đất xây_dựng công_trình	2
+giao_thông đường_bộ trật_tự an_toàn giao_thông đô_thị	2
+kế_hoạch sử_dụng	2
+trật_tự an_toàn giao_thông đô_thị	2
+cục cảnh_sát	2
+sinh_hoạt địa_bàn tỉnh	2
+thu phí bảo_vệ môi_trường đối_với	2
+quản_lý hoạt_động	2
+kỹ_thuật bảo_vệ môi_trường	2
+vận_chuyển chất_thải rắn	2
+tuyến tỉnh	2
+sử_dụng dịch_vụ	2
+quy_mô dân_số	2
+đảm_bảo phù_hợp	2
+biện_pháp phòng_ngừa	2
+phép thi_công xây_dựng	2
+quỹ đất	2
+quốc_gia nước_sạch vệ_sinh môi_trường nông_thôn	2
+phương_án cải_tạo	2
+vệ_sinh lao_động	2
+công_trình thủy_lợi	2
+xây_dựng khu	2
+điện_lực tỉnh	2
+an_ninh tổ_quốc	2
+m2 sàn	2
+đi công_tác	2
+công_trình quảng_cáo	2
+thi_công xây_dựng công_trình	2
+an_toàn lao_động thi_công	2
+phí dịch_vụ	2
+đường_bộ đối_với hệ_thống đường	2
+nằm hành_lang	2
+đi đường	2
+đảm_bảo trật_tự an_toàn	2
+kỹ_thuật quốc_gia	2
+quy_định quản_lý bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	2
+sử_dụng lao_động	2
+bảo_vệ môi_trường chi_tiết	2
+mặt công_tác	2
+điện sinh_hoạt	2
+quản_lý nhà_nước đối_với	2
+bảo_đảm hoạt_động	2
+phê_duyệt quy_hoạch	2
+đối_với nước_thải công_nghiệp	2
+dịch_vụ sử_dụng đường_bộ	2
+đi biển	2
+sử_dụng vật_liệu	2
+đối_với xã	2
+đi cáp	2
+biện_pháp bảo_đảm	2
+công_trình quy_mô	2
+an_ninh trật_tự an_toàn	2
+phê_duyệt đề_án	2
+bảo_vệ kết_cấu_hạ_tầng giao_thông	2
+treo cáp	2
+hạ_tầng kỹ_thuật viễn_thông	2
+công_tác sửa_chữa	2
+tạm_thời cấm	2
+sử_dụng kinh_phí	2
+phí bảo_vệ môi_trường đối_với	2
+dịch_vụ trung_chuyển	2
+hoạt_động sự_nghiệp	1
+quản_lý sử_dụng quỹ	1
+xây_dựng khu_đô_thị	1
+báo_cáo đánh_giá	1
+an_toàn lao_động thi_công xây_dựng	1
+quản_lý an_toàn lao_động thi_công xây_dựng	1
+quy_định quản_lý bảo_vệ	1
+quan_trắc phân_tích	1
+quản_lý sử_dụng kinh_phí	1
+phục_vụ nhu_cầu	1
+điều_kiện an_ninh	1
+75 m	1
+nước_sạch vệ_sinh	1
+đối_với nước_thải	1
+thiết_bị bức_xạ	1
+quy_hoạch chi_tiết xây_dựng	1
+phí sử_dụng đường_bộ	1
+địa_bàn xã	1
+xây_dựng công_trình ngầm	1
+bảo_đảm kinh_phí	1
+yêu_cầu nhiệm_vụ	1
+viễn_thông thụ_động địa_bàn	1
+quản_lý an_toàn lao_động thi_công	1
+an_toàn giao_thông đường_bộ trật_tự an_toàn giao_thông đô_thị	1
+vận_chuyển rác_thải	1
+kỹ_thuật đi	1
+mục_tiêu quốc_gia nước_sạch vệ_sinh môi_trường nông_thôn	1
+thiết_bị kỹ_thuật	1
+cơ_sở xử_lý chất_thải	1
+sử_dụng tạm_thời hè	1
+công_tác phổ_biến	1
+dịch_vụ thu_gom	1
+liên tỉnh	1
+xây_dựng công_trình địa_bàn tỉnh	1
+xác_định nhiệm_vụ	1
+điều_kiện bảo_đảm an_toàn	1
+trật_tự trung_tâm	1
+đề_án vị_trí	1
+công_trình quy_mô 25 tầng	1
+phù_hợp quy_mô	1
+quỹ bảo_trì	1
+môi_trường quy_định	1
+đường_bộ trật_tự	1
+nằm khu	1
+sử_dụng kinh_phí sự_nghiệp	1
+kinh_phí bảo_đảm	1
+chi sự_nghiệp	1
+khoáng_sản vật_liệu	1
+chất yêu_cầu nghiêm_ngặt	1
+yêu_cầu nghiêm_ngặt an_toàn	1
+xâm_phạm an_ninh	1
+thẩm_định đề_án	1
+quy_hoạch sử_dụng đất	1
+cảnh_sát giao_thông	1
+công_trình xây_dựng địa_bàn	1
+quản_lý nhà_nước bảo_vệ	1
+cảnh_sát biển	1
+bổ_sung quỹ	1
+đối_với đơn_vị	1
+sửa_chữa đường	1
+đối_với nước_thải sinh_hoạt	1
+sử_dụng phí thẩm_định	1
+kinh_phí sự_nghiệp	1
+lực_lượng kiểm_soát	1
+ban_hành quy_chuẩn	1
+lĩnh_vực trật_tự an_toàn giao_thông	1
+chương_trình mục_tiêu quốc_gia nước_sạch vệ_sinh môi_trường	1
+lợi_ích quốc_gia	1
+kế_hoạch sử_dụng đất	1
+bảo_đảm quyền_lợi	1
+phù_hợp tiêu_chuẩn	1
+phục_vụ cộng_đồng	1
+lực_lượng cảnh_sát	1
+thu phí	1
+thụ_động địa_bàn	1
+phép khai_thác	1
+khu công_nghiệp	1
+sử_dụng diện_tích	1
+đảm_bảo trật_tự an_toàn giao_thông đường_bộ	1
+sử_dụng phí	1
+quản_lý nhà_nước an_toàn lao_động	1
+trung_tâm dịch_vụ	1
+vị_trí công_tác	1
+diện_tích tối_thiểu	1
+an_toàn mạng_lưới	1
+bảo_đảm vệ_sinh	1
+địa_bàn huyện	1
+môi_trường địa_bàn	1
+quản_lý điện	1
+luật giao_thông đường_bộ	1
+bảo_vệ tài_sản xã_hội	1
+nhiệm_vụ quản_lý	1
+sử_dụng đất địa_bàn tỉnh	1
+chiều 75 m	1
+xác_định cơ_sở	1
+đối_với công_trình xây_dựng	1
+an_toàn giao_thông đô_thị	1
+xây_dựng công_trình hạ_tầng kỹ_thuật viễn_thông	1
+giao_đấu nối	1
+giao_thông đường_bộ địa_bàn	1
+quy_định quản_lý sử_dụng	1
+bảo_đảm đơn_giản	1
+đi phục_vụ	1
+giao_thông công_chính	1
+biện_pháp kiểm_soát	1
+an_toàn giao_thông đường_bộ trật_tự	1
+ban_hành tiêu_chuẩn	1
+sử_dụng công_trình hạ_tầng	1
+bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ đối_với	1
+luật an_toàn	1
+chăm_sóc bảo_vệ	1
+tầng chiều	1

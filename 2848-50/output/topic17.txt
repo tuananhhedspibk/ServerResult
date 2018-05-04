@@ -1,0 +1,572 @@
+xử_lý vi_phạm	365
+tạm giam	301
+thủ_tục hành_chính	234
+hành_vi vi_phạm	198
+hành_vi vi_phạm pháp_luật	187
+vi_phạm pháp_luật	180
+chấp_hành_hình_phạt tù	171
+xử_phạt vi_phạm hành_chính	160
+xử_lý vi_phạm hành_chính	140
+cải_cách hành_chính	130
+chống buôn_lậu	124
+kiểm_soát thủ_tục hành_chính	121
+hành_vi phạm_tội	117
+áp_dụng biện_pháp	116
+trại tạm giam	109
+chống tham_nhũng	108
+xử_lý kỷ_luật	99
+xử_phạt hành_chính	97
+xử_lý kịp_thời	94
+chống tội_phạm	92
+trường_hợp vi_phạm	87
+công_tác quản_lý nhà_nước thi_hành pháp_luật xử_lý vi_phạm hành_chính	86
+hậu_quả nghiêm_trọng	85
+biện_pháp xử_lý	82
+giải_quyết thủ_tục hành_chính	81
+tạm đình_chỉ	80
+vi_phạm hành_chính	76
+giáo_dục phục_hồi hành_vi	70
+xử_lý nghiêm	69
+vụ vi_phạm	68
+quyết_định xử_phạt	66
+xử_phạt vi_phạm hành_chính lĩnh_vực	65
+mức_độ vi_phạm	60
+khắc_phục hậu_quả	60
+phạt tù	60
+xử_lý vi_phạm pháp_luật	59
+thực_hiện thủ_tục hành_chính	59
+đối_với hành_vi	58
+vi_phạm quy_định	58
+khung hình_phạt	56
+giám_thị trại_giam	56
+xử_lý hành_chính	56
+chấp_hành quyết_định	55
+thực_hiện_hành_vi phạm_tội	55
+tội "	53
+quy_định pháp_luật	52
+thi_hành kỷ_luật	52
+kiểm_tra xử_lý vi_phạm	51
+vi_phạm kỷ_luật	50
+chống thất_thu	49
+tạm đình_chỉ chấp_hành_hình_phạt tù	48
+tổn_hại sức_khoẻ	47
+xử_lý trường_hợp	46
+thẩm_quyền xử_phạt	45
+xử_lý hành_vi vi_phạm	45
+đội kiểm_tra liên_ngành 814 huyện	45
+đấu_tranh chống	45
+đội kiểm_tra liên_ngành 814 tỉnh	44
+xử_lý hành_vi	44
+phạm lỗi	44
+quyết_định xử_lý	44
+lệnh tạm giam	43
+chấp_hành nghiêm_chỉnh	43
+kiểm_tra xử_lý	43
+trái pháp_luật	42
+xử_lý quy_định	42
+vi_phạm quyền tác_giả	42
+dấu_hiệu tội_phạm	42
+pháp_lệnh xử_lý vi_phạm hành_chính	41
+trường_hợp phạm_tội	40
+xử_lý phản_ánh	40
+điều_luật tương_ứng	40
+cơ_quan thực_hiện thủ_tục hành_chính	40
+trại cải_tạo	40
+thời_hạn tạm giam	39
+cải_cách thủ_tục hành_chính	39
+hình_phạt bổ_sung	39
+xử_lý vụ vi_phạm	39
+thẩm_quyền xử_lý	38
+tuỳ mức_độ vi_phạm	37
+lợi_dụng chức_vụ	37
+kết_quả xử_lý	36
+thời_hạn chấp_hành_hình_phạt tù	36
+tối_đa xử_phạt vi_phạm hành_chính	36
+đối_với trường_hợp	35
+- xử_phạt tù	35
+tổng_hợp hình_phạt	35
+ngăn_chặn kịp_thời	34
+trường_hợp phát_hiện	34
+quản_lý nhà_nước thi_hành pháp_luật xử_lý vi_phạm hành_chính	33
+biện_pháp ngăn_chặn	33
+áp_dụng biện_pháp xử_lý hành_chính cơ_sở cai_nghiện bắt_buộc	33
+trung_tâm hành_chính công tỉnh	32
+chống lãng_phí	32
+chờ xử_lý	30
+thời_gian tạm	30
+khắc_phục hậu_quả thiên_tai	30
+phát_hiện vi_phạm	30
+đối_với hành_vi vi_phạm	30
+phạm tội	30
+thi_hành pháp_luật xử_lý vi_phạm hành_chính	30
+hình_thức xử_lý	29
+tình_tiết "	29
+cá_nhân vi_phạm	29
+kịp_thời phát_hiện	28
+" "	28
+đối_với tội	28
+" phạm_tội	28
+vi_phạm đầu	27
+đặc_biệt nghiêm_trọng	27
+tang_vật phạm_pháp	27
+hành_vi phạm_tội thực_hiện	27
+xử_lý thẩm_quyền	26
+cơ_sở chữa bệnh pháp_lệnh xử_lý vi_phạm hành_chính	26
+xác_định chỉ_số cải_cách hành_chính	26
+chấp_hành biện_pháp xử_lý	25
+cải_tạo giam_giữ	25
+chống thi_hành công_vụ	25
+áp_dụng đối_với	25
+quyết_định xử_phạt vi_phạm hành_chính	25
+thủ_tục hành_chính thẩm_quyền giải_quyết	25
+xảy tình_trạng	25
+hình_phạt tù	24
+xử_lý nghiêm_minh	24
+xử_lý tịch_thu	24
+kiểm_soát chặt_chẽ	23
+tạm ngừng	23
+bổ_sung một_số nghị_định liên_quan kiểm_soát thủ_tục hành_chính	23
+hình_thức kỷ_luật	23
+" hậu_quả nghiêm_trọng "	23
+miễn chấp_hành_hình_phạt	23
+trường_hợp đặc_biệt	22
+phát_hiện xử_lý	22
+chấp_hành pháp_luật	22
+giáo_dục pháp_luật	22
+thi_hành công_vụ	22
+thực_hiện biện_pháp	22
+cơ_quan chủ_quản bắt_giữ vụ vi_phạm	22
+áp_dụng biện_pháp xử_lý hành_chính	21
+hành_vi vi_phạm quy_định	21
+năng_lực hành_vi dân_sự	21
+áp_dụng hình_phạt	20
+thanh_tra xử_lý vi_phạm	20
+xử_lý hành_vi vi_phạm pháp_luật	20
+vi_phạm hành_chính lĩnh_vực	20
+chỉ_số cải_cách hành_chính	20
+đối_với vụ_việc	20
+đối_với vụ vi_phạm	20
+ngăn_chặn hành_vi	20
+xử_phạt tù	20
+công_bố thủ_tục hành_chính	19
+xử_lý quy_định pháp_luật	19
+tạm hoãn	19
+căn_cứ luật xử_lý vi_phạm hành_chính	19
+cải_cách hành_chính nhà_nước	19
+tình_tiết định khung hình_phạt	19
+phòng_chống tham_nhũng	18
+biện_pháp phòng_ngừa	18
+tù chung_thân	18
+phát_hiện kịp_thời	18
+phòng_chống tội_phạm	18
+thực_hiện_hành_vi vi_phạm pháp_luật	18
+chi công_tác quản_lý nhà_nước thi_hành pháp_luật xử_lý vi_phạm hành_chính	18
+giám_thị trại tạm giam	18
+cửa liên_thông giải_quyết thủ_tục hành_chính	17
+chính_phủ quy_định xử_phạt vi_phạm hành_chính lĩnh_vực	17
+tài_liệu hồ_sơ xử_phạt vi_phạm hành_chính	17
+yếu_tố vi_phạm	17
+xử_lý vụ_việc	17
+32 quốc_hội	17
+miễn chấp_hành thời_gian	17
+dấu_hiệu vi_phạm pháp_luật	17
+hành_vi trái pháp_luật	17
+áp_dụng biện_pháp cơ_sở cai_nghiện bắt_buộc	17
+xử_lý vụ	17
+đối_với hành_vi ghi	17
+tạm dừng	17
+coi phạm_tội	17
+bảo_đảm đơn_giản thủ_tục hành_chính	17
+phạm kỷ_luật	17
+trung_tâm hành_chính	17
+chấp_hành quyết_định trung_tâm	17
+theo_dõi thi_hành pháp_luật xử_lý vi_phạm hành_chính	17
+cơ_quan thẩm_quyền xử_phạt	16
+- xử_phạt tù mười	16
+ngăn_chặn tình_trạng	16
+dấu_hiệu vi_phạm	16
+hình_phạt tuyên	16
+quyết_định áp_dụng biện_pháp	16
+thi_hành quyết_định xử_phạt	16
+áp_dụng quy_định	16
+hành_vi vi_phạm_quy_định	16
+mức_độ vi_phạm xử_lý kỷ_luật	16
+tạm chờ xử_lý	16
+áp_dụng biện_pháp cưỡng_chế	16
+nghiêm_trọng "	15
+đẩy_mạnh cải_cách hành_chính	15
+tạm giam bị_can	15
+địa_giới hành_chính	15
+đấu_tranh chống buôn_lậu	15
+quyết_định tạm	15
+kịp_thời xử_lý	15
+quyết_định tạm đình_chỉ chấp_hành_hình_phạt tù	15
+tội xâm_phạm	15
+xử_lý trường_hợp vi_phạm	15
+tố_giác tội_phạm	15
+vụ phạm_pháp	14
+tình_tiết quy_định	14
+hành_vi vi_phạm hành_chính	14
+xảy sự_việc	14
+hình_thức "	14
+phạm_tội trường_hợp	14
+thời_hạn quy_định	14
+tiếp_tục tạm giam	14
+tước quyền	13
+quy_định điều_luật	13
+kiểm_tra phát_hiện	13
+xác_định tình_trạng	13
+quốc_hội thông_qua	13
+ngăn_chặn xử_lý	13
+mức_độ vi_phạm xử_lý	13
+xử_phạt hành_chính hành_vi	13
+chấp_hành xong	13
+chấp_hành quy_định	13
+giải_quyết thủ_tục	13
+liên_quan áp_dụng biện_pháp bắt	12
+thời_hạn giải_quyết	12
+nghiêm_chỉnh chấp_hành	12
+công_tác cải_cách hành_chính	12
+" tội	12
+vi_phạm nghiêm_trọng	12
+thời_hạn tạm	12
+theo_dõi thi_hành pháp_luật	12
+" hậu_quả đặc_biệt nghiêm_trọng "	12
+biện_pháp bảo_đảm	12
+tạm giam lệnh	12
+xử_phạt hành_chính hành_vi vi_phạm	12
+kết_án tội	11
+tiêu_cực xử_lý vi_phạm	11
+áp_dụng biện_pháp bắt	11
+trại_giam quân_khu	11
+hành_vi vi_phạm hành_chính lĩnh_vực	11
+tuỳ trường_hợp	11
+tình_tiết định khung	11
+quyết_định đình_chỉ	11
+trường_hợp xảy	11
+áp_dụng biện_pháp xử_lý	11
+xử_lý kết_quả	11
+" hậu_quả nghiêm_trọng	11
+giải_quyết hậu_quả	11
+chấp_hành quyết_định xử_phạt	10
+biên_bản vi_phạm hành_chính	10
+quản_lý nhà_nước thi_hành pháp_luật xử_lý vi_phạm hành_chính địa_bàn tỉnh	10
+giải_quyết kịp_thời	10
+tố_cáo xử_lý vi_phạm	10
+hành_vi xâm_phạm	10
+xử_lý nghiêm hành_vi	10
+chống xuống_cấp	10
+quản_lý trại_giam	10
+lệnh tạm	10
+quy_định pháp_lệnh	10
+giải_quyết vụ_việc	10
+lĩnh_vực giá_cả	9
+hậu_quả đặc_biệt nghiêm_trọng	9
+biện_pháp khắc_phục	9
+hành_vi mua_bán	9
+chính_phủ quy_định xử_phạt vi_phạm hành_chính	9
+vi_phạm hợp_đồng	9
+bất_kỳ hình_thức	9
+quyết_định tạm đình_chỉ	9
+kết_quả giải_quyết thủ_tục hành_chính	9
+xử_phạt vi_phạm	9
+pháp_luật lĩnh_vực	9
+theo_dõi tình_hình thi_hành pháp_luật	9
+phạm_tội thực_hiện	9
+thẩm_quyền xử_lý quy_định	9
+đối_với một_số	9
+hậu_quả đặc_biệt nghiêm_trọng "	8
+thời_gian chờ	8
+kiểm_tra chấp_hành	8
+vi_phạm chế_độ	8
+quyền công_dân	8
+vi_phạm quy_định pháp_luật	8
+vi_phạm quyền	8
+cơ_sở giáo_dục	8
+đội kiểm_tra liên_ngành 814	8
+cục quản_lý trại_giam	8
+- trường_hợp	8
+trường_hợp cần_thiết	8
+thủ_tục giải_quyết	8
+quản_lý hành_chính	8
+đối_với vụ	8
+pháp_luật xử_lý vi_phạm hành_chính	8
+áp_dụng hình_thức	8
+sai quy_định	8
+biên_bản xảy sự_việc	7
+tiêu_cực xử_lý vi_phạm pháp_luật	7
+trung_tâm giải_quyết thủ_tục hành_chính	7
+hành_chính công	7
+khắc_phục tình_trạng	7
+vi_phạm pháp_luật lĩnh_vực	7
+trái_phép "	7
+hồ_sơ đề_nghị áp_dụng biện_pháp cơ_sở cai_nghiện bắt_buộc	7
+đối_với hành_vi phạm_tội	7
+kỷ_luật khiển_trách	7
+vi_phạm xử_lý kỷ_luật	7
+hành_chính lĩnh_vực giá_cả	7
+biện_pháp giải_quyết	7
+biện_pháp cần_thiết	7
+thông_qua hình_thức	7
+biên_bản vi_phạm	7
+định khung hình_phạt	7
+cá_nhân vi_phạm quy_định	7
+phạt vi_phạm	6
+trường_hợp miễn	6
+xảy sự_cố	6
+hành_chính lĩnh_vực	6
+chống thiên_tai	6
+đối_với thành_niên	6
+trường_hợp đặc_biệt nghiêm_trọng	6
+phục_hồi hành_vi	6
+hành_chính hành_vi	6
+quy_định xử_phạt vi_phạm hành_chính lĩnh_vực	6
+vụ_việc vi_phạm	6
+bổ_sung kịp_thời	6
+chấp_hành nghiêm_chỉnh quy_định	6
+đối_với hành_vi phạm_tội thực_hiện	6
+khắc_phục sự_cố	5
+thẩm_quyền xử_lý vi_phạm	5
+thi_hành pháp_luật	5
+lệnh bắt	5
+hành_chính nhà_nước	5
+tuỳ mức_độ	5
+phòng_chống thiên_tai	5
+đội kiểm_tra liên_ngành	5
+nhiệm_vụ kiểm_soát thủ_tục hành_chính	5
+hồ_sơ đề_nghị áp_dụng biện_pháp	5
+tố_cáo công_dân	5
+xâm_phạm quyền	5
+cơ_quan nhà_nước	5
+quy_định_chế_độ áp_dụng biện_pháp	5
+bắt_giữ vụ vi_phạm	5
+trung_tâm hành_chính công	5
+thẩm_quyền quyết_định	5
+kiểm_tra liên_ngành	5
+lĩnh_vực quản_lý	5
+thành_viên đội kiểm_tra liên_ngành 814	5
+- đối_với	5
+thời_hạn chấp_hành_hình_phạt	5
+chống hành_vi	5
+hành_vi trái	4
+đội thanh_tra	4
+trường_hợp xác_định	4
+căn_cứ xác_định	4
+thi_hành quyết_định	4
+công_tác quản_lý	4
+trật_tự trung_tâm	4
+chấp_hành chế_độ	4
+luật xử_lý vi_phạm hành_chính	4
+phản_ánh kịp_thời	4
+vi_phạm xử_lý	4
+quy_định nghị_định	4
+đội kiểm_tra	4
+quy_định_chế_độ áp_dụng biện_pháp xử_lý hành_chính	4
+công_tác đấu_tranh	4
+quản_lý nhà_nước	4
+tình_hình thi_hành pháp_luật xử_lý vi_phạm hành_chính	4
+thẩm_quyền xử_lý quy_định pháp_luật	4
+chống kiểm_soát	4
+thẩm_quyền giải_quyết	4
+pháp_luật xử_lý	4
+chấp_hành biện_pháp	4
+cơ_quan hành_chính	4
+quyền quản_lý	4
+quy_định xử_phạt vi_phạm hành_chính	4
+năng_lực hành_vi	3
+biện_pháp cơ_sở	3
+chính_phủ quy_định_chế_độ áp_dụng biện_pháp	3
+thủ_tục hành_chính thẩm_quyền	3
+đối_với cơ_sở	3
+tố_cáo hành_vi	3
+thực_hiện quy_định	3
+vi_phạm xử_phạt	3
+tạm đình_chỉ thi_hành	3
+thời_hạn tối_đa	3
+một_số trường_hợp	3
+quy_định áp_dụng đối_với cơ_quan	3
+thực_hiện nghiêm_chỉnh	3
+hành_chính công tỉnh	3
+quyền tác_giả	3
+thẩm_quyền quy_định	3
+gây_rối trật_tự	3
+thi_hành pháp_luật xử_lý vi_phạm hành_chính địa_bàn tỉnh	3
+vi_phạm hành_chính lĩnh_vực kế_toán	3
+thanh_tra hành_chính	3
+áp_dụng đối_với hành_vi phạm_tội	3
+xác_định mức_độ	3
+kiểm_tra chấp_hành pháp_luật	3
+chính_phủ quy_định_chế_độ áp_dụng biện_pháp xử_lý hành_chính	3
+thực_hiện thủ_tục	3
+đình_chỉ công_tác	3
+thời_gian nhất_định	3
+hậu_quả nghiêm_trọng "	3
+nhà_nước ta	3
+thu xử_phạt vi_phạm hành_chính	3
+xử_phạt hành_vi vi_phạm	3
+nghiêm quy_định	3
+trại tạm	3
+cơ_quan thẩm_quyền xử_lý	3
+vi_phạm trật_tự	3
+căn_cứ quyết_định	3
+chờ giải_quyết	3
+tạm chờ	2
+thời_gian giải_quyết	2
+trung_tâm giải_quyết thủ_tục hành_chính tỉnh	2
+phạt vi_phạm hợp_đồng	2
+phát_hiện công_tác	2
+thời_hạn mười	2
+trường_hợp thiên_tai	2
+xác_định cơ_sở	2
+vi_phạm luật_lệ	2
+cửa liên_thông	2
+công_tác phòng_ngừa	2
+xử_phạt hành_vi	2
+áp_dụng đối_với trường_hợp	2
+thực_hiện nghị_định	2
+phạm_tội trường_hợp đặc_biệt	2
+chính_phủ "	2
+công_tác phòng_chống	2
+quy_định quyết_định	2
+đình_chỉ thi_hành	2
+xử_lý vi_phạm hành_chính địa_bàn tỉnh	2
+xong thủ_tục	2
+tiếp_tục tạm	2
+kịp_thời hành_vi	2
+cơ_quan hành_chính nhà_nước	2
+quyết_định xử_phạt vi_phạm	2
+đối_với trại_giam	2
+giải_quyết vụ	2
+đẩy_mạnh cải_cách	2
+vi_phạm hành_chính địa_bàn tỉnh	2
+biện_pháp cơ_sở cai_nghiện bắt_buộc	2
+cá_nhân phản_ánh kịp_thời	2
+pháp_luật liên_quan	2
+thủ_tục cần_thiết	2
+cơ_sở giáo_dục trường_giáo_dưỡng	2
+mua_bán trái_phép	2
+quản_lý chặt_chẽ	2
+hồ_sơ vụ_việc	2
+giáo_dục phục_hồi	2
+quy_định xử_phạt	2
+một_số quy_định	2
+biện_pháp cưỡng_chế	2
+biện_pháp kiểm_soát	2
+chính_phủ quy_định xử_phạt	2
+pháp_luật lĩnh_vực công_tác	2
+đề_nghị áp_dụng	2
+chế_độ đối_với	2
+cai_nghiện bắt_buộc	2
+thực_hiện_hành_vi vi_phạm	2
+chữ "	2
+quản_lý giáo_dục	2
+đối_với cơ_quan hành_chính	1
+đối_với cơ_quan	1
+thanh_tra chấp_hành	1
+quyết_định công_bố	1
+thực_hiện xong	1
+áp_dụng đối_với cơ_quan	1
+đình_chỉ chấp_hành_hình_phạt tù	1
+đẩy_mạnh thực_hiện	1
+cơ_quan thực_hiện thủ_tục	1
+địa_bàn tỉnh	1
+cá_nhân phản_ánh	1
+công_tác cải_cách	1
+cơ_quan chủ_quản	1
+trái quy_định	1
+kiểm_tra công_tác	1
+cửa liên_thông giải_quyết	1
+chính_phủ quản_lý	1
+pháp_lệnh hợp_đồng	1
+một_số trường_hợp đặc_biệt	1
+kiểm_tra sức_khoẻ	1
+công_tác quản_lý nhà_nước thi_hành pháp_luật	1
+một_số biện_pháp	1
+quyết_định cưỡng_chế	1
+cơ_quan thẩm_quyền	1
+quy_định luật	1
+trái quy_định pháp_luật	1
+công_tác thanh_tra	1
+tình_trạng sức_khoẻ	1
+814 huyện	1
+xác_định nhiệm_vụ	1
+giải_quyết sự_cố	1
+căn_cứ pháp_lệnh	1
+thực_hiện nghiêm	1
+kiểm_soát thủ_tục	1
+chính_phủ quy_định	1
+cơ_quan nhà_nước thẩm_quyền	1
+thành_viên đội	1
+thu xử_phạt vi_phạm	1
+kiểm_tra liên_ngành 814 huyện	1
+cơ_sở đề_nghị	1
+trường_hợp hồ_sơ	1
+đề_nghị phản_ánh	1
+bảo_đảm trật_tự	1
+hành_chính lĩnh_vực kế_toán	1
+công_tác quản_lý nhà_nước thi_hành pháp_luật xử_lý	1
+áp_dụng chế_độ	1
+ghi "	1
+tiếp_tục thực_hiện	1
+thời_gian công_tác	1
+theo_dõi quản_lý	1
+liên_quan kiểm_soát thủ_tục hành_chính	1
+phát_hiện công_tác thanh_tra	1
+hành_chính nhà_nước tỉnh	1
+thi_hành pháp_luật xử_lý vi_phạm	1
+cơ_quan chủ_quản bắt_giữ	1
+cưỡng_chế thi_hành	1
+bí_mật nhà_nước	1
+lĩnh_vực giáo_dục	1
+" hậu_quả	1
+vi_phạm xử_lý quy_định	1
+cơ_quan liên_quan	1
+thực_hiện cưỡng_chế	1
+giám_thị trại	1
+kịp_thời phản_ánh	1
+kiểm_tra kế_toán	1
+quản_lý nhà_nước đối_với	1
+giải_quyết xong	1
+cơ_quan quản_lý	1
+đảm_bảo_an_ninh trật_tự	1
+kịp_thời giải_quyết	1
+quy_chế áp_dụng đối_với	1
+chi quản_lý hành_chính	1
+quy_định d	1
+quy_định pháp_luật liên_quan	1
+kiểm_tra liên_ngành 814 tỉnh	1
+bắt_giữ vụ	1
+kiểm_tra yếu_tố	1
+quy_chế áp_dụng	1
+quyết_định miễn	1
+kiểm_tra chấp_hành quy_định	1
+hồ_sơ vụ	1
+liên_quan quyền tác_giả	1
+814 tỉnh	1
+đặc_biệt nghiêm_trọng "	1
+chế_độ quy_định	1
+quản_lý nhà_nước thi_hành pháp_luật xử_lý vi_phạm	1
+nghiêm_chỉnh quy_định	1
+chi công_tác quản_lý nhà_nước thi_hành pháp_luật	1
+trung_tâm giáo_dục	1
+nhiệm_vụ quản_lý	1
+thực_hiện quyết_định	1
+hồ_sơ đề_nghị	1
+thẩm_quyền quy_định pháp_luật	1
+nhiệm_vụ kiểm_soát	1
+đảm_bảo_an_ninh trật_tự trung_tâm	1
+kiểm_tra chặt_chẽ	1
+năng_lực quản_lý	1
+tài_liệu liên_quan	1
+biện_pháp thi_hành	1
+kết_quả kiểm_tra	1
+nhà_nước thi_hành pháp_luật xử_lý vi_phạm hành_chính	1
+đơn_giản thủ_tục	1
+quy_định xử_phạt vi_phạm	1
+pháp_lệnh xử_lý	1
+thi_hành nghị_định	1
+chấp_hành quy_định pháp_luật	1
+miễn chấp_hành	1
+cơ_sở cai_nghiện bắt_buộc	1
+chữa bệnh	1
+kiểm_tra thực_hiện quy_định	1

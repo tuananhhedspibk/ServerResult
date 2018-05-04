@@ -1,0 +1,712 @@
+khoản thu	501
+thu phí	480
+thu tiền	426
+khoản tiền	377
+tiền thưởng	349
+nộp thuế	332
+nộp tiền	286
+tiền thu	257
+cơ_quan thuế	247
+thu lệ_phí	245
+thu nộp	242
+nộp ngân_sách	185
+tiền phạt	184
+thu thuế	174
+nộp ngân_sách nhà_nước	152
+cục thuế tỉnh	151
+miễn thuế	139
+trích nộp	137
+phạt tiền	137
+tiền công	135
+nộp lệ_phí	134
+nộp phí	129
+quy_định_mức thu	127
+tài_khoản tiền gửi	125
+chế_độ thu	123
+cục thuế	122
+thanh_toán tiền	117
+quản_lý sử_dụng phí	102
+thu tiền phạt	101
+thu viện_phí	100
+tổ_chức thu	100
+thu ngân_sách	97
+tổ_chức thu phí	97
+thu học_phí	94
+thuế nộp	88
+phí dịch_vụ	86
+tổng_số tiền	83
+thu quốc_doanh	82
+thuế nông_nghiệp	82
+lệ_phí trước_bạ	81
+tiền chậm nộp	79
+chậm nộp	77
+đối_tượng nộp	77
+tiền thuế	74
+tiền nộp	72
+cục_trưởng cục thuế tỉnh	72
+trạm thu phí	72
+tiền gửi	72
+lệ_phí thu	69
+phí lệ_phí	69
+thuế giá_trị gia_tăng	67
+quản_lý sử_dụng	66
+ghi thu	65
+phân_cấp thu	63
+khoản nộp	61
+thu nộp ngân_sách	60
+tiền bồi_thường	58
+thuế tiêu_thụ đặc_biệt	56
+chi_cục thuế	56
+tổng_số tiền thực nộp ngân_sách nhà_nước đối_với nộp	55
+tiền phí	55
+thuế sát_sinh	55
+khoản thu ngân_sách	53
+toàn_bộ tiền	53
+xét thưởng	53
+tạm trích	53
+tiền hàng	52
+giấy nộp tiền	52
+cơ_quan thu lệ_phí	52
+nộp tiền phạt	51
+chứng_từ thu	50
+thu ngân_sách nhà_nước	49
+đối_tượng nộp phí	48
+phí thu	48
+tài_khoản tạm	47
+nộp lợi_nhuận	47
+thu sự_nghiệp	47
+cơ_quan thu phí	46
+quy_định_chế_độ thu	45
+đối_tượng thu	44
+cục_trưởng cục thuế	44
+nộp khoản	44
+cục thuế địa_phương	44
+tiền đặt_cọc	44
+tiền thu phí	43
+tiền chậm nộp thuế	43
+thành tiền	43
+ngân_sách nhà_nước	42
+tiền ký_quỹ	41
+nộp phạt	41
+cục_trưởng cục	41
+nộp tài_khoản	41
+khoản chênh_lệch	40
+thu thuỷ_lợi phí	40
+khoản phí	40
+khoản nộp ngân_sách	40
+lệ_phí đăng_ký	39
+thời_hạn nộp	39
+khoản tiền phạt	39
+tiền lãi	39
+tỷ_lệ điều_tiết	39
+tổng_số thu	39
+sử_dụng phí	39
+cơ_quan thuế địa_phương	39
+thu ngoại_tệ	38
+xét miễn	38
+thuỷ_lợi phí	38
+thuế tài_nguyên	38
+giao quyền thu phí	37
+lệ_phí giấy_phép	37
+thu_nhập thuế	37
+thu tiền bảo_vệ	37
+thuế lãi	36
+tiền giang	35
+thuế_thu_nhập cá_nhân	35
+phí môi_giới	35
+tài_khoản "	35
+đơn_vị thu phí	34
+thuế doanh_thu	34
+chênh_lệch thu	34
+biên_lai thu tiền	34
+bao_gồm thuế giá_trị gia_tăng	34
+đối_tượng miễn	34
+liên xô	33
+khoản viện_trợ	33
+sử_dụng tiền	33
+thu tiền chậm nộp	33
+tiền điện	32
+tiền gửi ngân_hàng	32
+khoản chi_phí	32
+tiền học_phí	32
+trích tiền	32
+khoản chi	31
+uỷ_nhiệm thu	31
+biên_lai thu tiền phạt	31
+đối_với khoản thu tiền chậm nộp	31
+chủ tài_khoản	31
+khoản thu ngân_sách nhà_nước	31
+trích nộp lợi_nhuận	30
+tiền thanh_toán	30
+ngân_sách địa_phương	30
+biên_lai thu	29
+nộp tiền ngân_sách nhà_nước	29
+chứng_từ thu tiền	29
+quỹ tiền thưởng	29
+nợ thuế	29
+lệ_phí công_chứng	28
+hướng_dẫn chế_độ thu	28
+dịch_vụ quốc_doanh	28
+tiền lãi thu	28
+trích thưởng	28
+biên_lai thu thuế	27
+tài_khoản đặc_biệt	27
+trích tỷ_lệ	27
+tiền phí thu	27
+quản_lý sử_dụng lệ_phí	27
+trích nộp ngân_sách	27
+nộp lệ_phí hải_quan	27
+thu phí dịch_vụ	27
+nộp ngân_sách địa_phương	26
+tiền mua	26
+trích phí	26
+khoản thuế	26
+nộp toàn_bộ	26
+thu phí lệ_phí	26
+tỷ lệ_phí	25
+tiền trích	25
+chuyển_giao quyền thu phí	25
+khoản thu_nhập	25
+kê_khai nộp thuế	25
+sử_dụng lệ_phí	25
+trích tài_khoản	24
+thu hợp_pháp	24
+ngân_sách địa_phương hưởng	24
+thanh_toán tiền hàng	24
+thu lệ_phí công_chứng	24
+tạm thanh_toán	24
+thu lệ_phí hải_quan	24
+nộp đầy_đủ	24
+lệ_phí ngân_sách nhà_nước	24
+chi_cục thuế huyện	24
+khoá_sổ thu	24
+thưởng tương_ứng	24
+tiền lệ_phí	23
+nộp quản_lý sử_dụng	23
+ngoại_tệ viện_trợ	23
+khoản đóng_góp	23
+đối_với khoản thu	23
+thu nộp thuế	23
+nộp quỹ	23
+chế_độ thưởng	23
+thu lợi bất_chính	22
+tiêu_chuẩn miễn thuế	22
+khoản thu_phân_chia	22
+tiểu khoản	22
+% tiền	22
+tài_khoản tiền gửi thanh_toán	22
+đăng_ký nộp thuế	22
+thu nộp ngân_sách nhà_nước	22
+đối_với khoản	22
+phân_chia khoản thu ngân_sách	22
+luật thuế	22
+lệ_phí trọng_tài	22
+sử_dụng biên_lai	21
+cục thuế chi_cục thuế	21
+lợi_nhuận thu	21
+thuế giá_trị gia tăn	21
+khoản lệ_phí	21
+chi quỹ học_phí	21
+thống_nhất quản_lý phí lệ_phí	21
+thu nợ	21
+khoản tương_ứng	21
+thu thuế nông_nghiệp	21
+trừ khoản	21
+thu tiề	21
+quy_định phân_cấp thu	21
+hạch_toán khoản	20
+tài_khoản tiền gửi đơn_vị	20
+cục quản_lý	20
+hoá_đơn_giá_trị gia_tăng	20
+lệ_phí nộp ngân_sách nhà_nước	20
+sử_dụng tiền phạt	20
+quy_định_mức thu phí	20
+thanh_toán khoản	20
+số_dư tài_khoản tiền gửi	20
+nộp phí giao_thông	20
+đổi tiền	20
+tiền chậm nộp khoản	20
+tiền khả_thi	20
+thu phí giao_thông	19
+quản_lý sử_dụng tiền	19
+nộp thuế lãi	19
+tiêu_thụ đặc_biệt	19
+khoản tiền bồi_thường	19
+giá_trị gia_tăng	19
+phân_chia khoản thu	19
+thu bù chi	19
+bù tiền	19
+sử_dụng tiền thu	19
+ngân_sách địa_phương hưởng hạch_toán	19
+đối_với khoản tiền	19
+tổ_chức thu lệ_phí	19
+ngân_sách tỉnh hưởng 100 %	19
+nợ_đọng thuế	19
+lợi_nhuận nộp	19
+khoản trợ_cấp	18
+ghi chi	18
+khoản trích	18
+miễn_giảm thuế	18
+số_dư tài_khoản	18
+giá_trị sử_dụng	18
+toàn_bộ tiền thu	18
+xác_định khoản	18
+nộp tài_khoản tạm	18
+tiền tài_khoản	18
+ngân_sách tỉnh	18
+lãi tiền	18
+thuế công_thương_nghiệp	18
+thanh_toán tiền công_trái	18
+đầu_tư hiện_đại_hoá công_nghệ thu phí	18
+tiền tạm_ứng	17
+thuế khoản thu	17
+quy_định thu tiền	17
+tiền chậm	17
+thu tiền tiền phụ_cấp lưu_trú đại_biểu cơ_quan nhà_nước	17
+tiền chênh_lệch	17
+tài_khoản chuyên thu	17
+% tổng_số tiền	17
+nộp toàn_bộ ngân_sách nhà_nước	17
+thi_hành khoản tiền phạt	17
+thuốc chậm luân_chuyển	17
+thu phí sử_dụng	17
+tiền thuốc	17
+thoái thu	17
+tiền truy_thu	16
+lĩnh tiền	16
+nộp thuế_thu_nhập	16
+thưởng thưởng	16
+tiền viện_phí	16
+lệ_phí trước_bạ )	16
+chứng_từ thanh_toán	16
+thu tiền chậm nộp ngân_sách	16
+" thông_báo nộp tiền "	16
+quản_lý )	16
+cơ_quan nhà_nước	16
+chứng_từ nộp tiền	16
+sử_dụng ngoại_tệ	16
+giấy nộp tiền ngân_sách nhà_nước	16
+nợ thu	16
+thu lệ_phí giấy_phép	15
+hưởng 100 %	15
+cục_trưởng cục quản_lý	15
+nộp thừa	15
+khoản thu hợp_pháp	15
+thực nộp	15
+khoản trừ	15
+thuế )	15
+thu thuế_xuất	15
+chênh_lệch thu chi	15
+mai_táng phí	15
+pháp lệnh phí lệ_phí	15
+thông_báo cơ_quan thuế	15
+tổng_số tiền thực nộp ngân_sách nhà_nước đối_với nộp 10	14
+khoản phụ_cấp	14
+quyết_toán thu	14
+toàn_bộ tiền phí	14
+quy_định phân_chia thu tiền chậm nộp ngân_sách	14
+tổng_số tiền thực nộp ngân_sách nhà_nước đối_với nộp 2	14
+khoản thu tiền chậm nộp	14
+đối_tượng nộp lệ_phí	14
+nộp khoản thu	14
+tiền lợi	14
+nộp thuế quy_định	14
+trạm thu	14
+quản_lý quỹ	14
+thu phí cầu	14
+tiền đóng_góp	14
+miễn thu	14
+nộp nsnn	14
+thu cước	13
+trích nộp bảo_hiểm_xã_hội	13
+lợi_nhuận nộp ngân_sách	13
+lệ_phí nộp	13
+tài_khoản tiền gửi ngân_hàng	13
+tiền gửi quỹ	13
+nộp thuế_lợi_tức	13
+diện miễn	12
+thanh_toán khoản tiền	12
+đơn_vị tổ_chức thu	12
+nộp thuế doanh_thu	12
+lệ_phí trước_bạ đối_với	12
+tiền sử_dụng	12
+khoản tiền nộp	12
+miễn tiền	12
+tổng_cục thuế	12
+tiền bảo_vệ	12
+tất_cả khoản	12
+lãi tiền gửi	12
+chậm nộp thuế	12
+lệ_phí hải_quan	12
+nộp lệ_phí trước_bạ	12
+nộp thuế tài_nguyên	12
+bao_gồm tiền	12
+tỷ_lệ phân_chia	12
+phân_chia khoản	12
+chậm luân_chuyển	12
+lãi thu	12
+phí thư_viện	12
+tiểu chương	11
+phân_cấp quản_lý	11
+truy_thu thuế	11
+thủ_tục nộp	11
+gửi cơ_quan	11
+cơ_quan công_chứng	11
+bù chênh_lệch	11
+xác_định tiền	11
+khoản thu tiền	11
+lãi_suất tiền gửi	11
+quỹ học_phí	11
+phân_chia thu tiền chậm nộp	11
+quản_lý phân_chia ngân_sách	11
+phân_chia thu tiền chậm nộp ngân_sách	11
+khoản tiền lãi	11
+tiền ứng	11
+ngân_hàng nhà_nước	11
+tịch_thu toàn_bộ	10
+hưởng lợi	10
+phí thẩm_định	10
+bao_gồm khoản	10
+lợi_nhuận nộp ngân_sách địa_phương	10
+tiền trợ_cấp	10
+huyện hưởng 100 %	10
+lệ_phí giấy_phép hoạt_động	10
+quản_lý sử_dụng phí thẩm_định	10
+miễn lệ_phí	10
+hạch_toán khoản thu	10
+trừ tiền	10
+chứng_từ hợp_pháp	10
+tiền phạt vi_phạm	10
+thu lệ_phí đăng_ký	10
+công_chứng nhà_nước	10
+nghĩa_vụ nộp thuế	10
+tỷ_lệ trích	10
+% tiền lãi thu	10
+biên_lai thu lệ_phí	10
+bồi_thường khoản tiền	10
+thu nộp tiền	10
+chế_độ thu nộp	10
+quy_định phân_chia thu tiền chậm nộp	9
+nghĩa_vụ nộp	9
+phân_chia thu tiền chậm nộp ngân_sách chính_quyền địa_phương	9
+ngân_sách huyện hưởng 100 %	9
+nộp lệ_phí đăng_ký	9
+ứng tiền	9
+sử_dụng ấn	9
+hoàn thuế	9
+cước phí	9
+chế_độ quản_lý	9
+ngân_sách huyện	9
+miễn nộp	9
+gửi ngân_hàng	9
+tài_khoản ngân_hàng	9
+ghi tài_khoản	9
+xác_định_mức thu	9
+đơn_vị tài_khoản	9
+miễn học_phí	9
+thu tiền sử_dụng	9
+nộp ngân_sách địa_phương hưởng	8
+đối_tượng miễn thu	8
+" "	8
+tài_khoản tạm gửi	8
+lợi_nhuận thu quốc_doanh	8
+thu xử_phạt	8
+trích quỹ	8
+cơ_quan quản_lý	8
+quyền sử_dụng	8
+quyết_định_mức thu	8
+lệnh chi tiền	8
+phân_chia thu	8
+kê_khai nộp	7
+chứng_từ nộp	7
+tài_khoản chuyên	7
+quyền quản_lý	7
+trừ chi_phí	7
+liên tỉnh	7
+thu_phân_chia ngân_sách	7
+thưởng khuyến_khích	7
+khoản tạm_ứng	7
+trích lợi_nhuận	7
+tỉnh tiền giang	7
+ngoại_tệ )	7
+tài_khoản tiền	7
+quản_lý nhà_nước	7
+hạch_toán tài_khoản	7
+ghi "	7
+chậm 10	7
+giấy nộp tiền ngân_sách	7
+phí sử_dụng	7
+đơn_vị sự_nghiệp thu	6
+nộp thuế giá_trị gia_tăng	6
+lệ_phí tuyển_sinh	6
+chi tiền	6
+% tổng_số	6
+tỉnh hưởng 100 %	6
+thống_nhất quản_lý	6
+trích khoản	6
+khoản tiền gửi	6
+hiện_đại_hoá công_nghệ thu phí	6
+phân_chia ngân_sách	6
+chi quỹ	6
+chi ngân_sách	6
+trích tài_khoản tiền gửi	6
+tạm hoãn	6
+đối_tượng xét	6
+địa_phương quản_lý	6
+thu sử_dụng phí	6
+chi_trả tiền	6
+thu bù	6
+tiền phạt vi_phạm hợp_đồng	6
+thanh_toán tiền mua	6
+thông_báo nộp tiền	6
+thu tiền tiền phụ_cấp lưu_trú đại_biểu	6
+thưởng hoàn_thành	6
+đối_với cơ_quan	5
+ngân_hàng trích	5
+mua hàng	5
+hưởng khoản	5
+khoản nợ	5
+số_dư quỹ	5
+đối_với đơn_vị	5
+uỷ_nhiệm chi	5
+phạt chậm nộp	5
+điều_tiết 100 %	5
+thu lợi	5
+tiền phạt chậm	5
+nộp quản_lý sử_dụng lệ_phí	5
+quy_định luật thuế	5
+chuyên thu	5
+quyền thu phí	5
+chi_phí quản_lý	5
+quyền thu phí sử_dụng	4
+ghi đầy_đủ	4
+bao_gồm thuế	4
+trích 10 % tổng_số tiền	4
+thu ngân_sách địa_phương	4
+thu phí bảo_vệ	4
+tiền cước	4
+thanh_toán toàn_bộ	4
+giá_trị hiện_vật	4
+tổng_số tiền phí	4
+phạt chậm	4
+trích 10 %	4
+thông_báo nộp tiền "	4
+hàng viện_trợ	4
+khấu_trừ tiền	4
+lệnh phí	4
+giấy_phép hoạt_động	4
+trợ_cấp tiền	4
+phí kiểm_nghiệm	4
+toàn_bộ chi_phí	4
+cơ_quan thuế xác_định	4
+tổ_chức cá_nhân	4
+thanh_toán chi_phí	4
+giấy nộp	4
+khoản thu_phân_chia tỷ_lệ	4
+cơ_quan ngân_hàng nhà_nước	4
+thuế luật_định	4
+nộp tiền quyền khai_thác	4
+nộp cơ_quan hải_quan	4
+sử_dụng quỹ	3
+ngân_sách huyện hưởng	3
+khai_thác sử_dụng	3
+xác_định tỷ_lệ	3
+hạch_toán chi_phí	3
+đối_với đối_tượng	3
+% giá_trị	3
+thu_phân_chia tỷ_lệ	3
+trích nộp quỹ bảo_hiểm_xã_hội	3
+thuế địa_phương	3
+viện_trợ hoàn	3
+chậm nộp ngân_sách chính_quyền địa_phương	3
+toàn_bộ khoản	3
+thống_nhất quản_lý phí	3
+thanh_toán khoản chi ngân_sách	3
+trích nộp lợi_nhuận ngân_sách	3
+tiền chậm nộp ngân_sách địa_phương hưởng hạch_toán	3
+tổng_số tiền thực	3
+đơn_vị sử_dụng	3
+gửi cục	3
+tiền thù_lao	3
+nộp bảo_hiểm_xã_hội	3
+trích tài_khoản tiền	3
+gia tăn	3
+cục hải_quan tỉnh	3
+phân_cấp quản_lý ngân_sách	3
+thuế miễn	3
+đơn_vị quản_lý	3
+ghi thành	3
+thực nộp ngân_sách	3
+truy nộp	3
+cơ_quan_tài_chính địa_phương	3
+khoản thu tiền chậm nộp ngân_sách	3
+địa_phương quản_lý )	3
+ngân_sách tỉnh hưởng	3
+gửi cơ_quan_tài_chính	3
+đối_với đơn_vị sự_nghiệp thu	3
+ghi nợ	3
+thuế xác_định	3
+nộp 10	3
+thu tiền tiền phụ_cấp lưu_trú đại_biểu cơ_quan	3
+sử_dụng lệ_phí hải_quan	3
+thuế tỉnh	3
+10 %	2
+phí cầu	2
+quản_lý sử_dụng quỹ	2
+nộp bổ_sung chứng_từ	2
+tất_cả đơn_vị	2
+tiền gửi đơn_vị	2
+chậm nộp ngân_sách địa_phương	2
+tài_khoản tạm_ứng	2
+đơn_vị hạch_toán	2
+vi_phạm chế_độ	2
+100 % tiền	2
+cơ_quan hải_quan	2
+tiêu_chuẩn miễn	2
+100 %	2
+thu tiền chậm nộp ngân_sách địa_phương hưởng	2
+thời_hạn sử_dụng	2
+sử_dụng ngân_sách	2
+nghĩa_vụ nợ	2
+điều_tiết ngân_sách	2
+sử_dụng dịch_vụ	2
+cục_trưởng cục hải_quan	2
+tiền thực nộp ngân_sách nhà_nước	2
+cá_nhân vi_phạm	2
+đối_tượng diện	2
+kê_khai đăng_ký	2
+trợ_cấp tiền thuốc	2
+trước_bạ đối_với	2
+chế_độ hạch_toán	2
+ngân_sách chính_quyền địa_phương	2
+tiền chậm nộp đơn_vị	2
+hải_quan tỉnh	2
+sử_dụng điện	2
+bao_gồm chi_phí	2
+chậm nộp ngân_sách	2
+sử_dụng phí thẩm_định	2
+tài_khoản tiền gửi quỹ	2
+học_phí đối_với	2
+tổ_chức hoạt_động	2
+thực nộp ngân_sách nhà_nước	2
+sự_nghiệp thu	2
+quyền nghĩa_vụ	2
+trang_trải chi_phí	2
+100 % ngân_sách	2
+chi_phí dịch_vụ	2
+đối_với khoản thu tiền	2
+lệnh phí lệ_phí	2
+khoản thu_phân_chia ngân_sách	2
+cơ_quan quản_lý nhà_nước	2
+bao_gồm thuế giá_trị	2
+thu tiền chậm	2
+nộp tiền ngân_sách	2
+quỹ đầu_tư	2
+thanh_toán quỹ	2
+tạm gửi	2
+kỷ_luật thu nộp	2
+10 % tổng_số tiền	2
+hướng_dẫn chế_độ	1
+luật thuế tài_nguyên	1
+tổng_cục thuế )	1
+tỷ_lệ %	1
+ngân_sách nhà_nước thu sự_nghiệp	1
+thu bảo_hiểm_xã_hội	1
+chi sự_nghiệp	1
+tiền gửi thanh_toán	1
+chi ngân_sách hàng	1
+tiền thực nộp	1
+% đơn_giá	1
+thời_hạn 10	1
+xác_định thông_báo	1
+đối_với khoản thu tiền chậm nộp ngân_sách địa_phương hưởng	1
+gửi ngân_hàng nhà_nước	1
+tiền thực	1
+công_nghệ sử_dụng ngân_sách nhà_nước	1
+diện hưởng	1
+% quỹ	1
+thông_báo cục	1
+đầy_đủ thủ_tục	1
+% tổng_số tiền thực nộp ngân_sách nhà_nước đối_với nộp	1
+thống_nhất hướng_dẫn	1
+khoản chi ngân_sách	1
+% )	1
+lệnh chi	1
+thực nộp ngân_sách nhà_nước đối_với	1
+quản_lý khai_thác	1
+dịch_vụ công	1
+luật nsnn	1
+chi_trả thù_lao	1
+thanh_toán tài_khoản	1
+chi_cục quản_lý	1
+luật phí lệ_phí	1
+lệ_phí nộp ngân_sách	1
+phí giao_thông	1
+phí bảo_vệ	1
+khoản trừ tiền	1
+giao quyền thu	1
+thu thuỷ_lợi	1
+bù chi	1
+bảo_vệ tài_nguyên	1
+nộp thuế giá_trị	1
+giấy_phép khai_thác	1
+cá_nhân giấy_phép	1
+hướng_dẫn chế_độ quản_lý	1
+sử_dụng quyết_toán	1
+miễn giấy_phép	1
+gửi thông_báo	1
+giao quyền	1
+hướng_dẫn quản_lý	1
+chuyển_giao quyền	1
+nộp lợi_nhuận ngân_sách	1
+tổng_cục quản_lý	1
+xét trợ_cấp	1
+lợi_nhuận ngân_sách	1
+quy_định phân_cấp	1
+giao hàng	1
+hưởng chế_độ	1
+phạt vi_phạm hợp_đồng	1
+lãi_suất tiền	1
+lợi bất_chính	1
+thi_hành thống_nhất	1
+luật phí	1
+thủ_tục đăng_ký	1
+cơ_quan thuế thông_báo	1
+lệnh tạm	1
+hoạt_động dịch_vụ	1
+tiền mai_táng	1
+chậm nộp ngân_sách địa_phương hưởng	1
+đối_với khoản nợ	1
+10 % lợi_nhuận	1
+đối_với tất_cả	1
+nộp ngân_sách nhà_nước đối_với	1
+ghi công	1
+hải_quan nộp	1
+đối_với khoản chi	1
+khai_thác tài_nguyên	1
+% lợi_nhuận	1
+xác_định thời_hạn	1
+tổng_số tiền thực nộp	1
+chế_độ quy_định	1
+hướng_dẫn quản_lý sử_dụng	1
+thông_báo cơ_quan	1
+chi ngân_sách nhà_nước	1
+chủ sử_dụng	1
+chi ngân_sách địa_phương	1
+thời_hạn quy_định	1
+thanh_toán nợ	1
+quy_định quản_lý sử_dụng	1
+hướng_dẫn tiểu	1
+đầy_đủ chế_độ	1
+đối_tượng hưởng	1
+dịch_vụ sử_dụng	1
+thanh_toán hợp_đồng	1
+đối_tượng hưởng chế_độ	1
+nhà_nước giao	1
+giấy_phép sử_dụng	1
+luật ngân_sách nhà_nước	1
+gửi cơ_quan quản_lý	1
+chi_cục hải_quan	1
+% thưởng	1
+trích nộp quỹ	1
+hàng gửi	1

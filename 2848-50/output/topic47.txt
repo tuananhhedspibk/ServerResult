@@ -1,0 +1,823 @@
+giấy chứng_nhận	809
+lập hồ_sơ	432
+lập biên_bản	358
+tiếp_nhận hồ_sơ	280
+đăng_ký kinh_doanh	228
+hồ_sơ đề_nghị	225
+văn_phòng đăng_ký đất_đai	210
+giấy xác_nhận	203
+hồ_sơ hợp_lệ	199
+chi_nhánh văn_phòng đăng_ký đất_đai	194
+đăng_ký thế_chấp	177
+văn_phòng đại_diện	166
+văn_bản đề_nghị	160
+thông_báo văn_bản	157
+bộ_phận tiếp_nhận kết_quả	153
+giấy chứng_nhận đăng_ký kinh_doanh	153
+nộp hồ_sơ	143
+đơn đề_nghị	137
+hồ_sơ đăng_ký	132
+lập danh_sách	131
+ký hợp_đồng	127
+thẩm_định hồ_sơ	124
+gửi hồ_sơ	123
+nộp đơn	113
+giấy chứng_nhận đăng_ký	109
+nêu lý_do	106
+thông_báo kết_quả	97
+hoàn_chỉnh hồ_sơ	96
+lập thành	94
+giấy giới_thiệu	94
+hồ_sơ dự_thầu	94
+đơn yêu_cầu	91
+lập hồ_sơ đề_nghị	91
+chi_cục quản_lý đất_đai	88
+đầy_đủ hồ_sơ	84
+thủ_tục đăng_ký	82
+đăng_ký giao_dịch bảo_đảm	81
+kiểm_tra hồ_sơ	81
+hồ_sơ địa_chính	80
+giấy_tờ liên_quan	78
+giấy đăng_ký	77
+văn_bản thông_báo	73
+hồ_sơ mời_thầu	71
+thời_gian giải_quyết	70
+cơ_sở dữ_liệu đất_đai	69
+hợp_đồng thế_chấp	69
+làm_việc hồ_sơ	66
+kèm hồ_sơ	66
+niêm_yết công_khai	66
+hồ_sơ văn_phòng đăng_ký đất_đai	66
+công_văn đề_nghị	65
+ký xác_nhận	62
+giấy chứng_nhận điều_kiện	62
+văn_phòng đăng_ký đất_đai huyện	60
+văn_bản yêu_cầu	60
+thủ_tục hồ_sơ	59
+yêu_cầu đăng_ký	59
+thông_báo công_khai	58
+giấy chứng_nhận đăng_ký đầu_tư	57
+thẩm_tra hồ_sơ	57
+giấy chứng_nhận điều_kiện kinh_doanh	57
+biên_bản bàn_giao	55
+văn_bản trả_lời	55
+lưu_trữ hồ_sơ	54
+thành_lập văn_phòng đại_diện	54
+cơ_quan tiếp_nhận hồ_sơ	53
+văn_bản xác_nhận	53
+kết_quả giải_quyết	53
+đơn yêu_cầu đăng_ký	52
+tiến_hành thủ_tục	51
+giấy chứng_nhận bị_thương	51
+hồ_sơ trình	51
+văn_bản gửi	49
+giải_quyết hồ_sơ	49
+hồ_sơ gửi	49
+gửi văn_bản	47
+trường_hợp hồ_sơ 16 hồ_sơ làm_việc tiếp_theo	46
+gửi kèm	46
+ghi biên_bản	45
+giấy_tờ chứng_minh	45
+tài_liệu chứng_minh	44
+thời_gian bộ_phận tiếp_nhận kết_quả 0	42
+ghi đầy_đủ	42
+giấy thông_hành	42
+hoàn_thiện hồ_sơ	41
+hồ_sơ tài_liệu	39
+lập thành biên_bản	39
+trả_lời văn_bản	39
+làm_việc hồ_sơ hợp_lệ	38
+đồng_thời thông_báo	38
+trình_tự thủ_tục	38
+đồng_thời gửi	38
+ký giấy chứng_nhận	38
+đăng_ký đất_đai	38
+hợp_đồng ký	37
+- công_văn đề_nghị	37
+bảo_lãnh đăng_ký	37
+đồng_ý văn_bản	37
+đánh_giá hồ_sơ	37
+toàn_bộ hồ_sơ	36
+gửi bản_sao	36
+giấy chứng_minh nhân_dân	36
+sổ đăng_ký	35
+trường_hợp hồ_sơ	35
+thành_phần hồ_sơ	35
+hồ_sơ đề_nghị hỗ_trợ	35
+hồ_sơ chi_nhánh văn_phòng đăng_ký đất_đai	35
+giải_quyết thủ_tục	35
+nộp đơn yêu_cầu	34
+giải_quyết khiếu_nại	34
+nghiên_cứu hồ_sơ	34
+giấy_tờ hợp_lệ	34
+giấy chứng_minh	34
+đổi giấy chứng_nhận	34
+giấy chứng_nhận 16 làm_việc tiếp_theo	34
+bộ_phận tiếp_nhận kết_quả tiến_hành trao giấy chứng_nhận sử_dụng đất	33
+ghi vào_sổ	33
+xác_nhận thay_đổi giấy chứng_nhận	33
+văn_bản bất_động_sản	33
+văn_phòng đăng_ký đất_đai tỉnh	33
+hồ_sơ đầy_đủ	32
+ý_kiến văn_bản	32
+đăng_ký đăng_ký kinh_doanh	31
+bàn_giao hồ_sơ	31
+lưu giấy chứng_nhận giấy chứng_nhận bộ_phận tiếp_nhận kết_quả làm_việc	31
+lập phiếu	31
+thay_đổi nội_dung	31
+ghi giấy	30
+thời_gian thực_hiện thủ_tục	30
+trường_hợp thực_hiện thủ_tục	30
+01 hồ_sơ	30
+đơn phép	30
+cơ_sở tôn_giáo	30
+hồ_sơ đăng_ký quảng_cáo	30
+trao giấy chứng_nhận	29
+giấy_phép hành_nghề	29
+giấy viết	29
+trường_hợp thế_chấp	29
+chứng_nhận tạm_trú	28
+ký văn_bản	28
+cơ_quan đăng_ký giao_dịch bảo_đảm	28
+trụ_sở làm_việc	28
+sổ địa_chính	28
+giấy rút	28
+hồ_sơ thủ_tục	28
+lưu_giữ hồ_sơ	27
+ghi sổ	27
+giấy_tờ gốc	27
+xem_xét giải_quyết	27
+- đơn đề_nghị	27
+giải_quyết tranh_chấp	27
+lưu hồ_sơ	27
+lập sổ	27
+biên_bản ghi	27
+chứng_từ hợp_lệ	27
+sửa_chữa sai_sót	27
+hợp_đồng mua_bán	26
+giấy_tờ cần_thiết	26
+ghi hợp_đồng	26
+thu_hồi giấy_phép	25
+kèm danh_sách	25
+hồ_sơ phép	25
+trách_nhiệm lập	25
+trách_nhiệm lập hồ_sơ	25
+giấy mời	25
+giấy chứng_nhận kiểm_dịch	25
+tài_liệu hồ_sơ	25
+giải_quyết tranh_chấp đất_đai	24
+văn_bản chấp_thuận	24
+văn_bản thoả_thuận	24
+bản_sao giấy_tờ	24
+giấy chứng_nhận xuất_xứ	24
+biên_bản kiểm_tra	24
+gửi thông_báo	24
+đơn đăng_ký	24
+giấy_tờ hồ_sơ	24
+xóa đăng_ký thế_chấp	24
+cá_nhân đăng_ký quảng_cáo	24
+văn_phòng đăng_ký đất_đai ( chi_nhánh văn_phòng đăng_ký đất đa	24
+giấy đăng_ký kiểm_dịch	23
+công_chức làm_việc bộ_phận tiếp_nhận kết_quả	23
+hồ_sơ gốc	23
+điều_kiện thành_lập	23
+xóa đăng_ký	23
+chuẩn_bị hồ_sơ	23
+hợp_đồng bảo_lãnh	23
+giấy_tờ giá_trị	22
+chỉnh_lý hồ_sơ địa_chính	22
+bộ_phận tiếp_nhận kết_quả huyện	22
+ký giấy_báo_tử	22
+trường_hợp thay_đổi	22
+hoàn_tất thủ_tục	22
+biên_bản xác_nhận	22
+trường_hợp hồ_sơ đầy_đủ	22
+chi_nhánh văn_phòng đăng_ký đất_đai thực_hiện	22
+giấy tiếp_nhận hồ_sơ	22
+trách_nhiệm thông_báo	22
+biến_động đất_đai	22
+nội_dung đăng_ký	22
+biên_bản giao_nhận	22
+kiểm_tra xác_nhận	22
+đăng_ký hoạt_động	22
+trường_hợp từ_chối	22
+thông_báo danh_sách	22
+bản_sao giấy chứng_nhận	21
+lệ_phí đăng_ký	21
+tư_cách pháp_nhân	21
+hồ_sơ pháp_lý	21
+kê_khai đăng_ký	21
+chứng_chỉ hành_nghề	21
+thực_hiện thủ_tục đăng_ký	21
+luân_chuyển hồ_sơ	21
+lập chứng_từ	21
+chứng_từ bảo_lãnh	21
+đối_với trường_hợp giấy chứng_nhận	21
+chỉnh_lý biến_động	21
+ký giấy chứng_nhận kết_quả	21
+văn_phòng đăng_ký đất_đai kiểm_tra	21
+đăng_ký thay_đổi	21
+lập biên_bản xác_nhận	21
+trách_nhiệm đăng_ký thành_lập văn_phòng đại_diện	20
+giải_quyết hồ_sơ đăng_ký quảng_cáo	20
+đầy_đủ thủ_tục	20
+in giấy chứng_nhận	20
+nộp 01 hồ_sơ	20
+giải_quyết thủ_tục hành_chính đất_đai	20
+thẩm_định hồ_sơ đề_nghị	20
+bảng đăng_ký	20
+giấy chứng_nhận bệnh_binh	20
+trách_nhiệm kiểm_tra hồ_sơ	20
+chi_nhánh văn_phòng đăng_ký đất_đai quét	20
+kinh_doanh bất_động_sản	20
+thay_đổi nội_dung thế_chấp	20
+sổ theo_dõi biến_động đất_đai	20
+giấy_phép kinh_doanh	20
+ký cam_kết	20
+hồ_sơ giấy_phép	20
+chứng_nhận giấy	20
+kết_quả thẩm_định	20
+ký giấy chứng_nhận ủy_quyền	20
+đơn yêu_cầu bảo_hộ	20
+làm_việc hồ_sơ chi_nhánh văn_phòng đăng_ký đất_đai	20
+kèm bản_sao	19
+công_khai xin_lỗi	19
+xác_nhận đăng_ký	19
+lập thành_văn_bản	19
+đăng_ký hành_nghề	19
+xác_nhận nguồn_gốc	19
+thủ_tục hành_chính	19
+lưu ký	19
+đánh_giá hồ_sơ dự_thầu	19
+văn_bản phép	19
+gửi đơn	19
+lập biên_bản ghi	19
+thực_hiện thủ_tục	19
+chứng_thực hợp_đồng	19
+gửi văn_bản đề_nghị	19
+giấy_phép thành_lập	18
+xác_minh thực_địa	18
+quyền yêu_cầu	18
+biên_bản lập	18
+bản_sao giấy chứng_nhận đăng_ký	18
+đăng_ký thay_đổi nội_dung	18
+hồ_sơ chi_nhánh văn_phòng đăng_ký đất_đai làm_việc	18
+đại_diện hợp_pháp	18
+cơ_quan công_chứng	18
+bộ_phận tiếp_nhận kết_quả văn_phòng ủy_ban nhân_dân huyện trách_nhiệm	18
+lập thành 02	18
+trách_nhiệm tiếp_nhận	18
+ký biên_bản	18
+in giấy	18
+bảo_lãnh thực_hiện	18
+ký_tên đóng_dấu	18
+nộp 01 hồ_sơ trung_tâm hành_chính công tỉnh	18
+giấy_tờ kèm	18
+chứng_minh nhân_dân	18
+thời_gian thực_hiện	18
+bảo_lãnh dự_thầu	18
+bản_sao giấy khai_sinh	18
+giấy biên_nhận	18
+giấy khai_sinh	18
+ký ghi	18
+hồ_sơ đăng_ký kinh_doanh	17
+in giấy chứng_nhận hồ_sơ trình	17
+thu_hồi chứng_chỉ hành_nghề	17
+gửi phiếu ý_kiến	17
+thời_điểm nộp	17
+kèm biên_bản	17
+giấy chứng_tử	17
+ký_kết_hợp_đồng thế_chấp	17
+thư cam_kết	17
+đối_chiếu hồ_sơ	17
+thủ_tục rút_gọn	17
+chứng_thực chữ_ký	17
+pháp_lý hồ_sơ	17
+chứng_từ liên_quan	17
+giao_nhận hồ_sơ	17
+thời_gian thẩm_định	17
+kiểm_tra văn_bản	17
+hồ_sơ hoàn_công	17
+thu_hồi giấy chứng_nhận cơ_sở điều_kiện an_toàn thực_phẩm	17
+văn_bản yêu_cầu sửa_đổi	17
+tài_liệu liên_quan	17
+thoả_thuận văn_bản	17
+yêu_cầu công_chứng	17
+hẹn kết_quả	16
+chấp_thuận văn_bản	16
+bản_sao công_chứng	16
+lập_luận tài_liệu	16
+đăng_ký quảng_cáo	16
+kết_quả chi_nhánh văn_phòng đăng_ký đất_đai	16
+giao_dịch bảo_đảm	16
+giấy_phép thực_hiện quảng_cáo	16
+coi đồng_ý	16
+đăng_ký bảo_hộ	16
+biên_bản nghiệm_thu	16
+giấy đăng_ký hoạt_động	16
+trung_tâm giải_quyết thủ_tục hành_chính tỉnh trách_nhiệm	16
+đơn khiếu_nại	15
+đăng_ký hộ_tịch	15
+tiến_hành kiểm_tra	15
+trình ủy_ban nhân_dân huyện giấy chứng_nhận	15
+thủ_tục giấy_phép	15
+nội_dung ghi	15
+đăng_ký thành_lập văn_phòng đại_diện	15
+đăng_ký công_dân	15
+giấy chứng_nhận tiêu_chuẩn điều_kiện	15
+lập danh_mục	15
+tiếp_nhận kết_quả	15
+kết_quả thẩm_tra	15
+thực_hiện thủ_tục hành_chính	15
+đại_diện lãnh_đạo	15
+chi_cục quản_lý đất_đai kiểm_tra	15
+ghi lý_do	15
+niêm_yết trụ_sở	14
+- bản_sao	14
+sổ hộ_khẩu	14
+số_liệu địa_chính	14
+tiến_hành kiểm_tra hồ_sơ	14
+xử_lý_tài_sản thế_chấp	14
+phép kinh_doanh	14
+bản_sao hợp_lệ	14
+gia_hạn thời_gian	14
+thời_gian gia_hạn	14
+hồ_sơ chứng_từ	14
+bảo_lãnh thực_hiện hợp_đồng	14
+đầy_đủ nội_dung	14
+mời đại_diện	14
+đơn thư khiếu_nại	14
+văn_bản nêu	14
+bản_sao hợp_pháp	14
+văn_phòng đăng_ký đất_đai quét	14
+thông_báo kết_quả thẩm_định	14
+giấy_phép lưu_hành	14
+văn_bản thông_báo xử_lý_tài_sản thế_chấp	14
+nộp hồ_sơ đăng_ký	14
+lý_do khách_quan	13
+gửi báo_cáo	13
+giải_quyết thủ_tục hành_chính	13
+cơ_quan tiếp_nhận	13
+làm_việc tiếp_theo	13
+nội_dung văn_bản	13
+lập bảng kê	13
+văn_bản ủy_quyền	13
+giấy chứng_nhận cơ_sở điều_kiện an_toàn thực_phẩm	13
+thủ_tục thành_lập	13
+tiếp_nhận hồ_sơ đăng_ký	13
+thực_hiện hợp_đồng	13
+chi_nhánh thương_nhân	13
+vướng_mắc đề_nghị	13
+đăng_ký lưu_hành	13
+hồ_sơ mời sơ_tuyển	12
+tranh_chấp đất_đai	12
+thu_hồi giấy chứng_nhận	12
+văn_bản đồng_ý	12
+đăng_ký văn_bản thông_báo	12
+đề_nghị giấy_phép	12
+thụ_lý hồ_sơ	12
+ghi phiếu	12
+bản_sao giấy chứng_nhận đăng_ký kinh_doanh	12
+điều_kiện làm_việc	12
+lập biên_bản vi_phạm	12
+đăng_ký kiểm_dịch	12
+biên_bản chữ_ký	12
+nộp đầy_đủ	12
+kết_quả kiểm_tra	12
+biên_bản họp	12
+thông_báo cơ_quan	12
+chứng_từ gốc	12
+xoá đăng_ký	12
+tóm_tắt nội_dung	12
+chấp_nhận đơn	12
+giá_trị pháp_lý	12
+kết_quả xác_minh	12
+hồ_sơ chi_cục quản_lý đất_đai	11
+thời_gian địa_điểm	11
+giấy chứng_nhận bộ_phận tiếp_nhận kết_quả	11
+địa_điểm làm_việc	11
+giấy uỷ_quyền	11
+đăng_ký biến_động	11
+biên_nhận hồ_sơ	11
+văn_phòng đăng_ký đất_đai thực_hiện thẩm_tra hồ_sơ	11
+gia_hạn giấy_phép	11
+gửi cơ_quan	11
+thời_hạn giải_quyết	11
+xuất_trình giấy_tờ	11
+cơ_sở pháp_lý	11
+danh_sách đề_nghị	11
+bộ_phận tiếp_nhận kết_quả huyện trao sử_dụng đất	11
+trường_hợp cần_thiết	11
+kèm sơ_đồ	11
+giấy chứng_nhận tiêu_chuẩn	11
+hồ_sơ bệnh_án	11
+cam_kết hợp_đồng	11
+xác_nhận cơ_quan	11
+chấm_dứt hợp_đồng	11
+quản_lý đất_đai	11
+xác_nhận thay_đổi	10
+thoả_thuận hợp_đồng	10
+bảng kê	10
+hồ_sơ đăng_ký thế_chấp	10
+gửi phiếu	10
+bản_sao giấy	10
+chứng_từ chứng_minh	10
+cơ_quan đại_diện	10
+- trường_hợp	10
+hoạt_động văn_phòng đại_diện	10
+thực_hiện đầy_đủ	10
+xử_lý_tài_sản bảo_đảm	10
+thủ_tục cần_thiết	10
+văn_phòng đăng_ký đất_đai tiến_hành kiểm_tra hồ_sơ	10
+thời_gian 0	10
+đề_nghị cơ_quan	10
+quyền nộp đơn	10
+thời_điểm bàn_giao	10
+tiếp_nhận đơn	10
+ký giấy	9
+phép thành_lập	9
+tài_liệu cần_thiết	9
+điều_kiện phép	9
+bảo_đảm yêu_cầu	9
+thực_hiện nghĩa_vụ bảo_lãnh	9
+giấy giới_thiệu cơ_quan	9
+đăng_ký giao_dịch	9
+sổ theo_dõi	9
+đăng_ký thực_hiện khuyến_mại	9
+số_liệu địa_chính văn_phòng đăng_ký đất_đai	9
+văn_phòng đăng_ký đất_đai thực_hiện	9
+ghi "	9
+yêu_cầu cơ_quan	9
+đơn đặt_hàng	9
+ghi giấy_phép	9
+thay_đổi nội_dung đăng_ký	9
+đương_sự yêu_cầu	9
+chứng_nhận điều_kiện	9
+vào_sổ theo_dõi	9
+yêu_cầu đăng_ký thế_chấp	9
+giấy chứng_nhận quyền	8
+nghĩa_vụ bảo_lãnh	8
+tiến_hành xác_minh	8
+nộp lệ_phí	8
+điều_kiện bảo_đảm	8
+hồ_sơ đề_nghị công_nhận	8
+nghiên_cứu giải_quyết	8
+thủ_tục nộp	8
+phiếu ý_kiến	8
+kết_quả giải_quyết thủ_tục hành_chính	8
+xác_nhận đơn	8
+lưu giấy chứng_nhận	8
+lệ_phí đăng_ký giao_dịch bảo_đảm	8
+biến_động hồ_sơ địa_chính	8
+giấy_phép hoạt_động	8
+hồ_sơ kết_quả	8
+lập bảng	8
+trách_nhiệm trả_lời văn_bản	8
+bảo_lãnh quyền	8
+hợp_đồng ký_kết	8
+yêu_cầu sửa_chữa sai_sót	8
+hồ_sơ mời	8
+cử đại_diện	8
+đầy_đủ giấy_tờ	8
+thủ_tục hành_chính đất_đai	7
+thành biên_bản	7
+đăng_ký thay_đổi nội_dung thế_chấp	7
+cá_nhân kinh_doanh	7
+giải_quyết đơn	7
+làm_việc cơ_sở	7
+bộ_phận tiếp_nhận	7
+đăng_ký kết_hôn	7
+báo_cáo văn_bản	7
+thời_điểm nộp hồ_sơ	7
+thời_gian làm_việc	7
+lập biên_bản xử_lý	7
+đầy_đủ tài_liệu	7
+chụp ảnh	7
+cơ_sở đề_nghị	7
+trình lãnh_đạo	7
+đề_nghị gia_hạn	7
+bản_sao giấy_phép	7
+chứng_nhận đăng_ký	7
+thủ_tục giấy chứng_nhận	7
+kết_quả làm_việc	7
+hành_nghề quản_lý	7
+thực_hiện trình_tự	7
+đại_diện cơ_quan	7
+hồ_sơ đề_xuất	7
+thủ_tục giải_quyết	7
+chuẩn_bị nội_dung	7
+nội_dung quảng_cáo	7
+đăng_ký thành_lập	7
+gửi hồ_sơ đề_nghị	7
+- chứng_nhận hợp_đồng	6
+bàn_giao toàn_bộ	6
+trách_nhiệm báo_cáo	6
+thu_hồi giấy	6
+chi_nhánh văn_phòng đăng_ký đất_đai tiến_hành	6
+trường_hợp nêu	6
+cam_kết thực_hiện	6
+ý_kiến trả_lời	6
+thu_hồi chứng_chỉ	6
+mời sơ_tuyển	6
+trường_hợp phát_hiện	6
+giải_quyết đơn thư	6
+cung_cấp đầy_đủ	6
+bảo_đảm quyền	6
+- biên_bản	6
+yêu_cầu bảo_hộ	6
+thể_hiện đầy_đủ	6
+đại_diện chính_quyền	6
+thủ_tục giải_quyết quyền_lợi	6
+lưu giấy chứng_nhận giấy chứng_nhận bộ_phận tiếp_nhận kết_quả	6
+điều_kiện cần_thiết	6
+bộ_phận tiếp_nhận kết_quả 0	6
+đơn thư	6
+tiếp_nhận văn_bản	6
+kết_quả đánh_giá	6
+ký đơn	6
+quyền khiếu_nại	6
+cá_nhân đăng_ký	6
+kết_quả thực_hiện	6
+đơn giấy_phép	5
+trách_nhiệm kiểm_tra	5
+thẩm_định thông_báo	5
+quy_trình lập	5
+chi_cục văn_thư	5
+tài_liệu pháp_lý	5
+giải_quyết vướng_mắc	5
+chứng_nhận nghỉ	5
+kết_quả thẩm_định trình	5
+( chi_nhánh văn_phòng đăng_ký đất đa	5
+giấy chứng_nhận kết_hôn	5
+giấy_tờ quy_định	5
+văn_bản liên_quan	5
+văn_bản cơ_quan	5
+kết_quả giải_quyết thủ_tục	5
+vi_phạm hợp_đồng	5
+chứng_từ hợp_pháp	5
+tiến_hành trao	5
+đề_nghị xếp_hạng	5
+nộp 01	5
+thẩm_quyền giấy chứng_nhận	5
+báo_cáo kết_quả	5
+thủ_tục xét	5
+giấy chứng_nhận đối_với trường_hợp giấy chứng_nhận	5
+đánh_giá kết_quả	5
+ý_kiến văn_bản gửi	5
+quyền nghĩa_vụ	5
+bộ_phận tiếp_nhận kết_quả văn_phòng ủy_ban nhân_dân huyện	5
+nội_dung liên_quan	5
+gửi văn_phòng	5
+chứng_nhận hợp_đồng	5
+trách_nhiệm chính_xác	5
+trung_tâm giải_quyết thủ_tục hành_chính tỉnh trách_nhiệm hồ_sơ	5
+trường_hợp đương_sự	5
+báo_cáo thẩm_định	5
+ý_kiến thoả_thuận	5
+ý_kiến thẩm_định	5
+cơ_sở ý_kiến thẩm_định	4
+thời_gian nghỉ	4
+văn_phòng đăng_ký đất_đai thực_hiện công_việc	4
+kết_quả xử_lý	4
+nội_dung hoạt_động	4
+hồ_sơ bộ_phận tiếp_nhận kết_quả	4
+làm_việc kết_quả	4
+nộp lệ_phí đăng_ký	4
+quân_khu ký	4
+văn_phòng đăng_ký đất_đai tiến_hành	4
+biểu_mẫu đăng_ký	4
+giấy tiếp_nhận	4
+đầy_đủ nghĩa_vụ	4
+nội_dung giấy_phép	4
+đăng_ký kinh_doanh quy_định	4
+kiểm_tra xử_lý	4
+quyền_lợi nghĩa_vụ	4
+vướng_mắc đề_nghị cơ_quan	4
+danh_mục tài_liệu	4
+ủy_ban nhân_dân huyện giấy chứng_nhận	4
+lập báo_cáo kết_quả	4
+nộp 01 hồ_sơ bộ_phận tiếp_nhận kết_quả	4
+chi_nhánh văn_phòng	4
+ảnh chụp	4
+thông_báo văn_bản cơ_quan	4
+văn_bản nêu lý_do	4
+hồ_sơ vụ_việc	4
+yêu_cầu đăng_ký thay_đổi nội_dung thế_chấp	4
+thời_gian bộ_phận tiếp_nhận kết_quả	4
+phép sử_dụng	4
+điều_kiện kinh_doanh	4
+đề_nghị đổi	4
+thư khiếu_nại	4
+giải_quyết quyền_lợi	4
+đóng_dấu "	4
+kết_quả xét_duyệt	4
+xem_xét xử_lý	3
+đất_đai huyện	3
+thủ_tục giấy	3
+tài_liệu lưu_trữ	3
+trách_nhiệm trả_lời	3
+xác_nhận chính_quyền	3
+đề_nghị phép	3
+đối_với trường_hợp	3
+khai_báo tạm_trú	3
+thời_hạn nộp	3
+quyền quản_lý	3
+bảo_đảm điều_kiện	3
+in giấy chứng_nhận hồ_sơ	3
+giấy chứng_nhận kết_quả	3
+lập gửi	3
+làm_việc hồ_sơ văn_phòng đăng_ký đất_đai	3
+điều_kiện hành_nghề	3
+địa_điểm kinh_doanh	3
+xét đơn	3
+giấy chứng_nhận quốc_tịch	3
+hợp_đồng làm_việc	3
+trách_nhiệm xem_xét	3
+ghi thành	3
+tiến_hành lập	3
+chuẩn_bị đầy_đủ	3
+( ghi	3
+hoạt_động kinh_doanh	3
+thành_lập văn_phòng	3
+kèm giấy_tờ	3
+tiêu_chuẩn điều_kiện	3
+cung_cấp tài_liệu	3
+giấy chứng_nhận ủy_quyền	3
+kinh_doanh điều_kiện	3
+giấy chứng_nhận đối_với trường_hợp	3
+xem_xét chấp_thuận	3
+giải_quyết trả_lời	3
+lệ_phí công_chứng	3
+thực_hiện nghĩa_vụ	3
+trách_nhiệm cung_cấp	3
+đất_đai thực_hiện	3
+đầy_đủ điều_kiện	3
+giải_quyết hồ_sơ đăng_ký	3
+cơ_sở dữ_liệu	3
+chuẩn_bị điều_kiện	3
+trách_nhiệm hồ_sơ chi_nhánh văn_phòng đăng_ký đất_đai làm_việc	2
+chi_nhánh văn_phòng đăng_ký đất đa	2
+kê_khai nộp	2
+báo_cáo thẩm_tra	2
+giấy chứng_nhận giấy chứng_nhận	2
+thực_hiện khuyến_mại	2
+văn_bản sửa_đổi	2
+thực_hiện quảng_cáo	2
+trung_tâm giải_quyết thủ_tục hành_chính	2
+điều_kiện an_toàn	2
+văn_bản trình	2
+cơ_quan thực_hiện thủ_tục hành_chính	2
+làm_việc bộ_phận	2
+thời_hạn sử_dụng	2
+làm_việc hồ_sơ chi_nhánh văn_phòng đăng_ký	2
+thẩm_định trình	2
+lập mẫu	2
+làm_việc cơ_quan	2
+đối_chiếu số_liệu	2
+cơ_sở kinh_doanh	2
+giấy chứng_nhận hồ_sơ trình	2
+trách_nhiệm thực_hiện	2
+ý_kiến đồng_ý	2
+thành 02	2
+tranh_chấp hợp_đồng	2
+cơ_quan địa_chính	2
+cá_nhân phép	2
+văn_phòng đăng_ký đất đa	2
+tiến_hành trao giấy chứng_nhận	2
+thẩm_quyền giấy_phép	2
+trách_nhiệm theo_dõi	2
+văn_phòng đăng_ký đất_đai thực_hiện công_việc quy_định	2
+quản_lý sử_dụng	2
+thực_hiện kê_khai	2
+nội_dung thẩm_định	2
+đơn yêu_cầu đăng_ký thay_đổi	2
+văn_bằng bảo_hộ	2
+công_chức làm_việc bộ_phận	2
+hồ_sơ đề_nghị áp_dụng	2
+cơ_quan quản_lý	2
+chi_nhánh văn_phòng đăng_ký đất_đai làm_việc	2
+bàn_giao đất	2
+bộ_phận tiếp_nhận kết_quả văn_phòng ủy_ban nhân_dân huyện trách_nhiệm hồ_sơ	2
+giải_quyết quyền_lợi đối_với	2
+cá_nhân vi_phạm	2
+bảng kê_khai	2
+đơn rút	2
+thực_hiện nội_dung	2
+lục hồ_sơ	2
+báo_cáo lãnh_đạo	2
+trách_nhiệm quản_lý	2
+chứng_nhận đăng_ký kinh_doanh	2
+cơ_quan thực_hiện thủ_tục	2
+lập báo_cáo	2
+thời_hạn gửi báo_cáo	2
+bảo_đảm thực_hiện nghĩa_vụ	2
+đăng_ký quyền	2
+hồ_sơ bộ_phận tiếp_nhận	2
+huyện giấy chứng_nhận	2
+xét đơn yêu_cầu	2
+hồ_sơ đề_nghị xét	1
+thương_nhân kinh_doanh	1
+bảo_đảm toàn_bộ	1
+chứng_nhận bị_thương	1
+cơ_sở ý_kiến	1
+kiểm_tra phát_hiện	1
+thời_gian 01	1
+trách_nhiệm cơ_quan	1
+nộp toàn_bộ	1
+xử_lý trường_hợp	1
+làm_việc thời_hạn	1
+( bản_sao	1
+thông_báo xử_lý_tài_sản thế_chấp	1
+công_nhận kết_quả	1
+điều_kiện hỗ_trợ	1
+quyền công_dân	1
+dự_thảo văn_bản	1
+sổ theo_dõi biến_động	1
+thời_hạn gửi	1
+phép hoạt_động	1
+cung_cấp số_liệu	1
+nghĩa_vụ nộp	1
+ý_kiến thẩm_định văn_bản	1
+hồ_sơ dự_thảo	1
+văn_phòng đăng_ký quyền sử_dụng đất	1
+vi_phạm quyền	1
+giấy_phép quảng_cáo	1
+kiểm_tra quản_lý sử_dụng	1
+theo_dõi kiểm_tra	1
+lệ_phí giấy_phép hoạt_động	1
+lệ_phí giấy_phép	1
+hồ_sơ văn_phòng đăng_ký	1
+giải_quyết công_việc	1
+giấy_phép đầu_tư	1
+mẫu phiếu	1
+thông_báo thu_hồi	1
+báo_cáo kết_quả thẩm_định	1
+hồ_sơ trung_tâm hành_chính công	1
+trách_nhiệm hồ_sơ chi_nhánh văn_phòng đăng_ký đất_đai	1
+hạn hợp_đồng	1
+liên_quan thực_hiện	1
+nghiệm_thu kết_quả	1
+xử_lý vi_phạm	1
+làm_việc bộ_phận tiếp_nhận kết_quả	1
+trung_tâm hành_chính công tỉnh	1
+nội_dung thế_chấp	1
+cơ_quan tiến_hành	1
+bộ_phận tiếp_nhận kết_quả văn_phòng ủy_ban nhân_dân	1
+theo_dõi quản_lý	1
+số_liệu địa_chính cơ_quan	1
+cá_nhân giấy_phép	1
+chứng_minh thực_hiện	1
+tiến_hành công_việc	1
+trụ_sở cơ_quan	1
+giấy chứng_nhận quyền sử_dụng	1
+bảo_đảm an_toàn	1
+xử_lý đơn khiếu_nại	1
+tình_trạng pháp_lý	1
+ghi công	1
+hạn sử_dụng	1
+01 (	1
+xác_nhận giấy	1
+thay_đổi giấy chứng_nhận	1
+đề_nghị công_nhận	1
+chi_nhánh văn_phòng đăng_ký	1
+theo_dõi biến_động đất_đai	1
+thẩm_định nội_dung	1
+hồ_sơ bộ_phận	1
+xử_lý văn_bản	1
+quản_lý hành_chính	1
+in_ấn tài_liệu	1
+thẩm_quyền giải_quyết khiếu_nại	1
+đầu_tư kinh_doanh	1
+ix -	1
+chỉnh_lý hồ_sơ	1
+hồ_sơ văn_phòng	1
+thủ_tục hành_chính sai_sót	1
+văn_phòng đăng_ký đất_đai tiến_hành kiểm_tra	1
+xử_lý kết_quả	1
+liên_quan kiểm_tra	1
+đánh_giá nghiệm_thu	1
+tiếp_nhận văn_bản kê_khai	1
+đối_với bị_thương	1
+cá_nhân hoạt_động	1
+01 01	1
+chứng_nhận tiêu_chuẩn điều_kiện	1
+đổi giấy	1
+dữ_liệu đất_đai	1
+giấy nộp	1
+thông_báo nộp	1
+sử_dụng con_dấu	1
+thời_hạn 02	1
+công_chức làm_việc	1
+chứng_nhận tiêu_chuẩn	1
+cá_nhân liên_quan	1
+cơ_quan hành_chính	1
+văn_phòng đăng_ký	1
+kiểm_tra thực_hiện	1
+tranh_chấp liên_quan	1
+phép thực_hiện quảng_cáo	1
+gửi cơ_quan quản_lý	1
+đề_nghị hỗ_trợ	1
+lưu giấy chứng_nhận giấy chứng_nhận	1
+thời_hạn 02 làm_việc	1
+vào_sổ đăng_ký	1
+giấy_phép sử_dụng	1

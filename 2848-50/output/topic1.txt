@@ -1,0 +1,789 @@
+- chi	802
+khoản chi	579
+nội_dung chi	496
+đi công_tác	427
+chi công_tác	222
+phục_vụ công_tác	212
+chi hỗ_trợ	208
+khoản chi_phí	204
+chế_độ chi_hội_nghị	192
+- chi_phí	177
+định_mức chi	177
+chi hoạt_động	174
+chi thường_xuyên	149
+chi bồi_dưỡng	146
+- đối_với	143
+thanh_toán tiền	140
+tiền công	135
+chế_độ công_tác_phí	126
+nhiệm_vụ chi	110
+quy_định_chế_độ công_tác_phí	109
+phục_vụ hoạt_động	103
+tiền bồi_dưỡng	93
+nhân_viên phục_vụ	93
+kinh_phí hoạt_động	87
+chi công_tác_phí	85
+khoản tiền	80
+chi tiền	79
+kinh_phí chi	78
+đoàn công_tác	75
+chế_độ chi_tiêu	74
+sửa_chữa thường_xuyên	74
+mua_sắm trang_thiết_bị	74
+tiền mua	73
+thanh_toán chi_phí	73
+chi mua_sắm	72
+chi xây_dựng	71
+- chi hỗ_trợ	70
+thanh_toán khoán	70
+phục_vụ trực_tiếp	69
+chi thù_lao	69
+chế_độ bồi_dưỡng	69
+chi cụ_thể	69
+trường_hợp đi công_tác	67
+chi_phí hoạt_động	61
+tổ_chức hội_nghị	60
+đối_với hoạt_động	59
+chi mua	59
+trực_tiếp phục_vụ	59
+kinh_phí hoạt_động thường_xuyên	58
+mua_sắm tập_trung	56
+khoán chi	55
+chi đào_tạo	55
+bù_đắp chi_phí	54
+lệnh chi tiền	54
+hỗ_trợ tiền	53
+chi_phí thực_tế	53
+- khoản chi	52
+đơn_vị cử đi công_tác	51
+tiền thuê	51
+kiểm_soát chi	50
+khoản kinh_phí	50
+tài_chính quy_định_chế_độ công_tác_phí	49
+toàn_bộ chi_phí	49
+đối_với khoản chi	49
+chi_phí quản_lý	49
+cử đi công_tác	48
+chi tối_đa	47
+chế_độ chi tổ_chức hội_nghị	47
+khoản chi thường_xuyên	46
+nội_dung chi :	45
+chi sự_nghiệp	45
+chi tổ_chức hội_nghị	45
++ chi	44
+- chi mua_sắm	44
+định_mức chi_tiêu	42
+công_tác quản_lý_tài_chính	42
+chứng_từ thanh_toán	41
+- cán_bộ	41
+quy_định nội_dung chi	41
+hội_nghị tổng_kết	40
+nội_dung hoạt_động	40
+hoạt_động giám_sát	40
+chi hoạt_động thường_xuyên	40
+bồi_dưỡng cán_bộ	39
+khoản đóng_góp	39
+tiền thù_lao	39
+chi khen_thưởng	39
+bồi_dưỡng hiện_vật	39
+chi_phí hợp_lý	39
+nội_dung chi chi	39
+: thanh_toán giá thuê phòng ngủ	38
+thanh_toán hình_thức khoán	38
+hỗ_trợ chi_phí	38
+- chi công_tác	38
+phương_tiện đi_lại	37
+in_ấn tài_liệu	37
+khoán :	36
+tiền thuê phòng nghỉ	36
+thanh_toán trực_tiếp	36
+đối_với cán_bộ	36
+đối_với khoản	36
+chi_phí đi_lại	35
+hội_nghị sơ_kết tổng_kết chuyên_đề	35
+thuê chuyên_gia	35
+thời_gian đi	34
+tập_huấn nghiệp_vụ	34
+mục chi	34
+chi sửa_chữa	34
+chi_phí đào_tạo	34
+- trường_hợp	34
+định_mức chi_phí	33
+trực_tiếp tham_gia	33
+- chi hoạt_động	32
+thanh_toán hóa_đơn thực_tế	32
+dự_toán chi thường_xuyên	31
+quản_lý_tài_chính đối_với	31
+hoạt_động thường_xuyên	31
+thuê địa_điểm	31
+thuê phòng	31
+bồi_dưỡng tập_luyện	31
+chi_phí cần_thiết	30
+quy_định chi công_tác_phí	30
+chi nội_dung	29
+chi điều_tra	29
+hướng_dẫn chế_độ quản_lý_tài_chính đối_với	28
+kinh_phí mua_sắm	28
+thường_xuyên đi công_tác lưu_động 10 /	28
+tiền công_tác_phí	28
+khoản chi_tiêu	27
+khoán kinh_phí	27
+chế_độ quản_lý_tài_chính	27
+chứng_từ hợp_pháp	27
+kinh_phí chi_trả	27
+kinh_phí chi thường_xuyên	27
+chi_phí mua	27
+thanh_toán tiền thuê phòng nghỉ	27
+nội_dung chi hoạt_động	26
+công_tác quản_lý	26
+- hội_nghị chuyên_môn	26
+thanh_toán giá thuê phòng thực_tế	26
+chi_phí nhân_công	26
+hội_nghị chuyên_môn	25
+công_tác phòng	25
+chi bảo_đảm hoạt_động giám_sát	25
+đảm_bảo tiết_kiệm	25
+chi_phí liên_quan	25
+tiền thuê chỗ	25
+chi_phí thường_xuyên	25
+thanh_toán khoản	25
+tiết_kiệm chi_phí	25
+: chi tối_đa	24
+thực_hiện khoán	24
+- chi tiền	24
+bảo_đảm hoạt_động	24
+bao_gồm chi_phí	24
+khoản chi liên_quan trực_tiếp	23
+thực_tế phát_sinh	23
+công_tác quản_lý_tài_chính đối_với	23
+đảm_bảo hoạt_động	23
+chi thực_tế	23
+chi_phí trực_tiếp	23
+chi nội_dung :	22
++ chi_phí	22
+bồi_dưỡng nghiệp_vụ	22
+chi hỗ_trợ tiền	22
+bồi_dưỡng đối_với	22
+tiểu_ban chuyên_môn	22
+chi thuê chuyên_gia	22
+thuốc_men bồi_dưỡng	22
+khoán tiền công_tác_phí	22
+thuê phòng nghỉ	22
+- chi đào_tạo	22
+nội_dung công_việc	22
+công_tác nhà_trẻ	22
+dịch tài_liệu	22
+lớp tập_huấn	22
+thanh_toán tiền thuê phòng nghỉ công_tác	22
+hưởng thù_lao	22
++ đi công_tác	22
+chi_phí hoạt_động thường_xuyên	21
+chế_độ hiện_hành	21
+chi công_tác quản_lý	21
+dự_toán chi_phí	21
+đi công_tác thanh_toán	21
+thời_gian công_tác thực_tế	21
+thanh_toán khoản chi_phí	21
+chi bù chênh_lệch	21
+bù_đắp khoản chi_phí	21
+- chi khen_thưởng	21
+tiền ăn_hàng	20
+xăng xe	20
+nội_dung chi_tiêu	20
+định_mức hỗ_trợ	20
+phương_thức thanh_toán	20
+trường_hợp đi công_tác đối_tượng thuê phòng nghỉ	20
+thanh_toán khoán tiền tự_túc phương_tiện	20
+tài_chính quy_định_chế_độ	20
+- chi bồi_dưỡng	20
+khoán tiền	20
+chi bình_quân	20
+chi_tiêu hội_nghị	20
+thanh_toán công_tác_phí	20
+hội_nghị tập_huấn triển_khai nhiệm_vụ đơn_vị sự_nghiệp công_lập	19
+kinh_phí thực_hiện	19
+chi phục_vụ	19
+hoá_đơn thực_tế	19
+chi hỗ_trợ cán_bộ	19
+đến_nơi công_tác	19
+trừ chi_phí	19
+thuê hội_trường	19
+chi công_tác tuyên_truyền	19
+chứng_từ chi_tiêu hợp_pháp	19
+tiền_phương_tiện đi_lại	19
+phương_tiện làm_việc	19
+chi thực_tế tổ_chức tập_trung	19
+nội_dung chi nêu	19
+phục_vụ công_tác quản_lý	19
+chi tương_ứng	19
+chi nêu	18
+- chi văn_phòng_phẩm	18
+khoản mục	18
+dự_toán chi	18
+chuyến đi công_tác	18
+phương_tiện phục_vụ	18
+chi sai	18
+chi_phí phát_sinh	18
+thanh_toán tiền chi_phí đi_lại	18
+tự_túc phương_tiện	18
+khoản chi tính_chất	18
+- chi mua	18
+chế_độ thanh_toán công_tác_phí	18
+trang_sách định_mức	18
+thanh_toán chế_độ công_tác_phí	18
+chi nhà_trẻ	18
+tham_gia đoàn	18
+phục_vụ hội_nghị	18
+chi hoạt_động giám_sát	18
+chi công_tác chỉ_đạo	18
+hỗ_trợ hoạt_động	17
+kinh_phí tổ_chức hội_nghị	17
+chế_độ bồi_dưỡng đối_với	17
+hợp_đồng thuê	17
+kinh_phí hợp_pháp	17
+thuê xe	17
+công_tác thực_tế	17
+chế_độ thù_lao	17
+đi phục_vụ	17
+một_số khoản chi	17
+tiền công thuê	17
+bảo_đảm công_tác	17
+khoản thu_nhập thực_tế	17
+hội_nghị tập_huấn triển_khai nhiệm_vụ công_tác	17
+thường_xuyên đi công_tác lưu_động	17
+chế_độ kế_toán	17
+thanh_toán tiền thuê	17
+hóa_đơn thực_tế	17
+công tá	17
+thanh_toán tiền_lương	16
+thực_hiện chế_độ	16
+đoàn giám_sát	16
+trực_tiếp công_tác	16
+tính_chất đặc_thù	16
+đi công_tác đoàn	16
+chi_phí vận_chuyển	16
+duy_trì hoạt_động	16
+đi công_tác lưu_động	16
+chỗ nghỉ	16
+chi giải_khát	16
+tiết_kiệm chi	16
+uỷ_nhiệm chi	16
+tập_huấn chuyên_môn nghiệp_vụ	16
+chế_độ quản_lý	16
+phòng nghỉ	16
+thanh_toán hợp_đồng	16
+định_mức khoán	16
+tiền thuê phòng	16
+trang_thiết_bị phục_vụ	15
+hướng_dẫn nội_dung chi	15
+trang_trải chi_phí	15
+thuê phương_tiện	15
+chi sửa_chữa thường_xuyên	15
+biểu_mẫu phục_vụ	15
+thù_lao cán_bộ	15
+chi văn_phòng_phẩm	15
+chi_trả thù_lao	15
+chi_phí phục_vụ	15
+khoản chi liên_quan	15
+nội_dung chi dự_án	15
+chi chế_độ công_tác_phí	15
+tài_liệu phục_vụ	15
+kinh_phí phục_vụ công_tác	15
+mua vật_tư	15
+đi đoàn	15
+đấu_thầu mua_sắm	15
+hoạt_động sự_nghiệp	14
+công_tác kế_toán	14
+hưởng bồi_dưỡng	14
+chế_độ quản_lý_tài_chính hiện_hành	14
+một_số khoản	14
+: thanh_toán giá thuê phòng ngủ tối_đa	14
+hoạt_động thường_xuyên :	14
+giá xăng thời_điểm	14
+một_số chế_độ	14
+giá thuê phòng thực_tế	14
+kinh_phí sử_dụng xe ô_tô đi công_tác	14
+một_số chế_độ chi_tiêu	14
+chi bồi_dưỡng thành_viên	14
+nội_dung hỗ_trợ	13
+tổng_kết công_tác	13
+nội_dung quy_định	13
+thời_gian đi công_tác	13
+toàn_bộ kinh_phí	13
+mua tài_liệu	13
+chế_độ chi_tiêu hội_nghị	13
+đi biển	13
+chi_trả tiền	13
+tổ_chức hoạt_động	13
+chi sửa_chữa_lớn	13
+hỗ_trợ kinh_phí	13
+kinh_phí bảo_đảm hoạt_động	13
+kinh_phí hỗ_trợ	13
+khoán kinh_phí sử_dụng xe ô_tô đi công_tác	13
+trang_trải kinh_phí	12
+phương_thức chi_trả	12
+khoản chênh_lệch	12
+ghi chi	12
+thu_nhập thực_tế	12
+mua_sắm tài_sản	12
+chi giải_thưởng	12
+mua_sắm thiết_bị	12
+chi biên_soạn	12
+tạm_ứng thanh_toán	12
+chế_độ quy_định	12
+chế_độ tài_chính	12
+công_tác điều_tra	12
+trường_hợp thuê	12
+hội_nghị tập_huấn triển_khai nhiệm_vụ	12
+đối_với một_số	12
+thẩm_quyền cử đi	11
+xe ô_tô đi công_tác	11
+bao_gồm khoản	11
+thanh_toán khoản tiền	11
+công_tác khuyến_nông	11
+chi_phí sửa_chữa	11
+chi_trả tiền_lương	11
+kinh_phí khuyến_nông	11
+công_tác xây_dựng	11
+thời_gian tập_trung	11
+kinh_phí phục_vụ	11
+phương_tiện đi công_tác	11
+biên_soạn tài_liệu	11
+tổ_chức lớp tập_huấn	11
+phục_vụ trực_tiếp công_tác	11
+phương_thức khoán	11
+bảo_đảm toàn_bộ chi_phí hoạt_động thường_xuyên	11
+tiền điện	10
+nghỉ công_tác	10
+trách_nhiệm thanh_toán	10
+tiền thanh_toán	10
+kinh_phí thực_hiện chế_độ	10
+chi sơ_kết	10
+bảo_đảm hoạt_động giám_sát	10
+lớp bồi_dưỡng	10
+công_tác đào_tạo	10
+tiền thuê phương_tiện	10
+nội_dung liên_quan	10
+tiết_kiệm hiệu_quả	10
+liên_quan trực_tiếp công_tác	10
+khoán tiền tự_túc phương_tiện	10
+chi in	10
+chế_độ bồi_dưỡng hiện_vật	10
+hội_nghị sơ_kết	10
+liên_quan công_tác	10
+sửa_chữa tài_sản	10
+cử đi	10
+chi_tiêu tài_chính	10
+kinh_phí đào_tạo	9
+tiền tạm_ứng	9
+liên_quan hoạt_động	9
+lệnh chi	9
+tham_gia hoạt_động	9
+hưởng chế_độ bồi_dưỡng	9
+thí_điểm khoán	9
+thời_gian công_tác	9
+công_tác giám_sát	9
+tiền thuê phòng nghỉ công_tác	9
+hội_nghị tập_huấn	9
+chứng_từ liên_quan	9
+hưởng chế_độ	9
+công_tác_phí cán_bộ	9
+đoàn đi	9
+kinh_phí thường_xuyên	9
+chi_phí khảo_sát	9
+đi công_tác lưu_động 10 /	9
+chuyên_môn nghiệp_vụ	9
+hỗ_trợ cụ_thể	9
+mua_sắm dụng_cụ	9
+thanh_toán giá	9
+mua sách	9
+sử_dụng kinh_phí	9
+bảo_đảm chi_phí hoạt_động	9
+chế_độ đối_với	9
+cán_bộ đi	8
+thanh_toán khoán kinh_phí sử_dụng	8
+chi cụ_thể :	8
+hướng_dẫn chế_độ quản_lý_tài_chính	8
+cán_bộ nhân_viên	8
+quản_lý chi_tiêu	8
+một_số nội_dung	8
+chi in_ấn	8
+thanh_toán tiền tàu	8
+thuê chuyên_gia thẩm_định	8
+bộ_trưởng tài_chính quy_định_chế_độ công_tác_phí	8
+mua_sắm phương_tiện	8
+toàn_bộ tiền	8
+kinh_phí bảo_đảm	8
+khối_lượng công_việc	8
+hội_nghị cán_bộ	8
+khoản tương_ứng	8
+đài_thọ tiền	8
+kinh_phí chi_trả chế_độ	8
+quản_lý_tài_chính hiện_hành	8
+cán_bộ công_tác	8
+phục_vụ nhiệm_vụ	8
+kinh_phí tiết_kiệm	8
+khoán kinh_phí sử_dụng	8
+thanh_toán tạm_ứng	8
+- đào_tạo	8
+thời_gian phục_vụ	8
+ô_tô đi công_tác	8
+chi_trả chế_độ	8
+thanh_toán hình_thức	8
+bảo_dưỡng thường_xuyên	8
+hỗ_trợ tối_đa	7
+đảm_bảo kinh_phí	7
+sai chế_độ	7
+tiền tàu xe	7
+huy_động đóng_góp	7
+hoạt_động nghiệp_vụ	7
+thực_hiện chế_độ bồi_dưỡng	7
+chuyến đi	7
+chứng_từ chi_tiêu	7
+hoạt_động khuyến_nông	7
+trừ đi chi_phí	7
+tập_huấn chuyên_môn	7
+chế_độ chi_tiêu tài_chính	7
+thuê chỗ	7
+tiêu_chuẩn thuê phòng	7
+cán_bộ quản_lý	7
+khối_lượng công_tác	7
+trừ khoản	7
+- tài_chính	7
+thanh_toán khối_lượng	7
+chi_phí vật_tư	7
+thực_hiện chế_độ bồi_dưỡng hiện_vật	7
+công_tác_phí quy_định	7
+toàn_bộ hoạt_động	6
+thuê phòng nghỉ công_tác	6
+chi hoạt_động chương_trình	6
+thực_hiện chi_trả	6
+thực_hiện công_tác	6
+bảo_đảm kinh_phí hoạt_động	6
+trực_tiếp nhiệm_vụ	6
+chi quỹ	6
+chi_hội_nghị đối_với cơ_quan	6
+thành_viên đoàn	6
+thực_hành tiết_kiệm	6
+: thanh_toán giá	6
+mua sách_báo	6
+mua_sắm đồ_dùng	6
+hiệu_quả công_tác	6
+nhu_cầu chi	6
+tổng_kết chuyên_đề	6
+chỗ làm_việc	6
+hình_thức khoán	6
+làm_việc chế_độ	6
+- đối_với khoản	6
+thanh_toán khoản chi	5
+kinh_phí bảo_đảm công_tác	5
+công_tác thanh_toán	5
+thời_gian địa_điểm	5
+trừ đi	5
+sử_dụng xe ô_tô đi công_tác	5
+chi chương_trình	5
+hướng_dẫn quản_lý_tài_chính	5
+bảo_đảm kinh_phí	5
+khoản thu_nhập	5
+công_tác chuẩn_bị	5
+đối_với đơn_vị	5
+hướng_dẫn nghiệp_vụ	5
+nghỉ bù	5
+tiền ăn_theo	5
+chế_độ chi_tiêu tài_chính hiện_hành	5
+mua_sắm vật_tư	5
+khoán biên_chế	5
+bảo_đảm toàn_bộ chi_phí	5
+định_mức kinh_phí hỗ_trợ	5
++ đối_với	5
+thực_hiện chế_độ chi_tiêu	5
+đóng_góp xây_dựng	5
+nghiệp_vụ chuyên_môn	5
+đi công_tác thanh_toán tiền	5
+giám_sát hoạt_động	5
+trường_hợp cần_thiết	5
+công_tác tuyên_truyền	5
+- khen_thưởng	5
+công_tác khảo_sát	5
+thanh_toán giá thuê phòng ngủ	5
+kinh_phí chi_tiêu	5
+hướng_dẫn công_tác quản_lý_tài_chính	4
+chi phục_vụ hoạt_động	4
+một_số chế_độ đối_với	4
+: hỗ_trợ tối_đa	4
+hỗ_trợ kinh_phí hoạt_động	4
+định_mức bình_quân	4
+tàu xe	4
+quy_định_chế_độ bồi_dưỡng	4
+chi hỗ_trợ tiền đại_biểu mời	4
+khoán kinh_phí sử_dụng xe ô_tô	4
+chi tập_huấn	4
+sử_dụng phương_tiện	4
+tiền chi_phí đi_lại	4
+quy_định một_số chi	4
+phát_sinh khoản	4
+tự_chủ tài_chính	4
+hình_thức thanh_toán	4
+quy_định_chế_độ chi_tiêu	4
+- đối_với đơn_vị	4
+tập_huấn triển_khai	4
+phương_tiện vận_chuyển	4
+giá thuê	4
+thực_tế đi	4
+kinh_phí sự_nghiệp	4
+đơn_vị cử đi	4
+đảm_bảo công_tác	4
+duy_tu bảo_dưỡng	4
+kinh_phí chương_trình	4
+toàn_bộ chi_phí hoạt_động	4
+cử cán_bộ	4
+chi liên_quan trực_tiếp công_tác	4
+chứng_từ hợp_lệ	4
+tài_sản mua_sắm	4
+tiền tàu	4
+hướng_dẫn chế_độ	3
+bù_đắp khoản	3
+tổ_chức đón_tiếp	3
+hạch_toán chi_phí	3
+liên_quan trực_tiếp	3
+thời_gian nghỉ	3
+chi_trả khoản	3
+hoạt_động liên_quan	3
+chi tính_chất	3
+thường_xuyên đi	3
+đối_với tài_sản	3
+thanh_toán toàn_bộ	3
+chế_độ quản_lý_tài_chính đối_với	3
+chi bù	3
+kinh_phí đảm_bảo công_tác	3
+cá_nhân thanh_toán khoán	3
+đơn_vị sử_dụng	3
+xe đi	3
+quy_định_chế_độ bồi_dưỡng đối_với	3
+công_tác lưu_động	3
+thanh_toán giá thuê phòng ngủ 1	3
+thanh_toán tiền mua	3
+lớp đào_tạo	3
+tiền đóng_góp	3
+khoản tạm_ứng	3
+nội_dung :	3
+cần_thiết phục_vụ	3
+bao_gồm tiền	3
+quản_lý sửa_chữa	3
+đối_với dự_án	3
+chi tổ_chức hội_nghị đối_với cơ_quan nhà_nước	3
+đi làm_việc	3
+sử_dụng hợp_lý	3
+cử tham_gia	3
+huy_động hợp_pháp	3
+quản_lý_tài_chính đối_với kinh_phí	3
+chi bảo_đảm hoạt_động	3
+nhiệm_vụ quản_lý	3
+đơn_giá thuê	3
+mua_sắm máy_móc	3
+bù chi	3
+vật_tư thiết_bị	3
+thực_tế tối_đa	3
+chi_phí khấu_hao	3
+thực_hiện công_việc	3
+mua_sắm trang_phục	2
+- tài_chính hướng_dẫn thực_hiện chế_độ	2
+đơn_vị kế_toán	2
+trừ trường_hợp	2
+chi đảm_bảo hoạt_động	2
+phòng ngủ	2
+máy_móc thiết_bị	2
+khoán thanh_toán	2
+đối_với đối_tượng	2
+phục_vụ nhu_cầu	2
+chế_độ kế_toán hiện_hành	2
+hỗ_trợ đào_tạo	2
+nghỉ đại_biểu	2
+tỉnh quy_định_chế_độ công_tác_phí	2
+tiền đi đường	2
+hướng_dẫn quản_lý kinh_phí	2
+phòng tài_chính	2
+đối_với phương_tiện	2
+phòng chuyên_môn	2
+triển_khai công_tác	2
+nội_dung ghi	2
+bao_gồm :	2
+đào_tạo cán_bộ	2
+quản_lý_tài_chính chương_trình	2
+tổ_chức tập_huấn	2
+đơn_vị cử	2
+đơn_vị sự_nghiệp thu	2
+tiền_lương khoản	2
+bồi_dưỡng thành_viên	2
+hoạt_động chương_trình	2
+biên_soạn giáo_trình	2
+đến_nơi làm_việc	2
+trừ tiền	2
+nghỉ tiêu_chuẩn	2
+chi_phí cưỡng_chế	2
+hướng_dẫn chuyên_môn	2
+tính_chất công_việc	2
+kinh_phí bảo_đảm công_tác xây_dựng	2
+chi thực_tế tổ_chức tập_trung thu tiền	2
+thường_xuyên đi công_tác lưu_động 10	2
+sơ_kết tổng_kết	2
+nhân_viên trực_tiếp	2
+thời_gian thuê	2
+tài_liệu liên_quan	2
+công_việc thực_tế	2
+mua vận_chuyển	2
+thanh_toán giá thuê phòng	2
+triển_khai hoạt_động	2
+đơn_vị liên_quan	2
+hướng_dẫn quản_lý	2
+thuê tài_sản	2
+thời_gian hưởng	2
+công_việc liên_quan	2
+chế_độ chi_hội_nghị đối_với cơ_quan	2
+hội_thảo quốc_tế	2
+thẩm_định nội_dung	2
+nghiệp_vụ công_tác	2
+thực_hiện chế_độ tự_chủ	2
+chi bình_quân giường_bệnh	2
+trực_tiếp công_tác quản_lý	2
+thường_xuyên đi công_tác	2
+chênh_lệch thu chi	2
+đối_với công	2
+thực_hiện nội_dung	2
+chế_độ trang_phục	2
+triển_khai công_việc	2
+đối_với khoản tiền	2
+hướng_dẫn cụ_thể	2
+chuẩn_bị nội_dung	2
+đào_tạo bồi_dưỡng	2
+nhiệm_vụ thường_xuyên	2
+tổng_kết tài_sản	2
+đại_biểu mời	2
+tổ_chức thực_hiện	2
+nội_dung chương_trình	2
+kinh_phí đảm_bảo	2
+thời_gian tối_đa	2
+công_tác quản_lý sửa_chữa	2
+đường đi	1
+tài_liệu tiếng	1
+đối_với cơ_quan	1
+phòng tiêu_chuẩn	1
+bảo_đảm toàn_bộ	1
+thời_gian đào_tạo	1
+tài_chính - kế_toán	1
+chế_độ hợp_đồng	1
+khả_năng kinh_phí	1
+chế_độ tiền_lương	1
+chế_độ nghỉ	1
+bồi_dưỡng chuyên_môn	1
+trừ dự_án quy_định	1
+thực_hiện chế_độ kế_toán	1
+chi_phí tiền_lương	1
+địa_điểm làm_việc	1
+trường_hợp nêu	1
+đối_tượng tham_gia	1
+hiệu_quả hoạt_động	1
+quy_định_chế_độ thu	1
+trường_hợp cụ_thể	1
+thành_viên tham_gia	1
+thực_hiện thí_điểm	1
+đi công_tác lưu_động 10	1
+cá_nhân tham_gia	1
+thù_lao giảng_viên	1
+chi_tiêu hợp_pháp	1
+giá thuê phòng	1
+thời_gian làm_việc	1
+tổ_chức biên_chế	1
+kinh_phí hỗ_trợ hoạt_động	1
+chế_độ tài_chính hiện_hành	1
+chi bồi_dưỡng đối_với	1
+quản_lý hoạt_động	1
+tài_chính quy_định	1
+cụ_thể :	1
+đặc_thù đối_với	1
+xe đi_lại	1
+đường đi công_tác	1
+chế_độ chi tổ_chức hội_nghị đối_với cơ_quan nhà_nước	1
+quy_định cụ_thể	1
+thực_hiện công_việc :	1
+trực_tiếp chỉ_đạo	1
+tổ_chức khuyến_nông	1
+đơn_vị sự_nghiệp công_lập	1
+ghi hợp_đồng	1
+kinh_phí thực_hiện nhiệm_vụ	1
+hoạt_động hiệu_quả	1
+nội_dung cụ_thể	1
+thực_hiện nhiệm_vụ	1
++ đối_với đối_tượng	1
+tiêu_chuẩn quy_định	1
+chế_độ khám	1
+tổ_chức lớp	1
+khoản thu hợp_pháp	1
+kinh_phí mua_sắm trang_phục	1
+kinh_phí công_tác phòng	1
+thanh_toán giá thuê phòng ngủ tối_đa	1
+hướng_dẫn chế_độ quản_lý	1
+hoạt_động điều_tra	1
+đối_tượng hưởng	1
+thiết_bị phục_vụ	1
+tự_nguyện tham_gia	1
+đơn_vị quản_lý	1
+liên_quan tổ_chức	1
+trách_nhiệm quản_lý	1
+chi_phí khám	1
+: tối_đa	1
+khối_lượng công_việc thực_tế	1
+bù chênh_lệch giá	1
+khoản thu	1
+10 làm_việc	1
+tham_gia giám_sát	1
+làm_việc chế_độ hợp_đồng	1
+- đối_với đối_tượng	1
+nghiệp_vụ cán_bộ	1
+đối_với trường_hợp	1
+đoàn tàu	1
+thực_hiện chương_trình	1
+chênh_lệch giá	1
+đối_với trường_hợp cụ_thể	1
+sự_nghiệp thu	1
+mua thiết_bị	1
+hỗ_trợ chi_phí khám	1
+tổ_chức đấu_thầu	1
+bao_gồm : chi_phí	1
+liên_quan công_tác quản_lý	1
+bù tiền	1
+nhu_cầu kinh_phí	1
+quy_định một_số	1
+thực_hiện hợp_đồng	1
+đơn_vị dự_toán	1
+thời_gian thực_hiện	1
+công_tác chuyên_môn	1
+công_việc :	1
+trách_nhiệm hướng_dẫn	1
+hỗ_trợ tiền đại_biểu	1
+chế_độ đối_với cán_bộ	1
+vận_dụng chế_độ	1
+thanh_toán hóa_đơn	1
+tổ_chức sự_nghiệp	1
+đối_với đơn_vị dự_toán	1
+khoản chênh_lệch giá	1
+hưởng khoản	1
+/ phòng đi công_tác	1
+thực_hiện công_tác kế_toán	1
+dự_toán kinh_phí	1
+chỉ_đạo thực_hiện	1
+hướng_dẫn thực_hiện	1
+sửa_chữa_lớn tài_sản	1
+chi_phí chuẩn_bị	1
+công_tác sửa_chữa	1
+tài_chính hướng_dẫn	1
+tổ_chức thẩm_định	1
+kế_toán hiện_hành	1
+hạch_toán khoản	1
+thu tiền thuê	1
+giá mua	1
+phương_tiện tham_gia	1
+thu hợp_pháp	1
+tổ_chức cán_bộ	1
+quản_lý trực_tiếp	1
+cá_nhân trực_tiếp	1

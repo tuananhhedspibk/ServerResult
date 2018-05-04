@@ -1,0 +1,166 @@
+căn_cứ luật tổ_chức chính_quyền địa_phương 19 6 2015	799
+căn_cứ nghị_định	704
+căn_cứ luật	407
+chính_quyền địa_phương	208
+căn_cứ luật tổ_chức chính_quyền địa_phương 19/6/2015	199
+luật hình_sự	182
+căn_cứ nghị_quyết	153
+căn_cứ quyết_định	149
+căn_cứ luật đất_đai 29 11 2013	88
+bãi_bỏ quyết_định	88
+luật đất_đai	88
+19 6 2015	79
+căn_cứ luật tổ_chức chính_quyền địa_phương 77/2015 / qh13	77
+luật hình_sự 1985	76
+căn_cứ nghị_định 34/2016	76
+luật hình_sự )	67
+luật hình_sự 1999	66
+căn_cứ luật giá 20 6 2012	62
+quy_định luật hình_sự	60
+thành_phố tổ_chức	52
+căn_cứ luật cán_bộ	50
+bãi_bỏ nghị_quyết	46
+luật sửa_đổi	43
+căn_cứ luật đầu_tư công 18 6 2014	41
+căn_cứ nghị_định 44/2014	40
+điều_luật luật hình_sự 1999	39
+# nghị_quyết	35
+8 luật hình_sự	34
+căn_cứ luật tổ_chức chính_quyền địa_phương 2015	32
+căn_cứ luật sửa_đổi	32
+căn_cứ luật đất_đai	32
+căn_cứ luật viên_chức 15 11 2010	31
+căn_cứ luật giá	31
+20 6 2012	30
+căn_cứ luật đầu_tư	29
+6 luật hình_sự	29
+căn_cứ luật giao_thông đường_bộ	27
+căn_cứ luật xây_dựng 18 6 2014	26
+3 luật hình_sự	24
+căn_cứ luật bảo_vệ môi_trường 23 6 2014	24
+luật đất_đai 2013	23
+thị_trấn tổ_chức	23
+hiệp_định 19	22
+19 6	22
+# quyết_định	22
+căn_cứ pháp_lý	22
+6 2015	21
+xác_nhận chính_quyền địa_phương	20
+căn_cứ luật tổ_chức	20
+5 luật hình_sự	19
+9 luật hình_sự	17
+căn_cứ xác_định	17
+căn_cứ luật đất_đai 29/11/2013	17
+11 2015	17
+căn_cứ luật tổ_chức chính_quyền địa_phương	16
+18 6	16
+quy_định luật đầu_tư	15
+điều_luật luật hình_sự 1985	15
+căn_cứ nghị_định 47/2014	15
+luật tổ_chức	15
+luật xây_dựng 2014	15
+luật hình_sự 1999 quy_định	14
+quy_định luật đầu_tư công	14
+căn_cứ nghị_định 37/2014	13
+6 2014	13
+" luật hình_sự	13
+29 6	13
+a luật hình_sự	13
+quy_định luật	12
+18 6 2014	12
+căn_cứ pháp_lệnh	12
+quy_định luật xây_dựng 2014	12
+luật đầu_tư	12
+căn_cứ luật bảo_vệ môi_trường	12
+6 2012	12
+căn_cứ luật viên_chức	12
+20 6	11
+6 2009	10
+luật hợp_tác_xã	10
+9 2015	9
+xác_nhận chính_quyền	9
+căn_cứ nghị_định 92/2017	7
+quy_định luật đất_đai	7
+quy_định nghị_định	7
+luật giá	7
+căn_cứ luật tổ_chức chính_quyền địa_phương 19	7
+tương_ứng luật hình_sự	7
+11 2013	6
+luật tổ_chức chính_quyền địa_phương 2015	6
+29 11	6
+tổ_chức chính_quyền	6
+căn_cứ luật đầu_tư công	6
+5 2015	6
+địa_phương 19 6 2015	5
+quy_định nghị_quyết	5
+29 11 2013	4
+0 luật hình_sự	4
+quy_định điều_luật	4
+chính_quyền địa_phương 19 6 2015	3
+quy_định luật sửa_đổi	3
+căn_cứ chỉ_thị	3
+nghị_định 154/2016	3
+11 2010	3
+luật bảo_vệ	3
+luật viên_chức	3
+luật xây_dựng	3
+20 11	3
+nghị_quyết quy_định	3
+hình_sự )	3
+5 2014	3
+3 2012	2
+quyết_định đầu_tư	2
+9 2014	2
+tổ_chức cán_bộ	2
+luật đầu_tư công	2
+nghị_định 44/2014	2
+hình_sự hành_vi	2
+tổ_chức chính_quyền địa_phương 2015	2
+luật giao_thông	2
+nghị_quyết 35	2
+11 2012	2
+15 11 2010	2
+quy_định quyết_định	2
+23 8	2
+23 6 2014	2
+luật bảo_vệ môi_trường 23 6 2014	2
+23 6	1
+đất_đai 29 11 2013	1
+9 2010	1
+giai_đoạn 2015	1
+hình_sự 1999	1
+37/2014 /	1
+quyết_định 12/2017	1
+căn_cứ luật giá 20	1
+pháp_lệnh bảo_vệ	1
+1985 quy_định	1
+căn_cứ luật giao_thông	1
+9 2013	1
+căn_cứ luật bảo_vệ	1
+nghị_định 47/2014	1
+11 2014	1
+xây_dựng nghị_quyết	1
+môi_trường 23	1
+28/2016 /	1
+chính_quyền địa_phương 77/2015 / qh13 19 6 2015	1
+12/2016 /	1
+căn_cứ luật tổ_chức chính_quyền	1
+điều_luật luật hình_sự	1
+tổ_chức chính_quyền địa_phương	1
+luật xây_dựng 18 6 2014	1
+quy_định điều_luật luật hình_sự	1
+18/2016 /	1
+33/2016 /	1
+viên_chức 15 11 2010	1
+3 2010	1
+bảo_vệ môi_trường	1
+15 8	1
+11 11	1
+20/2016 /	1
+77/2015 / qh13 19	1
+/ qh13	1
+căn_cứ luật đầu_tư công 18	1
+18 6 2015	1
+8 2014	1
+/ qh13 19 6	1
+9 luật	1

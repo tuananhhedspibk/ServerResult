@@ -1,0 +1,208 @@
+nuôi_trồng thủy_sản	130
+nuôi_trồng thuỷ_sản	94
+phú yên	65
+duy_tu bảo_dưỡng	59
+hồ chứa	58
+trạm bơm	54
+hồ chứa_nước	51
+nghề cá	43
+vườn hoa	42
+ngành thuỷ_sản	41
+sản_phẩm thay_thế sữa mẹ	40
+ven biển	39
+công_trình thủy_lợi	36
+bão lụt	36
+phường thị_xã nghĩa_lộ thị_trấn huyện	34
+sở thuỷ_sản	34
+biến_đổi khí_hậu	33
+nông_lâm thủy_sản	32
+định_hướng 2030	32
+ty thủy_lợi	31
+lưu_vực sông	30
+kênh mương	30
+ứng_phó biến_đổi khí_hậu	29
+phương_tiện nghề cá	29
+đồng_bằng sông cửu_long	28
+tổng diện_tích	28
+kinh_doanh sử_dụng sản_phẩm thay_thế sữa mẹ	27
+hòa bình	27
+thị_xã long khánh	27
+bảo_vệ lợi thủy_sản	27
+chống lũ	27
+bảo_vệ lợi thuỷ_sản	26
+công tư hợp_doanh	26
+đánh_bắt hải_sản bờ	26
++ nuôi	26
+công_trình thuỷ_lợi	25
+neo đậu	25
+sữa mẹ	24
+phòng_chống thiên_tai	24
+yên bái	24
+tỉnh phú yên	23
+thủy_lợi điện_lực	23
+vật_nuôi thủy_sản	23
+tầm 2030	22
+5 yếu_tố	22
+đối_với cây_trồng	22
+ninh bình	22
+hoạt_động nuôi_trồng thủy_sản	22
+sầm sơn	21
+chủ đập	21
+hưng yên	21
+cải_tạo nâng_cấp	21
+sản_phẩm dinh_dưỡng trẻ	21
+phong điền	20
+mở_rộng diện_tích	20
+trung_tâm khuyến_nông	19
+sản xuấ	19
+hình_thức đối_tác công tư	19
+khuyến_khích nuôi sữa mẹ	18
+xí_nghiệp công tư hợp_doanh	18
+định_hướng 2035	18
+cảng cá	18
+vườn trẻ	18
+tầm 2035	18
+đồng_bằng sông	17
+thuỷ_sản địa_phương	17
+5 ha	17
+tàu cá	17
+nuôi sữa mẹ	17
+đập hồ chứa	17
+trà vinh	17
+thích_ứng biến_đổi khí_hậu	17
+thủy lợi phí	17
+thủy_sản nuôi	17
+ha trở	16
+chống thiên_tai	16
+chống dịch_bệnh	16
++ duy_trì	16
+cá nhâ	14
+thái nguyên	14
+hoạt_động nghề cá	14
+cục bảo_vệ lợi thuỷ_sản	14
+bảo_vệ nông_giang	14
+phòng_chống dịch_bệnh	13
+quy_mô diện_tích	13
+khai_thác công_trình thủy_lợi	13
+khai_thác hải_sản	12
+hoạt_động khuyến_nông	12
+vệ_sinh thuỷ_sản	12
+bình tuyển	12
+phí bình tuyển	11
+vùng_biển bờ	11
+ý_nghĩa quan_trọng	11
+thuỷ_lợi phí	11
+thiệt_hại thiên_tai	11
+bình phước	11
+nông nghiệ	10
+hải_sản vùng_biển	10
+công_trình cấp_nước	9
+sử_dụng sản_phẩm thay_thế sữa mẹ	9
+- 2025	9
+lợi thủy_sản	9
+long an	8
+sông hồng	8
+hòa bình ban_hành	8
+thay_thế sữa mẹ	8
+lợi thuỷ_sản	8
+tây nguyên	8
+đánh_bắt hải_sản	8
+công_trình đập hồ chứa	8
+diện_tích tối_thiểu	7
+hình_thức đối_tác	7
+nuôi cá	7
+tầm quan_trọng	7
+tư phá	7
+liên thôn	7
+mở_rộng quy_mô	7
+chống xuống_cấp	7
+khai_thác bảo_vệ công_trình	6
+đối_với sản_phẩm	6
+chống lãng_phí	6
+tàu đánh_bắt	6
+bảo_vệ công_trình thuỷ_lợi	6
+bảo_dưỡng thường_xuyên	6
+ảnh_hưởng xấu	5
+đền_bù thiệt_hại	5
+chất_lượng vệ_sinh thuỷ_sản	5
+hoạt_động khai_thác	5
+huyện trở	5
+bảo_vệ công_trình thủy_lợi	5
+tỉnh ninh bình	5
+mức_độ thiệt_hại	5
+- đối_với	5
+hải_sản bờ	4
+chống dịch	4
+đối_với diện_tích	4
+hệ_thống thoát	4
+tây ninh	4
+cảnh_sát bảo_vệ	4
+toàn_bộ diện_tích	4
+công_trình đập	4
+khuyến_khích nuôi	4
+chống mỹ	4
+ngành lương_thực	4
+hoạt_động bình_thường	3
+phòng_chống dịch	3
+dinh_dưỡng trẻ	3
+bảo_vệ công_trình	3
+liên tỉnh	3
+công nghiệ	3
+kinh_doanh khai_thác	3
+tỉnh yên bái	3
+khai_thác công_trình	2
+khai_thác sử_dụng	2
+thích_ứng biến_đổi	2
+đối_với phương_tiện	2
+sửa_chữa thường_xuyên	2
+tỉnh hưng yên	2
+sông cửu_long	2
+thị_trấn huyện	2
+hoàn_thiện hệ_thống	2
+sơn la	2
+xí_nghiệp công tư	2
+bến tre	2
+đập hồ	2
+tỉnh bình phước	2
+phường thị_xã	2
+bảo_dưỡng đê_điều	2
+bảo_vệ lợi	2
+chủ tàu	2
+toàn tỉnh	2
+đối_tác công tư	2
+nếp sống	1
+sử_dụng công_trình	1
+trạm quan_trắc	1
+đối_với hoạt_động	1
+chi_cục bảo_vệ	1
+diện_tích diện_tích	1
+thủy_lợi địa_bàn tỉnh	1
+thị_xã nghĩa_lộ	1
+trại cải_tạo	1
+hoạt_động kinh_doanh hoạt_động	1
+sử_dụng phương_tiện	1
+- thông	1
+cục bảo_vệ lợi	1
+thị_xã nghĩa_lộ thị_trấn huyện	1
+duy_trì hoạt_động	1
+tỉnh thái_bình	1
+lưới_điện trung	1
+tỉnh long an	1
+định_hướng 2020	1
+thị_xã nghĩa_lộ thị_trấn	1
+đối_với công_trình	1
+toàn ngành	1
+phường thị_xã nghĩa_lộ	1
+đối_với tuyến	1
+tỉnh bắc	1
+tỉnh hưng	1
+cảng biển	1
+cảng sông	1
+trở đối_với	1
+xí_nghiệp thuỷ_nông	1
+tỉnh hà	1
+sản_phẩm dinh_dưỡng	1
+sử_dụng sản_phẩm	1
+công tư	1
+long khánh	1
+tỉnh trà vinh	1

@@ -1,0 +1,291 @@
+bao_gồm :	1223
+cụ_thể :	963
+quyết_định :	662
+đối_tượng áp_dụng	548
+phạm_vi điều_chỉnh	475
+quyết_nghị :	429
+áp_dụng đối_với	293
+bổ_sung :	245
+ví_dụ :	241
+đối_tượng áp_dụng :	227
+nguyên_tắc :	210
+nội_dung :	197
+đối_với đối_tượng	173
+xã :	161
+điều_kiện :	159
+: 100	153
+phạm_vi điều_chỉnh đối_tượng áp_dụng	128
+quy_định cụ_thể	122
+phạm_vi điều_chỉnh :	121
+: 200	112
+: 0	101
+quy_định cụ_thể :	99
+bổ_sung phù_hợp	93
+công_thức :	92
++ đối_với	92
+: tối_đa	91
+: 20	86
+: “	84
+: 500	84
+: 150	84
++ 0	82
+giấy_tờ :	82
+phạm_vi áp_dụng	82
+: 50	77
+thí_dụ :	74
+: 300	73
+đối_tượng nêu	73
+chủ_yếu :	69
+hình_thức :	67
+: 30	65
+: 80	63
+“ 1	63
+trường_hợp cụ_thể	63
+đối_tượng phạm_vi áp_dụng	63
+áp_dụng thống_nhất	61
+đối_với tất_cả	59
+điều_chỉnh phù_hợp	58
+chú_ý :	56
+: hệ_số 1	55
+ghi_chú :	54
+áp_dụng :	52
+điều_kiện cụ_thể	50
+: 40	50
+cơ_bản :	49
+quy_định áp_dụng đối_với	48
+công_việc :	46
+: 60	46
+- đối_với	46
+: 120	45
+cụm “	44
+nội_dung phức_tạp	44
+đối_với trường_hợp	43
+: áp_dụng đối_với	43
+đối_tượng quy_định	42
+đảm_bảo nguyên_tắc	40
+đối_tượng điều_kiện	40
+- đối_với đối_tượng	37
+sử dụn	36
+áp_dụng đối_với trường_hợp	35
+đối_tượng cư_trú	35
+: hệ_số	35
+nội_dung chủ_yếu	34
+: 250	34
+đảm_bảo điều_kiện	33
+: 400	33
+: 70	32
+nội_dung chủ_yếu :	32
+hệ_số k	32
+áp_dụng hình_thức	32
+30 chỉ_tiêu	31
+phù_hợp nội_dung	30
+đối_tượng thu :	30
+nguyên_tắc áp_dụng	30
+phạm_vi áp_dụng :	30
+quy_định nguyên_tắc	30
+: đồng_chí	29
+điều_kiện quy_định	29
+đối_tượng thụ_hưởng	28
+đáp_ứng điều_kiện :	28
+áp_dụng tất_cả	28
+áp_dụng đối_với diễn_viên	27
+nội_dung cụ_thể	27
+phạm_vi đối_tượng	27
+- xã :	27
+đối_tượng hỗ_trợ :	26
++ đường_phố	26
+hệ_số điều_chỉnh	26
+đối_tượng diện	26
+xem_xét quyết_định	26
+phạm_vi đối_tượng áp_dụng	25
+xác_định công_thức :	25
+đối_tượng tham_gia	25
+phạm_vi toàn_quốc	25
+ví_dụ 1 :	25
+chuyên_gia_tư_vấn độc_lập	25
+2025 :	25
+nêu trê	25
+: 0 px	24
+: hỗ_trợ tối_đa	24
+kết_thúc đợt	24
+điều_chỉnh :	24
+đảm_bảo điều_kiện :	23
+đối_với xã	23
+chiếu áp_dụng	23
+quy_định quyết_định	23
+đối_với một_số	23
+: áp_dụng giá	22
+phù_hợp điều_kiện	22
+chi cụ_thể :	22
+áp_dụng quy_định	22
+đối_với trường_hợp cụ_thể	22
+từ_ngữ :	22
+nội_dung cụ_thể :	21
+bổ_sung a :	21
+quy_chế áp_dụng đối_với	21
+tuỳ trường_hợp cụ_thể	21
+đối_tượng miễn	20
+số_lượng đối_tượng	20
+đảm_bảo yêu_cầu :	20
+bao_gồm chi_phí	20
+phạm_vi rộng	20
+: 700	20
+trực tiế	19
+đảm_bảo thông_tin điều_kiện :	19
+thời_điểm quyết_định	19
+hai hình_thức :	19
+nêu lý_do	19
+: chứng_chỉ	19
+40 chỉ_tiêu	19
+áp_dụng đầu_tiên	19
+đáp_ứng điều_kiện	19
+đối_tượng phạm_vi	19
++ đối_với đối_tượng	19
+nội_dung công_việc	19
+bổ_sung a	18
+áp_dụng phương_thức	18
+phường thị_xã bình_minh :	18
+quyết_định 130	18
+quyết_định giá_như :	18
++ xã :	18
+lựa_chọn hình_thức	18
+bao_gồm tiếp_thu	18
+nội_dung quy_định	17
+một_số nội_dung :	17
+bổ_sung hoàn_thiện	17
+- trường_hợp	17
+bổ_sung nội_dung	17
+phạm_vi ảnh_hưởng	17
++ hệ_số	17
+phù_hợp quy_định	17
+cụ_thể hóa	17
+xã : chi	17
+áp_dụng đơn_giá	16
+khoán :	16
+thời_điểm kết_thúc	16
+hệ_số 0	16
+thi :	16
+điều_kiện tự_nhiên	16
+tối_đa 500	16
+cụ_thể phù_hợp	15
+hiện hàn	14
+nguyên_tắc đảm_bảo	14
+nội_dung cơ_bản :	14
+xem_xét điều_chỉnh	14
+tuỳ điều_kiện cụ_thể	13
+phù_hợp đặc_thù	13
+thay_đổi nội_dung	13
+áp_dụng đối_với tất_cả	13
+nội_dung cơ_bản	13
+40 chỉ_tiêu :	13
+tối_đa 200	13
+áp_dụng đối_với cơ_quan	12
+: hệ_số điều_chỉnh	12
+công_bố thời_điểm	12
+áp_dụng đối_với đối_tượng	12
+áp_dụng hệ_số	11
+xác_định cụ_thể	11
+có_thể áp_dụng	11
+diện rộng	10
+bao_gồm nội_dung	10
+phường thị_xã	10
+đối_với đối_tượng nêu	10
+bất_kỳ hình_thức	10
+trường_hợp nêu	10
+tối_đa 300	10
+tiêu_chí xác_định	10
+: chi tối_đa	10
+quyết_định miễn	10
+nêu a	10
+thi hàn	10
+tối_đa 05	9
+tùy trường_hợp cụ_thể	9
+phường thị_xã bình_minh	9
+đảm_bảo phù_hợp	9
+bao_gồm : chi_phí	9
+quy_định áp_dụng đối_với cơ_quan	8
+nằm phạm_vi	8
+thông_qua hình_thức	8
+hỗ_trợ cụ_thể	7
+một_số trường_hợp cụ_thể	7
+chi cụ_thể	7
+phù_hợp quy_mô	7
+trường_hợp thay_đổi	7
+phương_pháp xác_định	7
+tối_đa 150	7
+xã phường	7
+nội_dung chi :	6
+đảm_bảo tuân_thủ	6
+phù_hợp yêu_cầu	6
+trường_hợp miễn	6
+đáp_ứng tiêu_chí	6
+giá_như :	6
+hệ_số 1	5
+công_việc cụ_thể	5
+đối_với đối_tượng quy_định	5
+quyết_định thay_đổi	5
++ chi_phí	5
+quy_định a	5
+chỉ_tiêu chủ_yếu	4
+tối_đa 30	4
+xác_định đơn_giá	4
+công_việc quy_định	4
+nội_dung hỗ_trợ	4
+xác_định công_thức	4
+thay_đổi bổ_sung	4
+bổ_sung mục_tiêu	4
+trường_hợp cá_biệt	4
+tối_đa 20	4
+một_số nội_dung	4
+xác_định số_lượng	4
+một_số trường_hợp	4
+% áp_dụng đối_với	3
+tối_đa 1	3
+quy_định quy_chế	3
+tùy điều_kiện	3
+đáp_ứng yêu_cầu	3
+diện miễn	3
+cụ_thể một_số	3
+bổ_sung một_số	3
+đối_tượng quy_định a	3
+30 a	3
+tối_đa 50	3
+quy_chế áp_dụng	3
+hai hình_thức	3
+điều_chỉnh giá	2
+chi nội_dung :	2
+áp_dụng địa_bàn	2
+đối_tượng thu	2
+hình_thức khoán	2
+tối_đa 60	2
+thị_xã long_khánh	2
+điều_kiện hỗ_trợ	2
+đảm_bảo yêu_cầu	2
++ chi	2
+điều_chỉnh đối_tượng	2
+đặc_thù đối_với	2
+tối_đa 40	1
+: nguyễn_văn_a	1
+quyết_định công_bố	1
+nội_dung chi	1
+1 -	1
+hỗ_trợ 100	1
+thông_tin xác_định	1
+tuỳ yêu_cầu	1
+cụm xã	1
+đối_với cơ_quan	1
+trường_hợp xác_định	1
+có_thể xem_xét	1
+- 2025	1
+tối_đa 100	1
+thị_xã bình_minh	1
+tóm_tắt nội_dung	1
+phương_pháp hệ_số	1
+một_số công_việc	1
+quy_định một_số nội_dung	1
+hỗ_trợ 20	1
+quy_định nội_dung chi	1
+phương_pháp tính_toán	1
+bổ_sung quy_chế	1
+hỗ_trợ 30	1
+tuỳ điều_kiện	1

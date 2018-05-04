@@ -1,0 +1,260 @@
+miền núi	415
+phòng cháy	174
+đặc_biệt khó_khăn	166
+đo_đạc bản_đồ	152
+hội_đồng giám_định y_khoa	145
+địa_giới hành_chính	131
+phòng cháy chữa_cháy	120
+hoạt_động đo_đạc bản_đồ	109
+miền bắc	108
+giám_định thương_tật	99
+uỷ_ban dân_tộc miền núi	98
+bản_đồ địa_chính	98
+tổng_cục địa_chính	78
+giám_định y_khoa	76
+đồng_bào dân_tộc_thiểu_số	71
+đồng_bào dân_tộc	71
+phòng giao_dịch	67
+xã đặc_biệt khó_khăn	63
+sản_phẩm đo_đạc bản_đồ	59
+dữ_liệu đo_đạc bản_đồ	58
+dân_tộc miền núi	56
+cắm mốc	56
+hải_đảo đồng_bào dân_tộc	50
+đo_đạc bản_đồ quản_lý đất_đai	48
+xã biên_giới	47
+khu_vực biên_giới	46
+cắm mốc biên_giới	45
+xã miền núi	45
+biển đảo	43
+biên_giới quốc_gia	42
+giấy_phép hoạt_động đo_đạc bản_đồ	41
+hội_đồng gđyk	41
+thành_lập bản_đồ	41
+đo vẽ	38
+trích_lục bản_đồ địa_chính	38
+hội_đồng giám_định y_khoa tỉnh	38
+đấu_tranh phòng	37
+uỷ_ban dân_tộc	35
+bản_đồ hành_chính	34
+tỷ_lệ thương_tật	34
+công_tác dân_tộc	33
+trưng_cầu giám_định	33
+lập bản_đồ	33
+giám_định viên	33
+dân_tộc_thiểu_số miền núi	33
+ủy_ban dân_tộc	32
+phòng giao_dịch nhcsxh huyện	31
+khí_tượng thủy_văn	31
+công_tác phòng cháy	31
+công_tác đấu_tranh phòng	31
+xuất_bản bản_đồ	31
+trích lục	31
+phòng_chống cháy nổ	31
+công_tác đo_đạc	30
+xã vùng_cao	30
+dấu mốc đo_đạc	29
+sản_phẩm bản_đồ	28
+hạng đặc_biệt	27
+bắc kạn	27
+bản_đồ địa_hình	27
+hải phòng	26
+bưu_tá viên	26
+quản_lý đất_đai	26
+đồi núi trọc	25
+đồng_bào miền núi	25
+xã đặc_biệt khó_khăn bãi ngang ven biển	24
+trích đo địa_chính	24
+bảo_vệ biên_giới	24
+thôn đặc_biệt khó_khăn	23
+phát dữ_liệu đo_đạc	23
+công_tác phòng	23
+địa_bàn miền núi	23
+hạng thương_tật	23
+công_tác biên_giới	22
+xuất_bản lịch_tờ	22
+bảo_vệ biên_giới quốc_gia	22
+hội_đồng giám_định y_khoa thẩm_quyền	21
+trích đo	21
+bay chụp ảnh	21
+đường địa_giới hành_chính	21
+khu_vực ii	21
+miền trung	21
+tiêu_chuẩn thương_tật	20
+trích lục hồ_sơ	20
+xã đặc_biệt khó_khăn miền núi vùng_sâu	20
+cục xuất_bản	20
+tổng_kiểm_kê đất_đai	19
+đi_lại khó_khăn	18
+giám_định nguyên_nhân_sự_cố	18
+lập bản_đồ địa_chính	18
+tiêu_chuẩn thương_tật 4 hạng	18
+ven biển	18
+kiểm_kê đất_đai	18
+cục đo_đạc bản_đồ nhà_nước	18
+phòng giao_dịch nhcsxh	17
+biên_bản giám_định	17
+hoàn_cảnh đặc_biệt khó_khăn	17
+trích_lục bản_đồ	17
+trích đo địa_chính đất	17
+cục đo_đạc bản_đồ	17
+lĩnh_vực công_tác dân_tộc	17
+dân_tộc đặc_biệt khó_khăn	17
+dân_tộc miền nú	16
+kinh_phí đo_đạc bản_đồ quản_lý đất_đai	16
+khu_vực iii	15
+phương_án phòng cháy	15
+hội_đồng giám_định	15
+quốc_gia phòng	15
+chụp ảnh	14
+biển hải_đảo	14
+đi giám_định	13
+xã khu_vực iii	13
+xã đồng_bằng	13
+bay chụp	12
+hội_đồng nghiệm_thu	12
+cơ_sở dữ_liệu	12
+cháy nổ	12
+kết_luận giám_định	12
+kinh_phí công_tác phòng cháy	11
+hoạt_động đo_đạc	11
+đo_đạc lập bản_đồ	11
+xếp_hạng thương_tật	11
+ảnh chụp	11
+hội_đồng giám_định y_khoa trung_ương	11
+giám_định chất_lượng	11
+cảnh_sát phòng cháy chữa_cháy	10
+đo_đạc thành_lập bản_đồ	10
+giám_định hội_đồng giám_định y_khoa	10
+an_toàn phòng cháy	10
+hồ_sơ địa_giới hành_chính	10
+giới_thiệu đi giám_định	10
+dữ_liệu đo_đạc	9
+công_tác đo_đạc bản_đồ	9
+cơ_sở dữ_liệu đất_đai	8
+công_trình đo_đạc bản_đồ	8
+thiết_bị phòng cháy	8
+đường địa_giới	8
+hoàn_cảnh khó_khăn	8
+bãi ngang ven biển	8
+giám_định thương_tật hội_đồng giám_định y_khoa	8
+đặc_biệt khó_khăn bãi ngang ven biển	7
+giám_định bệnh_tật	7
+miền nú	7
+phòng_chống cháy	7
+khó_khăn đặc_biệt	7
+giám_định sức_khoẻ	7
+quản_lý nhà_nước lĩnh_vực công_tác dân_tộc	7
+thành_lập phòng	7
+phòng cảnh_sát	7
+độ mật	7
+hoàn_cảnh đặc_biệt	6
+biên_giới đất_liền	6
+cục cảnh_sát	6
+mốc địa_giới	6
+cục đo_đạc	6
+giám_định y_khoa trung_ương	6
+công_tác dân_tộc miền núi	6
+y_khoa thẩm_quyền	5
+tổng_cục cảnh_sát	5
+quản_lý hoạt_động	5
+kết_luận hội_đồng giám_định	5
+công_tác phòng_chống	5
+biên_bản nghiệm_thu	5
+đặc_biệt khó_khăn miền núi	5
+đồi núi	5
+lập phương_án	5
+uỷ_ban quốc_gia	5
+dân_tộc nội_trú	5
+hạng iii	4
+công_trình đo_đạc	4
+dân_tộc miền	4
+bản_đồ hiện_trạng	4
+đo_đạc lập	4
+đo_đạc thành_lập	4
+địa_bàn xã	4
+khó_khăn gian_khổ	4
+cơ_sở dữ_liệu quốc_gia	4
+xã miền	4
+phục_vụ công_tác	4
+hoạt_động xuất_bản	4
+xếp_hạng đặc_biệt	4
+miền núi vùng_sâu	3
+lĩnh_vực công_tác	3
+lập hồ_sơ	3
+thương_tật 4 hạng	3
+dấu mốc	3
+giao_nộp sản_phẩm	3
+phục_vụ đồng_bào	3
+địa_bàn tỉnh	3
+hồ_sơ địa_chính	3
+công_tác bảo_vệ	3
+công_tác đấu_tranh	3
+sản_phẩm đo_đạc	3
+sản_phẩm cuối_cùng	3
+kinh_phí hoạt_động	2
+cảnh_sát biển	2
+bản_đồ địa_giới	2
+địa_bàn miền	2
+giám_định y_khoa tỉnh	2
+chuẩn quốc_gia	2
+khu_vực hành_chính	2
+giới_thiệu sản_phẩm	2
+quản_lý bảo_vệ	2
+tiêu_chuẩn xếp_hạng	2
+thành_lập hội_đồng	2
+mốc lộ_giới	2
+tỉnh bắc	2
+đo_đạc bản_đồ chuyên_ngành	2
+mốc biên_giới	2
+bản_đồ chuyên_ngành	2
+uỷ_ban dân_tộc miền	2
+chuyên_dùng phục_vụ	1
+xã đặc_biệt khó_khăn miền	1
+phòng tiêu_chuẩn	1
+hoạt_động lĩnh_vực	1
+đất_đai huyện	1
+kinh_phí phục_vụ	1
+trung_ương tỷ_lệ	1
+nhcsxh huyện	1
+tổng_cục quản_lý	1
+cục quản_lý	1
+hoạt_động thôn	1
+xã đặc_biệt khó_khăn miền núi	1
+đường huyện	1
+lưu_trữ hồ_sơ	1
+kết_luận hội_đồng	1
+hồ_sơ địa_giới	1
+quản_lý chất_lượng công_trình	1
+xã đặc_biệt	1
+kinh_phí đo_đạc	1
+cảnh_sát phòng cháy	1
+hạng ii	1
+dữ_liệu quốc_gia	1
+quốc_gia phòng_chống	1
+xã đặc_biệt khó_khăn bãi ngang	1
+thương_tật 4	1
+hải_đảo đồng_bào	1
+đi biển	1
+lập biên_bản	1
+trích tỷ_lệ	1
+hoạt_động hội_đồng	1
+tỉnh bắc kạn	1
+tiêu_chuẩn sức_khoẻ	1
+xác_định tỷ_lệ	1
+đo địa_chính	1
+giấy_phép thành_lập	1
+đi công_tác	1
+chất_lượng sản_phẩm	1
+tổng_cục tiêu_chuẩn	1
+công_tác quản_lý	1
+kinh_phí trích	1
+thương_tật hội_đồng giám_định y_khoa	1
+trung_ương quản_lý	1
+địa_bàn tỉnh bắc kạn	1
+mốc đo_đạc	1
+thiết_bị phòng	1
+giám_định hội_đồng giám_định	1
+đo_đạc bản_đồ địa_bàn	1
+nghiệm_thu công_trình	1
+y_khoa trung_ương	1

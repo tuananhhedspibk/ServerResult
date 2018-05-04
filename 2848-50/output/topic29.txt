@@ -1,0 +1,468 @@
+thành_phố trực_thuộc trung_ương	1601
+đơn_vị trực_thuộc	417
+công_an nhân_dân	319
+cơ_quan trung_ương	318
+đơn_vị sự_nghiệp công_lập	307
+đơn_vị sự_nghiệp	303
+cơ_quan công_an	302
+công_an tỉnh	281
+lực_lượng vũ_trang	261
+ngành trung_ương	194
+địa phươn	163
+thành_phố tỉnh	147
+đối_với đơn_vị	146
+thủ_trưởng đơn_vị	145
+trung ươn	129
+trung_ương địa_phương	125
+thanh_niên xung_phong	125
+thành_phố hồ_chí minh	124
+toàn ngành	120
+hành_chính sự_nghiệp	101
+đơn_vị quân_đội	96
+đóng trụ_sở	91
+đơn_vị hành_chính	87
+ngành địa_phương	86
+lực_lượng công_an	86
+thành_phố trực_thuộc trung_ương trách_nhiệm	80
+đặc_khu trực_thuộc trung_ương	80
+cơ_quan hành_chính sự_nghiệp	77
+công_an huyện	74
+ngành công_an	70
+thành_phố trực_thuộc trung_ương quyết_định	67
+thành_phố trực_thuộc	66
+thủ_trưởng cơ_quan	66
+cơ_quan đảng	66
+quân_đội nhân_dân	65
+cơ_quan hành_chính	65
+ngành tỉnh	65
+công_nhân_viên quốc_phòng	63
+toàn dân	60
+trung_ương (	59
+đơn_vị hành_chính sự_nghiệp	59
+đơn_vị sự_nghiệp công_lập trực_thuộc	58
+thành_phố trực_thuộc trung_ương ( gọi	56
+đoàn_thể trung_ương	55
+cơ_quan quân_sự	55
+thành_phố hà_nội	55
+hồ_chí minh	54
+cơ_quan trung_ương địa_phương	54
+phục_vụ chiến_đấu	54
+công_an nhân_dân vũ_trang	54
+phục_vụ quốc_phòng	53
+thành_phố trực_thuộc trung_ương ( gọi tỉn	53
+trực_thuộc trung_ương	52
+kinh doan	51
+sự_nghiệp kinh_tế	50
+thành_phố biên_hòa	49
+đối_với đơn_vị sự_nghiệp	49
+đóng quân	49
+huy_động lực_lượng	48
+thành_phố trách_nhiệm	47
+đơn_vị sự_nghiệp thu	46
+sẵn_sàng chiến_đấu	46
+uỷ_ban_hành_chính tỉnh	46
+thành_phố trực_thuộc trung_ương chỉ_đạo	45
+đơn_vị sự_nghiệp công_lập doanh_nghiệp	45
+đoàn thanh_niên cộng_sản hồ_chí minh	45
+viên_chức lực_lượng vũ_trang	45
+thành_phố trực_thuộc tw	44
+lực_lượng công_an nhân_dân	43
+giám_đốc công_an tỉnh	42
+phục_vụ quân_đội	40
+phối_hợp lực_lượng	40
+đơn_vị dự_toán trực_thuộc	39
+đóng địa_phương	38
+( đối_với đơn_vị	38
+trung_ương quản_lý )	38
+đóng địa_bàn	38
+thành_phố trực_thuộc trung_ương (	37
+quốc phòn	36
+trung_ương quản_lý	36
+khu_vực phòng_thủ	35
+thành_phố )	35
+an_ninh quốc_phòng	34
+trung_ương đảng	34
+ngành trung_ương địa_phương	34
+kinh_tế quốc dân	34
+( gọi cơ_quan	33
+cơ_quan công_an huyện	33
+phối_hợp quốc_phòng	33
+dịch_vụ công_lập	32
+công_an trách_nhiệm	32
+địa_phương quản_lý	32
+đối_với cơ_quan nhà_nước đơn_vị sự_nghiệp công_lập	31
+thành_phố thành_phố trực_thuộc trung_ương thành_phố đô_thị i tỉnh	31
+đơn_vị trúng_thầu	31
+công_tác quốc_phòng	31
+trung_ương đoàn thanh_niên cộng_sản hồ_chí minh	31
+đơn_vị quản_lý	30
+phối_hợp công_an tỉnh	30
+quản_lý )	30
+khu_vực hành_chính sự_nghiệp	30
+bộ_trưởng quốc_phòng	29
+đối_với cơ_quan	28
+thành_phố tỉnh ( gọi	28
+nghĩa_vụ quân_sự	28
+cơ_quan trung_ương đoàn_thể	28
+đoàn_thể tỉnh	28
+địa_phương quản_lý )	28
+pmu trung_ương	28
+đơn_vị sự_nghiệp trực_thuộc	27
+quân_y đơn_vị	27
+chỉ_huy quân_sự tỉnh	27
+thị_xã thành_phố	27
+anh_hùng lực_lượng vũ_trang	26
+thành_phố hà_nội thành_phố hồ_chí minh	26
+thành_phố trực_thuộc trung_ương ( gọi tắt	26
+đơn_vị sự_nghiệp trực_thuộc sở	26
+công_nhân_viên_chức quốc_phòng	26
+thành_phố đặc_khu trực_thuộc trung_ương	26
+thành_phố thủ_trưởng cơ_quan	26
+đối_với thanh_niên xung_phong	26
+quân_đội nhân_dân công_an nhân_dân	25
+đơn_vị vũ_trang nhân_dân	25
+đơn_vị trực_thuộc sở	25
+đơn_vị sự_nghiệp nhà_nước	25
+dân y	25
+quân_sự địa_phương	25
+đơn_vị trung_ương quản_lý	25
+thành_phố trực_thuộc trung ươn	25
+doanh nghiệ	25
+cơ_quan hành_chính nhà_nước tỉnh	25
+tất_cả đơn_vị	24
+bộ_trưởng công_an	24
+số_lượng làm_việc đơn_vị sự_nghiệp công_lập	24
+đoàn thanh_niên	24
+chỉ_đạo đơn_vị	24
+thành_phố tỉnh ( gọi huyệ	24
+( trung_ương địa phươn	23
+quốc doan	23
+lực_lượng cảnh_sát	23
+lực_lượng vũ_trang nhân_dân	23
+tư_tưởng hồ_chí minh	22
+xếp_hạng đơn_vị sự_nghiệp	22
+cấp_uỷ đảng	22
+công_an hướng_dẫn	22
+trung tâ	22
+đối_với cơ_quan hành_chính đơn_vị sự_nghiệp công_lập	22
+trung_ương đóng	22
+lĩnh_vực quốc_phòng	22
+toàn tỉnh	22
+địa_bàn thành_phố	21
+( gọi	21
+giải_thể đơn_vị sự_nghiệp công_lập	20
+nhiệm_vụ quốc_phòng	20
+lực_lượng xây_lắp	20
+thành_phố trực_thuộc trung_ương trách_nhiệm chỉ_đạo	20
+trung_ương trách_nhiệm	20
+phạm_vi toàn tỉnh	20
+công_an xã	20
+đơn_vị trực_tiếp_quản_lý	20
+cơ_quan quân_sự địa_phương	20
+phường thành_phố	20
+thành_phố đồng_hới	19
+đề_nghị đơn_vị	19
+đơn_vị kinh_tế	19
+tem_thư quân_đội	19
+đơn_vị sự_nghiệp công_lập doanh_nghiệp :	19
+cơ_chế tự_chủ đơn_vị sự_nghiệp công_lập	19
+thành_phố huế	19
+thu sự_nghiệp	19
+anh_hùng lực_lượng vũ_trang nhân_dân	19
+đơn_vị trực_thuộc quốc_phòng	19
+thành_phố đà_nẵng	19
+trung_ương đóng địa_phương	18
+an_ninh quốc_gia	18
+đơn_vị quân	18
+trung_ương ( vụ	18
+viên_chức dân y lực_lượng vũ_trang	18
+cơ_chế_tài_chính đối_với đơn_vị sự_nghiệp y_tế công_lập	18
+trung_ương đoàn	18
+lực_lượng kiểm_soát	18
+trụ_sở cơ_quan	18
+quân độ	18
+địa_bàn thành_phố đà_nẵng	17
+ngành kinh_tế quốc dân	17
+uỷ bannhân dân	17
+tổ_chức sự_nghiệp	17
+chỉ_huy đơn_vị	17
+quân_đội công_an	17
+thị_xã thành_phố huế	17
+phối_hợp cơ_quan công_an	17
+cơ_quan công_an chuyên_trách	17
+( đối_với đơn_vị địa_phương quản_lý )	17
+đối_với đơn_vị đóng	16
+thành_phố trực_thuộc trung	16
+thành_phố tổ_chức	16
+( đối_với	16
+viên_chức hành_chính sự_nghiệp	15
+công_an phường	15
+đối_với cơ_quan hành_chính	14
+phối_hợp công_an	14
+đối_với cơ_quan hành_chính sự_nghiệp	14
+đoàn_thể quần_chúng	14
+cơ_quan quản_lý	14
+khu_vực hành_chính	14
+huấn_luyện quân_sự	13
+sở_hữu toàn dân	13
+ngân_sách trung ươn	13
+thành_phố trực_thuộc trung_ương ( đối_với	13
+lực_lượng quân_đội	13
+ngân_sách địa phươn	13
+sự_nghiệp công_lập	13
+quốc_phòng toàn dân	13
+thành_phố đặc_khu	12
+lĩnh_vực an_ninh	12
+quốc_phòng - công_an	12
+đơn_vị địa_phương quản_lý	12
+trực_thuộc sở	12
+sự_nghiệp y_tế	12
+cơ_quan nhà_nước đơn_vị sự_nghiệp	12
+thành_phố nam_định	12
+đối_với đơn_vị sự_nghiệp thu	11
+cơ_quan nhà_nước	11
+ngân_sách trung_ương	11
+cơ_quan hành_chính nhà_nước	11
+đơn_vị lực_lượng vũ_trang	11
+đối_với đơn_vị dự_toán	11
+đơn_vị đóng	11
+thành_phố trực_thuộc trung_ương trách_nhiệm tổ_chức	11
+cơ_quan y_tế	11
+đặc_khu trực_thuộc	11
+sự_nghiệp nhà_nước	11
+trung_ương đoàn_thể	11
+tổ_chức sự_nghiệp trực_thuộc	11
+tỉnh ( thành_phố )	11
+trưởng công_an	10
+tỉnh ( gọi huyệ	10
+quốc_phòng nội_vụ	10
+đơn_vị dự_toán	10
+đảng nhà_nước	10
+tài_nguyên môi_trường ( đối_với đơn_vị	10
+giữ_gìn an_ninh	9
+sĩ_quan quân_đội	9
+phối_hợp ngành	9
+phối_hợp cơ_quan	9
+thành_phố cần_thơ	9
+sắp_xếp lực_lượng	9
+quản_lý hành_chính	9
+địa_bàn tỉnh	9
+sở ngoại_vụ thành_phố hồ_chí	9
+trụ_sở địa_bàn	9
+trường_giáo_dưỡng công_an	9
+thành_phố ( gọi	9
+thành_phố hồ_chí min	9
+trụ_sở làm_việc	9
+sự_nghiệp trực_thuộc sở	8
+ngành kinh_tế	8
+đối_với doanh_nghiệp	8
+quốc_phòng - an_ninh	8
+quản_lý ngành	8
+- đối_với đơn_vị	8
+đơn_vị chức_năng	8
+lực_lượng chức_năng	7
+sự_nghiệp lực_lượng vũ_trang	7
+trực_tiếp_quản_lý )	7
+phục_vụ an_ninh	7
+đơn_vị sự_nghiệp y_tế	7
+đoàn thanh_niên cộng_sản hồ_chí	7
+hành_chính nghiệ	7
+hành_chính nhà_nước	7
+tỉnh ( gọi	7
+đơn_vị sự_nghiệp công_lập trực_thuộc sở	7
+dự_toán ngân_sách đơn_vị trực_thuộc	7
+công_lập địa_bàn	6
+chuyên_dùng phục_vụ	6
+trách_nhiệm cơ_quan	6
+mục_đích quốc_phòng	6
+hà_nội thành_phố hồ_chí minh	6
+ngành chức_năng	6
+( )	6
+tỉnh hà	6
+- đối_với	6
+- quốc_phòng	6
+cơ_quan cảnh_sát	6
+cơ_quan trực_tiếp_quản_lý	6
+đơn_vị sự_nghiệp công_lập địa_bàn tỉnh	6
+trung_ương địa phươn	5
+thành_phố trực_thuộc trung_ương thành_phố đô_thị i tỉnh	5
+ngành y_tế	5
+tổng_cục cảnh_sát	5
+trung_ương đóng địa_bàn	5
+phối_hợp đơn_vị	5
+( thành_phố )	5
+thanh_niên cộng_sản hồ_chí minh	5
+chỉ_đạo sở	5
+tập_trung huấn_luyện	5
+chi tổ_chức hội_nghị đối_với cơ_quan nhà_nước đơn_vị sự_nghiệp công_lập	5
+viên_chức hành_chính	5
+năm_tuổi quân	5
+quốc dân	5
+đối_với tất_cả	5
+làm_việc cơ_quan	4
+đơn_vị bộ_đội	4
+đối_với đơn_vị địa_phương	4
+trách_nhiệm quản_lý	4
+đối_với quân_nhân	4
+cơ_quan hành_chính đơn_vị sự_nghiệp công_lập	4
+trách_nhiệm phối_hợp	4
+quân_sự huyện	4
+trách_nhiệm chỉ_đạo	4
+đơn_vị vũ_trang	4
+doanh_nghiệp nhà_nước	4
+đối_với khu_vực	4
+quản_lý nhà_nước	4
+viên_chức nhà_nước	4
+đối_với đơn_vị trung_ương	3
+cơ_chế quản_lý	3
+thành_phố trực_thuộc trung_ương thành_phố đô_thị i	3
+giải_thể đơn_vị	3
+thành_phố thủ_trưởng	3
+trung_ương trách_nhiệm hướng_dẫn	3
+lĩnh_vực y_tế	3
+đoàn công_tác	3
+số_lượng làm_việc	3
+uỷ_ban_hành_chính địa_phương	3
+cơ_quan hành_chính nhà_nước địa_phương	3
+số_lượng làm_việc đơn_vị sự_nghiệp	3
+chỉ_đạo lực_lượng	3
+trung_ương ( gọi	3
+huyện trách_nhiệm	3
+tỉnh quyết_định	3
+đơn_vị địa_phương quản_lý )	3
+ngân_sách địa_phương	3
+làm_việc đơn_vị sự_nghiệp	3
+trực_thuộc tw	3
+công_tác trụ_sở cơ_quan	3
+trung_ương chỉ_đạo	3
+thành_phố đặc_khu trực_thuộc	3
+trung_ương trách_nhiệm chỉ_đạo	3
+ngân_sách địa	3
+ngân_sách đảng	3
+phục_vụ công_tác	3
+trực_thuộc trung_ương ( gọi tỉn	3
+trung_ương ( đối_với	3
+đề_nghị xếp_hạng	3
+hành_chính nhà_nước tỉnh	3
+chỉ_huy quân_sự	2
+đối_với đơn_vị trung_ương quản_lý	2
+chiến_sĩ cảnh_sát	2
+giám_đốc công_an	2
+nhà_nước trung_ương	2
+đối_với công_nhân_viên_chức	2
+( sở nội_vụ )	2
+đô_thị i	2
+tự_chủ đơn_vị	2
+trung_ương xem_xét	2
+đối_với đơn_vị sự_nghiệp y_tế	2
+công_nhân_viên_chức nhà_nước	2
+chính_phủ quy_định cơ_chế tự_chủ đơn_vị sự_nghiệp công_lập	2
+thủ_trưởng sở	2
+ngân_sách đơn_vị trực_thuộc	2
+trách_nhiệm hướng_dẫn	2
+đô_thị địa_bàn	2
+y_tế ( vụ	2
+tổ_chức hội_nghị đối_với cơ_quan nhà_nước đơn_vị sự_nghiệp công_lập	2
+làm_việc đơn_vị sự_nghiệp công_lập	2
+hồ_chí min	2
+hội_nghị đối_với cơ_quan nhà_nước đơn_vị sự_nghiệp công_lập	2
+đoàn thanh_niên cộng_sản	2
+đối_với đơn_vị địa_phương quản_lý	2
+trực_thuộc trung_ương ( gọi	2
+tổ_chức kinh_tế	2
+ngân_sách nhà_nước hỗ_trợ ( gọi	2
+trung_ương địa	2
+phục_vụ tại_ngũ	2
+nhân_dân thành_phố	2
+trực_thuộc trung_ương trách_nhiệm	2
+( gọi uỷ_ban nhân_dân tỉn	2
+giám_đốc doanh_nghiệp	2
+công_lập trực_thuộc	2
+cơ_chế tự_chủ đơn_vị sự_nghiệp	2
+thành_phố đô_thị i tỉnh	2
+đối_với cơ_quan nhà_nước	2
+( đối_với đơn_vị trung_ương	2
+viên_chức ngành	2
+( đối_với doanh_nghiệp	2
+giải_thể đơn_vị sự_nghiệp	2
+nội_vụ )	2
+cộng_sản hồ_chí minh	1
+quân_sự xã	1
+sở_hữu toàn	1
+nhiệm_vụ chi ngân_sách	1
+( đối_với đơn_vị trung_ương quản_lý	1
+thành_phố tỉnh (	1
+công_tác quản_lý	1
+xã )	1
+tắt tỉn	1
+sở nội_vụ	1
+địa_bàn huyện	1
+quân_sự khu_vực	1
+y_tế - quốc_phòng	1
+trách_nhiệm sở	1
+đơn_vị trung_ương quản_lý )	1
+cơ_quan quản_lý nhà_nước	1
+quốc_phòng -	1
+đề_nghị cơ_quan	1
+thanh_niên cộng_sản hồ_chí	1
+phường thị_xã	1
+hành_chính nhà_nước địa_bàn tỉnh	1
+y_tế địa_phương	1
+làm_việc cơ_quan nhà_nước	1
+thành_phố hà_nội thành_phố	1
+ngân_sách nhà_nước	1
+đô_thị địa_bàn tỉnh	1
+quản_lý nhà_nước tài_nguyên	1
+trách_nhiệm tổ_chức	1
+- nội_vụ	1
+trực_thuộc trung_ương (	1
+tổ_chức đoàn_thể	1
+địa_bàn toàn	1
+thành_phố hà_nội thành_phố hồ_chí	1
+sở quản_lý ngành	1
+dân y lực_lượng vũ_trang	1
+( gọi tắt	1
+phạm_vi chức_năng	1
+thành_phố thành_phố trực_thuộc trung_ương thành_phố đô_thị i	1
+trách_nhiệm phối_hợp cơ_quan	1
+huy_động dân	1
+dự_toán trực_thuộc	1
+đơn_vị sự_nghiệp y_tế công_lập	1
+khu_vực ( )	1
+trực_thuộc trung_ương chỉ_đạo	1
+cơ_quan hành_chính đơn_vị sự_nghiệp	1
+tổ_chức hội_nghị	1
+sự_nghiệp thu	1
+quân_sự tỉnh	1
+- an_ninh	1
+phục_vụ mục_đích	1
+tập_trung chỉ_đạo	1
+huyện quyết_định	1
+trực_thuộc trung_ương ( gọi uỷ_ban nhân_dân tỉn	1
+hà_nội thành_phố	1
+tổ_chức hội_nghị đối_với cơ_quan nhà_nước đơn_vị	1
+quản_lý đô_thị	1
+thành_phố hồ_chí	1
+vũ_trang nhân_dân	1
+phục_vụ nhiệm_vụ	1
+đối_với thanh_niên	1
+( đối_với đơn_vị địa_phương	1
+nhà_nước lĩnh_vực	1
+nhà_nước đơn_vị sự_nghiệp công_lập	1
+tự_chủ đơn_vị sự_nghiệp công_lập	1
+sở y_tế tỉnh	1
+xếp_hạng đơn_vị	1
+sở ngoại_vụ thành_phố	1
+nhân_dân vũ_trang	1
+tổ_chức đảng	1
+trực_thuộc trung ươn	1
+đơn_vị dự_toán i	1
+nhiệm_vụ kiểm_soát	1
+bộ_trưởng nội_vụ	1
+phạm_vi quản_lý	1
+đô_thị (	1
+trung_ương trách_nhiệm tổ_chức	1
+cơ_quan quản_lý ngành	1
+phạm_vi toàn	1
+trung_ương đoàn thanh_niên cộng_sản	1
+xếp_hạng doanh_nghiệp	1

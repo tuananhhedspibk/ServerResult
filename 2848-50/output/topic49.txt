@@ -1,0 +1,810 @@
+thủ_trưởng cơ_quan	750
+cơ_quan thẩm_quyền	670
+cơ_quan quản_lý	564
+ngành liên_quan	540
+cơ_quan nhà_nước thẩm_quyền	472
+cơ_quan chủ_quản	450
+cơ_quan nhà_nước	430
+cơ_quan liên_quan	421
+đơn_vị liên_quan	404
+thẩm_quyền phê_duyệt	382
+cá_nhân liên_quan trách_nhiệm thi_hành quyết_định	377
+cơ_quan quản_lý nhà_nước	358
+cá_nhân liên_quan	348
+quản_lý nhà_nước	320
+phối_hợp cơ_quan	268
+phạm_vi quản_lý	255
+thẩm_quyền quyết_định	220
+cơ_quan ngang	213
+thanh_tra viên	210
+giải_quyết khiếu_nại	208
+phân_cấp quản_lý	201
+phối_hợp cơ_quan liên_quan	190
+cơ_quan chuyên_môn	188
+cơ_quan thuế	178
+chủ_trì phối_hợp	161
+thanh_tra chuyên_ngành	158
+trách_nhiệm quản_lý	155
+cơ_quan chủ_trì	154
+tổ_chức liên_quan	145
+quản_lý ngành	144
+đơn_vị quản_lý	138
+dự_thảo quyết_định	136
+vấn_đề liên_quan	131
+trách_nhiệm cơ_quan	130
+trách_nhiệm phối_hợp	129
+địa_phương quản_lý	129
+xem_xét quyết_định	128
+quyết_định thành_lập	124
+gửi cơ_quan	120
+tài_liệu liên_quan	120
+thủ_trưởng đơn_vị	120
+nội_dung liên_quan	118
+phối_hợp chặt_chẽ	116
+thẩm_quyền giao	115
+cơ_quan hành_chính nhà_nước	114
+đơn_vị chủ_trì	107
+cơ_quan thẩm_quyền phê_duyệt	104
+tổ_chức cá_nhân	103
+thanh_tra nhà_nước	102
+công_tác quản_lý	101
+quyết_định phê_duyệt	100
+đề_nghị cơ_quan	97
+thẩm_quyền giải_quyết	97
+quyền quản_lý	93
+thống_nhất quản_lý	88
+phối_hợp cơ_quan_chức_năng	87
+cơ_quan nhà_nước thẩm_quyền phê_duyệt	84
+trình thẩm_quyền phê_duyệt	83
+ý_kiến văn_bản	83
+cơ_quan quản_lý nhà_nước thẩm_quyền	79
+cơ_quan chuyên_môn xây_dựng	78
+phối_hợp ngành	74
+quản_lý sử_dụng	73
+phối_hợp giải_quyết	71
+quy_chế quản_lý	70
+tham_gia ý_kiến	69
+trình thẩm_quyền	68
+cơ_quan tiếp_nhận	67
+ngành chức_năng	67
+quản_lý chặt_chẽ	67
+ý_kiến cơ_quan	66
+ngành chủ_quản	66
+cơ_quan đầu_mối	65
+phạm_vi chức_năng	64
+cơ_quan quản_lý trực_tiếp	64
+công_tác thanh_tra	63
+yêu_cầu cơ_quan	63
+đơn_vị liên_quan trách_nhiệm thi_hành quyết_định	63
+cơ_quan thanh_tra	63
+đối_với cơ_quan	62
+gửi cơ_quan chủ_quản	62
+ban_hành quy_chế	62
+lĩnh_vực quản_lý	62
+công_tác quản_lý nhà_nước	60
+thẩm_quyền quy_định	60
+cơ_quan báo_chí	59
+thủ_trưởng cơ_quan ngang	59
+cơ_quan hành_chính	59
+liên_quan hoạt_động	58
+quản_lý hoạt_động	57
+quản_lý trực_tiếp	57
+quản_lý nhà_nước đối_với	57
+ý_kiến chỉ_đạo	57
+tổ_chức cá_nhân liên_quan	56
+trách_nhiệm thi_hành	55
+ý_kiến thẩm_định	55
+dự_thảo văn_bản	54
+cá_nhân tham_gia	54
+tổ_chức thanh_tra	53
+thẩm_quyền xem_xét	53
+cơ_quan chủ_trì soạn_thảo	52
+xử_lý thẩm_quyền	52
+cơ_quan hữu_quan	52
+cá_nhân hoạt_động	52
+ban_hành quy_chế phối_hợp	52
+thẩm_quyền phép	51
+ban_hành quy_chế quản_lý	50
+phối_hợp đơn_vị liên_quan	50
+quản_lý chuyên_ngành	50
+liên_quan trực_tiếp	49
+quy_định quy_chế	49
+đơn_vị chức_năng	49
+ngành địa_phương	49
+cơ_quan thẩm_quyền quyết_định	49
+quản_lý thị_trường	48
+liên_quan lĩnh_vực	48
+trách_nhiệm quản_lý nhà_nước	47
+cơ_quan thanh_tra nhà_nước	47
+thông_báo cơ_quan	47
+gửi cơ_quan quản_lý	47
+trách_nhiệm chủ_trì	46
+trình thẩm_quyền quyết_định	46
+liên_quan công_tác	46
+kiến_nghị thẩm_quyền	46
+xem_xét giải_quyết	45
+trình cơ_quan thẩm_quyền	45
+giải_quyết tranh_chấp	43
+thủ_trưởng cơ_quan chuyên_môn	42
+cục quản_lý	42
+trách_nhiệm xem_xét	42
+thông_báo văn_bản	42
+cơ_quan thẩm_quyền giao	42
+trách_nhiệm thi_hành quyết_định	42
+hoạt_động liên_quan	40
+cơ_quan quản_lý chương_trình	40
+phối_hợp cơ_quan_tài_chính	40
+đoàn thanh_tra	40
+quyết_định cơ_quan thẩm_quyền	39
+ý_kiến thống_nhất	39
+chức_năng quản_lý	39
+gửi văn_bản	39
+ban_hành quyết_định	38
+ban_hành quy_định quản_lý	38
+chức_năng quản_lý nhà_nước	38
+thủ_trưởng ban	38
+cơ_quan quản_lý đường_bộ	38
+thẩm_quyền ban_hành	38
+phối_hợp công_tác	37
+trụ_sở cơ_quan	37
+văn_bản đề_nghị	37
+quy_chế chi_tiêu nội_bộ	36
+phối_hợp ngành liên_quan	36
+quy_chế làm_việc	35
+danh_mục bí_mật nhà_nước	35
+cá_nhân nước_ngoài	35
+chủ_trì phối_hợp cơ_quan liên_quan	35
+đội thanh_tra	34
+trách_nhiệm tổ_chức	34
+thành_phố trách_nhiệm thi_hành quyết_định	34
+văn_bản liên_quan	34
+cá_nhân trực_tiếp	34
+kiến_nghị cơ_quan	33
+cơ_quan thẩm_quyền ban_hành	33
+trách_nhiệm thông_báo	33
+quy_định quy_chế chi_tiêu nội_bộ cơ_quan	33
+đơn_vị giao	32
+cơ_quan quản_lý chuyên_ngành	32
+văn_bản cơ_quan	32
+đề_nghị cơ_quan thẩm_quyền	32
+cá_nhân phép	32
+sở quản_lý ngành	32
+cá_nhân thẩm_quyền	32
+tiến_hành thanh_tra	31
+quan_hệ phối_hợp	31
+trách_nhiệm chính_xác	31
+xác_nhận cơ_quan	31
+tố_cáo liên_quan	31
+giao trực_tiếp	30
+cơ_quan quản_lý ngành	30
+cá_nhân nhu_cầu	30
+kiến_nghị cơ_quan thẩm_quyền	30
+chủ_trì soạn_thảo	30
+cơ_quan quản_lý thị_trường	30
+trách_nhiệm cung_cấp	30
+liên_quan trách_nhiệm thi_hành quyết_định	30
+thẩm_quyền thẩm_định	30
+kiến_nghị cá_nhân	29
+cơ_quan chủ_quản cơ_quan_tài_chính	29
+cơ_quan thẩm_quyền quy_định	29
+ban_hành kèm quyết_định quy_chế phối_hợp	29
+trách_nhiệm phối_hợp cơ_quan	29
+lĩnh_vực phân_công	29
+ngành hữu_quan	29
+chủ_trì tổ_chức	29
+tổ_chức chủ_trì	29
+cơ_quan đảng	29
+cá_nhân liên_quan căn_cứ quyết_định thi_hành	28
+đơn_vị quản_lý đường_bộ	28
+giao chủ_trì	28
+quản_lý nhà_nước lĩnh_vực	28
+tiếp_nhận phản_ánh	28
+phạm_vi quản_lý sở	28
+trình thẩm_quyền xem_xét	27
+cá_nhân phản_ánh	27
+cơ_quan địa_chính	27
+giải_quyết kiến_nghị	27
+bí_mật nhà_nước	27
+trách_nhiệm thẩm_định	27
+đại_diện cơ_quan	27
+cơ_quan quản_lý nhà_nước chuyên_ngành	27
+tổng thanh_tra nhà_nước	27
+ý_kiến thống_nhất văn_bản	27
+văn_bản trả_lời	26
+cơ_quan nhà_nước thẩm_quyền ban_hành	26
+chánh thanh_tra	26
+phối_hợp đơn_vị	26
+trách_nhiệm tham_mưu	26
+quản_lý nhà_nước ngành xây_dựng	26
+cơ_quan_chức_năng liên_quan	26
+văn_bản chấp_thuận	25
+chủ_trì phối_hợp cơ_quan	25
+hoạt_động thanh_tra	25
+thanh_tra hành_chính	25
+cơ_quan thường_trực	25
+soạn_thảo văn_bản	25
+văn_bản kiến_nghị	25
+công_bố danh_mục	25
+trách_nhiệm giúp	25
+thẩm_quyền xử_lý	25
+tổ_chức thẩm_định	25
+chủ_động phối_hợp	25
+vướng_mắc đề_nghị cơ_quan	25
+lĩnh_vực quản_lý sở	25
+đơn_vị hành_chính	24
+quản_lý hành_chính	24
+vấn_đề thẩm_quyền	24
+tiếp_thu ý_kiến	24
+quy_định quy_chế chi_tiêu nội_bộ đơn_vị	24
+góp ý_kiến	24
+thủ_trưởng đơn_vị liên_quan trách_nhiệm thi_hành quyết_định	24
+quản_lý nhà_nước hoạt_động	24
+nhà_nước giao	24
+hành_chính nhà_nước	23
+giải_quyết vấn_đề	23
+cơ_quan tiếp_nhận viện_trợ	23
+phạm_vi bí_mật nhà_nước	23
+xây_dựng quy_chế	23
+chủ_trì thẩm_định	23
+thẩm_quyền xét_duyệt	23
+lĩnh_vực phạm_vi quản_lý	23
+doanh_nghiệp nhà_nước	23
+giải_quyết vấn_đề liên_quan	23
+phối_hợp liên_ngành	23
+cơ_quan thẩm_quyền phép	23
+cơ_quan thẩm_quyền xử_lý	23
+cơ_quan nhà_nước thẩm_quyền phép	22
+ngành liên_quan địa_phương	22
+xử_lý vấn_đề	22
+thủ_trưởng sở	22
+cơ_quan thuế trách_nhiệm	22
+đồng_ý văn_bản	22
+trách_nhiệm tiếp_nhận	22
+nhà_nước thẩm_quyền	22
+tham_gia đoàn	22
+cộng_tác_viên thanh_tra	21
+lĩnh_vực phạm_vi quản_lý nhà_nước	21
+nội_bộ cơ_quan	21
+trách_nhiệm phối_hợp cơ_quan_tài_chính	21
+trả_lời kiến_nghị	21
+lãnh_đạo cơ_quan	21
+chính_phủ quy_định tổ_chức cơ_quan chuyên_môn	21
+văn_bản gửi	21
+hoàn_toàn trách_nhiệm	21
+quản_lý )	21
+phối_hợp cơ_quan liên_quan kiểm_tra	21
+cơ_quan thông_tấn	21
+quy_chế phối_hợp	21
+phạm_vi quản_lý nhà_nước	21
+phân_cấp ủy_quyền	21
+quản_lý nhà_nước công_tác	20
+cơ_quan quản_lý đường_bộ thẩm_quyền	20
+cá_nhân thành_tích	20
+thẩm_định trình	20
+phân_cấp trách_nhiệm quản_lý nhà_nước	20
+ý_kiến tham_gia	20
+nội_dung bí_mật nhà_nước	20
+phối_hợp thanh_tra	20
+thông_báo cơ_quan thuế	20
+đối_với cơ_quan nhà_nước	20
+cơ_quan thẩm_quyền duyệt	19
+chủ_trì thẩm_định nội_dung quy_định	19
+cá_nhân thẩm_quyền giải_quyết	19
+đơn_vị cá_nhân liên_quan trách_nhiệm thi_hành quyết_định	19
+đơn_vị phản_ánh	19
+ý_kiến thẩm_định văn_bản	19
+cơ_quan chủ_trì thẩm_định	19
+hoạt_động lĩnh_vực	19
+cơ_quan hành_chính nhà_nước tổ_chức quy_định quyết_định 114/2006 / qđ-ttg	19
+đề_nghị đơn_vị	19
+phê_duyệt danh_mục	19
+cơ_quan_tài_chính trách_nhiệm	19
+cơ_quan chủ_quản trực_tiếp	19
+phối_hợp cục	19
+thông_tin liên_quan	19
+thẩm_quyền chấp_thuận	19
+quy_chế chi_tiêu	19
+lệ_phí đơn_vị sử_dụng quy_định cơ_quan nhà_nước thẩm_quyền	18
+trực_tiếp tham_gia	18
+ủy quyền	18
+đối_với đơn_vị	18
+văn_bản pháp_quy	18
+tham_gia hoạt_động	18
+cơ_quan thẩm_quyền xem_xét	18
+gửi cơ_quan quản_lý trực_tiếp	18
+cơ_quan_chức_năng thẩm_quyền	18
+thống_nhất ý_kiến	18
+thẩm_định nội_dung	18
+trả_lời văn_bản	18
+trình cơ_quan thẩm_quyền phê_duyệt	18
+cá_nhân liên_quan thi_hành quyết_định	18
+phối_hợp cơ_quan hữu_quan	18
+lĩnh_vực chuyên_môn	18
+báo cơ_quan	18
+cơ_quan hành_chính nhà_nước địa_phương	17
+quy_định phân_cấp quản_lý	17
+đơn_vị chủ_trì tổ_chức hội_nghị	17
+cơ_quan nhà_nước thẩm_quyền quyết_định	17
+liên_quan trách_nhiệm	17
+giải_quyết sự_cố	17
+tiếp_thu ý_kiến thẩm_định	17
+thẩm_quyền giao nhiệm_vụ phân_công	17
+đơn_vị tư_vấn	17
+thẩm_định dự_thảo	17
+phân_công trách_nhiệm	17
+hành_nghề quản_lý	17
+xác_nhận cơ_quan thẩm_quyền	17
+gửi số_liệu địa_chính cơ_quan thuế	17
+làm_việc cơ_quan nhà_nước	17
+ban_hành văn_bản	16
+đơn_vị liên_quan căn_cứ quyết_định thi_hành	16
+cá_nhân tham_gia hoạt_động	16
+yêu_cầu cơ_quan nhà_nước thẩm_quyền	16
+cơ_quan quyết_định thành_lập	16
+đề_xuất ý_kiến	16
+ban_ngành liên_quan	16
+cá_nhân phản_ánh kịp_thời	16
+thủ_trưởng cơ_quan liên_quan	16
+quy_chế quy_định	16
+đơn_vị quản_lý vận_hành	16
+quyết_định 71/2005	16
+quyền khiếu_nại	16
+thẩm_quyền duyệt	15
+ban_hành quy_chế làm_việc	15
+xây_dựng văn_bản	15
+đơn_vị sử_dụng	15
+ban_hành kèm quyết_định quy_chế quản_lý	15
+quyết_định bổ_nhiệm	15
+kết_luận thanh_tra	15
+quyết_định giao	15
+nội_dung thẩm_định	15
+quy_chế hoạt_động	15
+đơn_vị liên_quan trách_nhiệm	15
+đồ_dùng cá_nhân	15
+trách_nhiệm trả_lời văn_bản	15
+phối_hợp chặt_chẽ cơ_quan	15
+cá_nhân liên_quan trách_nhiệm	15
+thẩm_định phê_duyệt	14
+làm_việc cơ_quan	14
+trách_nhiệm phối_hợp chặt_chẽ	14
+ý_kiến đồng_ý	14
+phối_hợp cơ_quan quản_lý nhà_nước	14
+nhiệm_vụ quản_lý nhà_nước	14
+rà_soát văn_bản	14
+trình cơ_quan nhà_nước thẩm_quyền	14
+trách_nhiệm chỉ_đạo	13
+xem_xét xử_lý	13
+thông_tin địa_chính cơ_quan thuế	13
+tổng_hợp trình	13
+cơ_quan trực_tiếp_quản_lý	13
+ban_hành thông_báo	13
+chủ_trì phối_hợp ngành	13
+cơ_quan chủ_trì tổ_chức	13
+danh_mục tài_liệu	13
+trả_lời cử_tri	13
+tổng_hợp ý_kiến	13
+trách_nhiệm quan_hệ phối_hợp	13
+xem_xét chấp_thuận	13
+trách_nhiệm nội_dung văn_bản trình	13
+cơ_quan thẩm_quyền giải_quyết	13
+ý_kiến góp_ý	13
+thành_lập quyết_định	12
+đảng nhà_nước	12
+đối_với hoạt_động	12
+chỉ_đạo cơ_quan_chức_năng	12
+cơ_quan chuyên_môn giúp	12
+nội_dung quy_định	12
+trách_nhiệm hoàn_trả	12
+tham_khảo ý_kiến	12
+thẩm_quyền bổ_nhiệm	12
+quản_lý vận_hành	12
+cơ_quan chủ_quản xét_duyệt	12
+lĩnh_vực công_tác	12
+thành_lập đoàn	12
+thông_báo kịp_thời	12
+thống_nhất văn_bản	12
+đối_với cơ_quan hành_chính	11
+cá_nhân sử_dụng	11
+thẩm_quyền giao nhiệm_vụ	11
+ngành liên_quan xây_dựng	11
+đơn_vị cá_nhân liên_quan	11
+nội_bộ ngành	11
+chính_phủ quản_lý	11
+quyết_định xử_lý	11
+khiếu_nại tố_cáo	11
+trực_tiếp chỉ_đạo	11
+chỉ_đạo đơn_vị	11
+báo_cáo cơ_quan quản_lý	11
+quyết_định thành_lập đề_nghị	11
+liên_quan tổ_chức	11
+phê_duyệt danh_sách	11
+cơ_quan liên_quan kiểm_tra	11
+giải_quyết tố_cáo	11
+quyền chủ_động	11
+tổ_chức hoạt_động	11
+cơ_quan điều_tra	11
+thi_hành quyết_định	11
+phối_hợp công_tác quản_lý	11
+chủ_trì thẩm_định nội_dung	11
+chức_năng tham_mưu	11
+ý_kiến đề_xuất	11
+đơn_vị chức_năng liên_quan	11
+chi_cục quản_lý thị_trường	11
+quy_chế chi_tiêu nội_bộ đơn_vị	11
+quy_chế quản_lý sử_dụng	11
+căn_cứ chức_năng	11
+nhà_nước lĩnh_vực	11
+thành_phố tổ_chức	10
+phản_ánh kịp_thời	10
+quy_định quyết_định	10
+trình lãnh_đạo	10
+chỉ_đạo trực_tiếp	10
+trình thẩm_quyền ban_hành	10
+quy_định phân_cấp	10
+lĩnh_vực quản_lý nhà_nước	10
+quyết_định đình_chỉ	10
+cơ_quan liên_quan tổ_chức	10
+cá_nhân hoạt_động liên_quan	10
+cơ_quan thường_trực_ban chỉ_đạo	10
+giải_quyết trả_lời	10
+trách_nhiệm tổng_hợp	10
+phối_hợp sở	10
+địa_chính cơ_quan thuế	10
+quản_lý nhà_nước chuyên_ngành	10
+ban_hành danh_mục	10
+tổ_chức hoạt_động thanh_tra	10
+đầu_mối tiếp_nhận	9
+liên_quan trực_tiếp công_tác	9
+đơn_vị giao nhiệm_vụ	9
+xây_dựng chương_trình	9
+đơn_vị phản_ánh kịp_thời	9
+quyết_định giải_quyết	9
+quy_định chức_năng	9
+tổ_chức cơ_quan chuyên_môn	9
+cơ_quan thuế thông_báo	9
+liên_quan công_tác quản_lý	9
+phê_duyệt chương_trình	9
+ý_kiến trả_lời	9
+trách_nhiệm sở	9
+quản_lý nhà_nước đối_với hoạt_động	9
+căn_cứ quyết_định	9
+công_tác quản_lý thị_trường	8
+phép thành_lập	8
+kiến_nghị cử_tri	8
+quản_lý chi_tiêu	8
+đầu_mối giúp	8
+nội_dung văn_bản	8
+cơ_quan tiến_hành	8
+ban quản_lý	8
+chỉ_đạo sở	8
+cơ_quan quyết_định thành_lập doanh_nghiệp	8
+gửi cơ_quan_tài_chính	8
+cơ_quan liên_quan xây_dựng	8
+phối_hợp cơ_quan liên_quan tổ_chức	8
+thống_nhất quản_lý nhà_nước	8
+cung_cấp thông_tin báo_chí cơ_quan hành_chính nhà_nước	8
+quyền yêu_cầu cơ_quan	8
+văn_bản thông_báo	8
+trình cơ_quan	8
+đơn_vị liên_quan tham_mưu	8
+trách_nhiệm trả_lời	7
+xử_lý phản_ánh	7
+quyết_định hủy	7
+giải_quyết kịp_thời	7
+liên_quan tham_mưu	7
+vướng_mắc đề_nghị	7
+phép hoạt_động	7
+văn_bản đồng_ý	7
+phân_cấp trách_nhiệm	7
+đối_với thanh_tra viên	7
+phạm_vi quản_lý nhà_nước sở	7
+trách_nhiệm xét_duyệt	7
+ban thanh_tra	7
+căn_cứ quyết_định thi_hành	7
+quản_lý nhà_nước ngành	7
+cơ_quan chủ_quản bắt_giữ	7
+cơ_quan đại_diện	7
+ý_kiến kết_luận	7
+đơn_vị cung_cấp	7
+gửi kèm	7
+phê_duyệt kết_quả	7
+kịp_thời phản_ánh	7
+xử_lý văn_bản	7
+cá_nhân liên_quan công_tác	7
+thành_phố thủ_trưởng cơ_quan	7
+đường_bộ thẩm_quyền	7
+nội_dung chương_trình	7
+phân_cấp quản_lý nhà_nước	7
+khiếu_nại liên_quan	7
+phối_hợp quản_lý nhà_nước	7
+xem_xét trình	6
+quyền yêu_cầu	6
+đình_chỉ hoạt_động	6
+văn_bản trình	6
+đơn_vị trực_tiếp_quản_lý	6
+quản_lý chương_trình	6
+phó_chánh thanh_tra	6
+quyết_định cử	6
+chủ_trì phối_hợp sở	6
+phát_biểu ý_kiến	6
+chương_trình công_tác	6
+kết_quả thẩm_định trình	6
+đề_nghị đơn_vị phản_ánh	6
+gửi thông_báo	6
+giao quyền	6
+phối_hợp ban	6
+thanh_tra viên thanh_tra	6
+cơ_quan thẩm_quyền giao dự_toán	6
+cung_cấp tài_liệu	6
+danh_mục văn_bản	6
+thông_báo văn_bản cơ_quan	6
+04/4/2014 chính_phủ quy_định tổ_chức cơ_quan chuyên_môn	6
+đại_diện lãnh_đạo	6
+phối_hợp cục thuế	6
+thẩm_quyền xem_xét quyết_định	6
+phép sử_dụng	6
+chức_năng liên_quan	6
+thủ_trưởng đơn_vị liên_quan	6
+phối_hợp cơ_quan liên_quan tham_mưu	6
+quan_hệ trực_tiếp	6
+hủy quyết_định	6
+thẩm_định thông_báo	5
+tổng_hợp kết_quả thẩm_định trình	5
+căn_cứ nội_dung	5
+gửi báo_cáo	5
+trách_nhiệm nội_dung văn_bản	5
+nhà_nước văn_bản	5
+chấp_thuận văn_bản	5
+chủ_động xây_dựng	5
+chủ_quản tổng_hợp	5
+đơn_vị chủ_trì tổ_chức	5
+quyền_hạn trách_nhiệm	5
+quyết_định thành_lập đoàn	5
+đề_nghị ban_hành	5
+lĩnh_vực phạm_vi	5
+đề_nghị phản_ánh	5
+văn_bản phép	5
+văn_bản yêu_cầu	5
+danh_mục bí_mật	5
+quyền_hạn trách_nhiệm quản_lý nhà_nước	5
+tổ_chức họp	5
+trao_đổi ý_kiến	5
+cử tham_gia	5
+liên_quan căn_cứ quyết_định thi_hành	5
+lý trình	5
+cơ_quan chủ_quản tổng_hợp	5
+vướng_mắc đề_nghị đơn_vị	5
+thanh_tra sở	5
+tổng thanh_tra	4
+thành_phố trách_nhiệm	4
+giải_quyết vướng_mắc	4
+nhà_nước hoạt_động	4
+phó đơn_vị sở	4
+chủ_quản trực_tiếp	4
+thường_trực_ban chỉ_đạo	4
+quy_chế chi_tiêu nội_bộ cơ_quan	4
+ban_hành quy_định	4
+gửi cục	4
+chức_năng thanh_tra	4
+giao trực_tiếp tổ_chức cá_nhân	4
+liên_quan xây_dựng	4
+tham_mưu giúp	4
+chủ_trì họp	4
+quyết_định thành_lập ban	4
+đơn_vị địa_phương quản_lý	4
+thẩm_quyền phê_duyệt dự_toán	4
+cơ_quan_tài_chính xem_xét	4
+ý_kiến văn_bản gửi	4
+quan_hệ công_tác	4
+thẩm_quyền giải_quyết khiếu_nại	4
+cơ_quan liên_quan thẩm_định	4
+địa_phương phản_ánh	4
+kiểm_tra xử_lý	4
+nội_bộ đơn_vị	4
+ý_kiến tư_vấn	4
+xử_lý quy_định	4
+gửi văn_bản đề_nghị	4
+cơ_quan thuế địa_phương	4
+quy_định quản_lý sử_dụng	4
+báo_cáo thẩm_định	4
+chặt_chẽ cơ_quan	4
+cơ_quan liên_quan tham_mưu	4
+kiểm_tra chuyên_môn	4
+kết_quả giải_quyết	4
+giao nhiệm_vụ	4
+quyết_định công_bố	3
+thẩm_định báo_cáo	3
+trách_nhiệm kiểm_tra	3
+liên_quan trách_nhiệm thi_hành	3
+cục thuế	3
+phân_cấp trách_nhiệm quản_lý	3
+quy_định quản_lý hoạt_động	3
+nội_dung hoạt_động	3
+ban_hành quy_chế quản_lý sử_dụng	3
+cơ_quan thuế ban_hành thông_báo	3
+lệ_phí thẩm_quyền quyết_định	3
+sở chuyên_ngành	3
+phó thủ_trưởng	3
+phân_công phụ_trách	3
+hành_chính thẩm_quyền	3
+văn_bản ủy_quyền	3
+hành_chính nhà_nước địa_phương	3
+đối_với doanh_nghiệp	3
+thi_hành thống_nhất	3
+phó thủ_trưởng cơ_quan	3
+công_tác xây_dựng	3
+quản_lý nhà_nước thuỷ_sản	3
+thẩm_quyền cử	3
+cơ_quan liên_quan trách_nhiệm	3
+địa_phương quản_lý )	3
+thông_tin thị_trường	3
+cơ_quan liên_quan trách_nhiệm thi_hành	3
+cung_cấp kịp_thời	3
+chủ_trì tổ_chức thẩm_định	3
+cơ_quan thường_trực chương_trình	3
+chỉ_đạo công_tác	3
+cơ_quan điều_tra thẩm_quyền	3
+tổ_chức tư_vấn	3
+chỉ_đạo công_tác thanh_tra	3
+cung_cấp thông_tin	3
+cử đại_diện	3
+ngạch thanh_tra	2
+số_liệu địa_chính	2
+địa_phương tiến_hành	2
+nội_dung chi_tiêu	2
+trách_nhiệm báo_cáo	2
+tiến_hành xác_minh	2
+nhiệm_vụ quản_lý	2
+yêu_cầu cơ_quan nhà_nước	2
+đề_nghị phép	2
+ban_hành kèm quyết_định	2
+thẩm_quyền kiểm_tra công_tác	2
+kèm quyết_định	2
+kết_quả xử_lý	2
+quản_lý nhà_nước lĩnh_vực công_tác	2
+chủ_quản cơ_quan_tài_chính	2
+quy_định trình_tự	2
+liên_quan thẩm_định	2
+yêu_cầu nhiệm_vụ	2
+đơn_vị liên_quan trách_nhiệm thi_hành	2
+xem_xét tổng_hợp	2
+báo_cáo văn_bản	2
+quyết_định 71/2005 /	2
+chuyên_môn giúp	2
+cá_nhân liên_quan trách_nhiệm thi_hành	2
+tổng_hợp nhu_cầu	2
+quy_định quy_chế chi_tiêu nội_bộ	2
+đơn_vị cử	2
+chức_năng nhiệm_vụ giao	2
+nhiệm_vụ giao	2
+giúp lãnh_đạo cơ_quan	2
+phạm_vi bí_mật	2
+thủ_trưởng đơn_vị liên_quan trách_nhiệm	2
+đình_chỉ thi_hành	2
+tổ_chức hiệp_thương	2
+quản_lý nhà_nước văn_hóa	2
+chi_tiêu nội_bộ	2
+quy_định danh_mục	2
+nhu_cầu sử_dụng	2
+lĩnh_vực công_tác phân_công	2
+họp hoạt_động cơ_quan hành_chính nhà_nước	2
+phân_công nhiệm_vụ	2
+quyết_định 114/2006	2
+căn_cứ kết_quả	2
+kịp_thời xử_lý	2
+kịp_thời sở	2
+tham_gia chương_trình	2
+giao trực_tiếp tổ_chức	2
+quy_định tổ_chức cơ_quan chuyên_môn	2
+tổ_chức cơ_quan chuyên_môn giúp	2
+trụ_sở làm_việc	2
+trực_tiếp công_tác quản_lý	2
+văn_bản gửi sở	2
+cá_nhân liên_quan căn_cứ	2
+liên_quan kiểm_tra	2
+chính_phủ quy_định tổ_chức	2
+chức_năng giúp	2
+ban_hành kèm quyết_định quy_chế	2
+nhà_nước công_tác quản_lý	2
+ngạch thanh_tra viên	2
+nhiệm_vụ phân_công	2
+tiếp_nhận văn_bản	2
+chi_cục thuế	2
+kết_quả thẩm_định	2
+trình cơ_quan nhà_nước	2
+phép xây_dựng	2
+cơ_quan thẩm_quyền hoạt_động	2
+vướng_mắc đề_nghị phản_ánh	2
+cục điều_tra	1
+tổ_chức kiểm_tra	1
+đoàn công_tác	1
+quyết_định phê_duyệt kết_quả	1
+địa_chính cơ_quan	1
+xây_dựng chuyên_ngành	1
+căn_cứ chức_năng nhiệm_vụ	1
+phụ_trách công_tác	1
+xử_lý kịp_thời	1
+nhà_nước thẩm_quyền phép	1
+quản_lý nhà_nước thi_hành	1
+hội_nghị chuyên_môn	1
+đoàn kiểm_tra	1
+cục quyền	1
+hoạt_động ban	1
+thủ_trưởng đơn_vị liên_quan trách_nhiệm thi_hành	1
+tranh_chấp quyền	1
+hành_chính lĩnh_vực	1
+quyết_định quy_chế	1
+cung_cấp số_liệu	1
+báo_chí nước_ngoài	1
+trực_tiếp công_tác	1
+thông_báo cục	1
+lệ_phí thẩm_quyền	1
+báo_cáo kết_quả thẩm_định tư_vấn	1
+chủ_quản xét_duyệt	1
+chính_xác thông_tin	1
+yêu_cầu cung_cấp	1
+chi_cục quản_lý	1
+nhà_nước thẩm_quyền quyết_định	1
+văn_bản cơ_quan thuế	1
+kết_quả xác_minh	1
+chính_phủ quy_định	1
+đề_nghị xây_dựng	1
+báo_cáo kịp_thời	1
+đề_nghị bổ_nhiệm	1
+hoạt_động cơ_quan hành_chính nhà_nước	1
+công_tác trụ_sở cơ_quan	1
+số_liệu địa_chính cơ_quan	1
+số_liệu báo_cáo	1
+tổ_chức hội_nghị đối_với cơ_quan nhà_nước	1
+phê_duyệt dự_toán	1
+trực_tiếp_quản_lý )	1
+chủ_trì tổ_chức hội_nghị	1
+danh_sách đề_nghị	1
+thành_phố thủ_trưởng	1
+kịp_thời phản_ánh sở	1
+phụ_trách lĩnh_vực	1
+quyết_định thành_lập doanh_nghiệp	1
+thẩm_định nội_dung quy_định	1
+trình chính_phủ xem_xét	1
+quản_lý sử_dụng lệ_phí	1
+kịp_thời giải_quyết	1
+thẩm_định văn_bản	1
+trách_nhiệm phối_hợp sở	1
+ủy ban	1
+phạm_vi dự_toán	1
+phối_hợp cơ_quan quản_lý	1
+nhu_cầu thị_trường	1
+chính_phủ giao	1
+chức_năng nhiệm_vụ	1
+phối_hợp ban quản_lý	1
+duyệt thông_báo	1
+thành_tích công_tác	1
+gửi ban chỉ_đạo	1
+cá_nhân liên_quan phản_ánh	1
+thẩm_định tư_vấn	1
+thành_lập doanh_nghiệp	1
+đoàn điều_tra	1
+ban_hành kèm	1
+tiến_hành hoạt_động	1
+chính_phủ phê_duyệt	1
+đề_nghị ủy	1
+văn_bản xác_nhận	1
+kiểm_tra xác_nhận	1
+quản_lý xây_dựng chuyên_ngành	1
+sở xây_dựng	1
+cơ_quan thi_hành	1
+giao sở	1
+chấp_thuận xây_dựng	1
+nhà_nước thẩm_quyền giao	1
+thành_lập ban quản_lý	1
+công_tác điều_tra	1
+ban_hành quy_định chức_năng	1
+công_tác chỉ_đạo	1
+thông_tin liên_lạc	1
+thông_báo sở	1
+phản_ánh sở	1
+tổng_hợp danh_sách	1
+trao_đổi thống_nhất	1
+thủ_trưởng cơ_quan chuyên_môn ubnd	1
+trực_tiếp nước_ngoài	1
+đại_diện ban	1

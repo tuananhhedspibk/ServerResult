@@ -1,0 +1,566 @@
+thi_hành án	769
+viện kiểm_sát	590
+vụ án	319
+cơ_quan điều_tra	298
+viện kiểm_sát nhân_dân tối_cao	280
+bồi_thường thiệt_hại	271
+truy_cứu trách_nhiệm hình_sự	264
+toà_án nhân_dân tối_cao	204
+chấp_hành viên	194
+cơ_quan thi_hành án	180
+viện kiểm_sát nhân_dân	158
+quyết_định cưỡng_chế	126
+toà_án nhân_dân	125
+cưỡng_chế thi_hành án	122
+xoá án	115
+cơ_quan thi_hành án dân_sự	107
+xử_lý đơn khiếu_nại	105
+thi_hành án dân_sự	99
+giải_quyết tranh_chấp	98
+cơ_quan công_an	97
+truy_cứu trách_nhiệm hình_sự tội	88
+chánh_án toà_án	87
+hồ_sơ vụ án	86
+thực_hiện cưỡng_chế	82
+xét_xử sơ_thẩm	82
+giải_quyết khiếu_nại	79
+tòa_án nhân_dân tối_cao	79
+quyết_định toà_án	75
+thi_hành quyết_định	71
+giải_quyết vụ án	71
+toà_án quân_sự	71
+toà_án quyết_định	70
+vụ án hình_sự	68
+chấp_hành quyết_định	68
+hiệu_lực pháp_luật	61
+cơ_quan tiến_hành tố_tụng	61
+ban thực_hiện cưỡng_chế	58
+đối_với vụ án	58
+quyết_định thi_hành án	58
+bản_án hiệu_lực pháp_luật	58
+đơn yêu_cầu	54
+ban cưỡng_chế	54
+toà_án nhân_dân tỉnh	50
+thiệt_hại tài_sản	49
+viện_trưởng viện kiểm_sát	49
+quyết_định khởi_tố bị_can	48
+vụ án trọng_điểm	47
+thi_hành án phạt tù	47
+thụ_lý vụ án	46
+điều_tra vụ án	46
+tài_sản kê_biên	46
+tham_gia phiên_toà	44
+truy_cứu trách_nhiệm hình_sự tội "	43
+kê_biên tài_sản	43
+kiến_nghị khởi_tố	43
+thiệt_hại tính_mạng	42
+án tù	41
+quyết_định khởi_tố vụ án hình_sự	41
+tòa_án nhân_dân	40
+cơ_quan trách_nhiệm bồi_thường thiệt_hại	40
+đơn khiếu_nại	39
+yêu_cầu toà_án	39
+chăm_sóc oan	39
+thu_thập chứng_cứ	39
+quyết_định hiệu_lực pháp_luật	39
+tài_sản tạm	38
+thi_hành án dân_sự tỉnh	38
+viện kiểm_sát quân_sự	38
+thi_hành án quân_khu	36
+xét_xử phúc_thẩm	36
+phí thi_hành án	35
+quyết_định giải_quyết tranh_chấp đất_đai	34
+viện kiểm_sát trực_tiếp	34
+tiến_hành tố_tụng	34
+quyết_định thay_đổi	34
+công_tác thi_hành án dân_sự	34
+hiệu_lực thi_hành	33
+buộc thôi_việc	33
+công_tác thi_hành án	33
+quyết_định đình_chỉ	32
+thủ_trưởng cơ_quan điều_tra	32
+bản_sao bản_án	32
+trách_nhiệm hình_sự	32
+giải_quyết tranh_chấp đất_đai	31
+xét phê_chuẩn	30
+quyền yêu_cầu	30
+bắt khẩn_cấp	30
+giải_quyết bồi_thường	30
+quyết_định tòa_án	30
+quyết_định khởi_tố	29
+kiểm_sát điều_tra	29
+yêu_cầu cơ_quan điều_tra	29
+vụ án xét_xử	28
+khởi_tố bị_can	28
+trách_nhiệm bồi_thường	28
+thời_hiệu khởi_kiện	28
+viện kiểm_sát toà_án	27
+quyết_định khởi_tố vụ án	27
+thẩm_tra viên	27
+ban_hành quyết_định cưỡng_chế	27
+khám_nghiệm hiện_trường	27
+oan chết	27
+giao_dịch dân_sự	27
+viện kiểm_sát tham_gia phiên_toà	26
+luật dân_sự	26
+toà_án thụ_lý	26
+tiến_hành cưỡng_chế	25
+tiến_hành điều_tra	25
+quá_trình điều_tra	25
+khởi_tố vụ án	25
+ngành kiểm_sát	25
+thẩm_quyền xét_xử	24
+đối_với bản_án	24
+đối_với tài_sản	24
+cảnh_sát điều_tra	24
+xác_minh tài_sản	24
+chi_phí cưỡng_chế thi_hành án	24
+yêu_cầu cơ_quan	24
+trách_nhiệm bồi_thường thiệt_hại	24
+chánh_án tòa_án	24
+truy_cứu trách_nhiệm hình_sự quy_định pháp_luật	23
+tài_sản thi_hành án	23
+kế_hoạch cưỡng_chế	23
+cưỡng_chế thi_hành án dân_sự	23
+phòng thi_hành án	23
+kết_thúc điều_tra	23
+vụ_việc dân_sự	23
+cơ_quan thi_hành án dân_sự địa_phương	23
+thời_hạn mười lăm	22
+giải_quyết vụ án trọng_điểm	22
+tòa_án sơ_thẩm	22
+công_cụ hỗ_trợ thi_hành án	22
+toà_án phúc_thẩm	22
+tiến_hành thương_lượng	22
+cưỡng_chế thực_hiện quyết_định giải_quyết tranh_chấp đất_đai	22
+thiệt_hại nghiêm_trọng	21
+kháng_nghị thủ_tục giám_đốc_thẩm	21
+hồ_sơ vụ_việc dân_sự	21
+thi_hành bản_án	21
+tiến_hành một_số hoạt_động điều_tra	21
+thẩm_quyền xét_xử toà_án quân_sự	21
+đơn yêu_cầu thi_hành án	21
+thẩm_quyền giải_quyết	21
+bảo_quản tài_sản	20
+viện_trưởng viện kiểm_sát nhân_dân tối_cao	20
+bản_án hình_sự	20
+mười lăm	20
+thương_lượng thành	20
+thời_điểm xét_xử sơ_thẩm	20
+thu_nhập ổn_định	20
+đình_chỉ vụ án	19
+toà_án quân_sự quân_khu	19
+xét_xử vụ án	19
+nghiêm_trọng truy_cứu trách_nhiệm hình_sự	19
+quy_định pháp_lệnh thi_hành án dân_sự	19
+xoá án tích	19
+thời_hiệu thi_hành	19
+khởi_tố vụ án hình_sự	19
+chấp_hành xong	19
+hồ_sơ nghiệp_vụ cảnh_sát	19
+quyết_định dân_sự toà_án nước_ngoài	19
+thiệt_hại bồi_thường	18
+điều_tra xác_định	18
+gửi viện kiểm_sát	18
+quyết_định cơ_quan thẩm_quyền hoạt_động tố_tụng_hình_sự xác_định	18
+sử_dụng công_cụ hỗ_trợ thi_hành án	18
+luật hình_sự	18
+đại_diện hợp_pháp	18
+thời_hiệu thi_hành án	18
+thủ_trưởng cơ_quan	18
+cục thi_hành án dân_sự	18
+phó viện_trưởng viện kiểm_sát	18
+truy_cứu trách_nhiệm hình_sự a luật hình_sự	18
+cơ_quan cảnh_sát điều_tra	18
+có_thể truy_cứu trách_nhiệm hình_sự	18
+tuyên_bố bị_cáo	18
+bổ_sung quyết_định khởi_tố bị_can	18
+thủ_trưởng cơ_quan thi_hành án dân_sự	18
+xét đơn yêu_cầu	18
+xử sơ_thẩm	17
+trừ thiệt_hại tài_sản xâm_phạm	17
+điều_tra hình_sự quân_khu	17
+quyết_định giải_quyết tranh_chấp	17
+phó viện_trưởng	17
+kết_luận điều_tra	17
+yêu_cầu viện kiểm_sát	17
+xét miễn	17
+quyền khởi_kiện	17
+khám_nghiệm tử_thi	17
+kiểm_sát tuân pháp_luật	17
+quyết_định toà_án hiệu_lực pháp_luật	17
+thủ_trưởng cơ_quan thi_hành án	17
+trách_nhiệm bồi_thường toàn_bộ	17
+hội_thẩm toà_án nhân_dân	16
+toà_án buộc	16
+lợi_ích hợp_pháp	16
+trường_hợp viện kiểm_sát	16
+quyết_định buộc tái_xuất	16
+quyết_định miễn	16
+thay_đổi kiểm_sát_viên	16
+uỷ_thác thi_hành án	15
+pháp lện	15
+tiến_hành xác_minh	15
+đền_bù thiệt_hại	15
+pháp_lệnh thi_hành án dân_sự	15
+trưởng thi_hành án dân_sự tỉnh	15
+cơ_quan thẩm_quyền	15
+toà_án giải_quyết	15
+thiệt_hại phát_sinh	15
+cơ_quan điều_tra thẩm_quyền	15
+quyền khiếu_nại	15
+hoãn thi_hành án	15
+truy_tố xét_xử	15
+chiếm_đoạt tài_sản	14
+định_giá tài_sản	14
+vụ án dân_sự	14
+yêu_cầu bồi_thường thiệt_hại	14
+đương_sự khiếu_nại	14
+giải_quyết vụ	14
+xử_lý đơn	14
+trường_hợp bản_án	14
+đối_với vụ	14
+chiến_sĩ cảnh_sát	14
+thực_hiện nghĩa_vụ	14
+công_tác điều_tra	14
+xét_xử tội	13
+toà_án sơ_thẩm	13
+đại_diện cơ_quan	13
+tiến_hành xác_minh tài_sản	13
+điều_tra hình_sự quốc_phòng	13
+phạm_tội truy_cứu trách_nhiệm hình_sự	13
+quyết_định vụ án xét_xử	13
+quyết_định tạm đình_chỉ	13
+thực_hiện quyết_định cưỡng_chế	13
+cưỡng_chế thi_hành	13
+thẩm_quyền hoạt_động tố_tụng_hình_sự	13
+tranh_chấp phát_sinh	13
+thẩm_quyền quyết_định	13
+thiệt_hại vật_chất	12
+tổn_thất tinh_thần	12
+thông_báo cưỡng_chế	12
+nghĩa_vụ liên_quan	12
+cơ_quan tiến_hành	12
+toà_án xét_xử	12
+quyết_định giao	12
+thi_hành thống_nhất	12
+giải_quyết bồi_thường thiệt_hại	12
+cục thi_hành án	12
+tự_nguyện chấp_hành	12
+xét_xử toà_án	12
+điều_tra hình_sự	11
+huỷ_bỏ quyết_định	11
+thời_hạn mười	11
+đình_chỉ điều_tra	11
+quyết_định giải_quyết	11
+thực_hiện quyết_định giải_quyết tranh_chấp đất_đai	11
+đơn thư khiếu_nại	11
+phó chánh_án	11
+truy_cứu trách_nhiệm	11
+chi_phí cưỡng_chế	11
+mức_độ thiệt_hại	11
+viện kiểm_sát yêu_cầu	11
+tội xâm_phạm	11
+trường_hợp đương_sự	11
+trách_nhiệm thi_hành	11
+nghĩa_vụ cấp_dưỡng	11
+cử đại_diện	11
+đánh_số thứ_tự	10
+đối_với trường_hợp	10
+thu_thập tài_liệu	10
+án phạt tù	10
+quyết_định tạm	10
+viện kiểm_sát tham_gia	10
+xem_xét quyết_định	10
+thẩm_phán toà_án	10
+kháng_nghị thủ_tục	10
+quân_đội nhân_dân	10
+quyết_định buộc	10
+yêu_cầu bồi_thường	10
+giải_quyết thủ_tục	10
+quyền lợi_ích hợp_pháp	9
+kết_án tội	9
+thẩm_quyền toà_án nhân_dân	9
+quyết_định hủy	9
+phê_chuẩn lệnh	9
+quyết_định hiệu_lực thi_hành	9
+thiệt_hại tổn_thất tinh_thần	9
+xem_xét giải_quyết	9
+bảo_vệ tài_sản	9
+bồi_thường thiệt_hại oan	9
+hoạt_động điều_tra	9
+cơ_quan thẩm_quyền hoạt_động tố_tụng_hình_sự	9
+thời_hạn tạm	9
+tạm đình_chỉ	9
+bản_sao quyết_định	9
+hồ_sơ vụ_việc	9
+thực_hiện quyết_định	9
+thi_hành án thi_hành án	9
+thư khiếu_nại	9
+cơ_quan hữu_quan	8
+cơ_quan điều_tra quyết_định	8
+giám_định viên	8
+lợi_ích vật_chất	8
+quyết_định dân_sự toà_án	8
+tư_pháp hướng_dẫn	8
+quyền nghĩa_vụ	8
+kiểm_sát nhân_dân	8
+vụ án kinh_tế	8
+quá_trình thực_hiện	7
+ra_lệnh tạm	7
+sáu mươi	7
+thu_nhập trung_bình	7
+tiến_hành thủ_tục	7
+gửi cơ_quan	7
+thi_hành án nộp	7
+cơ_quan trách_nhiệm bồi_thường	7
+đối_với vụ_việc	7
+điều_tra viện kiểm_sát	7
+cục_trưởng cục	7
+toàn_bộ tài_sản	7
+thẩm_quyền xét_xử toà_án	7
+thẩm_quyền toà_án	7
+hủy quyết_định	7
+phiên_toà phúc_thẩm	6
+biện_pháp cưỡng_chế	6
+nghĩa_vụ quân_sự	6
+đối_với thẩm_phán	6
+toà_án nước_ngoài	6
+cưỡng_chế thực_hiện quyết_định	6
+yêu_cầu thi_hành án	6
+trách_nhiệm vật_chất	6
+giá_trị tài_sản	6
+cục cảnh_sát	6
+quyết_định hiệu_lực	6
+cục điều_tra hình_sự quốc_phòng	6
+thụ_lý hồ_sơ	6
+thời_hạn giải_quyết	6
+kiểm_sát_viên viện kiểm_sát	6
+giao tài_sản	6
+tạm hoãn	6
+khiếu_nại đương_sự	6
+thủ_tục giám_đốc_thẩm	6
+cảnh_sát bảo_vệ	6
+quyết_định cơ_quan thẩm_quyền hoạt_động tố_tụng_hình_sự	6
+cưỡng_chế thực_hiện	6
+thời_hạn quy_định	6
+tạm đình_chỉ thi_hành án	6
+nhân_dân tối_cao	6
+chánh_án toà_án nhân_dân	6
+giải_quyết vụ_việc	6
+quy_định pháp_luật	6
+đương_sự yêu_cầu	6
+kết_thúc thời_hạn	5
+trường_hợp xác_định	5
+tranh_chấp đất_đai	5
+chánh_án tòa_án nhân_dân	5
+trường_hợp khẩn_cấp	5
+bồi_thường chi_phí	5
+trường_hợp thay_đổi	5
+thiệt_hại oan	5
+giải_quyết kiến_nghị	5
+xâm_phạm quyền	5
+án hình_sự	5
+giải_quyết vụ án hình_sự	5
+đối_với tội	5
+tỉnh quyết_định	5
+thi_hành án dân_sự địa_phương	5
+thẩm_quyền giải_quyết khiếu_nại	5
+cử tham_gia	5
+tài_liệu liên_quan	5
+phó thủ_trưởng	5
+báo cơ_quan	5
+miễn chấp_hành	5
+thi_hành án cơ_quan thi_hành án	4
+trưởng thi_hành án	4
+trách_nhiệm cơ_quan	4
+trách_nhiệm hình_sự tội	4
+chấp_hành pháp_luật	4
+tranh_chấp quyền	4
+thi_hành công_vụ	4
+thẩm_phán tòa_án nhân_dân	4
+công_an tỉnh	4
+cư_trú hợp_pháp	4
+quân_sự quân_khu	4
+quyết_định xử_lý	4
+tuân pháp_luật	4
+gửi đơn	4
+tài_sản giá_trị	4
+thủ_tục giải_quyết	4
+giải_quyết xong	4
+thời_hạn bảy	4
+thi_hành luật	4
+cư_trú ổn_định	4
+công_an trách_nhiệm	4
+phân_công trách_nhiệm	4
+hồ_sơ vụ	4
+trách_nhiệm thông_báo	4
+hành_chính truy_cứu trách_nhiệm hình_sự	4
+vật_chứng tài_sản	4
+dân_sự toà_án	4
+thẩm_phán tòa_án	4
+trách_nhiệm thi_hành quyết_định	4
+hướng_dẫn tiểu	4
+tòa_án nhân_dân tỉnh	4
+cục điều_tra	3
+thực_hiện xong	3
+trưởng công_an	3
+vụ tai_nạn	3
+thời_hạn gửi	3
+trách_nhiệm thực_hiện	3
+công_an nhân_dân	3
+tiến_hành biện_pháp	3
+vụ án viện kiểm_sát	3
+trưng_cầu giám_định	3
+thời_điểm xét_xử	3
+thụ_lý vụ	3
+cơ_quan thẩm_quyền xem_xét	3
+toà_án hiệu_lực pháp_luật	3
+phạt tù	3
+tiếp_tục sử_dụng	3
+chuyển_giao quyền	3
+hình_sự quân_khu	3
+tội "	3
+cơ_quan thẩm_quyền hoạt_động tố_tụng_hình_sự xác_định	3
+điều_tra tội_phạm	3
+trực_tiếp tham_gia	3
+trường_hợp không_thể	3
+xử_lý vụ	3
+bản_án hiệu_lực	3
+thông_báo cơ_quan	3
+nộp đơn	3
+cơ_quan quân_sự	3
+đối_với cơ_quan	2
+truy_cứu trách_nhiệm hình_sự a	2
+chánh_án tòa_án nhân_dân tỉnh	2
+trừ trường_hợp	2
+phiên_toà sơ_thẩm	2
+tài_sản giao	2
+viện_trưởng viện kiểm_sát nhân_dân	2
+liên_quan trực_tiếp	2
+bồi_thường toàn_bộ	2
+xét_xử toà_án quân_sự	2
+quyền lợi_ích	2
+vụ án toà_án	2
+quân_khu tương_đương	2
+lệnh bắt	2
+gửi viện	2
+trừ chi_phí	2
+thời_điểm quyết_định	2
+tạm gửi	2
+thay_đổi bổ_sung	2
+khiếu_nại tố_cáo	2
+tổn_thất tài_sản	2
+đơn yêu_cầu thi_hành	2
+trường_hợp hồ_sơ	2
+" luật hình_sự	2
+kết_luận giám_định	2
+ngành hữu_quan	2
+giải_quyết tố_cáo	2
+quan_hệ công_tác	2
+kiểm_sát toà_án	2
+viện_trưởng viện	2
+tài_sản chiếm_đoạt	2
+chứng_minh nhân_dân	2
+giám_định tư_pháp	2
+quy_định pháp_lệnh	2
+đơn thư	2
+tiến_hành hoạt_động	2
+xét_xử vụ	2
+cơ_quan thi_hành	2
+kiểm_lâm nhân_dân	2
+tài_liệu hồ_sơ	2
+buộc tái_xuất	2
+tranh_chấp liên_quan	2
+quyết_định toà_án hiệu_lực	2
+hướng_dẫn thi_hành	2
+án chánh_án toà_án	1
+thực_hiện quyết_định giải_quyết tranh_chấp	1
+ban_hành quyết_định	1
+trường_hợp phạm_tội	1
+đình_chỉ thi_hành án	1
+kiến_nghị cơ_quan	1
+quy_định pháp_lệnh thi_hành án	1
+trường_hợp xảy	1
+xử_lý thẩm_quyền	1
+" "	1
+thi_hành pháp_luật	1
+thực_hiện quy_định	1
+tinh_thần trách_nhiệm	1
+án trọng_điểm	1
+thủ_trưởng cơ_quan thi_hành	1
+trách_nhiệm hình_sự luật hình_sự	1
+luật đất_đai	1
+giải_quyết đơn	1
+chứng_minh quyền	1
+hội_thẩm toà_án	1
+tạm đình_chỉ thi_hành	1
+thông_báo cục	1
+gửi hồ_sơ	1
+thời_hạn sử_dụng	1
+thẩm_quyền xem_xét	1
+thực_hiện công_tác	1
+thống_nhất hướng_dẫn	1
+một_số trường_hợp	1
+cưỡng_chế thực_hiện quyết_định giải_quyết	1
+tranh_chấp liên_quan quyền	1
+tư_pháp trách_nhiệm	1
+quy_định luật hình_sự	1
+quyết_định cử	1
+hồ_sơ tài_liệu	1
+chi_phí liên_quan	1
+thực_hiện biện_pháp	1
+gửi cục	1
+liên_quan thực_hiện	1
+quyết_định 91	1
+quy_định quyết_định	1
+hoãn thi_hành	1
+trưởng thi_hành án dân_sự	1
+giải_quyết đơn thư	1
+đình_chỉ thi_hành	1
+xét đơn	1
+quyết_định cơ_quan thẩm_quyền	1
+kiểm_sát trực_tiếp	1
+thẩm_quyền giao	1
+giao quyền	1
+điều_khoản thi_hành	1
+tiếp_tục tạm	1
+cơ_quan đại_diện	1
+thẩm_quyền quy_định	1
+cơ_quan liên_quan	1
+trách_nhiệm xem_xét	1
+hỗ_trợ thi_hành án	1
+công_an hướng_dẫn	1
+giao trực_tiếp	1
+gửi bản_sao	1
+ngành công_an	1
+hoạt_động tố_tụng_hình_sự	1
+một_số vấn_đề	1
+kiểm_sát nhân_dân tối_cao	1
+xử_lý trường_hợp	1
+" phạm_tội	1
+thực_hiện thủ_tục	1
+quy_định pháp	1
+thực_hiện phát_sinh	1
+vấn_đề liên_quan	1
+giải_quyết hồ_sơ	1
+cơ_quan cảnh_sát	1
+đình_chỉ công_tác	1
+xác_định nghĩa_vụ	1
+lệnh tạm	1
+a luật hình_sự	1
+biện_pháp giải_quyết	1
+phó viện_trưởng viện	1
+xác_định thời_hạn	1
+kiểm_sát yêu_cầu	1
+trách_nhiệm hướng_dẫn	1
+cơ_quan trách_nhiệm thực_hiện	1
+công_tác bồi_thường	1
+tài_liệu chứng_minh	1
+nhân_dân tỉnh	1
+pháp_lệnh thi_hành án	1
+thẩm_quyền xem_xét quyết_định	1
+cơ_quan thẩm_quyền giải_quyết	1
+đối_với vụ tai_nạn	1
+đối_với một_số	1
+khiếu_nại liên_quan	1

@@ -1,0 +1,507 @@
+cung_cấp thông_tin	403
+văn_hoá - thông_tin	374
+văn_hoá thông_tin	175
+hệ_thống thông_tin	151
+phương_tiện thông_tin đại_chúng	137
+văn_hóa - thông_tin	124
+sở thông_tin truyền_thông	123
+thông_tin truyền_thông	121
+quyền tác_giả	120
+sở văn_hoá - thông_tin	98
+tác_phẩm kiến_trúc	97
+cung_cấp dịch_vụ	96
+dịch_vụ công trực_tuyến	94
+cơ_sở dữ_liệu	87
+công_nghệ thông_tin	86
+đại_lý internet	81
+thông_tin đối_ngoại	80
+cổng thông_tin điện_tử	79
+hoạt_động thông_tin đối_ngoại	76
+trang thông_tin điện_tử	75
+trao_đổi thông_tin	72
+sử_dụng dịch_vụ	71
+dịch_vụ đô_thị – nông_thôn	70
+trò_chơi trực_tuyến	70
+văn_hóa thông_tin	70
+sử_dụng tác_phẩm	69
+tài_liệu lưu_trữ	67
+nghệ_thuật biểu_diễn	61
+đội thông_tin lưu_động	60
+thông_tin liên_lạc	59
+thông_tin mạng	58
+nội_dung quảng_cáo	57
+đài phát_thanh	56
+mạng wan	55
+sử_dụng dịch_vụ internet	54
+băng ghi_hình	53
+công_trình văn_học nghệ_thuật	53
+hoạt_động văn_hoá	53
+đối_với tác_phẩm	52
+biểu_diễn nghệ_thuật	51
+dịch_vụ công	48
+hệ_thống hóa_văn_bản	48
+di_tích lịch_sử	47
+cập_nhật thông_tin	46
+hệ_thống cửa điện_tử	45
+cung_cấp dịch_vụ internet	44
+hoạt_động đối_ngoại	44
+đồng tác_giả	43
+bảo_hộ quyền tác_giả	42
+hội nhà_báo	41
+cung_cấp thông_tin báo_chí	41
+an_ninh thông_tin	41
+hoạt_động quảng_cáo	40
+cổng thông_tin điện_tử tỉnh	40
+cơ_quan báo_chí	39
+hoạt_động dịch_vụ	39
+cung_cấp dịch_vụ trò_chơi điện_tử công_cộng	39
+an_toàn thông_tin	38
+ấn_phẩm văn_hoá	38
+mạng internet	38
+thư điện_tử	38
+đa_dạng_hóa sinh_kế nhân rộng mô_hình nghèo	38
+thu_thập thông_tin	38
+ứng_dụng công_nghệ thông_tin	38
+cung_cấp dịch_vụ trò_chơi trực_tuyến	37
+nhân rộng	37
+đọc xuất_bản_phẩm lưu_chiểu	36
+vui_chơi giải_trí	36
+phát_hành sách	34
+đoàn nghệ_thuật	33
+thực_hiện quảng_cáo	32
+nhuận_bút tác_phẩm	32
+hoạt_động thông_tin	32
+giấy_phép thực_hiện quảng_cáo	32
+văn_bản điện_tử	32
+lưu_trữ lịch_sử tỉnh	31
+bồi_dưỡng biểu_diễn	31
+tác_phẩm báo_chí chất_lượng	31
+kỹ_năng sử_dụng công_nghệ thông_tin	30
+doanh_nghiệp cung_cấp dịch_vụ	30
+bưu_chính viễn_thông	29
+bảo_vệ phát_huy giá_trị di_tích	29
+nhân rộng mô_hình	29
+cung_cấp tài_liệu	29
+tài_liệu pháp_lý	28
+đối_với hoạt_động	28
+ca_múa nhạc	28
+việc_phát_ngôn cung_cấp thông_tin báo_chí	28
+văn_hoá -	28
+bảng quảng_cáo	27
+giấy_phép hoạt_động	27
+thông_tin báo_chí	26
+truy_nhập internet	26
+phương_tiện thông_tin	26
+cơ_quan thông_tin đại_chúng	26
+hoạt_động văn_hóa	26
+- thông_tin	26
+doanh_nghiệp cung_cấp dịch_vụ trò_chơi trực_tuyến	26
+cung_cấp số_liệu	25
+thông_tin tuyên_truyền	25
+văn_học nghệ_thuật	25
+hội văn_học - nghệ_thuật	25
+đài thông_tin vệ_tinh	25
+hoạt_động báo_chí	24
+dịch_vụ bưu_chính	24
+cung_cấp dịch_vụ công trực_tuyến	24
+di_tích lịch_sử - văn_hóa	24
+di_sản văn_hóa	24
+sáng_tạo tác_phẩm	24
+thông_tin liên_quan	24
+phát_hành báo_chí	24
+sở văn_hoá thông_tin	23
+cơ_sở dữ_liệu quốc_gia	23
+chi sở phòng phát_hành sách	23
+đảm_bảo an_toàn thông_tin	23
+bộ_trưởng văn_hoá - thông_tin	23
+băng âm_thanh	23
+sở văn_hoá-thông	23
+ngành văn_hoá	22
+quảng_bá hình_ảnh	22
+an_toàn thông_tin mạng	22
+doanh_nghiệp cung_cấp dịch_vụ internet	22
+di_sản văn_hoá	22
+đĩa âm_thanh	22
+thông ti	21
+phát_hành phim	21
+hoạt_động văn_hoá thông_tin	21
+ngành văn_hoá - thông_tin	21
+hệ_thống phần_mềm	21
+thiết_bị lưu_trữ	21
+thực_phẩm chức_năng trẻ_em 06	21
+quảng_cáo ngoài_trời	21
+cổng thông_tin	21
+nhân rộng mô_hình nghèo	21
+sở văn_hóa	21
+hệ_thống cửa điện_tử liên_thông	21
+xây_dựng hệ_thống thông_tin	21
+quyền lợi_ích hợp_pháp	20
+phục_vụ hoạt_động	20
+hỗ_trợ hoạt_động sáng_tạo tác_phẩm	20
+khung nhuận_bút	20
+bảo_mật thông_tin	20
+tác_phẩm báo_chí	20
+văn_học - nghệ_thuật	20
+thư_viện công_cộng	20
+đơn_vị nghệ_thuật	20
+thực_hiện_phát_ngôn cung_cấp thông_tin báo_chí	20
+phương_tiện quảng_cáo	20
+báo điện_tử	20
+thuần_phong mỹ_tục	20
+văn_bản mật	19
+lợi_ích hợp_pháp	19
+mạng viễn_thông	19
+truy_nhập internet công_cộng cung_cấp dịch_vụ trò_chơi điện_tử công_cộng	19
+liên_bộ văn_hoá - thông_tin	19
+đài phát_thanh truyền_hình tỉnh	19
+bếp tập_thể bảo_đảm an_toàn thực_phẩm	19
+văn_hoá_phẩm phản_động	19
+kiểm_tra báo_chí lưu_chiểu	19
+hội văn_học nghệ_thuật địa_phương	19
+an_ninh thông_tin hoạt_động bưu_chính	19
+mạng tin_học	18
+văn_hóa - nghệ_thuật	18
+pháp_luật toàn_bộ hoạt_động sở	18
+viễn_thông công_nghệ thông_tin	18
+yêu_cầu cung_cấp thông_tin	18
+lao_động biểu_diễn nghệ_thuật	18
+nhuận_bút khuyến_khích	18
+phát_huy giá_trị di_tích	17
+thông_tin điện_tử	17
+thông_báo phương_tiện thông_tin đại_chúng	17
+hệ_thống cơ_sở dữ_liệu	17
+số_liệu chuyên_dùng	17
+dịch_vụ văn_hoá	17
+cung_cấp thông_tin định_kỳ	17
+cung_cấp thông_tin thế_chấp	17
+tranh hoành_tráng	17
+tác_phẩm điện_ảnh	17
+đài truyền_thanh	17
+đài truyền_hình	17
+văn_hoá – thông_tin	16
+vật kiến_trúc	16
+sở văn_hóa - thông_tin	16
+cục quyền tác_giả	16
+điện_tử tỉnh	16
+thiết_bị lưu khóa	16
+đa_dạng_hóa sinh_kế	16
+quyền nhân_thân	16
+quảng_cáo sản_phẩm	16
+tác_giả tác_phẩm	16
+phục_hồi di_tích	15
+giấy_phép quảng_cáo	15
+phí cung_cấp thông_tin giao_dịch bảo_đảm	15
+mạng nội_bộ	15
+phép thực_hiện quảng_cáo	15
+tuyên_truyền phương_tiện thông_tin đại_chúng	15
+an_ninh quốc_gia	14
+biểu_diễn phục_vụ	14
+thông_tin thị_trường	14
+doanh_nghiệp viễn_thông	14
+quảng_cáo lĩnh_vực	14
+- đối_với	14
+bảo_đảm an_toàn thông_tin	13
+ngành văn_hóa	13
+diện rộng	13
+xếp_hạng di_tích	13
+phòng văn_hóa thông_tin	13
+văn_hoá - thông ti	13
+cửa liên_thông	13
+thù_lao đọc	13
+– thông_tin	13
+tranh_chấp liên_quan quyền tác_giả	13
+phục_vụ mục_đích	13
+liên_quan quyền tác_giả	13
+di_tích quốc_gia	13
+cung_cấp sử_dụng dịch_vụ	13
+nhuận_bút tác_giả	12
+văn_hoá nghệ_thuật	12
+quảng_cáo ngoài_trời địa_bàn tỉnh	12
+dịch_vụ công_cộng	12
+văn_hóa thông_tin thể_thao	12
+bộ_trưởng thông_tin truyền_thông	12
+hệ_thống chính_trị	12
+thông_tin đại_chúng	12
+hoạt_động quảng_cáo ngoài_trời	12
+thông_tin cần_thiết	12
+giấy_phép sử_dụng	12
+truy_nhập internet công_cộng	12
+khai_thác sử_dụng	11
+sở văn_hoá -	11
+hoạt_động bình_thường	11
+cung_cấp đầy_đủ	11
+báo_chí lưu_chiểu	11
+sở văn_hoá	11
+lịch_sử tỉnh	11
+tác_giả đồng_thời	11
+quyền tác_giả đối_với	10
+trò_chơi điện_tử	10
+sử_dụng hiệu_quả	10
+cá_nhân sử_dụng	10
+lưu_trữ lịch_sử	10
+quyền yêu_cầu	10
+hoạt_động sáng_tạo tác_phẩm	10
+chính_xác thông_tin	10
+an_ninh thông_tin hoạt_động	10
+cơ_sở pháp_lý	10
+tài_liệu tuyên_truyền	10
+văn_thư - lưu_trữ	10
+thông_tin lưu_động	10
+hệ_thống mạng	10
+đời_sống văn_hoá	10
+sử_dụng mục_đích	10
+xây_dựng cơ_sở dữ_liệu	10
+phép sử_dụng	10
+cung_cấp thông_tin giao_dịch bảo_đảm	10
+dịch_vụ đô_thị	9
+hoạt_động nghiệp_vụ	9
+văn_hóa -	9
+đài phát_thanh truyền_hình	9
+đảm_bảo hoạt_động	9
+thu_thập số_liệu	9
+bảo_đảm an_toàn	9
+tờ báo	9
+kinh_doanh dịch_vụ văn_hóa	9
+pháp_luật toàn_bộ hoạt_động	9
+bảo_đảm an_ninh thông_tin	9
+mua sách_báo	9
+phát_thanh truyền_hình	9
+bộ_trưởng văn_hóa	9
+luật báo_chí	9
+giá_trị pháp_lý	9
+lĩnh_vực văn_hóa	8
+truyền_hình tỉnh	8
+văn_hóa thể_thao	8
+đơn_vị cung_cấp dịch_vụ	8
+phim chiếu_bóng	8
+kinh_doanh dịch_vụ	8
+thông_tin địa_lý	8
+tác_giả tác_phẩm kiến_trúc	8
+trực_tuyến mức_độ	8
+giá_trị sử_dụng	8
+loại_hình nghệ_thuật	8
+sử_dụng con_dấu	8
+chất_lượng dịch_vụ	8
+thu_thập tài_liệu	7
+công_trình quảng_cáo	7
+đọc xuất_bản_phẩm	7
+hoạt_động kinh_doanh	7
+bảo_đảm hoạt_động	7
+quyền sử_dụng	7
+sở thông_tin	7
+sự_nghiệp văn_hoá	6
+đơn_vị sử_dụng	6
+cục quyền	6
+dịch_vụ viễn_thông	6
+sử_dụng phương_tiện	6
+duy_trì hoạt_động	6
+cung_cấp thông_tin địa_chính	6
+liên_bộ văn_hoá -	6
+lợi_ích vật_chất	6
+doanh_nghiệp cung_cấp	6
+hoạt_động đội	6
+ngành tỉnh	6
+phí cung_cấp thông_tin	6
+đài thông_tin	6
+xây_dựng công_trình quảng_cáo	6
+hưởng_thụ văn_hóa	6
+mua sách	6
+báo_chí đăng	6
+sự_nghiệp văn_hoá thông_tin	6
+mục_đích kinh_doanh	6
+khai_thác sử_dụng cơ_sở dữ_liệu	5
+xây_dựng hệ_thống	5
+thông_tin cơ_sở dữ_liệu	5
+phép hoạt_động	5
+thông_tin thể_thao	5
+dịch_vụ internet	5
+ngăn_chặn hoạt_động	5
+bảo_vệ phát_huy giá_trị	5
+bảo_đảm chất_lượng	5
+thông_qua hệ_thống	5
+trang thông_tin	5
+đa_dạng_hóa sinh_kế nhân rộng mô_hình	5
+tác_phẩm văn_học	5
+đảm_bảo an_toàn	5
+lợi_ích quốc_gia	5
+thông_tin vệ_tinh	5
+đối_với lao_động biểu_diễn nghệ_thuật	5
+hưởng_thụ văn_hoá	5
+xuất_bản_phẩm lưu_chiểu	5
+luật xuất_bản	5
+báo_chí địa_bàn tỉnh	5
+bảo_vệ phát_huy	4
+đối_với diễn_viên	4
+nội_dung hoạt_động	4
+hoạt_động sáng_tạo	4
+trẻ_em 06	4
+ngừng hoạt_động	4
+hoạt_động lĩnh_vực	4
+con_dấu tài_khoản	4
+điện_tử cơ_quan	4
+thiết_bị phát	4
+dịch_vụ văn_hóa	4
+nội_dung liên_quan	4
+quản_lý hoạt_động thông_tin đối_ngoại	4
+cửa điện_tử	4
+giấy_phép lưu_hành	4
+hội văn_học nghệ_thuật	4
+thông_tin truyền_thông tổng_hợp	4
+thông_qua hình_thức	4
+cung_cấp dịch_vụ công	4
+sở thông_tin truyền_thông tổng_hợp	4
+quảng_cáo ngoài_trời địa_bàn	3
+đối_với sản_phẩm	3
+sử_dụng thiết_bị	3
+mục_đích sử_dụng	3
+thông_tin đối_ngoại địa_bàn tỉnh	3
+đảm_bảo chất_lượng	3
+dịch_vụ công lĩnh_vực	3
+báo_chí chất_lượng	3
+toàn_bộ hoạt_động	3
+nghệ_thuật địa_phương	3
+bếp tập_thể	3
+xây_dựng mô_hình	3
+cung_cấp dịch_vụ trò_chơi điện_tử công_cộng địa_bàn	3
+đối_với đơn_vị	3
+thông_tin thế_chấp	3
+sử_dụng cơ_sở dữ_liệu	3
+cục xuất_bản	3
+ngoài_trời địa_bàn tỉnh	3
+tài_liệu liên_quan	3
+toàn_bộ hoạt_động sở	3
+thiết_bị chuyên_dùng	3
+hoạt_động xuất_bản	3
+hoạt_động quảng_cáo ngoài_trời địa_bàn	3
+hoạt_động kinh_doanh dịch_vụ	3
+đảm_bảo yêu_cầu	3
+đổi_mới sáng_tạo	3
+bảo_đảm an_ninh	3
+xây_dựng đời_sống văn_hoá	3
+quốc_gia phòng_chống	3
+hình_ảnh tỉnh	3
+biên_soạn tài_liệu	3
+xây_dựng cơ_sở	3
+bảo_hộ quyền	3
+vận_hành hệ_thống	3
+công trực_tuyến	3
+sử_dụng đài thông_tin vệ_tinh	3
+- nghệ_thuật	3
+nghiệp_vụ sở	3
+văn_hóa –	3
+di_tích lịch_sử -	3
+dịch_vụ sử_dụng	3
+phát_huy giá_trị	3
+đời_sống văn_hóa	3
+đối_với cơ_quan	2
+hoạt_động sự_nghiệp	2
+cửa điện_tử liên_thông	2
+cơ_sở vật_chất	2
+hỗ_trợ hoạt_động	2
+lịch_sử - văn_hóa	2
+sinh_kế nhân rộng mô_hình nghèo	2
+hệ_thống cơ_sở	2
+đối_với phương_tiện	2
+thực_phẩm chức_năng trẻ_em	2
+phương_tiện phục_vụ	2
+chuyên_dùng phục_vụ	2
+ngành liên_quan	2
+liên_quan thực_hiện	2
+cá_nhân khai_thác	2
+nội_dung giấy_phép	2
+lịch_sử -	2
+đội thông_tin	2
+- đối_với đơn_vị	2
+chuyển_giao quyền	2
+lĩnh_vực an_ninh	2
+công_trình văn_học	2
+sử_dụng lao_động	2
+đối_với doanh_nghiệp	2
+di_tích địa_bàn	2
+– – – – – –	2
+dịch_vụ trò_chơi trực_tuyến	2
+trực_tuyến hệ_thống	2
+tài_liệu phục_vụ	2
+hoạt_động công_ích	2
+thể_hiện đầy_đủ	1
+đơn_vị sự_nghiệp	1
+lao_động biểu_diễn	1
+thông_báo phương_tiện thông_tin	1
+giấy_phép xây_dựng	1
+xây_dựng công_trình	1
+nội_dung hỗ_trợ	1
+– – – –	1
+cá_nhân kinh_doanh dịch_vụ	1
+đoàn kiểm_tra	1
+hoạt_động liên_quan	1
+sử_dụng công_nghệ thông_tin	1
+tài_liệu cần_thiết	1
+việc_phát_ngôn cung_cấp thông_tin	1
+mô_hình quản_lý	1
+viễn_thông địa_bàn tỉnh	1
+nội_bộ ngành	1
+quyền lợi_ích	1
+tuyên_truyền phổ_biến	1
+sử_dụng đài thông_tin	1
+bồi_dưỡng nghiệp_vụ	1
+phòng giao_dịch	1
+đời_sống vật_chất	1
+dịch_vụ trò_chơi điện_tử công_cộng	1
+số_lượng chất_lượng	1
+hoạt_động cung_cấp dịch_vụ	1
+đầy_đủ nội_dung	1
+công_cộng cung_cấp dịch_vụ trò_chơi điện_tử công_cộng	1
+phục_vụ đồng_bào	1
+văn_học -	1
+hỗ_trợ hoạt_động sáng_tạo	1
+điện_tử công_cộng	1
+mô_hình nghèo	1
+cá_nhân phép	1
+hệ_thống cửa	1
+địa_điểm kinh_doanh	1
+hoạt_động hiệu_quả	1
+chiều rộng	1
+văn_bản liên_quan	1
+dịch_vụ công_ích	1
+yêu_cầu bảo_hộ	1
+giấy_phép khai_thác	1
+đơn_vị chức_năng	1
+tuyên_truyền phương_tiện	1
+kinh_doanh địa_bàn	1
+phòng văn_hóa	1
+văn_hoá - thông	1
+ngành địa_phương	1
+kiểm_tra chất_lượng	1
+chi hoạt_động	1
+đối_với cơ_sở	1
+hoạt_động bưu_chính	1
+tài_khoản giao_dịch	1
+thông_tin điện_tử cơ_quan	1
+an_ninh chính_trị	1
+liên_quan hoạt_động	1
+giới_thiệu sản_phẩm	1
+internet công_cộng	1
+giá_trị di_tích	1
+hiệu_quả hoạt_động	1
+giá_trị công_trình	1
+cung_cấp thông_tin giao_dịch	1
+hội sử_dụng	1
+quản_lý hoạt_động thông_tin	1
+cơ_sở kinh_doanh	1
+cá_nhân hoạt_động	1
+lưu khóa	1
+viễn_thông địa_bàn	1
+định khung	1
+– – – – –	1
+dữ_liệu quốc_gia	1
+sai mục_đích	1
+mua vé	1
+công_nhận bếp tập_thể bảo_đảm an_toàn	1
+cung_cấp dịch_vụ trò_chơi điện_tử	1
+công_cộng cung_cấp dịch_vụ trò_chơi điện_tử	1
+báo cơ_quan	1
+công_nhận quyền	1
+quyền quản_lý	1
+điện_tử liên_thông	1
+đối_ngoại địa_bàn tỉnh	1
+sử_dụng số_liệu	1

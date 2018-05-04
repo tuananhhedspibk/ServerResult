@@ -1,0 +1,393 @@
+giao_thông vận_tải	624
+sở giao_thông vận_tải	350
+phương_tiện vận_tải	253
+xe ô_tô	162
+tuyến đường	137
+giao_thông đường_bộ	110
+bến phà	107
+chủ phương_tiện	93
+mua vé	92
+giao_thông - vận_tải	87
+phương_tiện giao_thông	86
+bãi đỗ xe	85
+thuốc pháo	84
+vé máy_bay	79
+cảng biển	76
+lực_lượng cảnh_sát biển	72
+phương_tiện vận_chuyển	72
+trông xe	71
+xe chở	59
+tiền tàu xe	58
+đi đường	56
+cầu đường_bộ	55
+vận_tải hành_khách	55
+liên_bộ tài_chính - giao_thông vận_tải	55
+phí_tổn sửa đường	54
+đường giao_thông	54
+cước phà	54
+giá vé	53
+kinh_doanh vận_tải	51
+xe điện	50
+ngành đường_sắt	50
+ngành giao_thông vận_tải	49
+bộ_trưởng giao_thông vận_tải	48
+pháo nổ	46
+cảnh_sát giao_thông	45
+giấy_phép lái_xe	45
+mượn đường	43
+thanh_tra giao_thông	43
+đường quốc_lộ	42
+tàu xe	40
+cảnh_sát biển	40
+quản_lý sửa_chữa cầu đường_bộ	40
+sửa_chữa đường_bộ	39
+giá cước	39
+dịch_vụ sử_dụng đường_bộ	37
+bến tre	36
+tai_nạn giao_thông	36
+cảng sông	36
+đường đi	35
+đường thủy nội_địa	34
+ty giao_thông vận_tải	33
+thủy nội_địa	33
+đường chuyên_dùng	32
+cơ_giới đường_bộ	32
+nổ bắt_buộc	32
+cước vận_chuyển	31
+phối_hợp sở giao_thông vận_tải	31
+sửa_chữa thường_xuyên	31
+cước hành_lý	31
+điều_khiển phương_tiện	31
+phương_tiện thuỷ	30
+giao_thông vận_tải bưu_điện	30
+ghi vé	30
+đua xe trái_phép	30
+sở giao_thông vận_tải (	30
+đường_thuỷ nội_địa	30
+vận tả	29
+xe chuyên_dùng	29
+đoạn đường	28
+xe lửa	28
+nghĩa_vụ dân_công	28
+xe mô_tô	28
+trạm vận_chuyển	28
+tiền vé	28
+sửa_chữa cầu đường_bộ	28
+giao_thông bưu_điện	27
+thu phí giao_thông đường_bộ	27
+đi biển	27
+đoàn tàu	27
+xe vận_tải	27
+dân_công đi	26
+an_toàn giao_thông	26
+hệ_thống đường	26
+xe quân_đội	25
+giá cước vận_tải	25
+quản_lý đường_bộ	24
+bến xe_khách	24
+biển xe	24
+giám_đốc sở giao_thông vận_tải	24
+tuyến đường_sắt	24
+vận_tải biển	24
+sử_dụng xe ô_tô	23
+vé quý	23
+bến_xe ô_tô	23
+xí_nghiệp vận_tải	23
+giá dịch_vụ trông xe	23
+biểu cước	23
+giá dịch_vụ xe	23
+hùng vương	23
+quãng đường	22
+trưởng tàu	22
+vận_tải đường_bộ	22
+vận_tải hàng_hoá	22
+làn xe	22
+đốt pháo nổ	22
+bảo_hiểm tai_nạn hành_khách	21
+đối_với phương_tiện	21
+phí giao_thông	21
+phương_tiện giao_thông vận_tải	21
+đóng tàu	21
+thanh_tra giao_thông vận_tải	21
+thu giá dịch_vụ sử_dụng đường_bộ	20
+vé tàu	20
+đường ô_tô	20
+phí đường_bộ	20
+vận_tải đường_sắt	20
+cửa_hàng xăng_dầu	20
+thu cước phà	20
+lực_lượng cảnh_sát	20
+mua bảo_hiểm	20
+đối_với xe	20
+sở giao_thông - vận_tải	20
+pháo nước_ngoài sản_xuất	19
+giấy biên_nhận chủ phương_tiện	19
+đối_với phương_tiện vận_tải	19
+vận_chuyển hành_khách	19
+bến phà cầu_phao	19
+chủ tàu	19
+thu phí giao_thông	18
+tàu quân_sự	18
+đường thủy	18
+- vận_tải	18
+liên_bộ giao_thông vận_tải	18
+tiền cước	18
+vận_tải xếp_dỡ	18
+xe chạy	18
+xe ô-tô	18
+vốn quản_lý sửa_chữa cầu đường_bộ	18
+vé thu giá dịch_vụ sử_dụng đường_bộ	18
+cước vận_tải	18
+đỗ xe	18
+sửa_chữa đường_sông	18
+phương_tiện tham_gia	18
+giao_thông đường thủy nội_địa	17
+mô_tô hai bánh	17
+giá dịch_vụ sử_dụng đường_bộ	17
+đốt pháo	17
+sở giao_thông	17
+sở giao_thông công_chính	17
+phương_tiện cơ_giới đường_bộ	17
+sát_hạch giấy_phép lái_xe	17
+lái tầu	17
+cước cơ_bản	17
+tầu thuyền	17
+xe vận_tải hàng_hóa	17
+kết_hợp chở	17
+phương_tiện đi_lại	16
+cước phí	16
+chở hàng	16
+nút giao_đấu nối	16
+bao_gồm cước hành_lý	16
+doanh_nghiệp cảng biển	16
+tham_gia giao_thông	16
+vận_tải hàng_hóa	15
+cước_phí vận_tải	15
+giao_thông công chín	15
+- giao_thông vận_tải	15
+cục cảnh_sát	15
+sử_dụng xe	15
+- đối_với	15
+ban thanh_tra giao_thông	14
+tiền đi đường	14
+đối_với tuyến	14
+người_làm vận_tải xếp_dỡ	14
+sử_dụng trái_phép	14
+sở giao_thông vận_tải ( đối_với	14
+giấy_phép lưu_hành	14
+phí bảo_hiểm	14
+xe cơ_giới	14
+sử_dụng phương_tiện	13
+xe đi	13
+quản_lý sử_dụng	13
+sửa_chữa đường	13
+dịch_vụ sử_dụng cầu	13
+duy_tu bảo_dưỡng	13
+điều_khiển xe	13
+tầu biển	13
+đua xe	12
+đường bưu_điện	12
+vận_chuyển trái_phép	12
+quản_lý sửa_chữa	12
+giao_thông vận_tải (	12
+dọc đường	12
+dịch_vụ trông xe	12
+vận_chuyển hàng_hóa	11
+cứu nạn	11
+sử_dụng đường_bộ	11
+xe ô_tô vận_tải	11
+giao_thông vận_tải hướng_dẫn	11
+liên_bộ giao_thông vận_tải - tài_chính	11
+đối_với người_làm	10
+đăng_ký xe	10
+sử_dụng dịch_vụ	10
+tiền mua vé	10
+phí cầu	9
+điều_khiển phương_tiện giao_thông	9
+thuê xe	9
+vận_tải (	9
+người_làm vận_tải	9
+cục cảnh_sát giao_thông	9
+luật_lệ giao_thông	9
+huy_động lực_lượng	9
+liên_bộ giao_thông	8
+sử_dụng xe ô_tô đi công_tác	8
+thu cước	8
+nút giao_đấu	8
+tối_đa dịch_vụ sử_dụng đường_bộ	8
+trạm thu	8
+tỉnh bến tre	8
+biểu giá	8
+vận_tải xe ô_tô	8
+tiền phí_tổn sửa đường	7
+hai bánh	7
+tài_chính - giao_thông vận_tải	7
+chủ hàng	7
+phối_hợp lực_lượng	7
+đi nghĩa_vụ	7
+vận_tải ô_tô	7
+vận_tải hướng_dẫn	7
+thu phí cầu	7
+bãi trông	7
+liên_bộ tài_chính - giao_thông vận_tải hướng_dẫn	7
+sở tài_chính	6
+bộ_trưởng giao_thông	6
+trông xe địa_bàn	6
+an_toàn hàng_hải	6
+giá dịch_vụ trông	6
+ty giao_thông	6
+kết_cấu_hạ_tầng giao_thông	6
+công_trình giao_thông	6
+bảo_hiểm tai_nạn	6
+bảo_dưỡng thường_xuyên	6
+tiền tàu	6
+xe ô_tô đi công_tác	5
+giá dịch_vụ	5
+giao_thông vận_tải hướng_dẫn thực_hiện	5
+phương_tiện đi	5
+xe đi_lại	5
+đường đi công_tác	5
+phương_tiện chuyên_dùng	5
+vận_chuyển hàng	5
+hai chiều	5
+giấy_phép kinh_doanh	5
+thu phí	5
+tiền phí_tổn	5
+cục đường_bộ	5
+ngành giao_thông	5
+kinh_doanh trái_phép	5
+liên_hiệp đường_sắt	4
+tiền điện	4
+xăng xe	4
+đối_với tuyến đường	4
+vé thu	4
+cục quản_lý	4
+giao_thông đường	4
+giao_thông vận_tải ( đối_với	4
+mua vận_chuyển	4
+liên_bộ giao_thông vận_tải -	4
+sửa_chữa cầu	4
+sửa đường	4
+dịch_vụ sử_dụng cảng	4
+vận_chuyển hàng_hoá	4
+sát_hạch giấy_phép	4
+giao_thông đường_thuỷ	4
+mua xe_đạp	4
+giá tối_đa	4
+luật giao_thông đường_bộ	4
+vận_chuyển trái_phép hàng_hoá	4
+đăng_ký lưu_hành	4
+vận_tải công_cộng	3
+tham_gia đóng_góp	3
+khung đóng	3
+thanh_tra chuyên_ngành giao_thông	3
+pháo pháo	3
+giá cước vận_chuyển	3
+giao_thông cơ_giới	3
+hàng quý	3
+phương_tiện cơ_giới	3
+ban thanh_tra	3
+vi_phạm luật_lệ giao_thông	3
+lực_lượng kiểm_soát	3
+công_trình đường_bộ	3
+cục đường_sông	3
+kinh_doanh dịch_vụ	3
+tham_gia đoàn	3
+công chín	3
+giao_thông đường_sắt	3
+( cục	3
+tiền thuốc	3
+xí_nghiệp công	2
+thuê phương_tiện	2
+tiền hàng	2
+chủ sử_dụng	2
+mua hàng	2
+phí sử_dụng đường_bộ	2
+tiền công	2
+an_toàn giao_thông đường_bộ	2
+an_toàn đường_bộ	2
+liên_bộ tài_chính - giao_thông	2
+dịch_vụ công	2
+đối_với hàng_hóa	2
+giao_thông công_chính	2
+sở chuyên_ngành	2
+giao_thông đường_thuỷ nội_địa	2
+giao_thông đường thủy	2
+in giấy	2
+vé thu giá dịch_vụ	2
+dịch_vụ xe	2
+phà cầu_phao	2
+cục đăng_kiểm	2
+phí giao_thông đường_bộ	2
+phương_tiện thủy	2
+sửa_chữa công_trình	2
+- giao_thông vận_tải hướng_dẫn	2
+giấy biên_nhận	2
+đi đoàn	2
+đối_với xí_nghiệp vận_tải	2
+công_tác sửa_chữa	2
+tiền đóng	2
+ngành bưu_điện	2
+giấy_phép sử_dụng	2
+hai ngành	1
+nghĩa_vụ quân_sự	1
+tai_nạn hành_khách	1
+bao_gồm cước	1
+công_tác quản_lý	1
+tiền mua	1
+đóng địa_bàn	1
+tài_chính - giao_thông vận_tải hướng_dẫn	1
+trưởng trạm	1
+di_chuyển chỗ	1
+bãi đỗ	1
+hàng_hoá vận_chuyển	1
+mua thuốc	1
+( bao_gồm	1
+đường tỉnh	1
+dịch_vụ công_cộng	1
+giá dịch_vụ sử_dụng	1
+sử_dụng tiền	1
+thường_xuyên hàng	1
+đi công_tác	1
+giấy_phép vận_chuyển	1
+vận_tải bưu_điện	1
+phí dịch_vụ	1
+thu tiền	1
+ty tài_chính	1
+thu giá	1
+( hai	1
+tiền thuê phương_tiện	1
+hệ_thống đường tỉnh	1
+trông xe địa_bàn tỉnh	1
+pháo nước_ngoài	1
+sử_dụng điện	1
+giao_thông vận	1
+ghi giấy_phép	1
+sở quản_lý ngành	1
+đăng_ký giá	1
+( đối_với	1
+vận_tải xe	1
+ô_tô phương_tiện	1
+chuyên_ngành giao_thông	1
+tiền thu	1
+lái_xe mô_tô	1
+- tài_chính	1
+sử_dụng phí	1
+thu phí sử_dụng	1
+ô_tô vận_tải	1
+thực_hiện nghĩa_vụ	1
+phối_hợp sở	1
+trạm thu phí	1
+hướng_dẫn quản_lý sử_dụng	1
+chuyến đi	1
+phương_tiện đi công_tác	1
+luật giao_thông	1
+vận_tải ( đối_với	1
+bộ_trưởng tài_chính	1
+phí sử_dụng	1
+hệ_thống cửa_hàng	1
+phối_hợp thanh_tra	1
+thu giá dịch_vụ	1
+quản_lý sử_dụng phí	1
+dịch_vụ trông	1
+phí thu	1

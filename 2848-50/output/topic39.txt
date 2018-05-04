@@ -1,0 +1,401 @@
+xét tờ_trình	309
+dân_quân tự_vệ	230
+phiên họp	177
+phong_trào thi_đua	130
+xét tuyển	109
+tổ_chức họp	108
+xét tặng	106
+tổ dân_phố	86
+hình_thức khen_thưởng	80
+xét khen_thưởng	80
+đề_nghị khen_thưởng	78
+danh_hiệu thi_đua	75
+tổ_chức hội_nghị	71
+thành_tích xuất_sắc	68
+kiểm phiếu	59
+tổ bầu_cử	59
+xét công_nhận	56
+công_tác thi_đua	56
+cá_nhân thành_tích	54
+danh_hiệu "	53
+thành_viên hội_đồng	53
+dự họp	51
+trình khen_thưởng	50
+ban thi_đua - khen_thưởng	47
+tham_dự họp	44
+hội_đồng kỷ_luật	44
+hội_đồng xét	42
+cử_tri cử_tri đại_diện hộ gia_đình	42
+chiến_sĩ thi_đua	41
+xét học_bổng	41
+dự hội_nghị	41
+tiếp_xúc cử_tri	40
+giấy khen	40
+quyết_định khen_thưởng	40
+điển_hình tiên_tiến	38
+đại_hội cnvc	38
+thi_đua khen_thưởng	37
+phiếu vải	36
+bầu trưởng_thôn	34
+tập_thể cá_nhân	34
+lập thành_tích	34
+đại_biểu tham_dự	34
+lực_lượng dân_quân tự_vệ	34
+tổ công_tác	33
+bỏ_phiếu kín	33
+phó trưởng_thôn	33
+bếp tập_thể	33
+phiếu bầu	32
+ban bảo_vệ dân_phố	32
+danh_hiệu “	32
+xét đề_nghị	31
+đối_với tập_thể	31
+biên_bản họp	31
+xét tặng giải_thưởng	30
+lao_động tiên_tiến	30
+" "	30
+chiến_sỹ thi_đua	29
+xét miễn	29
+chức_danh trưởng_thôn	28
+cờ thi_đua	28
+tổ_chức đại_hội	28
+" khen	26
+hội_đồng thi_đua	26
+đại_diện lãnh_đạo	26
+thi_đua toàn_quốc	25
+quyết_định công_nhận	25
+đại_biểu mời	25
+giấy mời	24
+văn_hoá "	24
+danh_hiệu thi_đua hình_thức khen_thưởng	24
+chủ_trì họp	23
+hiện_vật khen_thưởng	23
+khối thi_đua	23
+trình khen	23
+báo_cáo thành_tích	22
+ứng_cử trưởng_thôn	22
+bãi_nhiệm trưởng_thôn	21
+hội_đồng xét tuyển	21
+thành_phần hội_đồng	21
+báo_cáo tham_luận	21
+quà tặng	21
+ít_nhất 2/3	20
+khen_thưởng thành_tích	20
+50 % tổng_số cử_tri cử_tri đại_diện hộ gia_đình	20
+tương đươn	20
+tổ dân_cư	20
+xét tuyển_dụng	20
+hội_nghị cử_tri	20
+danh_hiệu “ lao_động tiên_tiến	20
+khen_thưởng tập_thể	20
+đại_hội đại_biểu	20
+cá_nhân thành_tích xuất_sắc	19
+tiêu_biểu xuất_sắc	19
+phiên họp hội_đồng	19
+xét thưởng	19
+tặng quà	19
+danh_hiệu vinh_dự nhà_nước	19
+phát_biểu ý_kiến	19
+thành_viên đại_diện	19
+tặng khen	18
+' '	18
+khen thưởn	18
+phong_trào “ toàn dân đoàn_kết xây_dựng đời_sống	18
+tiếp dân	18
+" cờ thi_đua	18
+danh_hiệu “ tập_thể lao_động xuất_sắc	18
+phát_động phong_trào	18
+tổ_trưởng tổ dân_phố	18
+bí_thư chi_bộ	18
+danh_hiệu “ chiến_sĩ thi_đua tỉnh	18
+nhiệm_kỳ 2016-2021	17
+hồ_sơ đề_nghị khen_thưởng	17
+báo_cáo tham_luận trình_bày hội_nghị	17
+hội_đồng thi_đua - khen_thưởng tỉnh	17
+tham_gia ý_kiến	17
+chiến_sỹ dân_quân tự_vệ	17
+sáp_nhập thôn	17
+thành_lập thôn	17
+bảo_vệ dân_phố	16
+hội_đồng thi_đua - khen_thưởng	16
+toàn dân đoàn_kết xây_dựng đời_sống văn_hóa	16
+tổ thư_ký	16
+ý_kiến cử_tri	16
+hình_thức kỷ_luật	16
+đại_hội đảng	15
+quỹ thi_đua	15
+thành_viên tham_dự	15
+hội_đồng xét_duyệt	15
+tổ_chức giải	14
+danh_hiệu “ tập_thể	14
+pháp_lệnh dân_quân tự_vệ	14
+công_nhận danh_hiệu	14
+đề_nghị đổi	14
+công_nhận danh_hiệu “	14
+đẩy_mạnh phong_trào	14
+thi_đua - khen_thưởng tỉnh	13
+tập_thể lao_động xuất_sắc	13
+khen_thưởng tổng_kết	13
+luật thi_đua	13
+họp bàn	13
+tổ_trưởng tổ	13
+danh_hiệu “ chiến_sĩ thi_đua cơ_sở	13
+hộ gia_đình	13
+cử_tri cử_tri đại_diện hộ	12
+danh_sách ứng_cử	12
+phiếu ý_kiến	12
+hội_nghị tổng_kết	12
+ban tổ_chức	12
+tiên_tiến "	12
+hình_thức "	12
+ý_kiến nhận_xét	12
+thi_đua - khen_thưởng	12
+tổ_chức lễ	12
+danh_hiệu “ chiến_sĩ thi_đua	12
+giới_thiệu ứng_cử	11
+tổ_chức hoạt_động thôn	11
+phát phiếu ý_kiến	11
+thư_ký hội_đồng	11
+mời tham_dự	11
+thành_viên đội	11
+xét công_nhận danh_hiệu	11
+đại_biểu dự	11
+thành_lập tổ	11
+ban thi_đua -	11
+danh_sách đề_nghị	11
+toàn dân	10
+đề_nghị xét	10
+tổ_chức cá_nhân	10
+công_nhận kết_quả	10
+tặng danh_hiệu	10
+xây_dựng đề_án	10
+cử_tri đại_diện hộ gia_đình	10
+đối_với dân_quân tự_vệ	10
+ban đại_diện hội_đồng quản_trị nhcsxh	10
+“ chiến_sĩ	10
+kỷ_luật lao_động	10
+tiêu_chuẩn xét	10
+phát phiếu ý_kiến cử_tri	9
+ban thi_đua	9
+họp hội_đồng	9
+" nhà_giáo	9
+tổ_chức đảng	9
+mời đại_diện	9
+quyết_định thành_lập	9
+hội_đồng xét tặng danh_hiệu	9
+xét tặng danh_hiệu	9
+số_lượng thành_viên	9
+cờ thi_đua chính_phủ	9
+phó_chủ_tịch hội_đồng	9
+thành_viên ban	9
+tham_dự hội_nghị	9
+thành_tích đóng_góp	9
+quyết_định công_nhận kết_quả	8
+tặng giải_thưởng	8
+phong_trào quần_chúng	8
+thủ_tục xét	8
+đối_với dân_quân	8
+thành_viên tham_gia	8
+ý_kiến thành_viên	8
+kiến_nghị cử_tri	8
+cơ_sở đề_nghị	8
+vận_động "	8
+thành_tích công_tác	8
+đại_diện hội_đồng quản_trị	8
+cử tham_gia	8
+chiến_sĩ thi_đua tỉnh	7
+quyết_định cử	7
+" toàn dân đoàn_kết xây_dựng	7
+đề_nghị miễn	7
+chủ_trì họp :	7
+hộ dân	7
+hồ_sơ trình	6
+ban thư_ký	6
+cá_nhân thành_phần	6
+xét tặng danh_hiệu nhà_giáo	6
+báo_cáo tổng_kết	6
+tập_thể lao_động tiên_tiến	6
+toàn dân đoàn_kết xây_dựng đời_sống văn_hoá	6
+thành_lập hội_đồng	6
+- khen_thưởng	6
+cá_nhân tham_gia	6
+tổng_kết chuyên_đề	5
+công_nhận danh_hiệu nghệ_nhân	5
+“ toàn dân đoàn_kết xây_dựng đời_sống văn_hoá	5
+tích_cực tham_gia	5
+đề_nghị công_nhận	5
+báo_cáo kết_quả	5
+thành_viên tổ	5
+phạm_vi toàn_quốc	5
+lực_lượng dân_quân	5
+tổng_hợp ý_kiến	5
+cử đại_diện	5
+ý_kiến thảo_luận	5
+tờ_trình đề_nghị	5
+luật dân_quân tự_vệ	5
+chữ "	5
+hộ gia_đình thôn	5
+ghi "	5
+tổng_hợp danh_sách	5
+nhà_ăn tập_thể	5
+hồ_sơ đề_nghị công_nhận	5
+quyết_định thành_lập hội_đồng	5
+chiến_sĩ dân_quân	5
+đề_nghị xét miễn	4
+hội_nghị sơ_kết	4
+phát phiếu	4
+đại_diện hội_đồng quản_trị nhcsxh	4
+phong_trào “	4
+toàn dân đoàn_kết xây_dựng đời_sống	4
+hoạt_động thôn	4
+tổ_chức giải thi_đấu	4
+liên thôn	4
+tổng_số thành_viên	4
+tham_gia đóng_góp	4
+vận_động " toàn dân	4
+lực_lượng bảo_vệ	4
+ý_kiến tham_gia	4
+“ chiến_sĩ thi_đua	4
+phạm_vi toàn tỉnh	4
+mẫu phiếu	4
+kết_luận hội_đồng	4
+“ toàn dân	4
+họp thôn	4
+ý_kiến thảo_luận đại_biểu	4
+lập danh_sách	4
+cử_tri đại_diện hộ gia_đình thôn	4
+tặng danh_hiệu nhà_giáo	4
+công_tác chuẩn_bị	3
+liên_đoàn lao_động	3
+hội_nghị sơ_kết tổng_kết chuyên_đề	3
+đời_sống vật_chất	3
+quà biếu	3
+ý_kiến kết_luận	3
+giá_trị hiện_vật	3
+quyết_định thành_lập đề_nghị	3
+hội_đồng quản_trị	3
+chuẩn_bị nội_dung	3
+chiến_sĩ thi_đua cơ_sở	3
+đại_diện ban	3
+tổ_chức đoàn_thể	3
+danh_hiệu “ chiến_sĩ	3
+công_tác bảo_vệ	3
+ban đại_diện hội_đồng quản_trị	3
+thành_tích tiêu_biểu	3
+lập biên_bản	3
+tóm_tắt nội_dung	3
+chủ_trì tổ_chức	3
+tổng_số cử_tri	3
+ghi biên_bản	3
+thành_lập ban	3
+tổ_chức họp hội_đồng	3
+“ toàn dân đoàn_kết xây_dựng đời_sống	3
+lập phiếu	2
+chủ_trương đảng	2
+danh_hiệu nhà_giáo	2
+liên_đoàn lao_động tỉnh	2
+quyết_định công_bố	2
+đoàn_thể tỉnh	2
+cụm dân_cư	2
+cơ_sở vật_chất	2
+tặng danh_hiệu “	2
+giúp_việc hội_đồng	2
+tổng_hợp kết_quả	2
+lập hồ_sơ	2
+họp bất_thường	2
+tham_gia hội_đồng	2
+chức_danh phó_chủ_tịch	2
+quyết_định chủ_trương	2
+tập_thể lao_động	2
+báo_cáo lãnh_đạo	2
+hội_đồng xét tặng	2
+công_nhận bếp tập_thể	2
+cụm “	2
+cử_tri đại_diện hộ	2
+lập “	2
+thông_qua đề_án	2
+điều_động công_tác	2
+có_thể thành_lập	2
+chính_phủ "	2
+tổ đại_biểu đại_biểu	2
+đoàn_thể quần_chúng	2
+đề_án thành_lập	2
+thành_lập quyết_định	2
+tổ_chức hoạt_động	2
+toàn dân đoàn_kết	2
+đóng_dấu "	2
+tổ đại_biểu	2
+- đối_với	2
+công_bố kết_quả	2
+ban hội_đồng	2
+trình lãnh_đạo	2
+chiến_sỹ dân_quân	2
+quyết_định tuyển_dụng	2
+thành_viên hội_đồng quản_trị	2
+thị_trấn tổ_chức	2
+phiếu sức_khỏe	2
+đời_sống văn_hoá	2
+lựa_chọn hình_thức	2
+lập đề_nghị xây_dựng	2
+đại_diện hộ gia_đình	2
+hồ_sơ đề_nghị xét	1
+sơ_kết tổng_kết	1
+ghi phiếu	1
+đóng_góp xây_dựng	1
+xét phê_chuẩn	1
+thành_tích thi_đấu	1
+tổ_chức quần_chúng	1
+“ toàn dân đoàn_kết xây_dựng	1
+kết_quả công_tác	1
+đẩy_mạnh công_tác	1
+lao_động xuất_sắc	1
+danh_hiệu nghệ_nhân	1
+tổng_số cử_tri cử_tri đại_diện hộ gia_đình	1
+kết_quả học_tập	1
+quỹ khen_thưởng	1
+đối_với thành_viên	1
+đóng_góp quỹ	1
+ý_kiến đại_biểu	1
+phong_trào “ toàn dân	1
+tham_gia hoạt_động	1
+giải thi_đấu	1
+phổ_biến rộng_rãi	1
+hồ_sơ đề_nghị	1
+tỉnh quyết_định	1
+chức_danh bầu_cử	1
+đẩy_mạnh hoạt_động	1
+anh_hùng lao_động	1
+thông_qua hình_thức	1
+đời_sống văn_hóa	1
+- 2021	1
+công_tác xây_dựng	1
+tổng_hợp trình	1
+vận_động tổ_chức	1
+ban văn_hóa	1
+toàn dân đoàn_kết xây_dựng	1
+đoàn_kết xây_dựng	1
+có_thể xét	1
+tỉnh trình	1
+tổng_kết công_tác	1
+xây_dựng đời_sống văn_hóa	1
+“ chiến_sĩ thi_đua tỉnh	1
+trình_bày hội_nghị	1
+bảo_vệ sức_khỏe	1
+hội_đồng chính_phủ	1
+đoàn_kết xây_dựng đời_sống văn_hoá	1
+thi_đua hình_thức	1
+đại_diện hộ	1
+giấy giới_thiệu	1
+công_đoàn cơ_sở	1
+hội_nghị đối_với	1
+đoàn_kết xây_dựng đời_sống văn_hóa	1
+đại_hội thi_đua	1
+tổ_chức hiệp_thương	1
+“ phiếu	1
+kết_quả xét_duyệt	1
+cử_tri cử_tri	1
+toàn tỉnh	1
+danh_hiệu vinh_dự	1
+phạm_vi toàn	1
+" tập_thể lao_động	1
+thành_phần hồ_sơ	1

@@ -1,0 +1,369 @@
+khu công_nghiệp	428
+trưởng ban	291
+khu dân_cư	284
+ban chỉ_đạo	250
+ban quản_lý	216
+cụm công_nghiệp	211
+ban tổ_chức - cán_bộ chính_phủ	193
+tổ_chức kinh_tế	191
+ban quản_lý khu kinh_tế	176
+ban tổ_chức	162
+khu kinh_tế	157
+ban vật_giá chính_phủ	129
+khu kinh_tế cửa_khẩu	113
+cộng_đồng dân_cư	87
+khu du_lịch	87
+phó trưởng ban	84
+ban quản_lý khu công_nghiệp	84
+cụm dân_cư	81
+khu chế_xuất	78
+bộ_đội biên_phòng	74
+thành_phần kinh_tế	74
+ban tổ_chức cán_bộ chính_phủ	70
+tổ_chức phi chính_phủ	69
+ban quản_lý khu công_nghiệp tỉnh	67
+phối_hợp ban quản_lý	63
+ban quản_lý dự_án	62
+khu công_nghệ_cao	61
+chỉ_huy quân_sự tỉnh	59
+phòng kinh_tế hạ_tầng	58
+ban dân_tộc	57
+ban chấp_hành công_đoàn	55
+ban chỉ_huy	54
+cán_bộ quản_lý	50
+phòng chức_năng quản_lý xây_dựng	49
+thành_viên ban	47
+khu tự_trị	47
+phân khu	44
+quản_lý )	43
+hoạt_động ban chỉ_đạo	42
+tư_lệnh quân_khu	41
+ban chấp_hành	41
+ban chỉ_huy quân_sự	40
+phối_hợp ban quản_lý khu kinh_tế	40
+khu du_lịch địa_bàn tỉnh	39
+trung_tâm cụm xã	39
+tuyến dân_cư	38
+dân_cư nông_thôn	38
+điện biên	37
+ban tổ_chức chính_quyền tỉnh	37
+doanh_nghiệp kcn	37
+thành_viên ban chỉ_đạo	36
+phòng kinh_tế	36
+doanh_nghiệp khu công_nghiệp	35
+ban tổ_chức trung_ương	35
+ban vật_giá	33
+tổ_chức cán_bộ	33
+phối_hợp ban	32
+ban tài_chính - quản_trị trung_ương	32
+tổ_chức công_đoàn	31
+thành_viên ban kiểm_soát	31
+chính_phủ quản_lý	31
+thành_lập ban	31
+ban qdy tỉnh	30
+khu quản_lý đường_bộ	30
+tổng_cục quản_lý ruộng_đất	30
+chỉ_đạo phòng	30
+ban qlda	30
+ban thường_vụ tỉnh_ủy	29
+ban chỉ_huy quân_sự huyện	29
+trưng_dụng ruộng_đất	28
+ban qdy	28
+doanh_nghiệp thành_phần kinh_tế	27
+thành_lập ban chỉ_đạo	27
+ban thường_vụ	26
+ban bí_thư	26
+chủ_nhiệm quân_y	26
+ban quản_lý di_tích	26
+ban chấp_hành hội cựu_chiến_binh	26
+ban tổ_chức chính_quyền	26
+chợ khu kinh_tế cửa_khẩu	25
+ban chỉ_đạo 389	25
+trưởng tiểu_ban	25
+kinh_tế đối_ngoại	24
+ban quản_lý khu kinh_tế nghi_sơn khu công_nghiệp	24
+ban quản_lý chợ	24
+hoạt_động ban	24
+ban liên_lạc cựu_thanh_niên xung_phong	24
+dự_án đầu_tư khu công_nghiệp	23
+phòng quản_lý đô_thị	23
+ban qdy cấp_bộ	23
+khu vự	23
+ban quản_lý khu	22
+ban quản_trị	22
+quy_hoạch phân khu	22
+kinh_phí hoạt_động ban chỉ_đạo	22
+khu công_nghiệp địa_bàn tỉnh	22
+trưởng ban tổ_chức chính_quyền	21
+ban chủ_nhiệm	21
+khu chế_xuất khu kinh_tế	21
+khu chức_năng khu kinh_tế cửa_khẩu khu công_nghiệp tỉnh	21
+quản_lý khu du_lịch	20
+ban chỉ_đạo trung_ương	20
+ban thư_ký	20
+ban điều_hành	20
+chính_quyền xã	20
+động_viên công_nghiệp	20
+( ban quản_lý khu kinh_tế trực_tiếp_quản_lý )	20
+ban quản_lý khu kinh_tế chu_lai	20
+ban chấp_hành công_đoàn cơ_sở	19
+thường_trực_ban chỉ_đạo	19
+viện_trợ phi chính_phủ	19
+chính_phủ quy_định khu công_nghiệp	19
+chỉ_huy bộ_đội biên_phòng tỉnh	19
+ban kiểm_soát	19
+khu phân khu	19
+tổ_chức hoạt_động	19
+đồn biên_phòng	19
+cụm dân_cư nông_thôn	19
+ban qdy quân_khu	19
+tổ_chức đảng	19
+ban chấp_hành trung_ương đảng	19
+công_nghiệp tỉnh	18
+ban chỉ_huy quân_sự xã	18
+khu chức_năng	18
+trưởng ban tổ_chức	18
+quản_lý di_tích	18
+ban chỉ_đạo liên_ngành	18
+tổ_chức quản_lý điện nông_thôn	18
+trưởng ban quản_lý khu kinh_tế	17
+quản_lý hoạt_động	17
+đảm_bảo hoạt_động ban chỉ_đạo	17
+ban tổ_chức - cán_bộ chính_phủ ( nội_vụ )	17
+ban tôn_giáo	17
+khu kinh_tế chu_lai	17
+- cán_bộ	16
+ban tài_chính - quản_trị	16
+xây_dựng trung_tâm cụm xã	16
+ban quản_trị dự_án	15
+cử cán_bộ	15
+chỉ_huy quân_sự	15
+cán_bộ chỉ_huy	15
+- ban tổ_chức - cán_bộ chính_phủ	15
+trưởng ban tổ_chức - cán_bộ chính_phủ	15
+quản_lý ruộng_đất	15
+tổ_chức hội	14
+trưởng ban chỉ_đạo	14
+khu công_nghiệp khu kinh_tế	14
+khu chức_năng khu kinh_tế	13
+đề_nghị trưởng ban	13
+trưởng ban quản_lý	13
+ban tổ_chức cán_bộ	13
+môi_trường khu công_nghiệp	13
+địa_bàn tỉnh điện biên	13
+ban quản_trị dự_án trung_ương	13
+trưởng ban kiểm_soát	12
+phát_triển cụm công_nghiệp	12
+quản_lý khu	12
+- ban tổ_chức cán_bộ chính_phủ	12
+chính_phủ )	12
+ban cơ_yếu chính_phủ	12
+liên_tịch ban tổ_chức - cán_bộ chính_phủ	12
+ban tổ_chức cán_bộ chính_phủ ( nội_vụ )	12
+khu trung_tâm	11
+gửi ban chỉ_đạo	11
+công_nghiệp địa_bàn	11
+ban giám_khảo	11
+chỉ_huy quân_sự xã	11
+quân_y quân_khu	11
+cụm xã	10
+ban bí_thư trung_ương	10
+khu chức_năng khu kinh_tế cửa_khẩu	10
+- ban vật_giá chính_phủ	10
+tỉnh điện biên	10
+tổ_chức quốc_tế	10
+ban chỉ_đạo tổng	10
+vụ tổ_chức cán_bộ	10
+quản_trị trung_ương	10
+ban chấp_hành hội	10
+ban tài_chính -	10
+cán_bộ xã	9
+ban chấp_hành trung_ương	9
+ban tổ_chức - cán_bộ	9
+tổ_chức quản_lý điện	8
+địa_bàn tỉnh	8
+ban tổ_chức - cán_bộ chính_phủ hướng_dẫn	8
+khu du_lịch địa_bàn	8
+cửa_khẩu quốc_tế	8
+quản_lý điều_hành	8
+khu công_nghiệp tỉnh	8
+đại_diện ban	8
+khu bảo_tồn	8
+thủ_trưởng ban	8
+quản_lý chợ	7
+ban liên_lạc	7
+phát_triển kinh_tế	7
+hoạt_động đối_ngoại	7
+ban tổ_chức - cán_bộ chính_phủ - tài_chính -	7
+cụm công_nghiệp địa_bàn tỉnh	7
+hội đồn	7
+ban tổ_chức - cán_bộ chính_phủ - tài_chính	7
+thành_viên ban chủ_nhiệm	7
+chi hoạt_động ban chỉ_đạo	7
+ban tổ_chức - cán_bộ chính_phủ -	7
+nghi_sơn khu công_nghiệp	7
+tổ_chức chính_quyền	7
+khu kinh_tế cửa_khẩu khu công_nghiệp	6
+ban điều_phối	6
+hội cựu_chiến_binh	6
+liên_lạc cựu_thanh_niên xung_phong	6
+du_lịch khu du_lịch	6
+cụm công_nghiệp địa_bàn	6
+trung_ương quản_lý	6
+điện nông_thôn	6
+ban tổ_chức cán_bộ chính_phủ - tài_chính	6
+ban quản_lý khu kinh_tế trực_tiếp_quản_lý	6
+cựu_thanh_niên xung_phong	6
+ban tổ_chức cán_bộ chính_phủ -	5
+quản_lý điện	5
+ban chỉ_đạo chống buôn_lậu	5
+chính_phủ tổ_chức hoạt_động	5
+cơ_sở tôn_giáo	5
+quản_lý dự_án	5
+biên_phòng tỉnh	5
+trưởng ban quản_lý khu	5
+- cán_bộ chính_phủ	5
+đầu_tư khu công_nghiệp	5
+du_lịch địa_bàn tỉnh	5
+vật_giá chính_phủ	5
+xã )	5
+ban cơ_yếu	5
+khu công_nghiệp địa_bàn	5
+kỹ_thuật cụm công_nghiệp	4
+xây_dựng địa_bàn tỉnh	4
+quốc_tế )	4
+công_nghiệp địa_bàn tỉnh	4
+- quản_trị	4
+chức_năng quản_lý	4
+trung_tâm cụm	4
+đầu_tư kcn	4
+quân_sự quân_khu	4
+kinh_tế hạ_tầng	4
+bộ_đội biên_phòng tỉnh	4
+tổ_chức phi	4
+389 tỉnh	4
+đề_nghị trưởng	4
+dự_án thành_phần	4
+kinh_phí công_đoàn	4
+công_đoàn cơ_sở	4
+quản_lý điện nông_thôn	4
+viện_trợ phi	4
+tổ_chức - cán_bộ	4
+trưởng ban tổ_chức - cán_bộ	4
+trung_ương quản_lý )	4
+quân_sự tỉnh	4
+huyện chỉ_đạo	4
+kinh_tế -	3
+chợ cửa_khẩu	3
+đô_thị địa_bàn tỉnh	3
+khu kinh_tế nghi_sơn khu công_nghiệp	3
+trưởng ban ban	3
+trung_ương đảng	3
+tổ_chức - cán_bộ chính_phủ	3
+viện_trợ quốc_tế	3
+hạ_tầng khu	3
+khu dân_cư địa_bàn	3
+cán_bộ chính_phủ	3
+dự_bị động_viên	3
+thành_lập phòng	3
+cơ_yếu chính_phủ	3
+ban kinh_tế	3
+ban vật_giá chính_phủ hướng_dẫn	3
+gửi ban	3
+tổ_chức cán_bộ chính_phủ	3
+ban tổ_chức - cán_bộ chính_phủ hướng_dẫn thực_hiện	3
+phi chính_phủ	3
+kinh_phí hoạt_động ban	3
+- vật_giá	3
+địa_bàn xã	3
+chỉ_đạo cơ_quan_chức_năng	3
+xây_dựng khu	3
+ban thư_ký apec	3
+đầu_tư khu	3
+quản_lý khu công_nghiệp	3
+kỹ_thuật quân_sự	2
+huấn_luyện quân_sự	2
+ban tổ_chức -	2
+- tài_chính -	2
+khu chức_năng khu kinh_tế cửa_khẩu khu công_nghiệp	2
+tài_chính - ban	2
+cơ_sở hạ_tầng	2
+thành_lập ban quản_lý	2
+trung_ương (	2
+quản_lý khu kinh_tế	2
+phối_hợp cơ_quan_chức_năng	2
+du_lịch khu	2
+công_nghiệp nông_thôn	2
+chỉ_huy bộ_đội biên_phòng	2
+thành_viên đại_diện	2
+qdy tỉnh	2
+doanh_nghiệp công_nghệ_cao	2
+nông_thôn (	2
+di_tích địa_bàn	2
+phó trưởng	2
+điều_hành hoạt_động	2
+chỉ_đạo 389 tỉnh	2
+cán_bộ chính_phủ ( nội_vụ )	2
+qdy quân_khu	2
+quân_sự xã	1
+( )	1
+tài_chính hướng_dẫn quản_lý	1
+- tài_chính	1
+kinh_phí đảm_bảo hoạt_động	1
+thành_lập doanh_nghiệp	1
+hoạt_động ban chỉ_đạo chống buôn_lậu	1
+trực_tiếp_quản_lý )	1
+khu kinh_tế cửa_khẩu khu công_nghiệp tỉnh	1
+liên_tịch ban tổ_chức	1
+xã địa_bàn	1
+doanh_nghiệp thành_phần	1
+khu kinh_tế nghi_sơn	1
+- kỹ_thuật	1
+khu công_nghiệp khu	1
+đại_diện chính_quyền	1
+ban quản_lý khu kinh_tế nghi_sơn	1
+ban kinh_tế -	1
+chức_năng khu kinh_tế	1
+tài_chính - quản_trị trung_ương	1
+ban kinh_tế - ngân_sách	1
+đô_thị địa_bàn	1
+tài_chính vật_giá	1
+đối_ngoại địa_bàn tỉnh	1
+tuyến tỉnh	1
+vật_giá tỉnh	1
+quản_lý đường_bộ	1
+cán_bộ công_nhân_viên	1
+tổng công_đoàn	1
+kinh_tế - kỹ_thuật	1
+phòng chức_năng	1
+doanh_nghiệp thành_lập	1
+vật_giá chính_phủ hướng_dẫn	1
+phối_hợp phòng	1
+- ban vật_giá	1
+quản_lý đô_thị	1
+thành_lập trung_tâm	1
+chỉ_đạo chống buôn_lậu	1
+- tài_chính - ban	1
+chính_phủ - tài_chính	1
+dân_cư địa_bàn	1
+công_nghiệp khu	1
+chỉ_đạo tổ_chức thực_hiện	1
+- ban tổ_chức -	1
+phòng tài_chính	1
+ban điều_phối dự_án	1
+phòng tài_chính -	1
+doanh_nghiệp khu	1
+đô_thị (	1
+phát_triển quản_lý chợ	1
+- ban tổ_chức	1
+điều_phối dự_án	1
+quy_hoạch đô_thị	1
+chỉ_đạo liên_ngành	1
+ban quản_lý dự_án đầu_tư	1
+chấp_hành công_đoàn cơ_sở	1
+kinh_phí hoạt_động	1
+phát_triển công_nghiệp	1
+ban điều_hành dự_án	1
+- ban tổ_chức - cán_bộ	1
+xây_dựng nông_thôn	1
+phối_hợp ban quản_lý khu	1

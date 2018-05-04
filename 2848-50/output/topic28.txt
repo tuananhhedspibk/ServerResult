@@ -1,0 +1,660 @@
+vay vốn	437
+vốn vay	386
+ngân_hàng nhà_nước	374
+doanh_nghiệp nhà_nước	371
+tài_sản cố_định	313
+vốn lưu_động	208
+sử_dụng vốn	174
+tài_sản bảo_đảm	174
+đối_với doanh_nghiệp	168
+ngân_hàng thương_mại	164
+nợ hạn	148
+rút vốn	131
+doanh_nghiệp vốn đầu_tư nước_ngoài	130
+doanh_nghiệp tư_nhân	124
+góp vốn	124
+huy_động vốn	109
+doanh_nghiệp công_ích đăng_kiểm	109
+khấu_hao cơ_bản	109
+tài_sản nhà_nước	107
+thuế_thu_nhập doanh_nghiệp	103
+lãi vay	96
+vốn góp	88
+vốn đầu_tư	87
+vốn điều_lệ	86
+lãi_suất vay	86
+thu_hồi vốn	85
+bổ_sung vốn	83
+vay ngân_hàng	83
+khoanh nợ	83
+mua trả_chậm	82
+doanh nghiệ	81
+khoản nợ	80
+xử_lý_tài_sản bảo_đảm	78
+chi_nhánh ngân_hàng	78
+giá_trị tài_sản	77
+ngân_hàng vay	77
+khấu_hao tài_sản cố_định	76
+thời_hạn vay	74
+trích khấu_hao	71
+thành_lập doanh_nghiệp	71
+tiền vay	69
+hoàn_trả vốn	67
+thanh_toán nợ	66
+ngân_hàng csxh	65
+giám_đốc doanh_nghiệp	63
+đối_với tài_sản	63
+định_mức vốn lưu_động	63
+nợ tk	61
+sử_dụng vốn vay	61
+vay nợ	59
+vốn lưu_động định_mức	58
+hoàn vốn	58
+tài_sản cầm_cố	57
+xổ_số kiến_thiết	57
+vốn pháp_định	55
+xoá nợ	55
+ứng vốn	55
+thu_hồi nợ	54
+đầu_tư vốn	54
+đối_với doanh_nghiệp nhà_nước	53
+xử_lý nợ rủi_ro	53
+nợ gốc	53
+vốn tín_dụng	52
+nợ vay	52
+nguyên_nhân khách_quan	52
+doanh_nghiệp thuỷ_nông	50
+chi_nhánh ngân_hàng nhà_nước	48
+ngân_hàng thương_mại quốc_doanh	47
+vốn vay ngân_hàng	47
+nợ ngân_hàng	46
+xử_lý nợ	46
+ngân_hàng kiến_thiết	45
+bảo_toàn vốn	44
+kiến_thiết cơ_bản	43
+vay vốn ngân_hàng	42
+doanh_nghiệp công_ích đường_bộ	42
+tiền mua	41
+vốn ứng	41
+hoạt_động công_ích	41
+hỗ_trợ lãi vay	40
+cơ_quan quyết_định thành_lập doanh_nghiệp	40
+chi_nhánh nhcsxh tỉnh	40
+mua tài_sản	40
+vốn đối_ứng	40
+bổ_sung vốn lưu_động	39
+doanh_nghiệp nhà_nước hoạt_động công_ích	39
+tài_sản lưu_động	39
+hợp_đồng tín_dụng	39
+vốn cố_định	39
+tài_khoản tạm_ứng	38
+khoản vay	38
+đối_tượng vay vốn	37
+doanh_nghiệp công_ích đường_sắt	35
+tài_khoản đặc_biệt	35
+thanh_toán vốn	34
+nhcsxh tỉnh	34
+quỹ dự_phòng rủi_ro tín_dụng	34
+doanh_nghiệp công_ích	34
+xếp_hạng doanh_nghiệp	33
+quyết_định thành_lập	33
+doanh_nghiệp thành_lập	32
+dư_nợ vay	32
+vay vốn tổ_chức tín_dụng	31
+khế ước	31
+hạch_toán vốn	31
+đối_tượng vay	31
+mua_sắm tài_sản cố_định	30
+sử_dụng tài_sản	30
+vốn đầu_tư nước_ngoài	30
+quyết_định thành_lập doanh_nghiệp	30
+nhu_cầu vay vốn	30
+gia_hạn nợ	30
+vốn ủy_thác	30
+luật doanh_nghiệp nhà_nước	29
+hoạt_động kinh_doanh	29
+doanh_nghiệp thương_mại nhà_nước	28
+cộng_hòa dân chủ_nhân_dân lào	28
+thu nợ	28
+vốn hỗ_trợ	28
+vốn tạm_ứng	27
+đánh_giá tscđ	27
+hoàn_trả vốn vay	27
+tài_sản trí_tuệ	26
+chi_nhánh doanh_nghiệp	26
+nợ tài	26
+vốn ngân_sách nhà_nước	26
+tổng vốn	26
+vốn tự_có	25
+- đối_với doanh_nghiệp	25
+ghi nợ	25
+tín_dụng ngân_hàng	25
+vốn huy_động	24
+xác_định_giá_trị tài_sản	24
+vốn lưu_động thừa	24
+( đối_với vốn ngân_sách	24
+cán_cân thanh_toán	24
+phí ứng vốn	24
+vốn dự_trữ	24
+chi_nhánh nước_ngoài	24
+nợ thu	24
+chi_nhánh ngân_hàng nước_ngoài	24
+nợ vay ngân_hàng	24
+mua cổ_phần	23
+mắc nợ	23
+khấu_hao sửa_chữa_lớn	23
+quản_lý sử_dụng vốn	23
+doanh_nghiệp giải_thể	23
+vốn ngân_sách	23
+nhu_cầu vốn	22
+ngân_hàng chuyên_doanh	22
+sở_hữu nhà_nước	22
+bổ_sung tài_khoản tạm_ứng	22
+kinh_doanh doanh_nghiệp	22
+bàn_giao tài_sản	22
+ngân_hàng nhà_nước tỉnh	22
+cầm_cố tài_sản	22
+vốn viện_trợ	21
+giải_thể doanh_nghiệp	21
+ký hợp_đồng ủy_thác	21
+cơ_quan quản_lý vốn tài_sản nhà_nước doanh_nghiệp	21
+đối_với doanh_nghiệp nhà_nước hoạt_động kinh_doanh	21
+sửa_chữa_lớn tài_sản cố_định	21
+ngân_hàng liên_doanh	21
+kiểm_kê tài_sản	21
+nhiệm_vụ công_ích	21
+doanh_nghiệp vốn đầu_tư	21
+dự_trữ quốc_gia	21
+ân hạn	20
+nguyên_nhân bất_khả_kháng	20
+sử_dụng tài_sản nhà_nước	20
+ban thanh_toán nợ	20
+thuế_lợi tứ	20
+ngân_hàng nuớc	20
+sử_dụng trích khấu_hao tài_sản cố_định	20
+thành_viên góp vốn	20
+gốc lãi	20
+cấp_phát vay	20
+bảo_toàn phát_triển vốn	20
+tài_sản thừa	20
+toàn_bộ tài_sản	20
+bảo_lãnh ngân_hàng	20
+tiền lãi	19
+khoản dự_phòng	19
+kinh_doanh dịch_vụ cầm_đồ	19
+cục quản_lý vốn tài_sản nhà_nước doanh_nghiệp	19
+công_chứng nhà_nước	19
+cấp_vốn thanh_toán	19
+thanh_toán vốn đối_ứng	19
+doanh_nghiệp công_ích đăng_kiểm trách_nhiệm	19
+ngân_hàng quốc_gia	19
+kiểm_toán độc_lập	19
+quỹ bảo_lãnh tín_dụng	19
+ký đơn rút vốn gửi	19
+trích khấu_hao cơ_bản	18
+tiền vay mua xe_đạp	18
+( gốc lã	18
+doanh_nghiệp nhà_nước hoạt_động	18
+xí_nghiệp vốn đầu_tư nước_ngoài	18
+vốn kiến_thiết cơ_bản	18
+góp vốn liên_doanh	18
+( đối_với doanh_nghiệp	17
+tài_sản giao	17
+nợ hạn nợ	17
+đơn rút vốn	17
+giải_thể doanh_nghiệp nhà_nước	17
+mua_sắm tài_sản	17
+khả_năng nợ	17
+sử_dụng vốn vay mục_đích	17
+giá_trị hao_mòn	17
+vay vốn quỹ	17
+cấp_phát vốn	17
+đối_với khoản	17
+hiệp_định vay	17
+tỷ_lệ khấu_hao	17
+quỹ dự_phòng rủi_ro	17
+thế_chấp tài_sản	17
+doanh_nghiệp hạng đặc_biệt	17
+quản_lý vốn tài_sản nhà_nước doanh_nghiệp	16
+tài_sản thế_chấp	16
+tài_khoản tạm_ứng tỉnh	16
+góp vốn tài_sản	16
+hoạt_động luật doanh_nghiệp	16
+vốn vay adb	16
+gửi ngân_hàng	16
+công_ty cổ_phần	16
+tổn_thất tài_sản	16
+quản_lý sử_dụng	16
+tổng công_ty nhà_nước doanh_nghiệp nhà_nước độc_lập quy_mô	16
+doanh_thu hoạt_động	16
+thành_lập giải_thể doanh_nghiệp nhà_nước	16
+thanh_toán tiền	16
+vốn tài_sản	16
+quỹ đầu_tư phát_triển	16
+dân chủ_nhân_dân lào	15
+hoạt_động kinh_doanh hoạt_động	15
+khấu_hao tscđ	15
+nguyên_nhân chủ_quan	15
+tài_khoản ngân_hàng	15
+sử_dụng vốn mục_đích	15
+công_ích đăng_kiểm	15
+hợp_đồng vay	15
+dự_phòng rủi_ro tín_dụng	15
+bảo_đảm tiền vay	15
+ủy_thác nhcsxh	15
+ký hợp_đồng	14
+thống_đốc ngân_hàng nhà_nước	14
+luật doanh_nghiệp	14
+định_mức vốn	14
+tín_dụng đầu_tư	14
+cơ_quan ngân_hàng nhà_nước	14
+vốn tài_sản nhà_nước doanh_nghiệp	14
+hạn hợp_đồng	14
+ngân_hàng ngoại_thương	14
+vay định_mức	14
+tài_sản giá_trị	14
+vốn uỷ_thác	14
+lãi_suất vay vốn	14
+ủy_thác nhcsxh tỉnh	14
+nhà_nước giao	14
+bổ_sung vốn ủy_thác	14
+cơ_cấu vốn đầu_tư	14
+vốn ngân_hàng	14
+vốn huy_động dân	13
+khế ước vay	13
+vay lãi_suất	13
+quản_lý sử_dụng tài_sản	13
+nợ gốc lãi	13
+lãi vay ngân_hàng	13
+- ngân_hàng nhà_nước	13
+xử_lý kết_quả	13
+quản_lý vốn	13
+ngân_hàng trích	12
+chế_độ quản_lý_tài_chính đối_với doanh_nghiệp nhà_nước hoạt_động công_ích	12
+doanh_nghiệp vốn	12
+hoàn_trả vốn lãi	12
+ngừng hoạt_động	12
+vốn ngân_sách tỉnh	12
+hướng_dẫn chế_độ quản_lý_tài_chính đối_với doanh_nghiệp nhà_nước hoạt_động công_ích	12
+hoạt_động bình_thường	12
+thành_lập doanh_nghiệp nhà_nước	12
+tổng_số vốn	12
+thành vốn ngân_sách	12
+giao tài_sản	12
+nợ rủi_ro	12
+khấu_hao tài_sản	12
+tài_sản cố_định hợp_tác_xã	12
+vốn tín_dụng đầu_tư	12
+vốn liên_doanh	12
+toàn_bộ vốn	12
+đầu_tư vốn ngân_sách nhà_nước	12
+vay đối_với	11
+tiền khấu_hao cơ_bản	11
+tiền gửi ngân_hàng	11
+viện_trợ hoàn	11
+hồ_sơ vay vốn	11
+lãi hạn	11
+kiểm_kê đánh_giá	11
+quy_chế thành_lập giải_thể doanh_nghiệp nhà_nước	11
+nhu_cầu vốn lưu_động	11
++ vốn	11
+vay vốn đầu_tư	11
+ngân_hàng thế_giới	11
+- đối_với	11
+sử_dụng vốn đầu_tư	11
+mua tín_phiếu	10
+vay vốn ủy_thác	10
+thanh_toán tạm_ứng	10
+chuyển_nhượng tài_sản	10
+tài_sản mua_sắm	10
+vốn quỹ	10
+thanh_toán khoản	10
+vốn lãi vay	10
+quyết_định 95/1998	10
+cơ_quan_tài_chính ngân_hàng	10
+vốn lưu_động xí_nghiệp	10
+quản_lý_tài_chính đối_với	9
+ứng tiền	9
+đối_với vốn ngân_sách	9
+nhượng tài_sản	9
+tỷ_lệ vốn	9
+giá_trị hiện_vật	9
+nộp thuế_thu_nhập doanh_nghiệp	9
+xử_lý tổn_thất	9
+đối_với khoản nợ	9
+hạn nợ	9
+thanh_toán vốn đầu_tư	9
+trích khấu_hao tài_sản cố_định	9
+vốn hoàn_trả	8
+đối_với hoạt_động	8
+dịch_vụ cầm_đồ	8
+nhu_cầu sử_dụng	8
+đối_với doanh_nghiệp nhà_nước hoạt_động công_ích	8
+khoản tiền	8
+trách_nhiệm thanh_toán	8
+kết_quả kiểm_kê	8
+rút vốn bổ_sung	7
+toàn_bộ hoạt_động	7
+vốn viện_trợ hoàn	7
+định_giá tài_sản	7
+phát_triển tài_sản trí_tuệ	7
+thanh_lý hợp_đồng	7
+hoàn_trả toàn_bộ	7
+vốn tài_sản nhà_nước	7
+luật hợp_tác_xã	7
+công_ích đường_sắt	7
+xếp_hạng đặc_biệt	7
+thiệt_hại tài_sản	7
+quản_lý vốn tài_sản	7
+ngân_sách nhà_nước	7
+vay mua	7
+lưu_động định_mức	7
+ngân_hàng trung_ương	7
+đối_với hoạt_động kinh_doanh	7
+đầu_tư kinh_doanh	7
+số_dư tài_khoản	7
+tài_chính ngân_hàng	7
+liên_doanh liên_kết	7
+giám_đốc chi_nhánh	7
+tài_sản lưới_điện	7
+vốn lãi	7
+nhu_cầu vay	7
+hoạt_động dịch_vụ	7
+hạch_toán tài_khoản	7
+kinh_doanh vàng_bạc	7
+công_ty nhà_nước	7
+thanh_toán hợp_đồng	7
+công_ty thành_lập	6
+% lãi_suất vay	6
+xem_xét xử_lý	6
+gửi ngân_hàng nhà_nước	6
+ban kiểm_soát tổng công_ty nhà_nước doanh_nghiệp nhà_nước độc_lập quy_mô	6
+số_dư quỹ	6
+tiền khấu_hao	6
+quyết_định xử_lý	6
+hợp_đồng ủy_thác	6
+tiền ứng	6
+dịch_vụ công_ích	6
+hệ_thống ngân_hàng	6
+toàn_bộ tiền	6
+tạm_ứng thanh_toán	6
+tiền lãi vay	6
+giám_đốc chi_nhánh ngân_hàng	6
+% lãi_suất	6
+thành_lập giải_thể doanh_nghiệp	6
+sửa_chữa tài_sản	6
+tổ_chức tín_dụng	6
+chứng_từ gốc	6
+quỹ đầu_tư	6
+đối_với công_ty	6
+sử_dụng quỹ	5
+đầu_tư phát_triển	5
+tiền tạm_ứng	5
+bàn_giao toàn_bộ	5
+ký đơn rút vốn	5
+doanh_thu hoạt_động kinh_doanh	5
+lãi_suất tiền gửi	5
+trách_nhiệm hoàn_trả	5
+phương_thức thanh_toán	5
+tài_sản hình_thành	5
+ghi hợp_đồng	5
+giao_dịch bảo_đảm	5
+vay mua xe_đạp	5
+quản_lý_tài_chính đối_với doanh_nghiệp	5
+cơ_quan nhà_nước	5
+ghi tài_khoản	5
+nợ khê_đọng	5
+hạn sử_dụng	5
+khoản viện_trợ	5
+quản_lý quỹ	5
+khả_năng thu_hồi	5
+kinh_doanh hoạt_động	5
+thanh_toán trực_tiếp	5
+vốn ngân_sách tỉnh ủy_thác	5
+vay quỹ	5
+quyết_định thu_hồi	5
+hỗ_trợ doanh_nghiệp	5
+tài_chính ngân_hàng nhà_nước	5
+đầu_tư nước_ngoài	5
+hình_thức sở_hữu	5
+ngân_sách tỉnh	5
+vay tổ_chức tín_dụng	5
+mua xe_đạp	5
+sử_dụng mục_đích	5
+thanh_toán hình_thức	5
+thành vốn	5
+tín_dụng ưu_đãi	5
+ngành_nghề kinh_doanh	5
+vay ưu_đãi	5
+vay tối_đa	4
+tiền thanh_toán	4
+khoản chênh_lệch	4
+kết_quả xử_lý	4
+tổng giá_trị	4
+thời_hạn sử_dụng	4
+bù_đắp chi_phí	4
+hình_thức thanh_toán	4
+sử_dụng tiền	4
+trích tiền	4
+lãi tiền gửi	4
+vay ngắn_hạn	4
+trích quỹ	4
+dự_phòng rủi_ro	4
+tài_chính xem_xét	4
+bảo_đảm hoạt_động	4
+lãi thu	4
+quỹ dự_phòng tài_chính	4
+doanh_nghiệp nhà_nước độc_lập quy_mô	4
+giá_trị sử_dụng	4
+vốn khấu_hao	4
+hoạt_động luật đầu_tư nước_ngoài	4
+thu_nhập doanh_nghiệp	4
+bổ_sung quỹ	4
+nhà_nước hỗ_trợ	4
+hỗ_trợ lãi_suất	3
+– ngân_hàng	3
+hợp_đồng ký	3
+trích tài_khoản	3
+cơ_quan_tài_chính ngân_hàng nhà_nước	3
+trích_lập sử_dụng	3
+sử_dụng vốn hỗ_trợ	3
+mục_đích sử_dụng	3
+khoản chi_phí	3
+nhà_nước hoạt_động công_ích	3
+chứng_từ thanh_toán	3
+đối_với doanh_nghiệp nhà_nước hoạt_động	3
+nhà_nước hoạt_động	3
+cam_kết bảo_đảm	3
+cơ_cấu vốn	3
+phát_sinh khoản	3
+sử_dụng vốn ngân_sách nhà_nước	3
+tổng_kiểm_kê đánh_giá	3
+thời_hạn nước_ngoài	3
+đầu_tư trực_tiếp	3
+trích tỷ_lệ	3
+ủy_thác chi_nhánh nhcsxh tỉnh	3
+tổng công_ty thành_lập quyết_định	3
+sửa_chữa_lớn tài_sản	3
+hộ kinh_doanh	3
+quản_lý nhà_nước đối_với	3
+gốc lãi vay	3
+hoạt_động thương_mại	3
+quỹ hỗ_trợ phát_triển	3
+cơ_quan_tài_chính trách_nhiệm	3
+doanh_nghiệp nhà_nước hoạt_động kinh_doanh	3
+- tài_chính	3
+tài_sản sở_hữu	3
+ủy_thác chi_nhánh nhcsxh	3
+cam_kết hợp_đồng	3
+doanh_nghiệp nhà_nước độc_lập	3
+nhcsxh vay	3
+bảo_toàn phát_triển	3
+luật đầu_tư nước_ngoài	3
+chi_phí quản_lý	3
+chi_phí khấu_hao	3
+mua bảo_hiểm	3
+trích_lập quỹ	3
+thời_điểm bàn_giao	3
+tài_chính – ngân_hàng	3
+bù_đắp khoản	2
+nhcsxh tỉnh (	2
+sử_dụng vốn ngân_sách	2
+tài_sản xhcn	2
+đối_với xí_nghiệp	2
+tổ_chức hoạt_động kinh_doanh	2
+xử_lý_tài_sản thế_chấp	2
+sử_dụng hiệu_quả	2
+trích_lập sử_dụng quỹ	2
+đối_với đối_tượng	2
+quy_chế quản_lý sử_dụng vốn	2
+thương_mại dịch_vụ	2
+thành_lập quyết_định	2
+giao_dịch nhcsxh	2
+tài_sản nhà_nước doanh_nghiệp	2
+quy_chế quản_lý_tài_chính	2
+quản_lý vốn tài_sản nhà_nước	2
+thanh_toán toàn_bộ	2
+tài_khoản tiền gửi	2
+tài_khoản tiền gửi ngân_hàng	2
+gửi cơ_quan	2
+hình_thức đối_tác	2
+sử_dụng trích khấu_hao	2
+lãi_suất ưu_đãi	2
+quản_lý_tài_sản nhà_nước	2
+giao_dịch ngân_hàng	2
+hạch_toán độc_lập	2
+đầu_tư vốn ngân_sách	2
+khoản tạm_ứng	2
+doanh_nghiệp thương_mại	2
+kinh_doanh dịch_vụ	2
+tổng vốn đầu_tư	2
+chi_nhánh nhcsxh	2
+tỉnh quyết_định	2
+tổ_chức hoạt_động	2
+tài_khoản giao_dịch	2
+thành_lập giải_thể	2
+thủ_tục thành_lập	2
+kết_quả hoạt_động	2
+chi_phí dịch_vụ	2
+thành tiền	2
+tiền tài_khoản	2
+tổng công_ty	2
+hiệp_định viện_trợ	2
+vốn đầu_tư phát_triển ngân_sách nhà_nước	2
+dân chủ_nhân_dân	2
+uỷ_thác ngân_hàng	2
+chứng_từ thu	2
+tổng công_ty nhà_nước	2
+luật thuế_thu_nhập doanh_nghiệp	2
+tiền gửi	2
+- đối_với khoản	2
+cơ_quan_tài_chính cấp_phát	1
+cơ_quan quản_lý vốn tài_sản	1
+hỗ_trợ hoạt_động	1
+đối_với cơ_quan	1
+quản_lý sử_dụng quỹ	1
+quyết_định đầu_tư	1
+ngắn_hạn nước_ngoài	1
+cơ_quan quản_lý vốn tài_sản nhà_nước	1
+hướng_dẫn chế_độ quản_lý_tài_chính đối_với doanh_nghiệp nhà_nước hoạt_động	1
+hạch_toán chi_phí	1
+hệ_thống tài_khoản	1
+ưu_đãi đầu_tư	1
+tổng doanh_thu	1
+điều_lệ quản_lý	1
+quản_lý sử_dụng vốn ngân_sách	1
+đơn rút vốn gửi	1
+quản_lý sử_dụng tiền	1
+hạch_toán khoản	1
+mục_đích hiệu_quả	1
+huy_động dân	1
+hợp_đồng thế_chấp	1
+( đối_với xí_nghiệp	1
+nhà_nước định_giá	1
+vốn đầu_tư phát_triển ngân_sách	1
+thời_hạn tối_đa	1
+quỹ dự_trữ tài_chính	1
+tiền sử_dụng	1
+huy_động nguồn_lực	1
+nhà_nước bảo_đảm	1
+trích phí	1
+rút vốn gửi	1
+quản_lý hoạt_động	1
+thời_điểm quyết_định	1
+cục quản_lý vốn tài_sản nhà_nước	1
+sử_dụng dịch_vụ	1
+đầu_tư trực_tiếp nước_ngoài	1
+quản_lý nhà_nước đối_với hoạt_động	1
+ban kiểm_soát	1
+bù_đắp khoản chi_phí	1
+tài_khoản tiền gửi thanh_toán	1
+vốn đầu_tư trực_tiếp nước_ngoài	1
+tài_chính - ngân_hàng	1
+hộ kinh_doanh cá_thể	1
+xem_xét quyết_định	1
+quỹ dự_trữ	1
+quản_lý_tài_chính đối_với doanh_nghiệp nhà_nước hoạt_động công_ích	1
+thu tiền	1
+chi_phí hoạt_động	1
+mục_đích kinh_doanh	1
+hoạt_động kinh_doanh dịch_vụ	1
+hồ_sơ gốc	1
+rủi_ro tín_dụng	1
+gốc lã	1
+lãi_suất tiền	1
+giải_thể xí_nghiệp	1
+khả_năng tài_chính	1
+tỷ_giá ngân_hàng nhà_nước	1
+công_ích đường_bộ	1
+khoản thu	1
+khoản phí	1
+quyết_định giao	1
+cố_định hợp_tác_xã	1
+( đối_với	1
+dịch_vụ quốc_doanh	1
+khoản thu_hồi	1
+đánh_giá kết_quả	1
+điều_lệ tổ_chức hoạt_động	1
+quản_lý sửa_chữa	1
+tổng_số tiền	1
+điều_lệ quy_chế	1
+toàn_bộ tiền thu	1
+trung_ương quản_lý	1
+gửi cơ_quan quản_lý	1
+thành_lập ban	1
+quản_lý nhà_nước	1
+lưu_động xí_nghiệp	1
+nhà_nước cấp_phát	1
+quản_lý nhà_nước thương_mại	1
+tiền thu	1
+trung_ương hỗ_trợ	1
+đơn rút	1
+sử_dụng phí	1
+vay quỹ quốc_gia	1
+quỹ dự_phòng	1
+ngân_hàng nhà_nước trung_ương	1
+ưu_đãi thuế_thu_nhập doanh_nghiệp	1
+cơ_quan quản_lý nhà_nước	1
+nhà_nước thu_hồi	1
+vốn đầu_tư phát_triển	1
+thanh_toán chi_phí	1
+bảo_lãnh tài_sản	1
+chế_độ tài_chính	1
+thống_đốc ngân_hàng	1
+tín_dụng đối_với	1
+quyết_định xếp_hạng	1
+ký quyết_định	1
+phí dịch_vụ	1
+quy_chế quản_lý sử_dụng	1
+quản_lý nhà_nước hoạt_động	1
+nộp ngân_sách	1
+quốc_doanh (	1
+cục quản_lý vốn	1
+quản_lý trực_tiếp	1
+thanh_toán quỹ	1
+bảo_đảm toàn_bộ chi_phí hoạt_động	1
+sở_hữu tài_sản	1
+ký đơn	1
+đặc_biệt ưu_đãi	1
+( cục	1
+doanh_nghiệp hạng	1

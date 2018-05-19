@@ -1,0 +1,99 @@
+chữa_cháy rừng	181
+phòng cháy	169
+phòng cháy chữa_cháy	118
+bảo_vệ rừng	102
+kiểm_dịch thực_vật	85
+thuốc bảo_vệ thực_vật	79
+bảo_vệ thực_vật	74
+cháy rừng	66
+cơ_quan kiểm_dịch	57
+chủ rừng	54
+quỹ nuôi rừng	47
+thực_vật rừng	43
+rừng sản_xuất	43
+tiền nuôi rừng	41
+động_vật hoang_dã	39
+rừng phòng_hộ	32
+nổ bắt_buộc	32
+nộp tiền nuôi rừng	32
+công_tác phòng cháy	29
+diện_tích rừng	29
+khoanh nuôi	29
+phòng_chống cháy nổ	28
+động_vật rừng	27
+bảo_vệ kiểm_dịch thực_vật	26
+chặt phá rừng	26
+phá rừng	26
+công_tác bảo_vệ	25
+động_vật rừng_quý	25
+cơ_quan kiểm_dịch thực_vật	24
+khoanh nuôi tái_sinh	24
+khoanh định	22
+buôn_bán trái_phép	22
+cháy nổ	22
+rừng đặc_dụng	21
+kiểm_dịch động_vật	20
+ban quản_lý rừng đặc_dụng	20
+động_vật rừng nguy_cấp	19
+diện kiểm_dịch thực_vật	19
+phá rừng sản_xuất	19
+hiếm ia	18
+bảo_vệ rừng quản_lý lâm_sản	17
+diện kiểm_dịch	17
+hiếm ib	17
+khai_thác trái_phép	17
+chống chặt	17
+phương_tiện chữa_cháy	16
+nghề rừng	16
+thu tiền nuôi rừng	15
+phương_án phòng cháy	15
+quản_lý bảo_vệ rừng	14
+kiểm_dịch thú_y	14
+thuốc thú_y	14
+chặt phá	12
+kinh_phí công_tác phòng cháy	11
+thiết_bị phòng cháy	11
+nuôi rừng	11
+bảo_vệ phát_triển rừng	10
+cảnh_sát phòng cháy chữa_cháy	9
+phá rừng trái_phép	9
+vận_chuyển trái_phép	8
+rừng trái_phép	8
+loài động_vật	8
+bảo_vệ rừng quản_lý	8
+5 m3	8
+an_toàn phòng cháy	8
+phòng_chống cháy	7
+sản_phẩm động_vật	6
+rừng phòng_hộ rừng đặc_dụng	5
+quản_lý bảo_vệ	5
+phương_tiện vận_chuyển	4
+phát_triển rừng	4
+điều_lệ kiểm_dịch	4
+bảo_vệ phát_triển	3
+luật bảo_vệ phát_triển rừng	3
+tái_sinh rừng	3
+công_tác quản_lý	3
+ban quản_lý rừng	2
+công_tác phòng	2
+bảo_vệ kiểm_dịch	2
+đối_với phương_tiện	2
+cảnh_sát bảo_vệ	2
+nộp tiền	2
+vận_chuyển lâm_sản	1
+tiền nuôi	1
+chủ phương_tiện	1
+quỹ nuôi	1
+khai_thác lâm_sản	1
+luật bảo_vệ	1
+thi_hành_pháp_lệnh bảo_vệ	1
+công_tác phòng_chống	1
+cơ_quan quản_lý	1
+đối_với diện_tích	1
+phương_án bảo_vệ	1
+thuốc bảo_vệ	1
+thu tiền nuôi	1
+cơ_quan cảnh_sát	1
+thiết_bị phòng	1
+kinh_phí công_tác phòng	1
+cảnh_sát phòng cháy	1

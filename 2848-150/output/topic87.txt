@@ -1,0 +1,75 @@
+dạy nghề	385
+giải_quyết việc_làm	159
+đào_tạo nghề	159
+học nghề	153
+cơ_sở dạy nghề	136
+vị_trí việc_làm	123
+lao_động tàn_tật	63
+cơ_sở đào_tạo	54
+quỹ quốc_gia giải_quyết việc_làm	49
+tìm_kiếm cứu nạn	42
+thu_hút lao_động	41
+dạy nghề phạm_nhân	37
+tàn_tật học nghề	30
+quỹ quốc_gia việc_làm	30
+cơ_sở đào_tạo nghề	29
+giới_thiệu việc_làm	27
+cứu nạn	26
+chi_phí đào_tạo	25
+trung_tâm dạy nghề	24
+kinh_phí đào_tạo	23
+việc_làm tàn_tật	23
+cơ_sở dạy nghề tàn_tật	21
+chuyển_đổi nghề tìm_kiếm việc_làm	21
+lao_động việc_làm	20
+quỹ việc_làm tàn_tật	20
+đào_tạo nghề lao_động	20
+cấp_vốn hỗ_trợ	20
+hỗ_trợ việc_làm	19
+vay giải_quyết việc_làm	17
+dạy nghề ngắn_hạn lao_động	16
+hỗ_trợ đào_tạo	16
+tìm_kiếm việc_làm	15
+tàn_tật làm_việc	14
+đào_tạo nhân_lực	13
+phù_hợp vị_trí việc_làm	13
+dự_án giải_quyết việc_làm	13
+quỹ hỗ_trợ	13
+trình_độ sơ_cấp	12
+khóa học	12
+giáo_viên dạy nghề	12
+thời_gian đào_tạo	12
+dạy nghề ngắn_hạn	11
+làm_việc cơ_sở	10
+dạy học	8
+chỗ làm_việc	8
+chuyển_đổi nghề	8
+ngành_nghề đào_tạo	8
+đề_án vị_trí việc_làm	7
+danh_mục nghề	6
+dạy nghề tàn_tật	6
+đào_tạo trình_độ	6
+quỹ quốc_gia giải_quyết	6
+hỗ_trợ chi_phí	6
+việc_làm lao_động	5
+quỹ quốc_gia	5
+kinh_phí hỗ_trợ	4
+quốc_gia việc_làm	4
+vốn quỹ quốc_gia giải_quyết việc_làm	4
+thời_gian học	3
+giáo_viên dạy	3
+chuyển_đổi nghề tìm_kiếm	3
+quốc_gia giải_quyết việc_làm	3
+quỹ việc_làm	2
+hỗ_trợ kinh_phí	2
+lao_động làm_việc	2
+tìm_kiếm cứu	1
+trợ_giúp kinh_phí	1
+nghề lao_động nông_thôn	1
+đề_án vị_trí	1
+nghề giải_quyết việc_làm	1
+tàn_tật học	1
+thời_gian giải_quyết	1
+trình_độ đào_tạo	1
+vay quỹ quốc_gia	1
+chi_phí đi_lại	1

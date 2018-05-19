@@ -1,0 +1,154 @@
+đóng bảo_hiểm_xã_hội	188
+thẻ bhyt	174
+cơ_sở kcb	159
+quỹ bảo_hiểm_xã_hội	148
+cơ_quan bảo_hiểm_xã_hội	106
+đóng bhyt	105
+cơ_quan bhxh	87
+đóng bảo_hiểm_y_tế	75
+thẻ bảo_hiểm_y_tế	73
+bhyt tự_nguyện	67
+thời_gian đóng bảo_hiểm_xã_hội	66
+đóng bhxh	66
+cơ_quan bảo_hiểm_y_tế	53
+tham_gia bhyt tự_nguyện	52
+cơ_quan bhyt	50
+quỹ bảo_hiểm_y_tế	47
+nộp quỹ bảo_hiểm_xã_hội	43
+bảo_hiểm_xã_hội tỉnh	42
+tham_gia bhyt	40
+bảo_hiểm_y_tế học_sinh	36
+tiền_lương đóng bảo_hiểm_xã_hội	35
+bảo_hiểm_y_tế tự_nguyện	35
+quỹ bhyt	34
+quỹ kcb bhyt tự_nguyện	32
+thanh_toán chi_phí kcb	32
+truy nộp bảo_hiểm_xã_hội	30
+tiền_lương đóng bảo_hiểm_xã_hội bình_quân	29
+bình_quân tiền_lương đóng bảo_hiểm_xã_hội	29
+quỹ dự_phòng	28
+giám_đốc quỹ	28
+kcb bhyt	28
+khung đóng	27
+thời_gian đóng bhxh	27
+chi_phí kcb	26
+thu bảo_hiểm_xã_hội	26
+điều_lệ bảo_hiểm_y_tế	25
+nộp bảo_hiểm_xã_hội	23
+quỹ tiền_lương	22
+đăng_ký kcb ban_đầu	22
+căn_cứ đóng bảo_hiểm_xã_hội	22
+điều_lệ bảo_hiểm_xã_hội đối_với quân_nhân	21
+( ký_tên đóng dấ	21
+thẻ bhyt tự_nguyện	21
+kcb bhyt tự_nguyện	20
+người_bệnh thẻ bảo_hiểm_y_tế	20
+quản_lý quỹ	19
+đóng dấ	19
+cơ_quan điều_hành nghiệp_vụ quỹ	19
+trích nộp quỹ bảo_hiểm_xã_hội	19
+sổ bảo_hiểm_xã_hội	18
+điều_lệ bhxh đối_với quân_nhân	18
+giám_đốc bảo_hiểm_xã_hội tỉnh	18
+cơ_quan bảo_hiểm_y_tế thanh_toán	18
+hệ_thống bảo_hiểm_y_tế	17
+quỹ kcb	17
+điều_lệ bảo_hiểm_xã_hội	17
+giám_đốc điều_hành quỹ	17
+bhyt học_sinh	17
+kiểm_soát quỹ	17
+cơ_quan bhxh thanh_toán	16
+đóng bhyt tự_nguyện	15
+sử_dụng quỹ	14
+bhyt tự_nguyện đối_tượng	14
+bảo_hiểm_xã_hội quân_đội	14
+bảo_hiểm_xã_hội đối_với quân_nhân	13
+tiền_lương căn_cứ đóng bảo_hiểm_xã_hội	13
+thời_gian đóng	13
+chế_độ bảo_hiểm_xã_hội	13
+thanh_toán trực_tiếp	12
+kcb thẻ bhyt	12
+quy_định điều_lệ	12
+tăng_trưởng quỹ	11
+cơ_quan bhxh thanh_toán chi_phí	11
+phát_hành thẻ	10
+bảo_hiểm_y_tế bắt_buộc	10
+kcb ngoại_trú	10
+quy_định điều_lệ bảo_hiểm_xã_hội	10
+đóng phí bhyt	10
+đối_tượng tham_gia bhyt	10
+tự_nguyện tham_gia	9
+tiền đóng bảo_hiểm_y_tế	9
+đóng bảo_hiểm_xã_hội 5	9
+điều_lệ bảo_hiểm_xã_hội đối_với	9
+thanh_toán chi_phí	9
+thu quỹ bảo_hiểm_xã_hội	9
+đăng_ký tham_gia	9
+đăng_ký kcb	8
+hỗ_trợ đóng bảo_hiểm_y_tế	8
+đối_tượng học_sinh	7
+bhyt bắt_buộc	7
+trích nộp bảo_hiểm_xã_hội	7
+đối_với học_sinh	7
+bhyt đối_tượng	5
+phương_thức thanh_toán	5
+đối_tượng tham_gia	5
+bhxh đối_với quân_nhân	5
+truy nộp	5
+điều_lệ bhyt	5
+phí bhyt	5
+nộp quỹ	5
+bảo_hiểm_xã_hội đối_với	4
+quản_lý sử_dụng quỹ	4
+điều_lệ bhxh	4
+sử_dụng thẻ	4
+kcb cơ_sở	4
+đối_với quân_nhân	4
+chế_độ bảo_hiểm_y_tế	4
+quỹ dự_phòng kcb	4
+chi_phí tiền_lương	4
+trích quỹ	4
+giám_đốc bảo_hiểm_xã_hội	4
+quỹ kcb bhyt	4
+người_bệnh thẻ	4
+đóng địa_bàn	4
+điều_hành quỹ	4
+đối_với người_bệnh	3
+tiền đóng	3
+đối_với đối_tượng	3
+bình_quân tiền_lương căn_cứ	3
+bình_quân tiền_lương	3
+tiền_lương căn_cứ đóng	3
+đóng bảo_hiểm_xã_hội tiền_lương	3
+thanh_toán quỹ	3
+bhyt thanh_toán	3
+thực_hiện bảo_hiểm_y_tế tự_nguyện	3
+điều_hành nghiệp_vụ quỹ	2
+đối_với thành_viên	2
+thu nộp	2
+trích nộp	2
+lập quỹ	2
+đối_với cơ_sở	2
+bảo_hiểm_y_tế cơ_sở	2
+quản_lý điều_hành	2
+đối_tượng quy_định	2
+trích nộp quỹ	2
+chế_độ bảo_hiểm	2
+nộp phí	1
+đối_với đối_tượng quy_định	1
+thanh_toán tiền_lương	1
+chế_độ tiền_lương	1
+đóng bảo_hiểm_xã_hội bình_quân	1
+tiền_lương đóng	1
+thực_hiện bảo_hiểm_y_tế bắt_buộc	1
+trực_tiếp tham_gia	1
+bảo_hiểm_xã_hội bình_quân	1
+bảo_hiểm_xã_hội 5	1
+căn_cứ đóng	1
+chi_phí quản_lý	1
+quỹ hỗ_trợ	1
+thu phí	1
+chế_độ đối_với	1
+tiền_lương căn_cứ	1
+thu tiền	1
+quản_lý sử_dụng	1

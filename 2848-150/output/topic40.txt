@@ -1,0 +1,28 @@
+bộ_đội biên_phòng	74
+khu_vực biên_giới	62
+biển đảo	41
+biên_giới quốc_gia	40
+khu_vực phòng_thủ	35
+chợ biên_giới	28
+cửa_khẩu quốc_tế	27
+hạ_sỹ quan	25
+chợ cửa_khẩu	24
+bảo_vệ biên_giới	24
+công_tác biên_giới	22
+quốc_tế khu_vực	22
+bảo_vệ biên_giới quốc_gia	22
+cư_dân biên_giới	19
+đồn biên_phòng	19
+chỉ_huy bộ_đội biên_phòng tỉnh	18
+quốc phòn	17
+cửa_khẩu biên_giới	17
+điều_ước quốc_tế	14
+hàng_hoá biên_giới	11
+tiểu_ngạch biên_giới	10
+biên_giới đất_liền	9
+đội_tuyển quốc_gia	8
+biên_phòng tỉnh	5
+bộ_đội biên_phòng tỉnh	4
+olympic quốc_tế khu_vực	3
+chỉ_huy bộ_đội biên_phòng	2
+olympic quốc_tế	1

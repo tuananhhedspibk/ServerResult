@@ -1,0 +1,248 @@
+báo_cáo kết_quả	274
+tổng_hợp báo_cáo	235
+điều_tra thống_kê	191
+báo_cáo tình_hình	138
+báo_cáo định_kỳ	128
+tình_hình thực_hiện	114
+tổng_hợp tình_hình	112
+tiến_hành kiểm_tra	104
+chế_độ báo_cáo	104
+kết_quả thực_hiện	93
+trách_nhiệm báo_cáo	92
+báo_cáo thẩm_tra	87
+định_kỳ 6	86
+lập báo_cáo	86
+đánh_giá kết_quả	85
+đánh_giá tình_hình	74
+kịp_thời báo_cáo	74
+trách_nhiệm kiểm_tra	71
+báo_cáo tình_hình thực_hiện	70
+định_kỳ đột_xuất	69
+thường_xuyên kiểm_tra	66
+tổng_hợp kết_quả	65
+báo_cáo kết_quả thực_hiện	65
+thông_báo kết_quả	63
+kết_quả kiểm_tra	58
+kiểm_tra định_kỳ	57
+kiểm_tra thực_hiện	57
+trách_nhiệm tổng_hợp	56
+báo_cáo kịp_thời	54
+nắm tình_hình	52
+theo_dõi tình_hình	52
+báo_cáo tài_chính	52
+báo_cáo liên_bộ	51
+báo_cáo tổng_hợp	51
+trách_nhiệm theo_dõi	50
+thực_hiện chế_độ báo_cáo	48
+kiểm_tra tình_hình	48
+báo_cáo thống_kê	43
+kết_quả xử_lý	41
+báo_cáo nghiên_cứu_khả_thi	40
+báo_cáo tổng_kết	39
+kiểm_tra đột_xuất	38
+đánh_giá tình_hình thực_hiện	38
+tổng_hợp danh_sách	37
+cung_cấp số_liệu	35
+báo_cáo đột_xuất yêu_cầu	34
+đánh_giá kết_quả thực_hiện	34
+thực_hiện điều_tra thống_kê	33
+thực_hiện báo_cáo định_kỳ	32
+báo_cáo đột_xuất	32
+gửi báo_cáo	32
+thu_thập số_liệu	32
+kiểm_tra công_tác nghiệm_thu	32
+kiểm_tra định_kỳ đột_xuất	31
+phiếu điều_tra thống_kê	31
+thường_xuyên theo_dõi	30
+điều_tra_viên thống_kê	30
+tổng_hợp trình	30
+báo_cáo kết_quả giám_sát	29
+tổng_hợp báo_cáo tình_hình	29
+kết_quả thẩm_định	29
+đánh_giá chất_lượng	27
+công_bố kết_quả	27
+báo_cáo thẩm_định	26
+kiểm_tra thực_tế	25
+đồng_thời báo_cáo	25
+thông_báo kịp_thời	25
+bảng tổng_hợp	24
+xử_lý kịp_thời	24
+kiểm_tra giám_sát	23
+yêu_cầu đột_xuất	23
+thống_kê tội_phạm	23
+đột_xuất tình_hình	23
+công_tác kiểm_tra	23
+biểu tổng_hợp	22
+báo_cáo định_kỳ đột_xuất tình_hình	22
+định_kỳ 06	22
+số_liệu thống_kê	22
+mẫu phiếu điều_tra thống_kê	21
+trách_nhiệm cung_cấp	21
+báo_cáo tham_luận	21
+báo_cáo định_kỳ đột_xuất	21
+định_kỳ báo_cáo	21
+kết_quả xét_duyệt	21
+đánh_giá hiệu_quả	20
+đánh_giá nghiệm_thu	20
+kiểm_tra phát_hiện	20
+đột_xuất yêu_cầu	20
+thông_báo tình_hình	20
+thực_hiện chế_độ báo_cáo định_kỳ	20
+số_liệu báo_cáo	20
+kiểm_tra thường_xuyên	19
+thường_xuyên đột_xuất	19
+theo_dõi kiểm_tra	18
+báo_cáo tổng_hợp kết_quả	18
+tình_hình hoạt_động	18
+báo_cáo tham_luận trình_bày hội_nghị	17
+điều_tra thống_kê :	17
+báo_cáo lãnh_đạo	16
+nghiệm_thu kết_quả	16
+kết_quả hoạt_động	16
+kết_quả đánh_giá	16
+căn_cứ kết_quả	15
+tổng_hợp kết_quả thẩm_định	15
+thực_hiện chế_độ	15
+báo_cáo kết_quả công_tác	15
+lập báo_cáo kết_quả	15
+kết_quả thẩm_tra	15
+theo_dõi quản_lý	15
+thực_hiện công_tác	15
+xử_lý kết_quả	14
+kiểm_tra tình_hình thực_hiện	14
+kết_quả công_tác	14
+tổng_hợp tình_hình thực_hiện	14
+kịp_thời phát_hiện	14
+phương_án điều_tra thống_kê	14
+tiến_hành điều_tra	14
+trách_nhiệm lập	13
+báo_cáo tiến_độ	13
+tình_hình thực_tế	13
+tổ_chức kiểm_tra định_kỳ	13
+lập danh_sách	13
+trách_nhiệm thông_báo	13
+lập báo_cáo tình_hình	12
+phát_hiện kịp_thời	12
+tình_hình kết_quả	12
+lập phương_án	12
+tình_hình quản_lý	11
+trách_nhiệm hoàn_trả	11
+tổng_hợp báo_cáo kết_quả	10
+chế_độ báo_cáo thống_kê	10
+báo_cáo đánh_giá	10
+giám_sát thực_hiện	10
+phiếu điều_tra	10
+trách_nhiệm xét_duyệt	10
+trách_nhiệm thực_hiện	10
+kiểm_tra xác_nhận	10
+kiểm_tra chất_lượng	9
+trách_nhiệm tổ_chức	9
+báo_cáo tiến_độ thực_hiện	9
+kịp_thời báo_cáo liên_bộ	9
+kết_quả giám_sát	9
+đồng_thời tổng_hợp	9
+chế_độ quản_lý	9
+chủ_trì tổ_chức điều_tra thống_kê	9
+báo_cáo định_kỳ 6	9
+6 tháng_một	8
+biên_bản kiểm_tra	8
+đột_xuất tình_hình quản_lý	8
+tình_hình biến_động	8
+chế_độ báo_cáo định_kỳ	8
+kết_quả điều_tra	8
+thẩm_định báo_cáo đánh_giá	7
+cục thống_kê	7
+đồng_thời gửi	7
+kiểm_tra xử_lý	7
+trách_nhiệm quản_lý	7
+tổ_chức kiểm_tra	7
+cung_cấp kịp_thời	7
+cơ_quan điều_tra	7
+biên_bản nghiệm_thu	7
+kết_quả điều_tra thống_kê	7
+trách_nhiệm lập báo_cáo	7
+kiểm_tra công_tác	7
+lập báo_cáo tài_chính	7
+đối_chiếu số_liệu	6
+thông_báo danh_sách	6
+đột_xuất tình_hình thực_hiện	6
+lập phiếu	5
+trách_nhiệm tổng_hợp kết_quả	5
+tổng_hợp kết_quả thẩm_định trình	5
+báo_cáo định_kỳ đột_xuất tình_hình thực_hiện nhiệm_vụ	5
+tổ_chức thực_hiện	5
+tình_hình kết_quả thực_hiện	5
+trình lãnh_đạo	5
+trongquá trình thực_hiện	5
+kết_quả thẩm_định trình	5
+trách_nhiệm thẩm_định	5
+thẩm_định báo_cáo	4
+báo_cáo đánh_giá tác_động	4
+tổ_chức thẩm_định	4
+thực_hiện giám_sát	4
+quá_trình thực_hiện	4
+công_tác điều_tra	4
+tài_chính tổng_hợp	4
+tài_chính thông_báo	4
+định_kỳ đột_xuất tình_hình	4
+thẩm_định phương_án	3
+lập bảng	3
+tiến_độ thực_hiện	3
+kịp_thời xử_lý	3
+điều_tra cơ_bản	3
+báo_cáo kết_quả thẩm_định	3
+quá_trình điều_tra	3
+đánh_giá tác_động	3
+đồng_thời thông_báo	3
+đồng_thời trách_nhiệm	3
+hoạt_động điều_tra	3
+phát_hiện xử_lý	3
+giám_sát hoạt_động	3
+công_tác nghiệm_thu	2
+cục điều_tra	2
+xét_duyệt tổng_hợp	2
+tài_chính thẩm_định	2
+tiến_hành hoạt_động	2
+mẫu phiếu	2
+tiến_hành lập	2
+căn_cứ tình_hình thực_tế	2
+lập biên_bản xử_lý	2
+phương_án điều_tra	2
+gửi cục	2
+công_nhận kết_quả	2
+thẩm_tra xét_duyệt	2
+tổng_hợp gửi	2
+kết_quả thực_hiện nhiệm_vụ	2
+đột_xuất tình_hình thực_hiện nhiệm_vụ	2
+kịp_thời liên_bộ	2
+lập gửi báo_cáo	2
+xét_duyệt báo_cáo	2
+lập mẫu	2
+theo_dõi biến_động	1
+gửi phiếu	1
+công_tác quản_lý	1
+thẩm_định thông_báo	1
+thực_hiện hiệu_quả	1
+quản_lý hoạt_động	1
+thực_hiện công_tác quản_lý	1
+lập gửi	1
+hội_nghị tổng_kết	1
+giám_sát quá_trình	1
+kịp_thời tài_chính	1
+trách_nhiệm cơ_quan	1
+cơ_quan trách_nhiệm thực_hiện	1
+yêu_cầu cung_cấp	1
+nhiệm_vụ thường_xuyên	1
+lập biên_bản	1
+hoạt_động thường_xuyên	1
+tổ_chức hoạt_động	1
+tình_hình thực_hiện nhiệm_vụ	1
+mẫu biểu	1
+hiệu_quả hoạt_động	1
+chất_lượng hiệu_quả	1
+thông_báo cục	1
+biên_bản điều_tra	1
+công_tác giám_sát	1
+thực_hiện nhiệm_vụ	1
+thẩm_định trình	1
+trình_bày hội_nghị	1

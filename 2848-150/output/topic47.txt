@@ -1,0 +1,201 @@
+địa_bàn tỉnh	1267
+ngành tỉnh	359
+thành_phố tỉnh	254
+địa_bàn huyện	236
+địa_bàn xã	167
+địa_bàn tỉnh lạng_sơn	162
+ngân_sách tỉnh	149
+địa_bàn tỉnh an_giang	126
+địa_bàn tỉnh đồng_nai	124
+ngân_sách xã	102
+địa_bàn tỉnh bạc_liêu	102
+địa_bàn tỉnh thừa_thiên huế	99
+địa_bàn tỉnh tây_ninh	95
+địa_bàn tỉnh hà_giang	88
+địa_bàn tỉnh đắk lắk	84
+địa_bàn tỉnh hòa_bình	78
+địa_bàn tỉnh thanh_hóa	76
+địa_bàn tỉnh cà_mau	76
+công_an tỉnh	70
+địa_bàn thành_phố	66
+địa_bàn tỉnh bắc_giang	66
+toàn tỉnh	61
+ngân_sách huyện	60
+địa_bàn tỉnh đồng tháp	58
+tỉnh an_giang	58
+đoàn_thể tỉnh	58
+đắk lắk	57
+thành_phố cà_mau	55
+địa_bàn tỉnh quảng_nam	51
+tỉnh lạng_sơn	50
+tỉnh thừa_thiên huế	50
+thành_phố biên_hòa	49
+thái nguyên	49
+thành_phố huế	46
+địa_bàn tỉnh quảng_bình	45
+địa_bàn tỉnh bình_thuận	44
+địa_bàn tỉnh quảng_ngãi	44
+tỉnh đồng_nai	43
+ninh bình	43
+thành_phố tổ_chức	42
+địa_bàn tỉnh vĩnh_phúc	41
+địa_bàn tỉnh bình phước	41
+địa_bàn tỉnh tuyên quang	41
+tỉnh quảng_bình	40
+tỉnh thanh_hóa	40
+địa_bàn tỉnh vĩnh_long	40
+địa_bàn tỉnh yên_bái	39
+địa_bàn tỉnh bình_định	37
+liên tỉnh	35
+đóng địa_bàn	35
+phường thành_phố yên_bái	34
+tỉnh hòa_bình	34
+phường thị_xã nghĩa_lộ thị_trấn huyện	34
+thị_trấn tổ_chức	33
+ban_ngành tỉnh	32
+thành_phố bạc_liêu	32
+địa_bàn tỉnh thái_bình	31
+tỉnh thái nguyên	31
+tuyên quang	30
+tỉnh thái_bình	30
+địa_bàn tỉnh bắc kạn	30
+tỉnh cà_mau	30
+địa_bàn tỉnh tây ninh	29
+bình phước	28
+đồng tháp	28
+bắc kạn	28
+đô_thị địa_bàn tỉnh	27
+tỉnh bắc_giang	27
+hòa bình	27
+phạm_vi toàn tỉnh	27
+tỉnh bạc_liêu	27
+thị_xã thành_phố	27
+tỉnh đồng tháp	27
+thị_trấn huyện	26
+bạc liêu	26
+tỉnh quảng_ngãi	26
+địa_bàn tỉnh phú_yên	25
+địa_bàn tỉnh tiền_giang	25
+địa_bàn tỉnh thái nguyên	25
+tỉnh nam_định	25
+tỉnh bình phước	24
+địa_bàn tỉnh thái_nguyên	24
+địa_bàn tỉnh hải_dương	23
+tỉnh ninh bình	23
+địa_bàn tỉnh hà_nam	22
+tỉnh đồng_tháp	22
+tây ninh	21
+địa_bàn tỉnh nam_định	21
+phường thành_phố	21
+địa_bàn tỉnh ninh bình	20
+địa_bàn toàn tỉnh	20
+nhà_nước địa_bàn tỉnh	19
+thừa_thiên huế	19
+tỉnh thái_nguyên	19
+thành_phố đồng_hới	19
+tỉnh tây ninh	18
+khoáng_sản địa_bàn tỉnh	18
+đô_thị địa_bàn	18
+phường thị_xã bình_minh :	18
+công_lập địa_bàn tỉnh	18
+tây nguyên	18
+tỉnh bắc	18
+tỉnh bình_phước	17
+thành_phố lạng_sơn	17
+thị_xã long_khánh	17
+thị_xã thành_phố huế	17
+thành_phố nam_định	17
+địa_bàn tỉnh đồng_tháp	16
+địa_bàn tỉnh bình	16
+địa_bàn tỉnh bình_phước	16
+đảng_bộ tỉnh	15
+công_cộng địa_bàn tỉnh	15
+địa_bàn tỉnh đồng	15
+tỉnh vĩnh_phúc	15
+xã phường	15
+xây_dựng địa_bàn tỉnh	14
+tỉnh tiền_giang	14
+phường thị_xã	13
+tỉnh vĩnh_long	13
+bình tuyển	13
+ngân_sách tỉnh hỗ_trợ	12
+phí bình tuyển	11
+thị_trấn địa_bàn tỉnh	11
+địa_bàn tỉnh bắc	11
+địa_bàn tỉnh hoà_bình	11
+thành_phố vĩnh_long	11
+bảo_hiểm_xã_hội tỉnh	11
+tỉnh hà_nam	11
+tỉnh yên_bái	10
+tỉnh quảng_nam	10
+tỉnh hà_giang	10
+tỉnh bình_thuận	10
+địa_bàn tỉnh đắk	9
+tỉnh tây_ninh	9
+phản_ánh địa_bàn tỉnh	9
+2018 địa_bàn tỉnh	9
+lệ_phí địa_bàn tỉnh	9
+phường thị_xã bình_minh	9
+tỉnh đắk lắk	8
+truyền_hình tỉnh	8
+hòa bình ban_hành	8
+tỉnh bạc liêu	8
+toàn ngành	7
+xã địa_bàn	7
+viễn_thông địa_bàn tỉnh	7
+tỉnh hải_dương	7
+áp_dụng địa_bàn tỉnh	7
+tỉnh khánh_hòa	7
+công_lập địa_bàn	6
+tỉnh bình dương	6
+ngành công_thương địa_bàn	6
+thị_trấn địa_bàn	6
+ngành công_thương địa_bàn tỉnh	6
+bắc giang	5
+báo_chí địa_bàn tỉnh	5
+ngân_sách nhà_nước địa_bàn	4
+tỉnh tuyên quang	4
+tỉnh phú_yên	4
+địa_bàn toàn	4
+thành_phố yên_bái	4
+tỉnh bình_định	4
+lịch_sử tỉnh	4
+thành_phố hòa_bình	3
+ô_tô địa_bàn tỉnh	3
+ngân_sách huyện hưởng	3
+áp_dụng địa_bàn	3
+ngân_sách nhà_nước	3
+lâm đồng	3
+du_lịch địa_bàn tỉnh	3
+giám_đốc công_an tỉnh	3
+ngân_sách nhà_nước địa_bàn tỉnh	3
+tỉnh đắk	3
+công_an huyện	3
+tỉnh lâm đồng	2
+tỉnh tây	2
+ngành công_an	2
+xây_dựng địa_bàn	2
+công_an xã	2
+địa_bàn tỉnh ninh	2
+ngân_sách tỉnh hưởng	2
+đối_ngoại địa_bàn tỉnh	2
+tỉnh bình	2
+phạm_vi toàn	2
+bình dương	1
+giả địa_bàn tỉnh	1
+thị_xã nghĩa_lộ thị_trấn	1
+tỉnh tây ninh giai_đoạn	1
+tỉnh hoà_bình	1
+viễn_thông địa_bàn	1
+đường huyện	1
+nhà_nước địa_bàn	1
+công_thương địa_bàn	1
+tổ_chức đoàn_thể	1
+thị_xã nghĩa_lộ thị_trấn huyện	1
+ngân_sách nhà_nước giai_đoạn	1
+thị_xã bình_minh	1
+khoáng_sản địa_bàn	1
+tỉnh bắc kạn	1
+phường thị_xã nghĩa_lộ	1
+thủy_lợi địa_bàn tỉnh	1
+thị_xã nghĩa_lộ	1

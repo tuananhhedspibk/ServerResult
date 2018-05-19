@@ -1,0 +1,64 @@
+trà vinh	59
+hồ chứa	58
+duy_tu bảo_dưỡng	52
+hồ chứa_nước	51
+trạm bơm	45
+công_trình thủy_lợi	38
+bão lụt	36
+khai_thác bảo_vệ công_trình	33
+công_trình thuỷ_lợi	33
+lưu_vực sông	30
+kênh mương	30
+đồng_bằng sông cửu_long	28
+chống lũ	27
+thuỷ_lợi phí	23
+an_toàn đập	22
+chủ đập	21
+phong điền	20
+cấp_nước sinh_hoạt	19
+khai_thác công_trình	19
+bảo_vệ công_trình	18
+đập hồ chứa	17
+thủy lợi phí	17
+đồng_bằng sông	17
+hành_lang bảo_vệ	17
+bảo_vệ nông_giang	14
+5 ha	13
+phòng_chống thiên_tai	13
+khai_thác công_trình thủy_lợi	13
+công_trình cấp_nước	12
+bảo_vệ công_trình thủy_lợi	10
+công_trình đập hồ chứa	8
+sông hồng	8
+phạm_vi bảo_vệ	7
+quản_lý khai_thác	7
+công_trình đập	7
+bảo_vệ công_trình thuỷ_lợi	6
+công_trình cấp_nước sinh_hoạt	5
+xảy sự_cố	4
+thiệt_hại thiên_tai	4
+vận_hành công_trình	4
+nâng_cấp công_trình	4
+neo đậu	4
+bảo_vệ an_toàn	3
+chống thiên_tai	3
+quản_lý bảo_vệ	3
+sông cửu_long	2
+đập hồ	2
+sửa_chữa công_trình	2
+an_toàn công_trình	2
+trạm quan_trắc	2
+kinh_phí duy_tu	2
+bảo_dưỡng đê_điều	2
+phương_án bảo_vệ	2
+vận_hành hệ_thống	2
+chống xuống_cấp	2
+ảnh_hưởng an_toàn	1
+mở_rộng diện_tích	1
+hành_lang an_toàn	1
+tư phá	1
+đảm_bảo an_toàn	1
+quản_lý vận_hành	1
+diện_tích diện_tích	1
+chống mỹ	1
+khai_thác bảo_vệ	1

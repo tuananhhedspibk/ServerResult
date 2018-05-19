@@ -1,0 +1,170 @@
+chống buôn_lậu	124
+chống tham_nhũng	114
+chống ma_tuý	112
+chống tội_phạm	103
+an_ninh trật_tự	93
+trật_tự an_toàn xã_hội	92
+bảo_đảm an_toàn	77
+công_tác phòng	58
+công_tác bảo_vệ	56
+tệ_nạn xã_hội	52
+chống thất_thu	49
+đấu_tranh phòng	47
+xã_hội chủ_nghĩa	46
+đấu_tranh chống	46
+an_ninh quốc_gia	43
+dấu_hiệu tội_phạm	42
+chống lãng_phí	41
+bảo_vệ an_ninh	34
+công_tác đấu_tranh phòng	34
+bảo_đảm an_ninh	32
+tội_phạm ma_tuý	32
+đảm_bảo an_toàn	32
+an_toàn xã_hội	32
+tài_sản xã_hội chủ_nghĩa	31
+an_ninh chính_trị	31
+ngăn_chặn kịp_thời	31
+chống tệ_nạn xã_hội	31
+chương_trình quốc_gia phòng	31
+xảy tình_trạng	27
+chống tệ_nạn	27
+lực_lượng bảo_vệ	26
+biện_pháp ngăn_chặn	25
+chống kiểm_soát ma_tuý	25
+giữ_gìn an_ninh	25
+quốc_gia phòng	25
+chống thi_hành công_vụ	25
+chống ma_túy	24
+cảnh_sát bảo_vệ	24
+phòng_chống tệ_nạn xã_hội	24
+kịp_thời phát_hiện	23
+biện_pháp phòng_ngừa	22
+chống dịch_bệnh	22
+lực_lượng kiểm_soát	22
+lực_lượng chức_năng	21
+lợi_dụng chức_vụ	21
+bảo_vệ an_toàn	21
+chỉ_đạo phòng	21
+bảo_đảm an_toàn mạng_lưới	21
+bảo_vệ an_ninh tổ_quốc	20
+kiểm_soát chặt_chẽ	20
+chống thiên_tai	19
+lực_lượng cảnh_sát	19
+phòng_chống tội_phạm	18
+phòng_chống tham_nhũng	18
+chống rét	18
+đảm_bảo_an_ninh trật_tự trung_tâm	18
+đảm_bảo_an_ninh trật_tự	18
+trật_tự xã_hội	18
+trật_tự công_cộng	17
+ngăn_chặn tình_trạng	17
+phối_hợp lực_lượng	17
+phòng_chống thiên_tai	16
+bảo_đảm an_ninh trật_tự	16
+bảo_vệ tài_sản xã_hội chủ_nghĩa	16
+tố_giác tội_phạm	16
+công_tác phòng_chống	15
+chống xuống_cấp	15
+đấu_tranh chống buôn_lậu	15
+bố_trí lực_lượng	14
+cảnh_sát điều_tra	14
+trật_tự an_toàn	14
+biện_pháp bảo_vệ	14
+chủ_nghĩa xã_hội	14
+bảo_vệ tài_sản	13
+bảo_vệ tổ_quốc	13
+phát_hiện kịp_thời	13
+phòng_chống dịch_bệnh	13
+công_tác phòng_ngừa	12
+ảnh_hưởng xấu	12
+giữ_gìn trật_tự	12
+ngăn_chặn hành_vi	12
+bảo_vệ quyền_lợi	11
+phong_trào quần_chúng	11
+khám_nghiệm hiện_trường	11
+chống cháy	10
+chống kiểm_soát	10
+an_ninh trật_tự an_toàn xã_hội	10
+công_tác điều_tra	10
+bảo_vệ bí_mật nhà_nước	10
+phòng_chống tệ_nạn	10
+phương_án bảo_vệ	10
+đẩy_mạnh phong_trào	10
+biện_pháp bảo_đảm an_toàn	9
+điều_tra tội_phạm ma_tuý	9
+phát_động phong_trào	9
+công_tác đấu_tranh	9
+chỉ_đạo lực_lượng	8
+ảnh_hưởng an_toàn	8
+biện_pháp bảo_đảm	8
+chống dịch	8
+phối_hợp công_tác	8
+xâm_phạm an_ninh quốc_gia	7
+phòng cảnh_sát	7
+đề_xuất biện_pháp	7
+bảo_đảm trật_tự	7
+bí_mật nhà_nước	6
+phòng cháy	6
+đảm_bảo trật_tự	6
+gây_rối trật_tự	6
+bảo_vệ bí_mật	6
+thi_hành công_vụ	6
+ban chỉ_đạo chống buôn_lậu	5
+ngăn_chặn hoạt_động	5
+trật_tự trung_tâm	5
+công_tác đảm_bảo_an_ninh trật_tự	5
+chống hành_vi	5
+chương_trình hành_động	4
+quốc_gia phòng_chống	4
+phối_hợp chặt_chẽ	4
+công_tác đảm_bảo_an_ninh	4
+tác_động xấu	4
+bảo_đảm trật_tự an_toàn	4
+kế_hoạch bảo_vệ	4
+đẩy_mạnh công_tác	3
+hành_vi xâm_phạm	3
+hải phòng	3
+chủ_động phối_hợp	3
+biện_pháp khắc_phục	3
+xảy sự_việc	3
+ban chỉ_đạo	3
+chỉ_đạo công_tác	3
+phòng_chống cháy nổ	3
+bảo_đảm công_tác	3
+đảm_bảo công_tác	3
+công_tác chỉ_đạo	3
+phòng giao_dịch	3
+phòng chống	3
+kịp_thời hành_vi	2
+phát_hiện công_tác	2
+tài_sản nhà_nước	2
+phòng_chống cháy	2
+an_ninh trật_tự an_toàn	2
+công_tác phòng cháy	2
+phòng cháy chữa_cháy	2
+an_ninh tổ_quốc	2
+an_toàn phòng cháy	2
+cháy nổ	2
+chương_trình công_tác	2
+khắc_phục tình_trạng	2
+pháp_luật bảo_vệ	2
+công_tác bảo_vệ bí_mật nhà_nước	2
+bảo_vệ sức_khỏe	2
+hoạt_động lực_lượng	1
+xâm_phạm an_ninh	1
+nhà_nước an_toàn	1
+bảo_vệ tài_sản xã_hội	1
+kiểm_soát ma_tuý	1
+cảnh_sát phòng cháy chữa_cháy	1
+an_toàn mạng_lưới	1
+hoạt_động ban chỉ_đạo chống buôn_lậu	1
+phối_hợp phòng	1
+chỉ_đạo chống buôn_lậu	1
+đảm_bảo trật_tự an_toàn	1
+phòng_chống dịch	1
+xã_hội phối_hợp	1
+pháp_luật bảo_vệ bí_mật nhà_nước	1
+biện_pháp kiểm_soát	1
+điều_tra tội_phạm	1
+tác_động tiêu_cực	1
+chương_trình quốc_gia	1

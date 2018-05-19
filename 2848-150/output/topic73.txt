@@ -1,0 +1,265 @@
+khoản tiền	402
+tiền thưởng	345
+tiền công	281
+thu tiền	229
+tiền phạt	184
+thanh_toán tiền	182
+khoản chi_phí	179
+khoản thu	145
+tiền thu	138
+phạt tiền	137
+nộp tiền	120
+tiền thuốc	110
+thu tiền phạt	101
+chi_phí quản_lý	74
+tiền bồi_thường	74
+xét thưởng	70
+bù_đắp chi_phí	69
+thanh_toán chi_phí	62
+tổng_số tiền	60
+xổ_số kiến_thiết	57
+chi_phí hợp_lý	55
+toàn_bộ tiền	53
+nộp tiền phạt	51
+thu viện_phí	50
+chi_phí thực_tế	49
+tiền thuê	47
+thành tiền	46
+toàn_bộ chi_phí	45
+tiền đặt_cọc	44
+tiền ký_quỹ	43
+khoản chênh_lệch	43
+thanh_toán khoản	41
+nộp phạt	40
+tiền lãi	40
+khoản tiền phạt	39
+chi_phí vận_chuyển	37
+tiền nộp	35
+tiền giang	35
+sử_dụng tiền	33
+tiền mua	32
+khoản chi	32
+tạm trích	31
+uỷ_nhiệm thu	31
+biên_lai thu tiền phạt	31
+bao_gồm chi_phí	30
+trừ khoản	29
+tiền tạm_ứng	29
+tiền thanh_toán	29
+quỹ tiền thưởng	29
+tiền thù_lao	29
+trích tiền	28
+trích thưởng	27
+chi_phí cần_thiết	27
+khoản tương_ứng	26
+thưởng tương_ứng	26
+chênh_lệch thu	26
+tiền gửi	26
+trừ chi_phí	24
+tiền điện	24
+khoản đóng_góp	24
+hạch_toán chi_phí	23
+thanh_toán khoản tiền	23
+thu lợi bất_chính	22
+trích nộp	22
+bù_đắp khoản chi_phí	22
+thu tiề	21
+khoản tạm_ứng	21
+chi_trả tiền	21
+tiền hàng	21
+tiền ăn_hàng	20
+tiền khả_thi	20
+sử_dụng tiền phạt	20
+tiền viện_phí	20
+tiết_kiệm chi_phí	19
+chế_độ thưởng	19
+khoản tiền bồi_thường	19
+thu bù chi	19
+chi_phí phát_sinh	18
+xác_định khoản	18
+chênh_lệch thu chi	17
+tiền công thuê	17
+ứng tiền	17
+đối_với khoản tiền	17
+tiền truy_thu	17
+tiền chênh_lệch	17
+thi_hành khoản tiền phạt	17
+bao_gồm khoản	17
+thuốc chậm luân_chuyển	17
+toàn_bộ tiền thu	17
+trách_nhiệm thanh_toán	17
+tiền đóng_góp	17
+thanh_toán khoản chi_phí	17
+tiền ứng	16
+tiền trích	16
+khoản trợ_cấp	16
+biên_lai thu tiền	16
+chi tiền	16
+lãi tiền	15
+thu nộp	15
+bao_gồm tiền	15
+thưởng thưởng	15
+tiền trợ_cấp	15
+khoản dự_phòng	15
+khoản trừ	14
+tiền lợi	14
+đóng_góp quỹ	14
+chi_phí liên_quan	14
+nộp toàn_bộ	14
+thưởng tối_đa	14
+xác_định tiền	14
+lãi tiền gửi	14
+tịch_thu toàn_bộ	13
+hạch_toán khoản	13
+chứng_từ thu tiền	13
+tiền gửi quỹ	13
+lĩnh tiền	12
+trợ_cấp tiền thuốc	12
+chậm luân_chuyển	12
+khoản nộp	11
+chi quỹ	11
+trừ tiền	11
+trang_trải chi_phí	11
+khoản tiền lãi	11
+nộp quỹ	11
+khoản thu_chi	11
+tiền phạt vi_phạm	10
+khoản tiền nộp	10
+bồi_thường khoản tiền	10
+thanh_toán tiền thuốc	10
+miễn tiền	10
+ghi thu	10
+bồi_thường chi_phí	10
+thu hợp_pháp	10
+trợ_cấp tiền	10
+biên_lai thu	9
+chi_phí mua	9
+trích quỹ	9
+chậm nộp	9
+tổng_số thu	9
+chứng_từ thu	9
+gửi tiết_kiệm	9
+khoản thuế	8
+thanh_toán tiền tàu	8
+thanh_toán tiền hàng	8
+tất_cả khoản	8
+quản_lý sử_dụng tiền	8
+chi_phí đi_lại	8
+đối_với khoản	8
+thu_chi quỹ	8
+chứng_từ thanh_toán	8
+tiền chậm	7
+tiền ăn_theo	7
+phát_sinh khoản	7
+thanh_toán trực_tiếp	7
+ghi chi	7
+phương_thức thanh_toán	7
+thưởng hoàn_thành	7
+bù chênh_lệch	7
+tỉnh tiền giang	7
+sử_dụng quỹ	6
+tiền phạt vi_phạm hợp_đồng	6
+tạm_ứng thanh_toán	6
+sử_dụng tiền thu	6
+chi_phí trực_tiếp	6
+phạt vi_phạm	6
+khoản tiền gửi	6
+chứng_từ nộp tiền	6
+tiền chậm nộp	6
+chi_phí bồi_thường	6
+thu bù	6
+tiền tàu	6
+tài_khoản tiền gửi	5
+tiền sử_dụng	5
+thu lợi	5
+thực_tế phát_sinh	5
+phạt chậm nộp	5
+tiền phạt chậm	5
+thu tiền thuê	5
+khoản trích	5
+thưởng khuyến_khích	5
+hoàn_trả toàn_bộ	5
+bù_đắp khoản	4
+tiền tài_khoản	4
+trích khoản	4
+thuế khoản thu	4
+uỷ_nhiệm chi	4
+trách_nhiệm hoàn_trả	4
+quản_lý sử_dụng	4
+khoản thu tiền	4
+sử_dụng hợp_lý	4
+phạt chậm	4
+tài_khoản tạm	4
+quyết_định_mức thu	4
+nộp tài_khoản tạm	3
+nộp khoản	3
+khấu_trừ tiền	3
+trích tài_khoản	3
+thanh_toán tiền_lương	3
+tiền thuế	3
+quản_lý quỹ	3
+chi_trả thù_lao	3
+chi hàng kiến_thiết	3
+thanh_toán quỹ	3
+chứng_từ hợp_pháp	3
+thanh_toán khoản chi	3
+thu thuế	3
+tiền đóng	3
+khoản thu hợp_pháp	3
+xét cần_thiết	3
+trách_nhiệm bồi_thường	2
+quỹ dự_phòng	2
+ghi thành	2
+xét miễn	2
+sử_dụng biên_lai	2
+thanh_toán toàn_bộ	2
+công chín	2
+chi thực_tế	2
+chứng_từ liên_quan	2
+tạm thanh_toán	2
+mua thuốc	2
+thu tiền chậm	2
+nộp tài_khoản	2
+thanh_toán tiền chi_phí đi_lại	2
+tiền lãi thu	2
+chi_trả khoản	2
+tài_khoản tiền gửi quỹ	2
+kiến_thiết cơ_bản	2
+thanh_toán tiền mua	2
+chế_độ thu	2
+ghi tài_khoản	2
+toàn_bộ khoản	2
+thanh_toán tạm_ứng	2
+truy nộp	2
+thu tiền sử_dụng	2
+chế_độ quản_lý	1
+tạm hoãn	1
+lãi thu	1
+thực_tế tối_đa	1
+miễn thu	1
+chi thù_lao	1
+nộp tiền thuê	1
+vi_phạm hợp_đồng	1
+xét trợ_cấp	1
+lĩnh trợ_cấp	1
+tiền chậm nộp khoản	1
+quỹ thuốc	1
+tài_khoản tạm_ứng	1
+tiền chi_phí đi_lại	1
+bồi_thường toàn_bộ	1
+lợi bất_chính	1
+chi mua	1
+khoản trừ tiền	1
+nộp quản_lý sử_dụng	1
+nộp thuế	1
+chi_phí cưỡng_chế	1
+thu nộp tiền	1
+trích tài_khoản tiền	1
+hàng gửi	1
+bù chi	1
+thanh_toán tiền thuê	1
+mua vận_chuyển	1
+phạt vi_phạm hợp_đồng	1
+quỹ học_bổng	1
+đối_với khoản thu tiền	1
+bù tiền	1

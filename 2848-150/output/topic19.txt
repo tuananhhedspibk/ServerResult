@@ -1,0 +1,240 @@
+vay vốn	403
+vốn vay	335
+nợ hạn	148
+lãi vay	96
+lãi_suất vay	87
+vay ngân_hàng	84
+khoản nợ	84
+khoanh nợ	83
+ngân_hàng vay	77
+thu_hồi vốn	75
+thời_hạn vay	74
+tiền vay	68
+thanh_toán nợ	67
+ngân_hàng csxh	65
+phòng giao_dịch	64
+nhcsxh tỉnh	61
+vay nợ	59
+xoá nợ	55
+thu_hồi nợ	54
+nợ gốc	53
+xử_lý nợ rủi_ro	53
+sử_dụng vốn vay	53
+nợ vay	52
+sử_dụng vốn	47
+vốn vay ngân_hàng	47
+nợ ngân_hàng	46
+xử_lý nợ	46
+thu nợ	45
+vay vốn ngân_hàng	42
+hỗ_trợ lãi vay	40
+chi_nhánh nhcsxh tỉnh	40
+nợ thu	38
+khoản vay	38
+đối_tượng vay vốn	37
+dự_án vay vốn	35
+đối_tượng vay	34
+quỹ dự_phòng rủi_ro tín_dụng	34
+dư_nợ vay	32
+vay vốn tổ_chức tín_dụng	31
+phòng giao_dịch nhcsxh huyện	31
+vốn ngân_sách tỉnh	31
+khế ước	31
+nhu_cầu vay vốn	31
+gia_hạn nợ	30
+vốn ủy_thác	30
+tiền lãi thu	26
+lãi_suất ưu_đãi	26
+phí ứng vốn	24
+hoàn_trả vốn vay	24
+nợ vay ngân_hàng	24
+hoàn_trả vốn	23
+mắc nợ	23
+( đối_với vốn ngân_sách	22
+ứng vốn	22
+vốn ngân_sách địa_phương	21
+ký hợp_đồng ủy_thác	21
+ân hạn	20
+bảo_lãnh ngân_hàng	20
+ban thanh_toán nợ	20
+gốc lãi	20
+dự_án vay	20
+quỹ dự_phòng rủi_ro	19
+quản_lý sử_dụng vốn ngân_sách địa_phương ủy_thác	19
+quỹ bảo_lãnh tín_dụng	19
+tín_dụng ngân_hàng	19
+ký đơn rút vốn gửi	19
+ngân_sách tỉnh	18
+( gốc lã	18
+vay đối_với dự_án	18
+phòng giao_dịch nhcsxh	17
+nợ hạn nợ	17
+khả_năng nợ	17
+tiền lãi	17
+đối_với khoản	17
+ngân_sách địa_phương	17
+hiệp_định vay	17
+sử_dụng vốn vay mục_đích	17
+vay vốn quỹ	17
+vốn vay adb	16
+vốn tín_dụng	16
+hợp_đồng vay	15
+dự_phòng rủi_ro tín_dụng	15
+bảo_đảm tiền vay	15
+ủy_thác nhcsxh	15
+vốn ngân_sách	15
+lãi thu	15
+vốn ứng	15
+vay đối_với	14
+trích phí	14
+vốn uỷ_thác	14
+lãi_suất vay vốn	14
+chi_nhánh ngân_hàng	14
+bổ_sung vốn	14
+ủy_thác ngân_sách địa_phương	14
+ủy_thác nhcsxh tỉnh	14
+tín_dụng ưu_đãi	14
+ngân_sách huyệ	14
+quản_lý sử_dụng vốn	14
+bổ_sung vốn ủy_thác	14
+vốn ngân_sách huyện	14
+vốn ngân_hàng	14
+khế ước vay	13
+vay lãi_suất	13
+sử_dụng vốn ngân_sách địa_phương ủy_thác	13
+nợ gốc lãi	13
+lãi vay ngân_hàng	13
+nợ rủi_ro	12
+hoàn_trả vốn lãi	12
+ghi nợ	12
+rút vốn	11
+hạn hợp_đồng	11
+hồ_sơ vay vốn	11
+lãi hạn	11
+lãi_suất tiền gửi	10
+vay vốn ủy_thác	10
+vốn lãi vay	10
+% tiền lãi thu	10
+quản_lý sử_dụng vốn ngân_sách	10
+đối_với khoản nợ	10
+hạn nợ	9
+quản_lý sử_dụng tiền	9
+sử_dụng vốn ngân_sách địa_phương	9
+vốn ngân_sách địa_phương ủy_thác	9
+hạch_toán vốn	9
+quản_lý vốn	9
+đối_với vốn ngân_sách	9
+vay ưu_đãi	9
+vay tối_đa	8
+ngân_sách huyện	8
+nhu_cầu vay	8
+quỹ hỗ_trợ	8
+vốn hỗ_trợ	8
+sử_dụng quỹ	7
+khả_năng thu_hồi	7
+vốn lãi	7
+thanh_toán vốn	7
+hỗ_trợ lãi_suất	7
+tiền lãi vay	6
+vay tổ_chức tín_dụng	6
+sử_dụng vốn mục_đích	6
+quản_lý sử_dụng	6
+hợp_đồng ủy_thác	6
+vốn ngân_sách tỉnh ủy_thác	6
+% lãi_suất vay	6
+vay quỹ	6
+thành vốn ngân_sách	6
+vốn tài_sản	6
+% lãi_suất	6
+khoản dự_phòng	6
+quỹ dự_phòng	5
+ký đơn rút vốn	5
+đối_với đối_tượng	5
+tổ_chức tín_dụng	5
+vay mua	5
+thu sử_dụng vốn	5
+ngân_hàng trích	4
+ký hợp_đồng	4
+nghĩa_vụ nợ	4
+quản_lý sử_dụng vốn ngân_sách địa_phương	4
+thanh_toán khoản	4
+nhu_cầu vốn	4
+vay ngắn_hạn	4
+thời_hạn tối_đa	4
+sử_dụng vốn ngân_sách	4
+dự_phòng rủi_ro	4
+thu ngân_sách	4
+sử_dụng mục_đích	4
+ủy_thác chi_nhánh nhcsxh	3
+hỗ_trợ ngân_sách	3
+trích_lập sử_dụng	3
+thanh_toán tiền	3
+quản_lý quỹ	3
+nhcsxh vay	3
+khoản thu	3
+thành vốn	3
+nhcsxh huyện	3
+ủy_thác chi_nhánh nhcsxh tỉnh	3
+đối_với dự_án	3
+hạch_toán khoản	3
+gốc lãi vay	3
+lãi tiền	3
+cam_kết bảo_đảm	3
+ủy_thác ngân_hàng chính_sách xã_hội vay	2
+giao_dịch nhcsxh	2
+quản_lý vốn tài_sản	2
+tiếp_tục sử_dụng	2
+rút vốn gửi	2
+ngân_sách địa_phương ủy_thác	2
+chi_nhánh nhcsxh	2
+khoản tiền	2
+nhcsxh tỉnh (	2
+lãi_suất tiền	2
+địa_phương quản_lý	2
+uỷ_thác ngân_hàng	2
+thu tiền	2
+ủy_thác ngân_hàng chính_sách xã_hội	2
+vốn quỹ	2
+thu phí	2
+thời_hạn sử_dụng	2
+nhu_cầu sử_dụng	2
+khoản thu_nhập	2
+lãi tiền gửi	2
+dự_án sử_dụng	1
+rủi_ro tín_dụng	1
+bù_đắp khoản	1
+gốc lã	1
+sử_dụng phí	1
+quản_lý sử_dụng quỹ	1
+sử_dụng tài_sản	1
+quản_lý sử_dụng vốn ngân_sách địa_phương ủy_thác ngân_hàng chính_sách xã_hội	1
+địa_phương ủy_thác	1
+tiền sử_dụng	1
+ký xác_nhận	1
+ứng tiền	1
+ghi thu	1
+sử_dụng vốn ngân_sách địa_phương ủy_thác ngân_hàng chính_sách xã_hội	1
+tiền ứng	1
+sử_dụng vốn hỗ_trợ	1
+tín_dụng đối_với	1
+khoản phí	1
+tiền trích	1
+mục_đích sử_dụng	1
+vốn hoàn_trả	1
+khoản thu_hồi	1
+trích quỹ	1
+thanh_toán quỹ	1
+đơn rút vốn gửi	1
+đơn rút vốn	1
+bổ_sung quỹ	1
+đối_tượng chính_sách	1
+ngân_hàng chính_sách	1
+sử_dụng tiền	1
+đối_tượng thu	1
+khả_năng ngân_sách	1
+hỗ_trợ tiền	1
+tiền phí	1
+thành tiền	1
+tiền thu	1
+ban quản_lý	1
+số_dư quỹ	1

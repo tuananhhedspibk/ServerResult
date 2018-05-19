@@ -1,0 +1,50 @@
+thanh_niên xung_phong	125
+thành_phố hồ_chí minh	124
+hồ_chí minh	54
+tham_gia kháng_chiến	46
+đoàn thanh_niên cộng_sản hồ_chí minh	45
+thành_phố hà_nội	44
+địa_bàn thành_phố đà_nẵng	38
+trung_ương đoàn thanh_niên cộng_sản hồ_chí minh	31
+đối_với thanh_niên xung_phong	26
+thành_phố hà_nội thành_phố hồ_chí minh	26
+ban liên_lạc cựu_thanh_niên xung_phong	24
+đoàn thanh_niên	24
+ký giấy_báo_tử	22
+tư_tưởng hồ_chí minh	22
+hành_động dũng_cảm	21
+thành_phố đà_nẵng	21
+tham_gia kháng_chiến con_đẻ	20
+chống mỹ cứu	19
+du_kích tập_trung	18
+trung_ương đoàn	16
+thành_phố cần_thơ	11
+kháng_chiến chống	10
+tham_gia kháng_chiến chống mỹ	10
+thành_phố hồ_chí min	9
+tham_gia đoàn	9
+chống mỹ	8
+địch bắt	8
+ban liên_lạc	8
+đoàn thanh_niên cộng_sản hồ_chí	7
+đối_với bị_thương	7
+kháng_chiến chống mỹ	7
+cựu_thanh_niên xung_phong	6
+liên_lạc cựu_thanh_niên xung_phong	6
+hà_nội thành_phố hồ_chí minh	6
+địa_bàn thành_phố	6
+chống pháp	6
+thanh_niên cộng_sản hồ_chí minh	5
+tham_gia kháng_chiến chống	5
+cứu nạn	4
+mỹ sử_dụng	4
+hồ_chí min	2
+đoàn thanh_niên cộng_sản	2
+cộng_sản hồ_chí minh	1
+thành_phố hà_nội thành_phố	1
+hà_nội thành_phố	1
+đối_với thanh_niên	1
+thành_phố hồ_chí	1
+trung_ương đoàn thanh_niên cộng_sản	1
+thành_phố hà_nội thành_phố hồ_chí	1
+thanh_niên cộng_sản hồ_chí	1

@@ -1,0 +1,101 @@
+vợ chồng	99
+gia_đình liệt_sĩ	88
+hộ_khẩu thường_trú	59
+giấy xác_nhận	55
+hôn_nhân gia_đình	47
+nuôi con_nuôi	47
+phiếu lý_lịch tư_pháp	46
+đăng_ký kết_hôn	42
+mẹ đẻ	39
+giấy giới_thiệu	38
+bản_thân gia_đình	36
+đối_tượng cư_trú	36
+thân_nhân liệt_sĩ	35
+thân_nhân chủ_yếu	33
+đăng_ký nuôi con_nuôi	32
+xét công_nhận	32
+trực_tiếp nuôi_dưỡng	29
+chứng_nhận tạm_trú	28
+liệt_sĩ gia_đình liệt_sĩ	28
+lý_lịch tư_pháp	27
+thẻ thường_trú	26
+quyết_định công_nhận	26
+chụp ảnh	24
+đơn yêu_cầu	24
+tờ khai	22
+khai man	21
+xác_nhận liệt_sĩ	21
+sổ hộ_khẩu	20
+yêu_cầu phiếu lý_lịch tư_pháp	20
+xét đơn yêu_cầu	20
+công_nhận kết_hôn	19
+công_nhận mẹ	19
+hoàn_cảnh gia_đình	19
+gia_đình khó_khăn	19
+công_nhận nuôi con_nuôi	19
+cá_nhân nuôi_dưỡng trẻ_em mồ_côi	19
+khai_báo tạm_trú	18
+trẻ_em con_nuôi	18
+quan_hệ huyết_thống	18
+công_nhận đỡ_đầu	18
+luật hôn_nhân gia_đình	17
+mẹ nuôi	17
+hiệp_định tương_trợ tư_pháp	16
+luật hôn_nhân gia_đình 2000	16
+đăng_ký công_dân	15
+công_nhận liệt_sĩ	15
+trẻ_em mồ_côi	14
+cư_trú hợp_pháp	14
+nuôi_dưỡng trẻ_em mồ_côi	13
+cơ_sở nuôi_dưỡng	12
+trường_hợp đương_sự	11
+diện miễn	11
+con_nuôi nước_ngoài	11
+đề_nghị công_nhận liệt_sĩ	10
+đối_với gia_đình liệt_sĩ	10
+đương_sự yêu_cầu	10
+thăm gia_đình	10
+đối_tượng miễn	10
+nuôi_dưỡng trẻ_em	8
+đối_tượng xét	7
+sổ đăng_ký	7
+đối_tượng diện	7
+miễn thị_thực	7
+cư_trú nước_ngoài	6
+hôn_nhân gia_đình 2000	6
+đơn đề_nghị	6
+con_nuôi công_dân	6
+tương_trợ tư_pháp	6
+liệt_sĩ gia_đình	6
+giấy chứng_nhận kết_hôn	5
+xác_nhận đơn	4
+ảnh chụp	4
+quyết_định miễn	4
+xét đơn	3
+đăng_ký hộ_tịch	3
+giấy chứng_nhận	3
+hoàn_cảnh khó_khăn	2
+xét đề_nghị	2
+cá_nhân nuôi_dưỡng	2
+gia_đình trẻ_em	2
+đối_với đối_tượng	2
+cá_nhân nuôi_dưỡng trẻ_em	2
+cư_trú ổn_định	2
+nước_ngoài thường_trú	1
+yêu_cầu đăng_ký	1
+xác_nhận đăng_ký	1
+xét miễn	1
+giấy đăng_ký	1
+đăng_ký nuôi	1
+luật hôn_nhân	1
+hiệp_định tương_trợ	1
+đối_tượng điều_kiện	1
+đi_lại khó_khăn	1
+đơn đăng_ký	1
+trường_hợp miễn	1
+cơ_sở đề_nghị	1
+đề_nghị miễn	1
+cá_nhân nước_ngoài	1
+đối_với nữ	1
+nước_ngoài thăm	1
+quan_hệ trực_tiếp	1

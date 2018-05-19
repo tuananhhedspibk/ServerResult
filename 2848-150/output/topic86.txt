@@ -1,0 +1,74 @@
+chính_sách đảng	68
+cơ_quan đảng	68
+đoàn_thể trung_ương	50
+đảng nhà_nước	47
+lối sống	46
+tổ_chức đảng	45
+trung_ương đảng	41
+tổ_chức chính_trị	40
+chính_sách đảng nhà_nước	40
+phẩm_chất đạo_đức	38
+phẩm_chất chính_trị	35
+ban tổ_chức trung_ương	34
+ngân_sách đảng	34
+tổ_chức đoàn_thể	33
+trình_độ lý_luận chính_trị	33
+đường_lối đảng	31
+trường chính_trị	30
+lý_luận chính_trị	30
+ban thường_vụ tỉnh_ủy	30
+cơ_quan trung_ương	29
+ban thường_vụ	28
+cơ_quan trung_ương đoàn_thể	28
+thường_trực tỉnh_ủy	28
+ban bí_thư	26
+bí_thư chi_bộ	26
+đoàn_thể chính_trị	26
+cấp_uỷ đảng	22
+đoàn_thể quần_chúng	20
+hệ_thống chính_trị	20
+gương_mẫu chấp_hành chủ_trương	20
+ban chấp_hành trung_ương đảng	20
+chủ_trương đảng	19
+đảng_uỷ xã	18
+nếp sống	17
+ban quản_trị hợp_tác_xã	17
+ban tổ_chức	17
+ban chấp_hành	17
+chấp_hành chính_sách	16
+ban quản_trị	15
+đoàn_thể tỉnh	14
+tổ_chức quần_chúng	11
+chính_quyền xã	11
+trung_ương đoàn_thể	11
+ban bí_thư trung_ương	10
+đề_xuất chủ_trương	10
+quản_trị trung_ương	9
+ngân_sách nhà_nước	8
+ngân_sách trung_ương	7
+ban chấp_hành trung_ương	7
+thị_trấn tổ_chức	7
+ban tổ_chức chính_quyền	7
+chấp_hành chủ_trương	6
+tổ_chức chính_quyền	6
+cơ_quan thường_trực	5
+ban tổ_chức chính_quyền tỉnh	4
+diện chính_sách	4
+ban thường_trực	3
+ngân_sách xã	3
+ý_thức chấp_hành	3
+chủ_trương chính_sách	3
+lãnh_đạo cơ_quan	3
+xã phường	3
+phó_chủ_tịch thường_trực	2
+thường_vụ tỉnh_ủy	2
+đại_hội đảng	2
+nội_bộ cơ_quan	2
+uỷ_viên thường_trực	2
+ban dân_tộc	2
+cơ_quan ngang	1
+cơ_quan nhà_nước	1
+nhà_nước trung_ương	1
+ban thư_ký	1
+gương_mẫu chấp_hành	1
+tổ_chức đại_hội	1

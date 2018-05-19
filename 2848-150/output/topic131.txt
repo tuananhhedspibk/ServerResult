@@ -1,0 +1,106 @@
+gia_đình trẻ_em	124
+uỷ_ban dân_số	89
+uỷ_ban bảo_vệ chăm_sóc trẻ_em việt nam	64
+gia_đình trẻ_em tỉnh	49
+kế_hoạch_hóa gia_đình	48
+sản_phẩm thay_thế sữa mẹ	40
+nuôi dạy trẻ	38
+chăm_sóc sức_khỏe	37
+uỷ_ban bảo_vệ chăm_sóc trẻ_em	36
+dân_số - kế_hoạch_hóa gia_đình	35
+dân_số -	34
+uỷ_ban quốc_gia	32
+kế_hoạch_hoá gia_đình	32
+kinh_doanh sử_dụng sản_phẩm thay_thế sữa mẹ	27
+gửi nhà_trẻ	26
+công_tác dân_số	26
+sữa mẹ	25
+công_tác nhà_trẻ	22
+seagames 22	22
+dân_số kế_hoạch_hoá gia_đình	21
+sản_phẩm dinh_dưỡng trẻ	21
+suy_dinh_dưỡng trẻ_em	20
+chủ_nhiệm uỷ_ban dân_số	20
+chăm_sóc giáo_dục trẻ_em	20
+dân_số - kế_hoạch_hoá gia_đình	18
+uỷ_ban bảo_vệ	18
+vườn trẻ	18
+khuyến_khích nuôi sữa mẹ	18
+uỷ_ban quốc_gia dân_số kế_hoạch_hoá gia_đình	18
+lĩnh_vực dân_số	17
+nuôi sữa mẹ	17
+bảo_vệ chăm_sóc trẻ_em	14
+chăm_sóc trẻ_em	14
+quỹ bảo_trợ trẻ_em	13
+chủ_nhiệm uỷ_ban	13
+chương_trình hành_động	13
+công_tác bảo_vệ	13
+mẹ trẻ_em trung_ương	12
+bảo_vệ mẹ trẻ_em trung_ương	12
+quốc_gia ds-khhgđ	12
+mẹ trẻ_em	11
+chương_trình quốc_gia	11
+chăm_sóc sức_khoẻ	10
+sức_khoẻ sinh_sản	10
+uỷ_ban bảo_vệ mẹ trẻ_em	10
+sử_dụng sản_phẩm thay_thế sữa mẹ	9
+ủy_ban bảo_vệ mẹ trẻ_em	9
+bảo_vệ sức_khoẻ	9
+trẻ_em việt nam	9
+thay_thế sữa mẹ	8
+sức_khỏe sinh_sản	8
+- kế_hoạch_hoá gia_đình	8
+nuôi dạy	7
+bảo_vệ chăm_sóc trẻ_em việt nam	7
+chăm_sóc bảo_vệ	7
+bảo_vệ mẹ trẻ_em	7
+chính_sách dân_số	6
+trẻ_em tỉnh	6
+giáo_dục trẻ_em	5
+luật bảo_vệ	5
+chăm_sóc giáo_dục	5
+mẹ đẻ	5
+bảo_vệ mẹ	4
+bảo_trợ trẻ_em	4
+đoàn_thể trung_ương	4
+chính_sách dân_số -	3
+công_tác chăm_sóc	3
+bảo_vệ chăm_sóc	3
+quy_mô dân_số	3
+- kế_hoạch_hóa gia_đình	3
+uỷ_ban bảo_vệ chăm_sóc	3
+trẻ_em mồ_côi	3
+dinh_dưỡng trẻ	3
+chăm_sóc trẻ_em việt nam	3
+chương_trình dân_số	3
+bảo_vệ sức_khỏe	3
+sử_dụng quỹ	2
+kinh_phí chương_trình quốc_gia	2
+mẹ nuôi	2
+giáo_dục sức_khoẻ	2
+uỷ_ban quốc_gia dân_số	2
+phòng_chống suy_dinh_dưỡng	2
+chương_trình mục_tiêu quốc_gia	2
+chủ_nhiệm chương_trình	2
+quốc_gia dân_số kế_hoạch_hoá gia_đình	2
+sử_dụng sản_phẩm	2
+dân_số - gia_đình	2
+kinh_phí chương_trình	2
+chương_trình phòng_chống	1
+dân_số - kế_hoạch_hoá	1
+lĩnh_vực công_tác	1
+vườn quốc_gia	1
+chính_sách khuyến_khích	1
+dân_số - kế_hoạch_hóa	1
+sử_dụng kinh_phí	1
+quốc_gia dân_số	1
+công_tác phòng_chống	1
+dân_số kế_hoạch_hóa	1
+sản_phẩm dinh_dưỡng	1
+giáo_dục -	1
+quỹ bảo_trợ	1
+nuôi_dưỡng trẻ_em	1
+mục_tiêu quốc_gia	1
+uỷ_ban quốc_gia dân_số kế_hoạch_hoá	1
+chương_trình công_tác	1
+gửi uỷ_ban	1

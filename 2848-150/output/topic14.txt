@@ -1,0 +1,253 @@
+50 %	546
+10 %	410
+5 %	404
+20 %	314
+100 %	306
+30 %	271
+70 %	271
+% )	184
+60 %	177
+80 %	169
+15 %	162
+2 %	156
+40 %	142
+3 %	133
+tỷ_lệ phần_trăm ( % )	132
+1 %	118
+25 %	86
+90 %	83
+75 %	81
+% tổng_số	75
+7 %	75
+tỷ_lệ phần_trăm	71
+% =	58
+45 %	56
+8 %	55
+hưởng 100 %	53
+4 %	50
+tỷ_lệ %	49
+trích 10 %	48
+% trở	46
+tỷ_lệ ( % )	43
+% tổng	39
+tối_đa 50 %	38
+hỗ_trợ 100 %	35
+trích 30 %	35
+trích 20 %	33
+hỗ_trợ 50 %	33
+5 % )	32
+hỗ_trợ 30 %	31
+9 %	30
+30 chỉ_tiêu	30
+tối_đa 3	29
+81 % trở	29
+tỷ_lệ điều_tiết	27
+% giá_trị	27
+31 % trở	27
+85 %	26
+% tiền	25
+% (	25
+35 %	25
+5 (	23
+tối_đa 5	23
+61 % trở	22
+( % )	22
+3 trở	22
+tối_đa 6	22
+tối_đa 10	22
+hỗ_trợ 100 % chi_phí	21
+5 trở	21
+41 %	20
+% tổng_số tiền	20
+( )	20
+50 % tổng_số	20
+tối_đa 50	20
+tối_đa 30	19
+61 %	19
+( trừ 5 trọng_lượng	19
+tối_thiểu 10	19
+ngân_sách tỉnh hưởng 100 %	19
+20 % trở	19
+giá_cả thị_trường biến_động 20 % trở	18
+tỷ_lệ phần_trăm ( % ) phân_chia	18
+100 m2	18
+nữ 50	18
+40 chỉ_tiêu	18
+21 %	18
+( 5 %	18
+10 % lợi_nhuận	18
+55 %	17
+21 % trở	17
+100 % vốn	17
+100 % chi_phí	17
+50 m2	17
+5 % =	16
+trích tỷ_lệ	16
+điều_tiết 100 %	16
+trở (	16
+% quỹ	16
+200 %	15
+tối_thiểu 50 %	15
+hỗ_trợ 20	15
+25 10	15
+phần_trăm ( % )	14
+tối_đa 30 %	14
+50 đ	14
+81 %	14
+tối_đa 15	14
+tổng giá_trị	14
+30 % tiền	14
+31 %	13
+hỗ_trợ 50 % chi_phí	13
+20 % tổng_số	13
+tỉ_lệ %	13
+10 % trở	13
+tối_đa 1	12
+tỷ_lệ phân_chia	12
+% x	12
+trở hưởng	12
+95 %	11
+5 % tổng	11
+chậm 30	11
+50 % giá_trị	10
+phần_trăm trọng_lượng	10
+tỷ_lệ phần_trăm trọng_lượng	10
+30 % tổng_số	10
+130 %	10
+tối_đa 20	10
+phần_trăm (	10
+10 % tổng	10
+tỷ_lệ phần_trăm ( % ) phân_chia khoản	10
+huyện hưởng 100 %	10
+= 7	9
+3 % tiền_lương	9
+15 8	9
+5 % tổng_số	9
+65 %	9
+ngân_sách huyện hưởng 100 %	9
+hỗ_trợ 30	9
+30 % giá_trị	9
+30 6	8
+15 % lương	8
+50 % giá	8
+50 % chi_phí	8
+50 % thưởng	8
+25 3	8
+ít_nhất 10	8
+tối_đa 200	8
+% lương	8
+= 5	7
+) x	7
+hỗ_trợ tối_đa	7
+tối_đa 40	7
+30 kg	7
+15 10	7
+chậm 5	7
+tổng_số tiền	7
+% tổng kinh_phí	7
+10 đ	6
+20 % tổng_số tiền	6
+tối_thiểu 50	6
+50 % tiền	6
+10 % tổng_số	6
+tỷ_lệ phần_trăm phân_chia	6
+chiếm tỷ_lệ	6
+tỷ_lệ trích	6
+15 5	6
+huyện trở	6
+30 9	6
+hỗ_trợ tiền	6
+31 10	6
+tỉnh hưởng 100 %	6
+100 % tiền	6
+chậm 10	5
+10 % lương	5
+chậm 15	5
+100 % kinh_phí	5
+% giá_trị hợp_đồng	5
+ít_nhất 30	5
+hỗ_trợ 100	5
+m2 trở	5
+tỷ_lệ thương_tật	5
+20 7	5
+31 3	4
+% 60 %	4
+20 10	4
+trích 10 % tổng_số tiền	4
+tối_đa 60	4
+25 7	4
+5 đ	4
+hỗ_trợ chi_phí	4
+x 5 %	4
+tối_đa 2	4
+ít_nhất 3	4
+tỷ_lệ % lương	3
+% diện_tích	3
+hỗ_trợ 50	3
+15 9	3
+15 7	3
+giá_cả thị_trường	3
+( 85	3
+30 % tổng_số tiền	3
+bình_quân 1	3
+tối_đa 7	3
+chậm 20	3
+20 đ	3
+25 trở	3
+10 % tổng_số tiền	3
+thương_tật 21 %	2
+30 10	2
+100 % ngân_sách	2
+( trừ	2
+% chi_phí	2
+30 5	2
+hưởng lương	2
+thưởng tối_đa	2
+giá_cả huyện	2
+tổng_số vốn	2
+20 6	2
+bình_quân 5	2
+ít_nhất 5	2
+tối_đa 100	2
+40 đ	2
+60 đ	2
+15 3	2
+10 10	2
+85 ( 85	2
+% doanh_số	1
+30 đ	1
+tiền_lương tối_thiểu	1
+trích lợi_nhuận	1
+giá_cả thị_trường biến_động	1
+diện_tích tối_thiểu	1
+= 4	1
+giá 20	1
+trích thưởng	1
+lương tối_thiểu	1
+= 1	1
+biến_động 20 %	1
+hưởng 100	1
+thương_tật 4	1
+trích 20	1
+% tiền_lương	1
+% c4 % 90	1
+trích quỹ	1
+5 kg	1
+tổng diện_tích	1
+( %	1
+200 đ	1
+( chiếm	1
+hỗ_trợ kinh_phí	1
+ngân_sách tỉnh hưởng	1
+1 7	1
+thị_trường biến_động 20 %	1
+tối_đa 70	1
+% thưởng	1
+% lợi_nhuận	1
+trích 30 % tổng_số tiền	1
+% tổng vốn	1
+kg trở	1
+phân_chia ngân_sách	1
+trích 10 % tổng_số	1
+x 8	1
+% giá	1

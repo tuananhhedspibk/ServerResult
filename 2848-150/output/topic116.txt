@@ -1,0 +1,152 @@
+cơ_quan thuế	443
+nộp thuế	315
+cục thuế tỉnh	156
+miễn thuế	154
+thu thuế	150
+cục thuế	126
+thuế tài_nguyên	111
+cục_trưởng cục	90
+thuế nộp	87
+thuế nông_nghiệp	83
+cục_trưởng cục thuế tỉnh	72
+tiền thuế	69
+chi_cục thuế	61
+thuế tiêu_thụ đặc_biệt	56
+giá thuế	48
+cục thuế địa_phương	44
+cục_trưởng cục thuế	44
+cơ_quan thuế địa_phương	43
+thu_nhập thuế	41
+thuế lãi	38
+lào cai	37
+thông_báo cơ_quan thuế	35
+thuế doanh_thu	34
+luật thuế	30
+nợ thuế	29
+cộng_hòa dân chủ_nhân_dân lào	28
+áp_dụng thuế_suất	26
+tổng_cục thuế	26
+kê_khai nộp thuế	25
+chi_cục thuế huyện	24
+tiêu_thụ đặc_biệt	23
+tiền chậm nộp thuế	23
+biên_lai thu thuế	23
+đăng_ký nộp thuế	22
+tiêu_chuẩn miễn thuế	22
+lào cam-pu-chia	22
+cơ_quan thuế trách_nhiệm	22
+cục_trưởng cục quản_lý	21
+địa_bàn tỉnh lào cai	21
+cục thuế chi_cục thuế	21
+thu thuế nông_nghiệp	21
+thu nộp thuế	20
+thuế xuất_khẩu	19
+nộp thuế lãi	19
+ưu_đãi thuế	19
+miễn_giảm thuế	18
+thuế công_thương_nghiệp	18
+hưởng ưu_đãi thuế	18
+thuế_suất ưu_đãi	17
+cục hải_quan tỉnh	17
+" thông_báo nộp tiền "	16
+thuế hàng_hoá	16
+kê_khai đăng_ký	15
+hoàn thuế	15
+dân chủ_nhân_dân lào	15
+nộp thuế quy_định	14
+khoản thuế	14
+nộp tiền	14
+thuế_suất thuế_nhập_khẩu	13
+tài_chính hướng_dẫn thuế tài_nguyên	13
+hội_đồng nhân_dân tỉnh lào cai	12
+chậm nộp thuế	12
+thuế )	12
+luật thuế xuất_khẩu	12
+tỉnh lào cai	12
+nộp thuế tài_nguyên	12
+nộp thuế_thu_nhập	12
+nộp thuế doanh_thu	12
+nộp thuế_lợi_tức	12
+truy_thu thuế	11
+chậm nộp	11
+quy_định luật thuế	10
+nghĩa_vụ nộp thuế	10
+đối_tượng nộp	10
+cơ_quan thuế thông_báo	10
+đối_tượng miễn	9
+thuế tài_nguyên đối_với	9
+giá thuế tài_nguyên	9
+hướng_dẫn thuế tài_nguyên	8
+tài_nguyên địa_bàn tỉnh	8
+diện miễn	8
+nghĩa_vụ nộp	8
+nợ_đọng thuế	8
+cục_trưởng cục hải_quan	7
+cục quản_lý	7
+kê_khai nộp	7
+hải_quan tỉnh	7
+thu tiền	7
+phối_hợp cục thuế	6
+cơ_quan hải_quan	6
+nộp cơ_quan hải_quan	6
+cơ_quan thuế xác_định	6
+thời_điểm nộp	5
+cục hải_quan	5
+tiền chậm nộp	5
+thông_báo nộp tiền	5
+thu nợ	4
+biên_lai thu	4
+thu nộp	4
+thông_báo cơ_quan	4
+thuế luật_định	4
+thuế tỉnh	4
+thông_báo nộp tiền "	4
+thuế miễn	3
+phối_hợp cục	3
+cơ_quan thuế ban_hành thông_báo	3
+bảng giá thuế tài_nguyên địa_bàn tỉnh	3
+hưởng ưu_đãi	3
+thu thuế_xuất	3
+thuế xác_định	3
+thuế địa_phương	3
+ưu_đãi quy_định	2
+tiêu_chuẩn miễn	2
+thuế khoản thu	2
+nộp bổ_sung chứng_từ	2
+khoản thu	2
+thu giá	2
+nợ thu	2
+chứng_từ thu	2
+lậu thuế	2
+miễn thu	2
+thông_báo cục	2
+bảng giá thuế tài_nguyên	2
+dân chủ_nhân_dân	2
+trách_nhiệm thông_báo	2
+miễn nộp	2
+đặc_biệt ưu_đãi	2
+tiền thu	2
+nộp khoản	1
+luật thuế tài_nguyên	1
+nghĩa_vụ nợ	1
+tiền nộp	1
+phối_hợp cơ_quan	1
+nhân_dân tỉnh lào cai	1
+nộp 01	1
+địa_bàn huyện	1
+trách_nhiệm hướng_dẫn	1
+đối_tượng thu	1
+tổng_cục hải_quan	1
+địa_bàn tỉnh	1
+thông_báo nộp	1
+hưởng khoản	1
+đất cơ_quan thuế	1
+giá thuế tài_nguyên địa_bàn tỉnh	1
+xác_định thông_báo	1
+cơ_quan quản_lý	1
+diện hưởng	1
+tiền lãi	1
+chênh_lệch thu	1
+chi_cục hải_quan	1
+bảng giá thuế	1
+áp_dụng giá	1

@@ -1,0 +1,51 @@
+cảng biển	77
+lực_lượng cảnh_sát biển	72
+ven biển	56
+cảnh_sát biển	43
+nghề cá	43
+cảng sông	37
+phương_tiện thuỷ	30
+phương_tiện nghề cá	30
+đánh_bắt hải_sản bờ	26
+trung_chuyển container	23
+đi biển	22
+vận_tải biển	22
+đóng tàu	21
+cá nhâ	20
+phương_tiện vận_tải	18
+cảng cá	18
+tầu thuyền	17
+doanh_nghiệp cảng biển	17
+tàu cá	17
+lái tầu	17
+chủ tàu	16
+cục cảnh_sát	16
+hoạt_động nghề cá	14
+biển hải_đảo	14
+tầu biển	13
+khai_thác hải_sản	12
+vùng_biển bờ	11
+thềm lục_địa	10
+hải_sản vùng_biển	10
+phối_hợp lực_lượng	9
+đóng trụ_sở	8
+đánh_bắt hải_sản	8
+lực_lượng cảnh_sát	8
+hoạt_động lực_lượng	6
+chủ phương_tiện	6
+an_toàn hàng_hải	6
+vùng_biển thềm lục_địa	6
+tàu đánh_bắt	6
+phối_hợp cục	5
+cục cảnh_sát giao_thông	5
+môi_trường biển	5
+hải_sản bờ	4
+thông_báo cục	4
+cục đường_sông	4
+môi_trường biển hải_đảo	4
+cảnh_sát giao_thông	3
+dịch_vụ trung_chuyển	2
+cục hàng_hải	1
+giao_thông vận_tải	1
+hoạt_động khai_thác	1
+biển đảo	1

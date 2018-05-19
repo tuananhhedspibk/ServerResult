@@ -1,0 +1,59 @@
+hàng quý	430
+định_kỳ hàng	137
+tài chín	101
+định_kỳ hàng quý	86
+quý i	74
+giao hàng	70
+kế_hoạch hàng	67
+hàng hóa	66
+đầu quý	57
+hàng tuần	48
+chia tách	44
+chia thành	40
+hiện hàn	38
+chia quý	35
+ngân sác	31
+quý ii	30
+hàng quí	29
+hàng giả	28
+hành chín	27
+bổ xung	24
+kim_khí quý	22
+thường_xuyên hàng	21
+doanh_số hàng	21
+tài sả	20
+quý )	20
+ngân hàn	18
+hàng nă	18
+quý gửi	18
+mua hàng	17
+liên_bộ tài	17
+hàng gửi	16
+hàng thán	15
+sở tài chính-vật giá	14
+bổ sun	14
+12 hàng	14
+quý iv	13
+quyết_toán quý	13
+buôn_bán hàng	12
+hàng tiêu_dùng	12
+vận_chuyển hàng	9
+trị_giá hàng	9
+quyết_toán hàng quý	8
+tài chính-vật giá	8
+quyết_toán hàng	7
+hàng cấm	6
+6 đầu	5
+định_kỳ 6	5
+giao kế_hoạch	5
+i ii	4
+định_kỳ 05	4
+chia thán	4
+kiện hàng	3
+hàng nhập	3
+liên thôn	3
+gửi sở	2
+sở tài	2
+buôn_bán hàng giả	2
+12 1996	1
+) hiện	1

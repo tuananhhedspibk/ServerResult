@@ -1,0 +1,87 @@
+chênh_lệch giá	121
+phiếu công_trái	96
+tiền mua	90
+mua trả_chậm	82
+nhập kho	78
+mua hàng	58
+giá mua	56
+giá bán_lẻ	51
+tem phiếu	44
+giá chỉ_đạo	44
+vật_tư hàng_hoá	42
+ngành lương_thực	40
+kg gạo	38
+khoản chênh_lệch giá	38
+giá gạo	37
+thanh_toán tiền	37
+phiếu vải	36
+giá cung_cấp	35
+thanh_toán giá	32
+phiếu giá	31
+tiền hàng	31
+phát_hành công_trái	29
+giá vật_tư	27
+khoản chênh_lệch	27
+hàng tồn_kho	27
+mua cổ_phần	23
+mua vật_tư	23
+mua lương_thực	23
+giá thị_trường	22
+giá thu_mua	22
+vật_tư tiêu_hao	22
+cấp_phát tem phiếu	21
+bù tiền	21
+đổi tiền	20
+bù chênh_lệch giá	18
+tiền vay mua xe_đạp	18
+thanh_toán tiền công_trái	18
+nhập vật_tư	18
+thanh_toán tiền hàng	16
+giá thóc	15
+hàng_hoá tồn_kho	15
+chênh_lệch giá vật_tư	15
+chênh_lệch gia_công	13
+bù chênh_lệch	13
+giá thoả_thuận	12
+giá_trị hiện_vật	11
+tiền thanh_toán	11
+chỉ_số giá	11
+mua tín_phiếu	10
+: thanh_toán giá	10
+mua máy	9
+mua xe_đạp	8
+thanh_toán khoản	8
+nông_sản thực_phẩm	8
+giá_cả thị_trường	7
+thanh_toán tiền mua	7
+kết_thúc đợt	7
+giá bán_buôn vật_tư	7
+tiền chênh_lệch	6
+ngành nội_thương	6
+xuất kho	6
+mặt_bằng giá	6
+phiếu mua	5
+vay mua xe_đạp	5
+hàng nhập	5
+mua_bán hàng_hoá	5
+thanh_toán xong	4
+khoản tiền	4
+số_lượng giá_trị	4
+cộng tiền	4
+thanh_toán toàn_bộ	3
+giá bán_buôn	3
+gia_công hàng	3
+phương_thức thanh_toán	3
+xuất hàng	3
+thị_trường thời_điểm	3
+cung_cấp nguyên_liệu	2
+vay mua	2
+cấp_phát tem	2
+toàn_bộ tiền	2
+ghi phiếu	2
+tiền vay	2
+phát phiếu	1
+bán_buôn vật_tư	1
+cấp_phát vay	1
+thể_thức thanh_toán	1
+khoản nợ	1

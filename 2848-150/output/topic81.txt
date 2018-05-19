@@ -1,0 +1,201 @@
+cung_cấp thông_tin	401
+văn_hoá - thông_tin	374
+sở thông_tin truyền_thông	182
+văn_hoá thông_tin	175
+hệ_thống thông_tin	150
+phương_tiện thông_tin đại_chúng	137
+thông_tin truyền_thông	135
+văn_hóa - thông_tin	125
+công_nghệ thông_tin	114
+sở văn_hoá - thông_tin	98
+dịch_vụ công trực_tuyến	94
+cơ_quan báo_chí	93
+thông_tin đối_ngoại	80
+cổng thông_tin điện_tử	79
+hoạt_động thông_tin đối_ngoại	75
+trang thông_tin điện_tử	75
+trao_đổi thông_tin	73
+văn_hóa thông_tin	72
+trò_chơi trực_tuyến	70
+đội thông_tin lưu_động	60
+thông_tin liên_lạc	60
+thông_tin mạng	58
+đài phát_thanh	56
+mạng wan	55
+phối_hợp sở thông_tin truyền_thông	49
+ứng_dụng công_nghệ thông_tin	49
+hệ_thống hóa_văn_bản	48
+hệ_thống cửa điện_tử	45
+thư điện_tử	42
+cung_cấp thông_tin báo_chí	41
+cập_nhật thông_tin	41
+an_ninh thông_tin	41
+cổng thông_tin điện_tử tỉnh	40
+cung_cấp dịch_vụ trò_chơi điện_tử công_cộng	39
+an_toàn thông_tin	38
+thu_thập thông_tin	38
+mạng internet	38
+cung_cấp dịch_vụ trò_chơi trực_tuyến	37
+hoạt_động văn_hoá	33
+kỹ_năng sử_dụng công_nghệ thông_tin	30
+dịch_vụ công	29
+hoạt_động thông_tin	29
+phòng văn_hóa thông_tin	29
+- thông_tin	29
+việc_phát_ngôn cung_cấp thông_tin báo_chí	28
+thông_tin báo_chí	26
+doanh_nghiệp cung_cấp dịch_vụ trò_chơi trực_tuyến	26
+cơ_quan thông_tin đại_chúng	26
+phương_tiện thông_tin	26
+thông_tin tuyên_truyền	25
+đài thông_tin vệ_tinh	25
+cung_cấp dịch_vụ công trực_tuyến	24
+sở văn_hoá thông_tin	23
+đảm_bảo an_toàn thông_tin	23
+bộ_trưởng văn_hoá - thông_tin	23
+cung_cấp dịch_vụ	22
+đảm_bảo an_toàn	22
+an_toàn thông_tin mạng	22
+hệ_thống cửa điện_tử liên_thông	21
+ngành văn_hoá - thông_tin	21
+thông ti	21
+hệ_thống phần_mềm	21
+hoạt_động văn_hoá thông_tin	21
+giám_đốc sở thông_tin truyền_thông	21
+cổng thông_tin	21
+văn_hoá -	21
+bảo_mật thông_tin	20
+thực_hiện_phát_ngôn cung_cấp thông_tin báo_chí	20
+sở thông_tin truyền_thông tổng_hợp	20
+bộ_trưởng thông_tin truyền_thông	20
+đài phát_thanh truyền_hình tỉnh	19
+đề_nghị giám_đốc sở thông_tin truyền_thông tờ_trình	19
+cung_cấp đầy_đủ	19
+truy_nhập internet công_cộng cung_cấp dịch_vụ trò_chơi điện_tử công_cộng	19
+liên_bộ văn_hoá - thông_tin	19
+an_ninh thông_tin hoạt_động bưu_chính	19
+khắc_phục sự_cố	18
+mạng tin_học	18
+hoạt_động báo_chí	18
+viễn_thông công_nghệ thông_tin	18
+thông_tin điện_tử	17
+thông_báo phương_tiện thông_tin đại_chúng	17
+đài truyền_thanh	17
+điện_tử tỉnh	17
+cung_cấp thông_tin định_kỳ	17
+đài truyền_hình	17
+dịch_vụ văn_hoá	17
+đường truyền	17
+văn_hoá – thông_tin	16
+sở văn_hóa - thông_tin	16
+báo_chí nước_ngoài	15
+mạng nội_bộ	15
+thông_tin thị_trường	15
+tuyên_truyền phương_tiện thông_tin đại_chúng	15
+sở văn_hóa	14
+bảo_đảm an_toàn thông_tin	13
+– thông_tin	13
+thông_tin cần_thiết	13
+cung_cấp tài_liệu	13
+văn_hoá - thông ti	13
+thông_tin đại_chúng	12
+thông_tin liên_quan	12
+bảo_đảm an_toàn	12
+sở văn_hoá	11
+xảy sự_cố	11
+hoạt_động văn_hóa	11
+sở văn_hoá -	11
+an_ninh thông_tin hoạt_động	10
+hệ_thống mạng	10
+trò_chơi điện_tử	10
+thông_tin lưu_động	10
+sở thông_tin	10
+chính_xác thông_tin	10
+phát_thanh truyền_hình	9
+đài phát_thanh truyền_hình	9
+bảo_đảm an_ninh thông_tin	9
+trực_tuyến mức_độ	8
+hoạt_động đối_ngoại	8
+yêu_cầu cung_cấp thông_tin	8
+cung_cấp thông_tin báo_chí cơ_quan hành_chính nhà_nước	8
+thông_qua hệ_thống	7
+hoạt_động dịch_vụ	7
+đài thông_tin	6
+vận_hành hệ_thống	6
+đề_nghị giám_đốc sở thông_tin truyền_thông	6
+báo_chí đăng	6
+cung_cấp thông_tin địa_chính	6
+sự_nghiệp văn_hoá thông_tin	6
+báo điện_tử	6
+thông_tin vệ_tinh	5
+doanh_nghiệp cung_cấp dịch_vụ	5
+thông_tin truyền_thông tổng_hợp	5
+giám_đốc sở	5
+dịch_vụ công_cộng	5
+trang thông_tin	5
+sử_dụng phương_tiện	4
+nội_bộ cơ_quan	4
+thông_tin địa_chính	4
+cửa điện_tử	4
+cung_cấp dịch_vụ công	4
+sử_dụng đài thông_tin vệ_tinh	3
+truyền_hình tỉnh	3
+yêu_cầu cơ_quan	3
+điện_tử cơ_quan	3
+dịch_vụ văn_hóa	3
+phối_hợp sở	3
+văn_hóa -	3
+thu_thập tài_liệu	3
+sở thông_tin truyền_thông tờ_trình	3
+cung_cấp dịch_vụ trò_chơi điện_tử công_cộng địa_bàn	3
+thông_tin đối_ngoại địa_bàn tỉnh	3
+liên_bộ văn_hoá -	3
+công trực_tuyến	3
+dịch_vụ bưu_chính	2
+cửa điện_tử liên_thông	2
+sự_nghiệp văn_hoá	2
+đề_nghị cơ_quan	2
+bảo_đảm an_ninh	2
+trực_tuyến hệ_thống	2
+thông_tin truyền_thông tờ_trình	2
+cơ_quan liên_quan	2
+hoạt_động liên_quan	2
+tài_liệu cần_thiết	2
+giám_đốc doanh_nghiệp	2
+hoạt_động đội	2
+đội thông_tin	2
+dịch_vụ trò_chơi trực_tuyến	2
+dịch_vụ trò_chơi điện_tử công_cộng	1
+yêu_cầu cung_cấp	1
+văn_hoá - thông	1
+đảm_bảo yêu_cầu	1
+thông_báo phương_tiện thông_tin	1
+phối_hợp cơ_quan	1
+công_cộng cung_cấp dịch_vụ trò_chơi điện_tử công_cộng	1
+dịch_vụ internet	1
+thông_qua sở	1
+hệ_thống cửa	1
+sử_dụng dịch_vụ	1
+dịch_vụ viễn_thông	1
+sở văn_hóa -	1
+điện_tử công_cộng	1
+cung_cấp sử_dụng dịch_vụ	1
+việc_phát_ngôn cung_cấp thông_tin	1
+cung_cấp dịch_vụ internet	1
+- an_ninh	1
+internet công_cộng	1
+cung_cấp dịch_vụ trò_chơi điện_tử	1
+công_cộng cung_cấp dịch_vụ trò_chơi điện_tử	1
+bảo_đảm hoạt_động	1
+thông_tin điện_tử cơ_quan	1
+doanh_nghiệp cung_cấp	1
+doanh_nghiệp viễn_thông	1
+điện_tử liên_thông	1
+sự_cố an_toàn	1
+sử_dụng công_nghệ thông_tin	1
+cửa liên_thông	1
+đề_nghị giám_đốc sở văn_hóa	1
+ngành tỉnh	1
+tuyên_truyền phương_tiện	1
+sử_dụng đài thông_tin	1
+tài_liệu tuyên_truyền	1

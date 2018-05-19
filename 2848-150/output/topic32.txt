@@ -1,0 +1,427 @@
+lao_động - thương_binh xã_hội	751
+sở lao_động - thương_binh xã_hội	526
+liên_bộ tài_chính -	332
+- cp	320
+- hđbt	317
+sở tài_chính - vật_giá	263
+sở tài_chính	238
+tổ_chức chính_trị - xã_hội	230
+- ttg	216
+thương_binh xã_hội	196
+- tài_chính	164
+phản_biện xã_hội	146
+- ct	144
+tổ_chức xã_hội	133
+liên_bộ y_tế - tài_chính	108
+liên_bộ lao_động - thương_binh xã_hội - tài_chính	106
+phòng lao_động - thương_binh xã_hội	104
+điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn	99
+lao_động thương_binh xã_hội	97
+phản_biện giám_định xã_hội	93
+ngành lao_động - thương_binh xã_hội	80
+liên_bộ y_tế -	79
+liên_bộ lao_động - thương_binh xã_hội -	79
+kinh_tế - xã_hội	76
+cơ_quan lao_động - thương_binh xã_hội	72
+giám_đốc sở lao_động - thương_binh xã_hội	69
+phòng tài_chính - kế_hoạch	58
+bộ_trưởng tài_chính	58
+xã_hội chủ_nghĩa	57
+liên_bộ tài_chính	57
+phòng tài_chính - kế_hoạch huyện	56
+- tài_chính -	54
+sở tài_chính vật_giá	54
+lao_động – thương_binh xã_hội	54
+liên_tịch tài_chính -	51
+- tài_chính hướng_dẫn	51
+- nội_vụ	50
+gửi sở tài_chính - vật_giá	47
+tổ_chức xã_hội - nghề_nghiệp	45
+gửi sở tài_chính	45
+tài_chính -	44
+liên_bộ lao_động - thương_binh xã_hội	43
+sở lao_động - thương_binh xã_hội tỉnh	42
+lao_động -	42
+bộ_trưởng lao_động - thương_binh xã_hội	41
+y_tế -	39
+sở y_tế	37
+phối_hợp sở lao_động - thương_binh xã_hội	37
+gửi tài_chính	36
+sở tài_chính - vật_giá tỉnh	36
+liên_bộ tài_chính - y_tế	35
+tài_chính - kế_toán	35
+sở lao_động – thương_binh xã_hội	35
+lao_động - thương_binh xã_hội hướng_dẫn	35
+liên_bộ lao_động - thương_binh xã_hội - tài_chính -	34
+liên_bộ nội_vụ -	33
+- xã_hội	33
+lao_động - thương_binh xã_hội - tài_chính	32
+- ttlb	32
+ban tài_chính - quản_trị trung_ương	32
+liên_bộ lao_động -	31
+gửi lao_động - thương_binh xã_hội	30
+- lao_động - thương_binh xã_hội	30
+phối_hợp sở tài_chính - vật_giá	29
+cứu_tế xã_hội	29
+phòng nội_vụ -	29
+phòng lao_động - thương_binh xã_hội huyện	29
+tài_chính hướng_dẫn	29
+y_tế - tài_chính	27
+địa_bàn điều_kiện kinh_tế - xã_hội khó_khăn	26
+ngành lao_động - thương_binh xã_hội quản_lý	26
+tổ_chức kinh_tế	26
+trung_tâm chữa bệnh - giáo_dục - lao_động xã_hội	26
+sở lao_động thương_binh xã_hội	25
+lao_động - thương_binh xã_hội -	25
+thuê_mua xã_hội	24
+gửi sở lao_động - thương_binh xã_hội	24
+phòng tài_chính	24
+công_khai tài_chính	24
+liên_bộ lao_động	24
+- tổng_cục	23
+điều_kiện kinh_tế - xã_hội	23
+tổ_chức chính_trị - xã_hội tỉnh	23
+xã_hội - nghề_nghiệp	22
+liên_bộ lao_động - thương_binh xã_hội - tài_chính hướng_dẫn	22
+địa_bàn điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn	22
+thương_binh - xã_hội	22
+sở lao_động - thương_binh	21
+- thương_binh xã_hội	21
+xã_hội địa_phương	21
+phòng tài_chính -	21
+nghị_định 46 - hđbt	20
+235 - hđbt	20
+thoả_thuận tài_chính	20
+chính_trị - xã_hội	20
+kinh_tế -	19
+điều_kiện kinh_tế - xã_hội khó_khăn	19
+202 - hđbt	19
+- thương_binh	19
+đề_nghị giám_đốc sở lao_động - thương_binh xã_hội	19
+liên_bộ tài_chính - quốc_phòng	18
+kinh_tế xã_hội	18
+bảo_trợ xã_hội	18
+liên_bộ tài_chính - lao_động - thương_binh xã_hội	18
+nội_vụ -	18
+sở lao_động - thương_binh xã_hội trách_nhiệm	18
+- tài_chính - lao_động - thương_binh xã_hội	18
+sở tài_chính vật_giá tỉnh	18
+anh_hùng lao_động	18
+giám_đốc sở tài_chính - vật_giá	18
+quyết_định 111 - hđbt	18
+nội_vụ - tài_chính	17
+- tài_chính - y_tế	17
+tổ_chức chính_trị	17
+liên_tịch lao_động - thương_binh xã_hội	17
+tài_chính - vật_giá	17
+liên_bộ tài_chính - khoa_học	17
+liên_bộ tài_chính - ngoại_giao	17
+văn_hoá - xã_hội	17
+phản_biện giám_định xã_hội liên_hiệp_hội	17
+- hđbt hội_đồng_bộ_trưởng	16
+liên_bộ giáo_dục - tài_chính	16
+388 - hđbt	16
+ban tài_chính - quản_trị	16
+y_tế - lao_động - thương_binh xã_hội	16
+lao_động - thương_binh xã_hội - tài_chính -	16
+sở lao_động	15
+thương_binh xã_hội -	15
+- nội_vụ -	15
+phối_hợp tài_chính	15
+liên_bộ quốc_phòng -	15
+liên_bộ y_tế	15
+lao_động - thương_binh xã hộ	15
+tổ_chức chính_trị xã_hội	15
+sở tài_chính -	15
+liên_bộ tài_chính - nội_vụ	14
+- nghề_nghiệp	14
+lao_động - thương_binh xã_hội hướng_dẫn thực_hiện	14
+trưởng_phòng lao_động - thương_binh xã_hội	14
+phòng tài_chính huyện	14
+phòng lao_động - thương_binh	14
+ban tài_chính -	13
+- tt	13
+kinh_tế xã_hội khó_khăn	13
+xã_hội -	13
+liên_bộ y_tế - tài_chính - lao_động	13
+liên_bộ tài_chính - nông_nghiệp	13
+giám_đốc sở	13
+liên_bộ nội_vụ - tài_chính	13
+đoàn_thể chính_trị - xã_hội	13
+thương_binh xã_hội huyện	13
+nghị_định 388 - hđbt	12
+lao_động - thương_binh xã_hội chủ_trì	12
+gửi sở	12
+liên_bộ văn_hoá -	12
+quyết_định 95 - cp	12
+liên_bộ tài_chính - tổng_cục	12
+liên_bộ giáo_dục -	12
+sở lao_động - thương_binh xã_hội chủ_trì	12
+lao_động - thương_binh xã_hội huyện	12
+lao_động - thương_binh	12
+sở lao_động –	12
+điều_kiện kinh_tế -	11
+tài_chính xem_xét	11
+32 -	11
+trợ_giúp xã_hội	11
+phản_ảnh liên_bộ	11
+lao_động - thương_binh xã_hội - tài_chính hướng_dẫn	11
+chính_trị -	11
+- quốc_phòng	11
+thương_binh xã_hội - tài_chính	11
+ban vật_giá	10
+liên_bộ tài_chính - giáo_dục	10
+liên_bộ lao_động - thương_binh xã_hội - quốc_phòng	10
+liên_bộ quốc_phòng	10
+lao_động thương_binh	10
+giám_đốc sở tài_chính	10
+liên_bộ y_tế - tài_chính hướng_dẫn	10
+46 - hđbt	10
+xã_hội tỉnh	10
+lao_động - thương_binh xã_hội - quốc_phòng - công_an	9
+liên_bộ nội_vụ	9
+liên_bộ hướng_dẫn	9
+y_tế - tài_chính -	9
+điều_kiện kinh_tế	9
+phòng nội_vụ	9
+chính_trị xã_hội	9
+95 - cp	9
+sở lao_động - thương_binh xã_hội phối_hợp sở	9
+lao_động - thương_binh xã_hội phối_hợp	9
+tài_chính - y_tế	8
+liên_bộ tài_chính - y_tế hướng_dẫn	8
+lao_động –	8
+kinh_tế - xã_hội đặc_biệt khó_khăn	8
+bộ_trưởng nội_vụ	8
+liên_tịch lao_động - thương_binh xã_hội -	8
+liên_bộ y_tế - tài_chính -	8
+văn_hóa - xã_hội	8
+phúc_lợi xã_hội	8
+ngành lao_động	7
+địa_bàn điều_kiện kinh_tế	7
+giáo_dục nghề_nghiệp	7
+liên_bộ tài_chính - lao_động	7
+lao_động - thương_binh xã_hội xem_xét	7
+đặc_biệt khó_khăn	7
+tài_chính - lao_động	7
+- vật_giá	7
+tài_chính - lao_động - thương_binh xã_hội	7
+tài_chính –	7
+nghị_định 235 - hđbt	7
+phòng nội_vụ - lao_động	7
+tổ_chức chính_trị - xã_hội địa_bàn tỉnh	7
+xã_hội - tài_chính -	6
+kế_hoạch tài_chính	6
+nội_vụ - lao_động	6
+111 - hđbt	6
+quốc_phòng - tài_chính	6
+xã_hội khó_khăn	6
+bộ_trưởng lao_động	6
+liên_bộ xem_xét	6
+phòng lao_động -	6
+y_tế hướng_dẫn	6
+lao_động - thương_binh xã_hội tổng_hợp	6
+sở y_tế tỉnh	6
+thương_binh xã_hội hướng_dẫn	6
+liên_bộ lao_động - thương_binh xã_hội - tài_chính hướng_dẫn thực_hiện	6
+liên_bộ lao_động - thương_binh	6
+tài_chính - lao_động thương_binh xã_hội	6
+điều_kiện kinh_tế - xã_hội đặc_biệt	5
+lao_động - thương_binh xã	5
+thông_tư liên_bộ	5
+y_tế - quốc_phòng	5
+xã_hội huyện	5
+cơ_quan y_tế	5
+phòng lao_động	5
+thông_tư liên_bộ y_tế -	5
+- hđbt 18-9-1985	5
+xã_hội - tài_chính	5
+1998 liên_bộ	5
+quốc_phòng nội_vụ	5
+lao_động thương_binh xã_hội -	5
+- tài_chính xem_xét	5
+ban văn_hóa - xã_hội	5
+văn_hoá -	5
+bộ_trưởng lao_động - thương_binh	4
+tài_chính - nông_nghiệp	4
+- quản_trị	4
+xã_hội đặc_biệt khó_khăn	4
+ngành kinh_tế	4
+y_tế - tài_chính - lao_động thương_binh xã_hội	4
+vật_giá tỉnh	4
+- xã_hội đặc_biệt khó_khăn	4
+phòng kinh_tế	4
+bộ_trưởng tài_chính hướng_dẫn	4
+33 -	4
+tài_chính - giá_cả	4
+chủ_nghĩa xã_hội	4
+lao_động - thương_binh xã_hội - tài_chính hướng_dẫn thực_hiện	4
+y_tế - tài_chính - lao_động	4
+liên_bộ tài_chính - ngân_hàng	4
+lao_động - thương_binh xã_hội - tài_chính hướng_dẫn thực_hiện :	4
+tài_chính - lao_động - thương_binh xã_hội hướng_dẫn	4
+- lao_động -	4
+- qđ	4
+tài_chính vật_giá	4
+kinh_tế - xã_hội khó_khăn	4
+- tài_chính - lao_động thương_binh xã_hội	3
+- tài_chính - lao_động - thương_binh	3
+liên_tịch lao_động - thương_binh	3
+- lao_động thương_binh xã_hội	3
+thông_tư liên_bộ tài_chính -	3
+thương_binh xã_hội - tài_chính -	3
+địa_bàn điều_kiện	3
+tài_chính hướng_dẫn quản_lý	3
+sở nội_vụ	3
+sở lao_động - thương_binh xã_hội phối_hợp	3
+liên_tịch tài_chính	3
+lao_động - thương_binh xã_hội chủ_trì phối_hợp	3
+giáo_dục - lao_động	3
+xã_hội địa_bàn	3
+quốc_phòng -	3
+ngành y_tế	3
+đề_nghị giám_đốc sở lao_động	3
+liên_bộ tài	3
+tổ_chức đoàn_thể	3
+- tài_chính - lao_động	3
+y_tế huyện	3
+ban quản_trị	3
+xã_hội - tài_chính - uỷ_ban kế_hoạch nhà_nước	3
+kinh_tế - xã_hội địa_phương	3
+- xã_hội địa_phương	3
+phối_hợp sở lao_động	3
+84 -	3
+nội_vụ hướng_dẫn	3
+lao_động - thương_binh xã_hội - y_tế	3
+lao_động - thương_binh xã_hội - quốc_phòng	3
+bộ_trưởng y_tế	3
+giáo_dục - lao_động xã_hội	3
+sở lao_động thương_binh	3
+giám_định xã_hội	3
+phối_hợp sở tài_chính	3
+111 -	3
+y_tế - tài_chính hướng_dẫn	3
+46 -	2
+tài_chính - quốc_phòng	2
+- ngoại_giao	2
+địa_bàn điều_kiện kinh_tế - xã_hội đặc_biệt	2
+giám_đốc sở giáo_dục	2
+ban tổ_chức -	2
+giám_đốc sở lao_động - thương_binh	2
+xã hộ	2
+nội_vụ tài_chính	2
+liên_tịch lao_động	2
+sở tài_chính - vật_giá sở	2
+y_tế xã	2
+thương_binh xã hộ	2
+tài_chính - nội_vụ	2
+trung_tâm chữa bệnh - giáo_dục - lao_động	2
+ban tổ_chức	2
+- tài_chính hướng_dẫn thực_hiện	2
+đoàn_thể tỉnh	2
+chính_trị - xã_hội tỉnh	2
+tổ_chức chính_trị -	2
+trung_tâm giáo_dục	2
+thông_tư liên_bộ y_tế	2
+xã_hội hướng_dẫn	2
+liên_tịch lao_động - thương_binh xã_hội - tài_chính	2
+giám_đốc sở lao_động	2
+tài_chính - ban	2
+nghị_định 46	2
+kịp_thời sở	2
+đề_nghị sở tài_chính	2
+liên_bộ tài_chính –	2
+– tài_chính	2
+- uỷ_ban kế_hoạch	2
+phối_hợp phòng	2
+liên_bộ uỷ_ban	2
+sở tài_chính tổng_hợp	2
+xã_hội địa_bàn tỉnh	2
+nghị_định 235 -	2
+liên_bộ tài_chính - uỷ_ban	2
+liên_bộ tài_chính - lao_động -	2
+phối_hợp sở lao_động - thương_binh	2
+ngành nông_nghiệp	2
+giáo_dục -	2
+y_tế địa_phương	2
+176 - hđbt	2
+- thương_binh xã_hội hướng_dẫn thực_hiện	2
+giám_đốc sở y_tế	2
+qđ -	2
+– thương_binh xã_hội	2
+phòng y_tế	2
+ngành tỉnh	2
+- lao_động thương_binh xã_hội -	2
+sở nông_nghiệp	2
+hướng_dẫn thông_tư	1
+hướng_dẫn quản_lý	1
+tài_chính - kế_hoạch	1
+sở lao_động -	1
+giám_đốc trung_tâm	1
+thương_binh xã_hội hướng_dẫn thực_hiện	1
+thương_binh xã_hội - quốc_phòng	1
+- lao_động - thương_binh xã_hội hướng_dẫn	1
+- thương_binh xã_hội - tài_chính -	1
+- thương_binh xã_hội hướng_dẫn	1
+- lao_động - thương_binh xã_hội hướng_dẫn thực_hiện	1
+y_tế - tài_chính - lao_động thương_binh	1
+gửi sở lao_động	1
+y_tế - lao_động	1
+tài_chính - lao_động -	1
+thương_binh xã_hội - y_tế	1
+- vật_giá tỉnh	1
+phối_hợp ngành	1
+tài_chính - kế_hoạch huyện	1
+khó_khăn đặc_biệt	1
+liên_tịch y_tế -	1
+xã_hội - tài_chính - uỷ_ban	1
+- giá_cả huyện	1
+thương_binh xã	1
+nghị_định 33 - hđbt	1
+tài_chính - quản_trị trung_ương	1
+gửi phòng tài_chính -	1
+sở kế_hoạch	1
+liên_tịch lao_động -	1
+phối_hợp sở	1
+- ban vật_giá	1
+nghị_định 388 -	1
+văn_hóa -	1
+- tài_chính - ban	1
+sở văn_hóa -	1
+liên_bộ uỷ_ban kế_hoạch nhà_nước -	1
+- tài_chính - lao_động thương_binh	1
+phản_biện giám_định	1
+huyện xem_xét	1
+- thương_binh xã hộ	1
+ngành văn_hoá	1
+gửi lao_động -	1
+tài_chính - ngoại_giao	1
+tài_chính - khoa_học	1
+- thương_binh xã_hội hướng_dẫn thực_hiện chế_độ	1
+quyết_định 111	1
+đề_nghị sở	1
+tài_chính - lao_động thương_binh	1
+tỉnh xem_xét	1
+gửi phòng tài_chính	1
+xã_hội phối_hợp	1
+địa_bàn điều_kiện kinh_tế -	1
+- y_tế hướng_dẫn	1
+lao_động - thương_binh xã_hội - ban tổ_chức	1
+tài_chính - uỷ_ban	1
+tài_chính - giá_cả huyện	1
+kịp_thời liên_bộ	1
+- lao_động - thương_binh	1
+- vật_giá trách_nhiệm	1
+xã_hội - quốc_phòng -	1
+nghị_định 235	1
+sở giáo_dục	1
+tài_chính - vật_giá tỉnh	1
+bệnh xã_hội	1
+- ban tổ_chức	1
+sở tài_chính trách_nhiệm	1
+trung_tâm y_tế huyện	1
+thương_binh xã_hội - tài_chính hướng_dẫn	1
+- xã_hội khó_khăn	1
+thực_hiện khó_khăn	1
+đoàn_thể trung_ương	1
+thương_binh xã_hội - ban	1

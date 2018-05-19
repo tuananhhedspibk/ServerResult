@@ -1,0 +1,439 @@
+kế_hoạch đầu_tư	727
+chủ đầu_tư	590
+sở kế_hoạch đầu_tư	531
+thực_hiện dự_án	473
+dự_án đầu_tư	419
+đối_với dự_án	380
+quyết_định đầu_tư	262
+ban quản_lý dự_án	199
+chủ dự_án	173
+thực_hiện chương_trình	151
+dự_án oda	143
+xây_dựng kế_hoạch	143
+đối_với dự_án đầu_tư	138
+đầu_tư xây_dựng	130
+đầu_tư dự_án	124
+giám_sát đầu_tư cộng_đồng	124
+chủ đầu_tư dự_án	118
+chương_trình 135	98
+thực_hiện dự_án đầu_tư	95
+ưu_đãi đầu_tư	94
+phê_duyệt dự_án	87
+quản_lý dự_án	85
+kế_hoạch đầu_tư công trung_hạn	83
+kế_hoạch đầu_tư công	82
+thẩm_quyền quyết_định đầu_tư	80
+chủ_trương đầu_tư	77
+dự_án đầu_tư xây_dựng	76
+thực_hiện kế_hoạch	72
+ban chủ_nhiệm chương_trình	70
+ban quản_lý	69
+thẩm_quyền phê_duyệt	65
+ban giám_sát đầu_tư cộng_đồng	65
+dự_án thẩm_quyền phê_duyệt	63
+thu_hút đầu_tư	62
+phối_hợp sở kế_hoạch đầu_tư	62
+xúc_tiến đầu_tư	61
+quyết_định phê_duyệt	61
+dự_án duyệt	60
+gửi kế_hoạch đầu_tư	59
+danh_mục dự_án	57
+lập dự_án	56
+quyết_định chủ_trương đầu_tư	55
+ban chủ_nhiệm	55
+quản_lý chương_trình	53
+chủ_nhiệm chương_trình	52
+lập kế_hoạch	52
+thẩm_định dự_án	51
+triển_khai dự_án	47
+tiểu dự_án	46
+khuyến_khích đầu_tư	46
+làm_chủ đầu_tư	45
+tham_gia dự_án	44
+chuẩn_bị đầu_tư	44
+dự_án chương_trình	43
+thành_viên ban giám_sát đầu_tư cộng_đồng	42
+vốn đầu_tư	40
+lựa_chọn đầu_tư	40
+dự_án hoàn_thành	40
+kế_hoạch lựa_chọn nhà_thầu	39
+quản_lý thực_hiện dự_án	38
+kế_hoạch đầu_tư công trung_hạn giai_đoạn	38
+tiến_độ thực_hiện dự_án	37
+văn_phòng chương_trình	36
+phê_duyệt kế_hoạch	36
+lồng_ghép chương_trình	35
+chỉ_tiêu kế_hoạch	34
+ban quản_lý dự_án vốn đầu_tư nước_ngoài	34
+quy_chế giám_sát đầu_tư cộng_đồng	34
+quyết_định phê_duyệt dự_án	33
+đầu_tư công	33
+xây_dựng chương_trình	33
+lập kế_hoạch đầu_tư	32
+giám_đốc sở kế_hoạch đầu_tư	32
+giao kế_hoạch	32
+hỗ_trợ đầu_tư	31
+thực_hiện quyết_định	31
+đối_với dự_án đầu_tư xây_dựng	31
+gửi sở kế_hoạch đầu_tư	31
+chủ đầu_tư trách_nhiệm	30
+hưởng ưu_đãi đầu_tư	30
+ban qlda	30
+diện đầu_tư chương_trình 135	28
+quyết_định đầu_tư dự_án	28
+lập dự_án đầu_tư	27
+thẩm_quyền quyết_định	27
+tiến_độ thực_hiện	26
+lựa_chọn chủ đầu_tư	26
+quản_lý đầu_tư xây_dựng	26
+triển_khai thực_hiện dự_án	24
+dự_án c	24
+chủ đầu_tư nhà_thầu	23
+dự_án kết_thúc	23
+xã quyết_định đầu_tư	23
+kế_hoạch đầu_tư tài_chính	23
+lĩnh_vực kế_hoạch đầu_tư	22
+bộ_trưởng kế_hoạch đầu_tư	22
+chương trìn	22
+thẩm_định dự_án đầu_tư	22
+kế_hoạch đầu_tư hướng_dẫn	22
+dự_án thành_phần	22
+đề_nghị giám_đốc sở kế_hoạch đầu_tư	21
+tổng đầu_tư	21
+chủ_trương đầu_tư dự_án	21
+lồng_ghép dự_án	21
+ban chỉ_đạo chương_trình	21
+danh_mục dự_án đầu_tư	20
+đặc_biệt ưu_đãi đầu_tư	20
+dự_án tham_gia thực_hiện xđgn	20
+kế_hoạch đầu_tư công trung_hạn hằng	20
+kế_hoạch vốn	20
+phối_hợp kế_hoạch đầu_tư	20
+luật khuyến_khích đầu_tư	19
+chấp_thuận chủ_trương đầu_tư	19
+thẩm_định phê_duyệt	19
+vốn đầu_tư dự_án	19
+dự_án thẩm_quyền	19
+kế_hoạch đầu_tư công trung_hạn 05 địa_phương	18
+xây_dựng chương_trình khung	18
+thu_nhập doanh_nghiệp thực_hiện dự_án đầu_tư	18
+tham_gia chương_trình	18
+đầu_tư nước_ngoài	18
+tổng_hợp kế_hoạch	18
+tổ_chức thực_hiện giám_sát đầu_tư cộng_đồng	18
+chương_trình 327	18
+xây_dựng mô_hình	17
+chấp_thuận đầu_tư	17
+dự_án đầu_tư xây_dựng đường_bộ kinh_doanh	17
+làm_việc hồ_sơ sở kế_hoạch đầu_tư	17
+quyết_toán dự_án	17
+dự_án sử_dụng	16
+giám_sát thực_hiện	16
+thực_hiện giám_sát đầu_tư cộng_đồng	16
+ban giám_sát	16
+chủ đầu_tư xây_dựng	16
+tiểu dự_án 3	16
+vốn đầu_tư công	16
+ban quản_trị dự_án	15
+văn_bản gửi kế_hoạch đầu_tư	15
+kế_hoạch đầu_tư công trung_hạn 05	15
+dự_án lĩnh_vực	15
+lựa_chọn nhà_thầu	15
+đầu_tư phát_triển	14
+quyết_định chủ_trương	14
+dự_án đầu_tư địa_bàn xã	14
+dự_án khu_đô_thị	14
+luật đầu_tư	14
+ban điều_phối dự_án	14
+kinh_phí chương_trình	14
+xã chương_trình 135	13
+sở kế_hoạch đầu_tư chủ_trì	13
+ban điều_hành	13
+đầu_tư trực_tiếp	13
+hỗ_trợ đầu_tư xây_dựng	13
+thẩm_định phê_duyệt dự_án	13
+ban quản_trị dự_án trung_ương	13
+đối_với một_số dự_án	13
+dự_án phát_triển	13
+lập kế_hoạch vốn	13
+ban điều_hành dự_án	13
+phê_duyệt chương_trình	13
+phê_duyệt kế_hoạch lựa_chọn nhà_thầu	12
+sở xây_dựng	12
+kinh_phí hỗ_trợ giám_sát đầu_tư cộng_đồng	12
+trung_hạn hằng	12
+đầu_tư xây_dựng_hạ_tầng	11
+công trìn	11
+đối_với dự_án diện	11
+quyết_toán dự_án hoàn_thành	11
+kế_hoạch giám_sát đầu_tư cộng_đồng	10
+xây_dựng cơ_bản	10
+sở kế_hoạch đầu_tư tổng_hợp	10
+phê_duyệt chủ_trương đầu_tư	10
+thực_hiện giám_sát	10
+thẩm_quyền chấp_thuận	10
+điều_hành dự_án	10
+dự_án diện	10
+chi_phí đầu_tư	10
+sở tài_chính	9
+kinh_phí thực_hiện	9
+thực_hiện mục_tiêu	9
+kinh_phí thực_hiện chương_trình	9
+dự_án đầu_tư lĩnh_vực	9
+tình_hình thực_hiện dự_án	9
+đầu_tư kinh_doanh	9
+vốn đầu_tư xây_dựng	9
+đối_với một_số dự_án chương_trình mục_tiêu quốc_gia	9
+thẩm_quyền thẩm_định	9
+đầu_tư thực_hiện dự_án	9
+chủ đầu_tư tổ_chức	8
+luật đầu_tư công	8
+kế_hoạch đấu_thầu	8
+luật đấu_thầu	8
+diện đầu_tư chương_trình	8
+ưu_đãi đầu_tư quy_định	8
+đầu_tư chương_trình	8
+ban giám_sát đầu_tư	8
+hỗ_trợ giám_sát đầu_tư cộng_đồng	8
+quy_chế giám_sát đầu_tư	8
+ban chỉ_đạo	8
+đầu_tư vốn	8
+quản_lý dự_án đầu_tư xây_dựng	8
+đầu_tư xây_dựng cơ_bản	8
+tham_gia thực_hiện xđgn	8
+phê_duyệt quyết_toán	8
+dự_án đầu_tư địa_bàn	8
+thành_viên ban chủ_nhiệm	7
+quyết_định đầu_tư phê_duyệt	7
+thành_viên ban	7
+kinh_phí thực_hiện dự_án	7
+vốn chương_trình	7
+chủ_trì thẩm_định dự_án	7
+thực_hiện ctmtqg	7
+thực_hiện chủ_trương	7
+tiến_độ xây_dựng	7
+sở kế_hoạch	7
+kế_hoạch đầu_tư chủ_trì	7
+chi_phí quản_lý dự_án	7
+đối_với xã	7
+phối_hợp thực_hiện	7
+dự_án đầu_tư phát_triển	7
+hồ_sơ sở kế_hoạch đầu_tư	7
+giao chỉ_tiêu	7
+điều_phối dự_án	6
+kế_hoạch tài_chính	6
+tình_hình thực_hiện kế_hoạch	6
+kế_hoạch đầu_tư chủ_trì phối_hợp	6
+chấp_thuận chủ_trương	6
+dự_án tham_gia thực_hiện	6
+kế_hoạch vốn đầu_tư	6
+đầu_tư trực_tiếp nước_ngoài	6
+dự_án vốn đầu_tư	6
+quản_lý dự_án đầu_tư	6
+kế_hoạch đầu_tư tổng_hợp	6
+đối_với dự_án sử_dụng vốn	6
+phê_duyệt dự_án đầu_tư	6
+dự_án thu_hồi	6
+kế_hoạch đầu_tư trung_hạn	6
+chương_trình mục_tiêu	6
+phê_duyệt quyết_toán vốn đầu_tư	5
+kế_hoạch đầu_tư phối_hợp	5
+mục_tiêu chương_trình	5
+đầu_tư địa_bàn	5
+lập kế_hoạch đầu_tư xã	5
+gửi sở	5
+dự_án đầu_tư kcn	5
+tham_gia giám_sát	5
+triển_khai thực_hiện	5
+gửi kế_hoạch	5
+công trung_hạn	5
+hoàn_thành kế_hoạch	5
+mô_hình quản_lý	5
+quản_lý điều_hành	5
+phê_duyệt danh_mục	5
+vốn oda	5
+đối_với một_số	5
+trách_nhiệm chủ	5
+ban điều_phối	4
+thực_hiện lồng_ghép	4
+tổ_chức thẩm_định	4
+tổng vốn đầu_tư	4
+thực_hiện quy_chế	4
+kế_hoạch phát_triển	4
+ban quản_lý dự_án đầu_tư xây_dựng	4
+sử_dụng đất thực_hiện dự_án	4
+đầu_tư công trung_hạn	4
+chương_trình quốc_gia	4
+thực_hiện mục_tiêu chương_trình	4
+luật đầu_tư nước_ngoài	4
+đối_với dự_án sử_dụng	4
+giao chỉ_tiêu kế_hoạch	4
+đẩy tiến_độ	4
+địa_phương thực_hiện chương_trình	4
+cam_kết thực_hiện	4
+kinh_phí chương_trình quốc_gia	3
+quy_chế quản_lý	3
+đầu_tư chương_trình 135	3
+gửi văn_phòng	3
+kinh_phí sự_nghiệp thực_hiện chương_trình mục_tiêu quốc_gia_giảm_nghèo bền_vững	3
+phê_duyệt quyết_toán vốn	3
+kế_hoạch lựa_chọn	3
+đầu_tư kcn	3
+đất thực_hiện dự_án	3
+quy_chế quản_lý sử_dụng vốn	3
+phối_hợp ban	3
+tiến_độ triển_khai	3
+ban quản_trị	3
+chi_phí đầu_tư xây_dựng	3
+giám_đốc sở	3
+quy_định quyết_định	3
+phối_hợp ban quản_lý	3
+diện hưởng	3
+lập danh_mục	3
+đối_với kinh_phí thu_hồi	3
+chi_phí quản_lý	3
+công trung_hạn giai_đoạn	3
+lập kế_hoạch tài_chính	3
+trực_tiếp nước_ngoài	3
+ban quản_lý dự_án đầu_tư	3
+quyết_toán vốn đầu_tư	3
+gói_thầu dự_án	3
+cơ_chế_tài_chính đối_với	3
+đầu_tư đối_với dự_án	3
+diện đầu_tư	3
+quy_định luật đầu_tư	2
+kế_hoạch sử_dụng	2
+dự_án sử_dụng vốn	2
+hưởng ưu_đãi	2
+phê_duyệt đề_tài	2
+luật xây_dựng	2
+trách_nhiệm lập	2
+kế_hoạch duyệt	2
+tài_chính hướng_dẫn quản_lý	2
+trách_nhiệm quản_lý	2
+đối_với gói_thầu	2
+đầu_tư cộng_đồng	2
+hướng_dẫn lập	2
+xây_dựng quy_chế	2
+sở xây_dựng tổng_hợp	2
+đấu_thầu lựa_chọn	2
+tình_hình thực_hiện	2
+quản_lý sử_dụng	2
+dự_án tổng	2
+đối_với đề_tài	2
+luật khuyến_khích	2
+dự_án chương_trình mục_tiêu	2
+quyết_định giao	2
+giám_đốc điều_hành	2
+thành_viên tham_gia	2
+thẩm_quyền duyệt	2
+giám_sát đầu_tư cộng_đồng địa_bàn	2
+đầu_tư địa_bàn xã	2
+vốn đầu_tư nước_ngoài	2
+sử_dụng vốn oda	2
+quyết_định 40/2015	2
+đầu_tư xây_dựng địa_bàn	2
+khuyến_khích phát_triển	2
+giám_sát đầu_tư	2
+thực_hiện xđgn	2
+phối_hợp sở xây_dựng	2
+thực_hiện chương_trình quốc_gia	2
+quy_định luật đầu_tư công	2
+vốn đầu_tư trực_tiếp nước_ngoài	2
+phê_duyệt chủ_trương	2
+nguồn_lực đầu_tư	2
+giao sở xây_dựng	2
+hướng_dẫn quản_lý	1
+kinh_doanh địa_bàn	1
+tổ_chức triển_khai thực_hiện	1
+xây_dựng đối_với một_số dự_án chương_trình mục_tiêu quốc_gia	1
+sở tài_chính thẩm_định	1
+đối_với công	1
+chủ_trì thẩm_định	1
+đẩy tiến_độ thực_hiện	1
+sử_dụng kinh_phí sự_nghiệp thực_hiện chương_trình mục_tiêu quốc_gia_giảm_nghèo bền_vững	1
+tài_chính thẩm_định	1
+thành_viên ban chỉ_đạo	1
+quản_lý sử_dụng kinh_phí sự_nghiệp thực_hiện chương_trình mục_tiêu	1
+khuyến_khích doanh_nghiệp đầu_tư	1
+triển_khai thực_hiện chương_trình	1
+phê_duyệt chương_trình mục_tiêu quốc_gia	1
+môi_trường đầu_tư kinh_doanh	1
+quản_lý chi_phí đầu_tư xây_dựng	1
+thực_hiện kế_hoạch phê_duyệt	1
+tình_hình thực_hiện chương_trình	1
+lập hồ_sơ	1
+giao trực_tiếp	1
+vốn đầu_tư xây_dựng cơ_bản	1
+quy_định luật	1
+phối_hợp sở	1
+kinh_phí thực_hiện chương_trình quốc_gia	1
+tham_gia thực_hiện	1
+kinh_phí sự_nghiệp thực_hiện chương_trình mục_tiêu	1
+danh_mục dự_án thu_hồi đất	1
+tổng kinh_phí	1
+lập gửi	1
+hướng_dẫn thực_hiện quyết_định	1
+thực_hiện đề_tài	1
+quy_định quy_chế	1
+ưu_đãi quy_định	1
+chỉ_đạo sở	1
+thẩm_định quyết_toán	1
+tài_chính chủ_trì	1
+quản_lý sử_dụng kinh_phí	1
+một_số dự_án chương_trình	1
+hỗ_trợ phát_triển	1
+trung_ương quản_lý	1
+đất thực_hiện dự_án đầu_tư	1
+địa_phương quản_lý	1
+hướng_dẫn thực_hiện	1
+gửi tài_chính	1
+tổ_chức thực_hiện giám_sát	1
+trực_tiếp tham_gia	1
+kinh_phí sự_nghiệp	1
+đầu_tư công trung_hạn 05 địa_phương	1
+quyết_định thu_hồi	1
+thực_hiện một_số	1
+triển_khai thực_hiện kế_hoạch	1
+tổ_chức thực_hiện chương_trình	1
+đầu_tư xây_dựng đối_với một_số dự_án	1
+chủ sử_dụng	1
+gửi ban	1
+trung_hạn 05	1
+xây_dựng địa_bàn	1
+sở tài_chính tổng_hợp	1
+quản_trị trung_ương	1
+môi_trường đối_với dự_án đầu_tư	1
+chỉ_đạo thực_hiện	1
+cộng_đồng địa_bàn	1
+địa_phương giai_đoạn	1
+dự_án đầu_tư sử_dụng vốn	1
+tình_hình quản_lý	1
+địa_bàn xã	1
+tổ_chức lựa_chọn	1
+chi_phí chuẩn_bị	1
+chương_trình 135 giai_đoạn	1
+thẩm_quyền quy_định	1
+phối_hợp sở kế_hoạch	1
+tổ_chức thực_hiện	1
+tài_chính quy_định quản_lý	1
+doanh_nghiệp thực_hiện dự_án đầu_tư	1
+sử_dụng kinh_phí	1
+chương_trình khung	1
+vốn xây_dựng cơ_bản	1
+lĩnh_vực quản_lý sở	1
+một_số lĩnh_vực	1
+chỉ_đạo chương_trình	1
+công trung_hạn 05	1
+xã thực_hiện chương_trình mục_tiêu quốc_gia	1
+gửi hồ_sơ	1
+xây_dựng văn_bản	1
+môi_trường đối_với dự_án	1
+quản_lý vốn	1
+vốn chương_trình mục_tiêu	1
+vốn đầu_tư trực_tiếp	1
+thực_hiện giám_sát đầu_tư	1
+thẩm_quyền giao	1
+trách_nhiệm thẩm_định	1
+văn_bản gửi sở	1
+giao đất	1

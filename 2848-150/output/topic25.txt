@@ -1,0 +1,314 @@
+thuê đất	535
+sử_dụng đất	517
+tiền thuê đất	313
+thuê mặt_nước	304
+giải_phóng mặt_bằng	271
+thu_hồi đất	258
+diện_tích đất	258
+giao đất	232
+mục_đích sử_dụng đất	192
+thu tiền thuê đất	185
+thu tiền sử_dụng đất	150
+kế_hoạch sử_dụng đất	147
+đơn_giá thuê đất	135
+nhà_nước thu_hồi đất	128
+khu đất	118
+tiền sử_dụng đất	115
+xác_định đơn_giá thuê đất	96
+tiền thuê	84
+quỹ đất	83
+nộp tiền thuê đất	83
+tiền bồi_thường	80
+đất nông_nghiệp	78
+hạn_mức giao đất	74
+sử_dụng mục_đích	73
+lô đất	73
+phép mục_đích sử_dụng đất	72
+nộp tiền sử_dụng đất	71
+quyết_định giao đất	62
+tiền thuê đất nộp	60
+tái_định_cư nhà_nước thu_hồi đất	60
+nhà_nước thuê đất	58
+giao đất tái_định_cư	54
+nhà_nước giao đất	54
+đất thu_hồi	53
+đất thương_mại	52
+hợp_đồng thuê đất	50
+quyết_định thu_hồi đất	50
+ký hợp_đồng thuê đất	48
+đối_với diện_tích đất	48
+bổ_sung một_số nghị_định quy_định thu tiền sử_dụng đất	44
+miễn tiền thuê đất	41
+đất sản_xuất kinh_doanh phi nông_nghiệp đất thương_mại	41
+khu tái_định_cư	40
+giá đất	39
+tách đất	38
+thuê đất lâm_nghiệp	37
+xác_định_giá đất	37
+cá_nhân sử_dụng đất	37
+nhà_nước giao đất thu tiền sử_dụng đất	37
+giá thuê	36
+giao đất thu tiền sử_dụng đất	36
+mục_đích sử_dụng	36
+đất phi nông_nghiệp	35
+đất khu đất	35
+đơn_giá thuê	33
+bồi_thường giải_phóng mặt_bằng	33
+thuê đất tiền thuê đất hàng	31
+gia_hạn sử_dụng đất	31
+thông_báo thu_hồi đất	31
+diện_tích sử_dụng	30
+đối_với diện_tích	30
+diện_tích đất thu_hồi	29
+hỗ_trợ tái_định_cư nhà_nước thu_hồi đất	29
+thuê đất tiền thuê đất thời_gian thuê	28
+sản_xuất nông_nghiệp	27
+đối_với đất nông_nghiệp	27
+đất quốc_phòng	27
+hiện_trạng sử_dụng đất	27
+trừ tiền sử_dụng đất	27
+đối_với trường_hợp thuê đất	26
+sử_dụng đất mục_đích	26
+tiền thuê đất hàng	26
+đất tái_định_cư	26
+đất nhà_nước thu_hồi	25
+diện_tích đất nông_nghiệp	25
+đơn_giá bồi_thường	25
+thuê đất tiền thời_gian thuê	25
+đất phi nông_nghiệp đất	25
+diện_tích tối_thiểu tách	24
+dự_án thu_hồi đất	24
+diện_tích tối_thiểu	24
+nộp tiền	24
+chính_phủ quy_định thu tiền sử_dụng đất	24
+nhu_cầu sử_dụng đất	23
+sử_dụng đất nộp	22
+quy_hoạch sử_dụng đất	22
+quyền sử_dụng đất	22
+bàn_giao đất thực_địa	21
+giao đất thu tiền sử_dụng đất thuê đất	21
+sở_hữu nhà_nước	20
+phép tách	20
+trường_hợp thuê	20
+đất diện_tích	20
+giải_phóng mặt_bằng hỗ_trợ tái_định_cư	20
+diện_tích đất tái_định_cư	19
+danh_mục dự_án thu_hồi đất	19
+cá_nhân nhà_nước giao đất	19
+đất sản_xuất	19
+thuế sử_dụng đất	19
+đất có_mặt_nước	18
+đất thuê	18
+sử_dụng đất nông_nghiệp	18
+đất sử_dụng mục_đích	18
+thuế sử_dụng đất nông_nghiệp	18
+tiền thuê đất thời_gian	18
+thu tiền	18
+thuê đất đối_với	17
+sử_dụng mục_đích phi nông_nghiệp	17
+thông_báo nộp tiền thuê đất	16
+kinh_doanh phi nông_nghiệp đất thương_mại	16
+xác_định thông_báo	16
+nhà_nước giao	16
+hợp_đồng thuê	16
+thu tiền thuê	16
+tiếp_tục sử_dụng	16
+sử_dụng đất 2020	16
+thời_gian thuê	15
+phi nông_nghiệp	15
+bàn_giao mặt_bằng	15
+phi nông_nghiệp đất	14
+đất nằm	14
+hình_thức thuê đất tiền	14
+thu_hồi đất nông_nghiệp	14
+bàn_giao đất	14
+trường_hợp thuê đất	14
+nhà_nước thu_hồi	13
+thuê đất sử_dụng mục_đích	13
+thuê đất tiền	13
+chính_phủ quy_định thu tiền thuê đất	13
+tiền thuê đất thời_gian thuê	13
+đất vườn	13
+toàn_bộ diện_tích đất	13
+hạn_mức công_nhận	13
+hình_thức thuê đất	12
+xác_định tiền	12
+toàn_bộ diện_tích	11
+đất hình_thành	11
+hồ_sơ giao đất	11
+tiền thời_gian thuê	11
+hỗ_trợ tái_định_cư nhà_nước thu_hồi đất địa_bàn tỉnh	10
+cá_nhân sử_dụng	10
+nhà_nước thu_hồi đất nông_nghiệp	10
+xác_định vị_trí	10
+đối_với trường_hợp sử_dụng đất	10
+thuê sở_hữu nhà_nước	10
+đất khu đất giá_trị	10
+đất tách	10
+nhà_nước thu_hồi đất địa_bàn tỉnh	10
+xác_định diện_tích	9
+tiền nộp	9
+đất vị_trí	9
+hỗ_trợ tái_định_cư	9
+15/5/2014 chính_phủ quy_định thu tiền thuê đất	9
+thuê đất tiền thuê đất	8
+giá đất xác_định	8
+thông_báo đơn_giá	8
+gia_hạn thời_gian	8
+nhu_cầu sử_dụng	8
+hạn_mức công_nhận đất	8
+đất đô_thị	8
+kinh_doanh phi nông_nghiệp	7
+đất mục_đích	7
+khu đất giá_trị	7
+đối_với trường_hợp	7
+đất khu	7
+quy_hoạch sử_dụng đất 2020	7
+chuyển_đổi mục_đích sử_dụng	7
+đất đối_với diện_tích	7
+sử_dụng đấ	7
+tiền thuê đất đất khu đất	7
+đất lâm_nghiệp	6
+sử_dụng đất địa_bàn	6
+miễn tiền thuê	6
+thuê đất thời_gian	6
+tối_thiểu tách	6
+phép mục_đích sử_dụng	6
+đất nông_thôn	6
+thuê đấ	6
+hỗ_trợ tiền	6
+trường_hợp tách	6
+mục_đích kinh_doanh	6
+sử_dụng quỹ	5
+tiền sử_dụng	5
+xác_định đơn_giá	5
+quyết_định thu_hồi	5
+thuê đất cơ_quan thuế	5
+/ nđ-cp 15/5/2014 chính_phủ quy_định thu tiền sử_dụng đất	5
+nhà_nước hỗ_trợ	5
+tiền thuê đất đối_với	4
+sử_dụng diện_tích	4
+dự_án sử_dụng	4
+quy_định nghị_định	4
+sử_dụng tiền thu	4
+đất thực_địa	4
+thuê đất thu tiền thuê đất	4
+mục_đích quốc_phòng	4
+nộp tiền thuê	4
+quyết_định giao	4
+đối_với trường_hợp thuê	4
+đối_với dự_án	4
+đất đối_với trường_hợp	4
+thuê tư_vấn	4
+sử_dụng đất lâm_nghiệp	4
+đất giao đất	3
+giao đất lâm_nghiệp	3
+trường_hợp thuê đất tiền	3
+công_nhận quyền sử_dụng đất	3
+tách đối_với đất	3
+kinh_doanh bất_động_sản	3
+hiện_trạng sử_dụng	3
+đất rừng	3
+diện_tích diện_tích tối_thiểu	3
+tư_vấn xác_định_giá đất	3
+tách đối_với	3
+đất nộp	3
+quy_định thu tiền	3
+phép sử_dụng	3
+sản_xuất kinh_doanh phi nông_nghiệp đất thương_mại	3
+thuê đất nộp	3
+sử_dụng tiền	3
+đất trồng	3
+xác_định đơn_giá thuê	3
+thuế nông_nghiệp	3
+thu tiền sử_dụng	3
+quy_hoạch sử_dụng	2
+kế_hoạch sử_dụng	2
+giao đất thu tiền sử_dụng đất thuê	2
+thu_hồi đất địa_bàn tỉnh	2
+15/5/2014 chính_phủ quy_định	2
+ký hợp_đồng	2
+sử_dụng đất thuê đất	2
+miễn thu	2
+đất xác_định	2
+hợp_đồng ký	2
+đất tiền	2
+trường_hợp xác_định	2
+sản_xuất kinh_doanh phi nông_nghiệp	2
+quy_định thu tiền sử_dụng đất	2
+sử_dụng đất thuê	2
+đất địa_bàn tỉnh	2
+xác_định đơn_giá thuê đất tiền thuê đất	2
+quyền sử_dụng đất giao đất thu tiền sử_dụng đất	2
+thuê mặt_bằng kinh_doanh	2
+thông_báo nộp	2
+đất địa_bàn	2
+ký quyết_định	2
+trừ tiền thuê	2
+quyền sử_dụng đất quy_định	2
+giải_phóng mặt_bằng hỗ_trợ	2
+quy_định thu tiền thuê đất	2
+diện_tích diện_tích	2
+thông_báo nộp tiền	2
+tối_thiểu quy_định	2
+toàn_bộ tiền	2
+sử_dụng đất nhà_nước giao đất	2
+chính_phủ quy_định giá đất	2
+quyết_định miễn	2
+đăng_ký nộp tiền thuê	2
+thuê đất thu tiền	2
+sử_dụng mục_đích phi	2
+giao kế_hoạch	2
+thuê đất tiền thời_gian	1
+đất tiền thuê đất	1
+thuê đất hàng	1
+thuê đất tiền thuê	1
+mục_đích phi nông_nghiệp	1
+giao đất thu tiền	1
+sản_xuất kinh_doanh	1
+thu_hồi đất địa_bàn	1
+khấu_trừ tiền	1
+giao đất thu tiền sử_dụng	1
+đơn_giá thuê đất tiền thuê đất hàng	1
+bàn_giao toàn_bộ	1
+quyền sử_dụng đất lâm_nghiệp	1
+tái_định_cư nhà_nước	1
+nhà_nước địa_bàn	1
+miễn tiền	1
+đất thu	1
+thuê đất đất khu đất	1
+tái_định_cư nhà_nước thu_hồi đất địa_bàn tỉnh	1
+ký hợp_đồng thuê	1
+sử_dụng đất giao đất	1
+thu nộp	1
+đất sản_xuất kinh_doanh phi	1
+15/5/2014 chính_phủ	1
+sử_dụng đất địa_bàn tỉnh	1
+đất sản_xuất kinh_doanh phi nông_nghiệp	1
+2014 chính_phủ quy_định thu tiền thuê đất	1
+mục_đích lâm_nghiệp	1
+kế_hoạch nhà_nước	1
+bổ_sung một_số nghị_định quy_định thu tiền sử_dụng	1
+giá_trị sử_dụng	1
+trừ tiền	1
+nhà_nước thu_hồi đất địa_bàn	1
+hạn_mức giao	1
+chính_phủ giao	1
+tiền sử_dụng đất thuê đất	1
+trường_hợp hồ_sơ	1
+nghị_định quy_định thu tiền sử_dụng đất	1
+kế_hoạch hàng	1
+chuyển_đổi mục_đích	1
+nông_nghiệp đất	1
+bàn_giao hồ_sơ	1
+thuê sở_hữu	1
+đất trống	1
+quyền sử_dụng	1
+nằm khu	1
+thời_gian gia_hạn	1
+thuê đất đối_với trường_hợp	1
+thu nộp tiền	1
+phi chính_phủ	1
+hình_thức thuê	1
+một_số trường_hợp	1
+tiền thu	1

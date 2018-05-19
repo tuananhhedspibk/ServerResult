@@ -1,0 +1,29 @@
+địa_bàn tỉnh lai châu	93
+lai châu	43
+bến tre	38
+gia đìn	35
+lạng sơn	33
+sơn la	32
+địa_bàn tỉnh	30
+địa_bàn tỉnh lạng sơn	27
+tỉnh lạng sơn	27
+địa_bàn tỉnh bến_tre	25
+kon tum	25
+tỉnh lai châu	25
+sầm sơn	21
+địa_bàn tỉnh kon_tum	17
+nhiệm_kỳ 2016-2021	17
+địa_bàn tỉnh sơn_la	16
+tỉnh sơn_la	14
+địa_bàn tỉnh lạng sơn giai_đoạn	10
+tỉnh sơn la	8
+tỉnh bến tre	8
+tỉnh hà_tĩnh	8
+tỉnh hà	7
+tỉnh kon tum	7
+tỉnh bến_tre	6
+lạng sơ	4
+tỉnh kon_tum	2
+tỉnh kon	1
+tỉnh lạng	1
+sinh_hoạt địa_bàn	1

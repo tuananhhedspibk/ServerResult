@@ -1,0 +1,59 @@
+tiền bồi_dưỡng	81
+chế_độ bồi_dưỡng	69
+thợ lặn	47
+bồi_dưỡng hiện_vật	38
+nhà_giáo ưu_tú	35
+hưởng bồi_dưỡng	29
+hưởng chế_độ bồi_dưỡng	23
+bồi_dưỡng đối_với	22
+nhà_giáo nhân_dân	22
+tiền mua	18
+nhà_giáo trực_tiếp giảng_dạy	17
+chế_độ bồi_dưỡng đối_với	16
+hưởng chế_độ	14
+trực_tiếp giảng_dạy	14
+bồi_dưỡng kiến_thức	13
+áp_dụng đối_với	11
+áp_dụng chế_độ	11
+chế_độ bồi_dưỡng hiện_vật	10
+chế_độ công_tác_phí	10
+chế_độ định_lượng	10
+mua tài_liệu	9
+tiền học_phí	9
+trở hưởng	8
+bồi_dưỡng chuyên_môn	8
+định suất	8
+thực_hiện chế_độ bồi_dưỡng	8
+hưởng phụ_cấp	7
+thực_hiện chế_độ bồi_dưỡng hiện_vật	7
+cbqlgd công_tác	7
+làm_việc chế_độ	6
+đến_nơi làm_việc	6
+chi bồi_dưỡng	6
+mua vận_chuyển	6
+chế_độ phụ_cấp	6
+tài_liệu học_tập	5
+đài_thọ tiền	5
+thời_gian hưởng	5
+chi_trả tiền	5
+đối_với nhà_giáo	5
+chế_độ thưởng	5
+tiền thưởng	4
+khám_nghiệm tử_thi	3
+thực_hiện chế_độ	3
+phụ_cấp lưu_động	3
+quy_định_chế_độ bồi_dưỡng đối_với	3
+quy_định_chế_độ bồi_dưỡng	3
+danh_hiệu nhà_giáo	3
+thời_gian làm_việc	2
+nước_sạch sinh_hoạt	2
+bồi_dưỡng nghiệp_vụ	2
+bồi_dưỡng chuyên_môn nghiệp_vụ	1
+chi bồi_dưỡng đối_với	1
+điều_động công_tác	1
+chi_trả chế_độ	1
+thời_gian hoàn_thành	1
+tiền phụ_cấp	1
+thực_hiện chế_độ phụ_cấp	1
+chế_độ đối_với	1
+tiền công_tác_phí	1

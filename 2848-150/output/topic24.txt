@@ -1,0 +1,39 @@
+nuôi_trồng thủy_sản	130
+nuôi_trồng thuỷ_sản	94
+ngành thuỷ_sản	41
+sở thuỷ_sản	34
+nông_lâm thủy_sản	32
+tổ_chức khuyến_nông	28
+bảo_vệ lợi thủy_sản	27
+ấn ngành	27
+bảo_vệ lợi thuỷ_sản	26
+vật_nuôi thủy_sản	23
+hoạt_động nuôi_trồng thủy_sản	22
+hoạt_động khuyến_nông	21
+trung_tâm khuyến_nông	19
+thuỷ_sản địa_phương	17
+thủy_sản nuôi	17
+cục bảo_vệ lợi thuỷ_sản	14
+vệ_sinh thuỷ_sản	12
+công_tác khuyến_nông	11
+kinh_phí khuyến_nông	11
+lợi thủy_sản	9
+lợi thuỷ_sản	8
+sử_dụng ấn	7
+nuôi cá	7
+bảo_vệ thực_vật	5
+chất_lượng vệ_sinh thuỷ_sản	5
+thuốc bảo_vệ thực_vật	3
+vệ_sinh thú_y	3
+thuốc thú_y	3
+kinh_phí hoạt_động	2
+bảo_vệ lợi	2
+phổ_biến rộng_rãi	2
+ngành địa_phương	1
+khai_thác sử_dụng	1
+cục bảo_vệ lợi	1
+hoạt_động khai_thác	1
+phổ_biến kiến_thức	1
+chi_cục bảo_vệ	1
+vệ_sinh phòng_dịch	1
+thuốc bảo_vệ	1

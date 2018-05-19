@@ -1,0 +1,292 @@
+giao_thông vận_tải	595
+sở giao_thông vận_tải	357
+tuyến đường	289
+hành_lang an_toàn đường_bộ	151
+giao_thông đường_bộ	139
+đường giao_thông	127
+an_toàn giao_thông	110
+giao_thông - vận_tải	87
+đường tỉnh	85
+công_trình đường_bộ	82
+đường huyện	72
+sử_dụng tạm_thời hè phố	62
+đường quốc_lộ	61
+quản_lý bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	60
+phạm_vi bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	56
+đường đô_thị	56
+liên_bộ tài_chính - giao_thông vận_tải	55
+phí_tổn sửa đường	54
+cầu đường_bộ	54
+đơn_vị quản_lý đường_bộ	52
+công_tác quản_lý lòng_đường	51
+điểm_đấu nối	51
+hệ_thống đường	50
+ngành giao_thông vận_tải	49
+đổi đường công_trình công_cộng	49
+bộ_trưởng giao_thông vận_tải	48
+hè phố	47
+đường xã	46
+bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	44
+quản_lý sửa_chữa cầu đường_bộ	40
+sửa_chữa đường_bộ	39
+phương_tiện giao_thông	39
+đảm_bảo an_toàn	38
+mục_đích giao_thông	38
+chỉ_giới đường đỏ	37
+thanh_tra giao_thông	37
+công_trình giao_thông	37
+phạm_vi đất đường_bộ	36
+trật_tự an_toàn giao_thông	35
+công_trình công_cộng	35
+bảo_trì công_trình đường_bộ	35
+đường thủy nội_địa	34
+ty giao_thông vận_tải	33
+hành_lang an_toàn	33
+thủy nội_địa	33
+đường chuyên_dùng	32
+sở giao_thông	32
+phối_hợp sở giao_thông vận_tải	32
+quỹ bảo_trì đường_bộ	32
+bảo_đảm an_toàn giao_thông	32
+trật_tự an_toàn giao_thông đường_bộ đô_thị	31
+cảnh_sát giao_thông	30
+khu quản_lý đường_bộ	30
+giao_thông vận_tải bưu_điện	30
+sở giao_thông vận_tải (	30
+đường_thuỷ nội_địa	30
+quản_lý đường_bộ	28
+quy_hoạch điểm_đấu nối	28
+sửa_chữa cầu đường_bộ	28
+giao_thông bưu_điện	27
+căn_cứ luật giao_thông đường_bộ	27
+giám_đốc sở giao_thông vận_tải	27
+đổi đường	26
+đoạn đường	26
+cơ_giới đường_bộ	26
+nút giao	26
+xã đặc_biệt khó_khăn bãi ngang ven biển	24
+sử_dụng hè phố	24
+sửa_chữa thường_xuyên	24
+đối_với tuyến đường	23
+sử_dụng trái_phép	22
+phố công_trình công_cộng	22
+đề_nghị giám_đốc sở giao_thông vận_tải tờ_trình	22
+bảo_đảm an_toàn	22
+đảm_bảo an_toàn giao_thông	21
+đường công_trình công_cộng	21
+hành_lang bảo_vệ	21
+thanh_tra giao_thông vận_tải	21
+sở tài_chính	20
+vận_tải đường_sắt	20
+bảo_vệ công_trình giao_thông	20
+sở giao_thông - vận_tải	20
+trật_tự an_toàn giao_thông đường_bộ trật_tự an_toàn giao_thông đô_thị	19
+phương_tiện vận_tải	19
+đối_với tuyến	19
+vận_tải đường_bộ	19
+tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ	18
+vốn quản_lý sửa_chữa cầu đường_bộ	18
+đấu nối đường	18
+an_toàn kỹ_thuật bảo_vệ môi_trường	18
+- vận_tải	18
+liên_bộ giao_thông vận_tải	18
+đất đường_bộ	18
+tạm_thời hè phố	17
+nối đường tỉnh	17
+giao_thông đường thủy nội_địa	17
+môi_trường an_toàn cộng_đồng	17
+tai_nạn giao_thông	17
+sở giao_thông công_chính	17
+duy_tu bảo_dưỡng	17
+đấu nối	16
+kết_cấu_hạ_tầng giao_thông	16
+nằm hành_lang an_toàn đường_bộ	16
+quản_lý sửa_chữa	16
+ảnh_hưởng an_toàn giao_thông	16
+đường gom	16
+nút giao_đấu nối	16
+dọc đường	15
+đối_với hệ_thống đường tỉnh	15
+bảo_trì đường_bộ	15
+giao_thông công chín	15
+- giao_thông vận_tải	15
+đường ô_tô	15
+sở giao_thông vận_tải ( đối_với	14
+bảo_dưỡng thường_xuyên	14
+tham_gia giao_thông	13
+đường bưu_điện	13
+chính_phủ quy_định quản_lý bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	13
+phương_tiện giao_thông vận_tải	13
+sử_dụng tạm_thời lòng_đường	13
+bảo_vệ công_trình	13
+bảo_đảm trật_tự an_toàn giao_thông	13
+sửa_chữa đường	12
+giao_thông vận_tải (	12
+kết_cấu_hạ_tầng giao_thông đường_bộ	11
+giao_thông vận_tải hướng_dẫn	11
+đường thủy	11
+liên_bộ giao_thông vận_tải - tài_chính	11
+đối_với hệ_thống đường	10
+ảnh_hưởng an_toàn	10
+đường nhánh	9
+quản_lý sử_dụng	9
+luật_lệ giao_thông	9
+sử_dụng đường_bộ	9
+an_toàn giao_thông đường_bộ	9
+an_toàn đường_bộ	9
+đất hành_lang an_toàn đường_bộ	9
+phạm_vi bảo_vệ kết_cấu_hạ_tầng giao_thông	8
+đề_nghị giám_đốc sở giao_thông vận_tải	8
+liên_bộ giao_thông	8
+sửa_chữa công_trình	8
+nối đường	8
+nút giao_đấu	8
+bãi ngang ven biển	8
+tiền phí_tổn sửa đường	7
+đặc_biệt khó_khăn bãi ngang ven biển	7
+vận_tải hướng_dẫn	7
+đường_bộ khai_thác	7
+hệ_thống đường tỉnh	7
+tạm_thời lòng_đường	7
+tài_chính - giao_thông vận_tải	7
+công_tác quản_lý	7
+liên_bộ tài_chính - giao_thông vận_tải hướng_dẫn	7
+bộ_trưởng giao_thông	7
+đường_bộ thẩm_quyền	6
+ty giao_thông	6
+hành_lang an_toàn giao_thông	6
+cục đường_bộ	6
+quản_lý lòng_đường	5
+luật giao_thông đường_bộ	5
+an_toàn công_trình	5
+trật_tự công_cộng	5
+đối_với công_trình	5
+giao_thông vận_tải hướng_dẫn thực_hiện	5
+phạm_vi bảo_vệ	5
+công_tác sửa_chữa	5
+đối_với phương_tiện	5
+quãng đường	5
+ngành giao_thông	5
+giao_thông đường_thuỷ	4
+cục quản_lý	4
+bảo_trì công_trình	4
+quản_lý công_trình	4
+nằm hành_lang an_toàn	4
+công chín	4
+giao_thông vận_tải ( đối_với	4
+đảm_bảo trật_tự an_toàn giao_thông	4
+giao sở	4
+nối đường nhánh	4
+liên_bộ giao_thông vận_tải -	4
+hệ_thống kết_cấu_hạ_tầng	4
+vận_tải (	4
+nằm phạm_vi	4
+cục cảnh_sát giao_thông	4
+sửa_chữa cầu	4
+trật_tự an_toàn giao_thông đường_bộ	4
+giám_đốc sở	4
+giao_thông đô_thị	4
+giao_thông đường	4
+công_tác quản_lý bảo_vệ	4
+sửa đường	4
+phương_tiện cơ_giới đường_bộ	4
+đơn_vị quản_lý	4
+quản_lý bảo_vệ kết_cấu_hạ_tầng giao_thông	4
+hướng_dẫn quản_lý	3
+phạm_vi bảo_vệ kết_cấu_hạ_tầng	3
+giao_thông cơ_giới	3
+giao_thông đường_bộ địa_bàn tỉnh	3
+sử_dụng tạm_thời	3
+trật_tự an_toàn	3
+giao_thông công_chính	3
+bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ đối_với hệ_thống đường	3
+tuyến tỉnh	3
+đất hành_lang an_toàn	3
+vi_phạm hành_lang	3
+vận_tải công_cộng	3
+sử_dụng phương_tiện	3
+điều_khiển phương_tiện giao_thông	3
+đảm_bảo trật_tự	3
+vi_phạm luật_lệ giao_thông	3
+quản_lý bảo_vệ	3
+luật giao_thông	3
+bảo_đảm trật_tự	3
+giao_thông đường_sắt	3
+chính_phủ quản_lý	3
+bảo_vệ môi_trường	3
+đất hành_lang	3
+đơn_vị thi_công	3
+công_tác quản_lý sửa_chữa	3
+giao_thông đường_bộ trật_tự an_toàn giao_thông đô_thị	2
+nằm hành_lang	2
+trật_tự an_toàn giao_thông đô_thị	2
+lắp_đặt công_trình	2
+giao_thông đường thủy	2
+sử_dụng đất	2
+quy_định quản_lý bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ	2
+quản_lý khai_thác	2
+quản_lý an_toàn	2
+phương_tiện thủy	2
+phối_hợp sở	2
+sở giao_thông vận_tải tờ_trình	2
+kỹ_thuật bảo_vệ môi_trường	2
+an_toàn kỹ_thuật	2
+đơn_vị sử_dụng	2
+- giao_thông vận_tải hướng_dẫn	2
+bảo_vệ an_toàn	2
+sử_dụng công_trình	2
+chấp_thuận thi_công	2
+bộ_trưởng tài_chính	2
+bảo_vệ kết_cấu_hạ_tầng giao_thông	2
+- đối_với	2
+kỹ_thuật an_toàn	2
+giao_thông đường_thuỷ nội_địa	2
+tuyến đường_sắt	2
+phạm_vi quản_lý	2
+trục đường	2
+đường_bộ đối_với hệ_thống đường	2
+liên_bộ tài_chính - giao_thông	2
+thi_công công_trình	2
+sử_dụng tạm_thời hè	1
+đảm_bảo trật_tự an_toàn giao_thông đường_bộ	1
+phối_hợp đơn_vị	1
+quy_hoạch sử_dụng đất	1
+quản_lý sử_dụng quỹ	1
+sửa đổ	1
+tỉnh giao	1
+căn_cứ luật	1
+vốn quản_lý sửa_chữa	1
+đơn_vị giao	1
+- kỹ_thuật	1
+quỹ bảo_trì	1
+giao_đấu nối	1
+đề_nghị sở tài_chính tờ_trình	1
+sử_dụng mục_đích	1
+an_toàn giao_thông đường_bộ trật_tự an_toàn giao_thông đô_thị	1
+căn_cứ luật giao_thông	1
+đề_nghị giám_đốc sở giao_thông	1
+thẩm_quyền chấp_thuận	1
+an_toàn giao_thông đô_thị	1
+xã đặc_biệt khó_khăn bãi ngang	1
+công_tác bảo_vệ	1
+lĩnh_vực trật_tự an_toàn giao_thông	1
+phạm_vi quản_lý sở	1
+giao_thông đường_bộ địa_bàn	1
+phạm_vi ảnh_hưởng	1
+đảm_bảo trật_tự an_toàn	1
+ven biển	1
+phối_hợp công_tác	1
+đối_với phương_tiện vận_tải	1
+giám_đốc sở giao_thông	1
+cục cảnh_sát	1
+phối_hợp thanh_tra	1
+đường_bộ trật_tự	1
+quản_lý ngành	1
+an_toàn giao_thông đường_bộ trật_tự	1
+vi_phạm luật_lệ	1
+công_tác quy_hoạch	1
+bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ đối_với	1
+vận_tải bưu_điện	1
+lắp_đặt hệ_thống	1
+tài_chính - giao_thông vận_tải hướng_dẫn	1
+bảo_đảm trật_tự an_toàn	1

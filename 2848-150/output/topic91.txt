@@ -1,0 +1,43 @@
+phục_hồi chức_năng	70
+chất phóng_xạ	38
+thiết_bị bức_xạ	34
+công_việc nặng_nhọc	32
+an_toàn bức_xạ	30
+cơ_sở bức_xạ	27
+an_toàn bức_xạ hạt_nhân	25
+tiếng ồn	23
+yếu_tố nguy_hiểm	22
+bụi phổi	22
+yếu_tố độc_hại	21
+chân giả	20
+phim x quang	18
+phóng_xạ hở	18
+đặc_biệt nặng_nhọc	17
+nghề đặc_biệt	15
+x quang	14
+bố_trí công_việc	10
+nghề công_việc	9
+hiệu chuẩn	8
+bảo_đảm an_toàn	8
+danh_mục nghề	7
+bức_xạ hạt_nhân	6
+ảnh_hưởng xấu	6
+sử_dụng máy	5
+‑ ‑ ‑ ‑ ‑ ‑ ‑ ‑	5
+máy thi_công	4
+bệnh bụi	2
+sửa_chữa đường	2
+thiết_bị phát	2
+điều_kiện làm_việc	2
+làm_việc cơ_sở	2
+phạm_vi chức_năng	2
+an_toàn vận_hành	2
+‑ ‑ ‑ ‑	1
+‑ ‑ ‑ ‑ ‑ ‑	1
+sử_dụng thiết_bị	1
+phát hình	1
+ảnh_hưởng trực_tiếp	1
+‑ ‑ ‑ ‑ ‑ ‑ ‑	1
+đoạn đường	1
+sự_cố an_toàn	1
+‑ ‑ ‑ ‑ ‑	1

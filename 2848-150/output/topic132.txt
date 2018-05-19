@@ -1,0 +1,96 @@
+hội_đồng giám_định y_khoa	145
+giám_định thương_tật	99
+quân_nhân chuyên_nghiệp	95
+đối_với quân_nhân	80
+giám_định y_khoa	76
+sĩ_quan dự_bị	67
+quân_nhân dự_bị	63
+quân_nhân phục_viên	55
+khám sức_khỏe	52
+khám sức_khoẻ	47
+tổn_hại sức_khoẻ	47
+hội_đồng gđyk	41
+chiến_trường b	41
+giám_định viên	41
+đào_tạo sĩ_quan dự_bị	40
+hội_đồng giám_định y_khoa tỉnh	38
+kiểm_tra sức_khoẻ	37
+trưng_cầu giám_định	36
+dự_bị động_viên	35
+giám_định sức_khoẻ	35
+kiểm_tra sức_khỏe	31
+tỷ_lệ thương_tật	30
+tiêu_chuẩn sức_khoẻ	29
+biên_bản giám_định	26
+hội_đồng khám sức_khoẻ	26
+phiếu sức_khoẻ	25
+khám sức_khỏe thực_hiện nvqs	23
+phục_vụ tại_ngũ	23
+sức_khỏe công_dân	22
+hội_đồng giám_định y_khoa thẩm_quyền	21
+trợ_cấp thương_tật	21
+khám sức_khỏe nvqs	21
+phiếu sức_khỏe nvqs	20
+tiêu_chuẩn thương_tật	20
+xếp_hạng thương_tật	20
+hội_đồng nvqs huyện	20
+công_dân nhập_ngũ	19
+gọi nvqs	18
+hội_đồng nvqs	18
+trợ_cấp xuất_ngũ	17
+trợ_cấp phục_viên	17
+sức_khoẻ công_dân	17
+hội_đồng giám_định	17
+năm_tuổi quân	17
+đối_với bị_thương	16
+hội_đồng khám sức_khỏe nvqs	16
+kết_luận giám_định	15
+đối_với sĩ_quan	14
+đi giám_định	14
+phân_loại sức_khoẻ	13
+giám_định pháp_y	13
+hội_đồng giám_định y_khoa trung_ương	11
+đi khám	11
+tình_trạng sức_khoẻ	10
+giám_định hội_đồng giám_định y_khoa	10
+giới_thiệu đi giám_định	10
+giám_định bệnh_tật	9
+hội_đồng xét_duyệt	9
+tương_đương trở	9
+phiếu sức_khỏe	9
+sức_khỏe nvqs	9
+tổ_chức khám	8
+giám_định thương_tật hội_đồng giám_định y_khoa	8
+trợ_cấp bệnh_binh	8
+huyện trở	7
+giám_định y_khoa trung_ương	6
+hội_đồng khám sức_khỏe	6
+hội_đồng khám	6
+y_khoa thẩm_quyền	5
+kết_luận hội_đồng	5
+kết_luận hội_đồng giám_định	5
+công_dân gọi	5
+trở đối_với	4
+quân_khu ký	4
+thương bệnh_binh	4
+làm_chủ_tịch hội_đồng	4
+uỷ_viên thường_trực	4
+sức_khỏe thực_hiện nvqs	3
+thương_tật 21	3
+giới_thiệu đi	3
+trở đi	2
+nvqs huyện	2
+giám_định y_khoa tỉnh	2
+phục_vụ sinh_hoạt	2
+uỷ_viên hội_đồng	2
+thực_hiện nvqs	2
+tiêu_chuẩn xếp_hạng	1
+đào_tạo sĩ_quan	1
+thẩm_quyền xét_duyệt	1
+thương_tật hội_đồng giám_định y_khoa	1
+kiểm_tra thực_hiện	1
+điều_trị bệnh_viện	1
+giám_định hội_đồng giám_định	1
+thường_trực hội_đồng	1
+trợ_cấp đối_với	1
+y_khoa trung_ương	1

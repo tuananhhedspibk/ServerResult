@@ -1,0 +1,106 @@
+bảo_vệ dân_phố	105
+cộng_đồng dân_cư	100
+tổ dân_phố	86
+cụm dân_cư	62
+tổ bầu_cử	59
+kiểm phiếu	49
+ban_công_tác mặt_trận	46
+mặt_trận tổ_quốc	42
+tổ_chức họp	42
+cử_tri cử_tri đại_diện hộ gia_đình	42
+trưởng ban_công_tác mặt_trận	41
+uỷ_ban mặt_trận tổ_quốc xã	39
+tuyến dân_cư	38
+tiếp_xúc cử_tri	37
+uỷ_ban mặt_trận tổ_quốc	35
+bầu trưởng_thôn	34
+phó trưởng_thôn	33
+phiếu bầu	32
+ban bảo_vệ dân_phố	32
+ủy_ban mặt_trận tổ_quốc	32
+ban thường_trực uỷ_ban mặt_trận tổ_quốc xã	31
+bố_trí dân_cư	29
+chức_danh trưởng_thôn	28
+tổ_chức hội_nghị	28
+bỏ_phiếu kín	23
+trưởng ban_công_tác mặt_trận thôn	23
+ứng_cử trưởng_thôn	22
+mặt_trận tổ_quốc xã	22
+bãi_nhiệm trưởng_thôn	21
+tổ dân_cư	20
+hội_nghị cử_tri	20
+ổn_định dân_cư	19
+tổ_trưởng tổ dân_phố	18
+sáp_nhập thôn	17
+thành_lập thôn	17
+ý_kiến cử_tri	16
+bảo_vệ tổ_quốc	15
+trưởng ban	14
+danh_sách ứng_cử	12
+cử_tri cử_tri đại_diện hộ	12
+tổ_chức hoạt_động thôn	11
+phát phiếu ý_kiến	11
+ban_công_tác mặt_trận thôn	11
+dự hội_nghị	11
+thành_lập tổ	11
+giới_thiệu ứng_cử	11
+cử_tri đại_diện hộ gia_đình	10
+tổ_trưởng tổ	10
+phát phiếu ý_kiến cử_tri	9
+uỷ_ban mặt_trận	9
+dự họp	8
+bố_trí ổn_định	8
+tham_dự họp	8
+hộ gia_đình	8
+ban thường_trực uỷ_ban mặt_trận tổ_quốc	8
+ban thường_trực uỷ_ban mặt_trận	8
+ban thường_trực	7
+hoạt_động thôn	5
+thành_lập ban	5
+hộ gia_đình thôn	5
+phát phiếu	4
+thành_viên ban	4
+thường_trực uỷ_ban mặt_trận tổ_quốc	4
+ban tổ_chức	4
+mời đại_diện	4
+hoàn_cảnh gia_đình	4
+chính_quyền xã	4
+xã hộ	4
+mặt_trận tổ_quốc tỉnh	4
+thành_viên đại_diện	4
+họp thôn	4
+thị_trấn tổ_chức	4
+uỷ_ban trung_ương mặt_trận	4
+cử_tri đại_diện hộ gia_đình thôn	4
+trung_ương mặt_trận	3
+tổng_số cử_tri	3
+hộ dân	3
+tham_dự hội_nghị	3
+cử_tri đại_diện hộ	2
+phối_hợp ban	2
+ban thường_trực uỷ_ban	2
+chức_danh bầu_cử	2
+ý_kiến thảo_luận	2
+uỷ_ban trung_ương mặt_trận tổ_quốc	2
+hoạt_động ban	2
+họp bàn	2
+ban thường_trực uỷ_ban trung_ương mặt_trận tổ_quốc	2
+chức_danh trưởng	2
+phó trưởng ban	1
+phiếu ý_kiến	1
+tổng_số cử_tri cử_tri đại_diện hộ gia_đình	1
+đại_diện ban	1
+ủy_ban mặt_trận	1
+ban thường_trực uỷ_ban trung_ương mặt_trận	1
+thành_viên tham_dự	1
+tổ_chức hoạt_động	1
+chủ_trì tổ_chức	1
+cử_tri cử_tri	1
+vận_động tổ_chức	1
+trung_ương mặt_trận tổ_quốc	1
+quy_chế tổ_chức hoạt_động	1
+đại_diện hộ gia_đình	1
+phối_hợp ban thường_trực	1
+phó trưởng	1
+trưởng ban_công_tác	1
+tổ_chức chính_quyền	1

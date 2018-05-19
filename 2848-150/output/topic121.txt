@@ -1,0 +1,209 @@
+đáp_ứng yêu_cầu	239
+điều_kiện thuận_lợi	221
+quy_định cụ_thể	169
+tiêu_chuẩn quy_định	150
+đáp_ứng nhu_cầu	118
+điều_kiện :	114
+đáp_ứng điều_kiện	101
+điều_kiện quy_định	89
+căn_cứ nhu_cầu	82
+đảm_bảo yêu_cầu	81
+tùy tính_chất	81
+đảm_bảo điều_kiện	81
+phù_hợp khả_năng	79
+phù_hợp đặc_điểm	78
+căn_cứ khả_năng	78
+căn_cứ tình_hình thực_tế	77
+phù_hợp tình_hình	74
+đảm_bảo an_toàn	74
+phù_hợp yêu_cầu	74
+phù_hợp điều_kiện	73
+cụ_thể :	71
+căn_cứ tình_hình	66
+đảm_bảo nguyên_tắc	66
+căn_cứ nội_dung	66
+căn_cứ đặc_điểm	65
+đảm_bảo tiêu_chuẩn	64
+khối_lượng công_việc	61
+điều_kiện cụ_thể	59
+thực_tế địa_phương	58
+tình_hình thực_tế	57
+căn_cứ tính_chất	57
+phù_hợp tình_hình thực_tế	56
+nguyên_tắc :	53
+nội_dung quy_định	51
+căn_cứ số_lượng	51
+thứ_tự ưu_tiên	50
+tình_hình thực_tế địa_phương	48
+phục_vụ nhu_cầu	47
+tuỳ tính_chất	47
+căn_cứ chức_năng	46
+bổ_sung phù_hợp	44
+phù_hợp quy_định	42
+điều_kiện cần_thiết	41
+điều_kiện năng_lực	39
+tiêu_chuẩn cụ_thể	38
+cải_thiện điều_kiện	37
+tiêu_chuẩn điều_kiện	36
+quy_định nguyên_tắc	36
+phục_vụ yêu_cầu	35
+phù_hợp thực_tế	34
+cụ_thể địa_phương	33
+bảo_đảm yêu_cầu	33
+đáp_ứng tiêu_chí	33
+quy_định cụ_thể chức_năng	32
+căn_cứ kết_quả	31
+đảm_bảo chất_lượng	31
+bảo_đảm nguyên_tắc	30
+tổng_hợp nhu_cầu	30
+bảo_đảm điều_kiện	30
+điều_kiện thực_tế	30
+đáp_ứng điều_kiện :	28
+điều_chỉnh phù_hợp	28
+quy_định cụ_thể :	27
+khả_năng cân_đối	27
+đảm_bảo quyền_lợi	27
+nội_dung công_việc	27
+yêu_cầu nhiệm_vụ	27
+căn_cứ tình_hình thực_tế địa_phương	27
+nội_dung chủ_yếu	26
+xác_định nhu_cầu	26
+tuỳ điều_kiện cụ_thể	25
+phù_hợp tính_chất	25
+căn_cứ khối_lượng công_việc	23
+đảm_bảo điều_kiện :	23
+dựa nguyên_tắc	23
+nguyên_tắc đảm_bảo	23
+điều_kiện bảo_đảm	23
+đảm_bảo yêu_cầu :	22
+phù_hợp nhu_cầu	21
+tuỳ tình_hình_cụ_thể	21
+số_lượng chất_lượng	21
+phù_hợp nội_dung	21
+đáp_ứng tiêu_chuẩn quy_định	21
+đảm_bảo tiến_độ	21
+điều_kiện làm_việc	21
+đảm_bảo phù_hợp	21
+phù_hợp tiêu_chuẩn	21
+tính_chất đặc_thù	21
+khối_lượng công_việc thực_tế địa_phương	20
+nội_dung :	20
+tuỳ yêu_cầu	20
+phù_hợp tình_hình thực_tế địa_phương	20
+tùy mức_độ	20
+cụ_thể phù_hợp	19
+điều_kiện kinh_tế	19
+: chứng_chỉ	19
+phù_hợp đặc_thù	19
+đảm_bảo thông_tin điều_kiện :	19
+đặc_điểm cụ_thể	19
+đảm_bảo tuân_thủ	19
+căn_cứ chỉ_thị	18
+cụ_thể hóa	18
+tính_chất công_việc	18
+yêu_cầu thực_tế	18
+tuỳ mức_độ	17
+tùy tình_hình	17
+công_việc :	17
+xác_định cụ_thể	17
+đáp_ứng tiêu_chuẩn	17
+nhu_cầu thị_trường	17
+điều_kiện phép	17
+chuẩn_bị điều_kiện	17
+phù_hợp chuyên_ngành	17
+phù_hợp điều_kiện thực_tế	17
+điều_kiện tự_nhiên	16
+phù_hợp vị_trí việc_làm	16
+phù_hợp quy_mô	16
+tùy trường_hợp cụ_thể	16
+đầy_đủ điều_kiện	16
+tối_thiểu quy_định	16
+tuỳ điều_kiện	16
+chủ_yếu :	15
+bảo_đảm chất_lượng	15
+tuỳ tình_hình	15
+đồng_thời đảm_bảo	15
+khả_năng thực_tế	15
+căn_cứ khối_lượng	14
+xác_định vị_trí	14
+điều_kiện an_toàn	14
+điều_kiện thành_lập	14
+tình_hình_cụ_thể địa_phương	14
+căn_cứ tình_hình_cụ_thể	14
+hoàn_cảnh cụ_thể	14
+nội_dung cụ_thể	13
+quy_định chức_năng	13
+bảo_đảm an_toàn	13
+tiêu_chuẩn chất_lượng	12
+tùy điều_kiện	12
+căn_cứ xác_định	12
+xác_định khối_lượng	12
+tùy tình_hình thực_tế	12
+điều_kiện cụ_thể địa_phương	12
+công_việc cụ_thể	11
+phù_hợp vị_trí	11
+chất yêu_cầu nghiêm_ngặt an_toàn	11
+khả_năng chi_trả	11
+đảm_bảo tiết_kiệm	10
+điều_kiện thực_tế địa_phương	10
+phù_hợp giá_cả	10
+đáp_ứng yêu_cầu phát_triển	10
+trường_hợp cụ_thể	10
+tùy khả_năng	10
+bố_trí công_việc	9
+công_việc quy_định	9
+nguyên_tắc bảo_đảm	9
+chất yêu_cầu nghiêm_ngặt	9
+ưu_tiên bố_trí	8
+thay_đổi nội_dung	8
+căn_cứ chức_năng nhiệm_vụ	8
+trường_hợp cần_thiết	8
+nội_dung cơ_bản	8
+tiêu_chí xác_định	8
+nhu_cầu thực_tế	8
+địa_phương đảm_bảo	8
+nội_dung chủ_yếu :	7
+yêu_cầu nghiêm_ngặt	6
+tuân_thủ quy_định	6
+giá_cả thị_trường	6
+bảo_đảm quyền_lợi	6
+thông_tin cần_thiết	6
+cụ_thể chức_năng	6
+tuỳ trường_hợp cụ_thể	6
+công_việc thực_tế	5
+tình_hình thực_tiễn	5
+khối_lượng công_việc thực_tế	4
+điều_kiện bảo_đảm an_toàn	4
+chuẩn_bị nội_dung	4
+cần_thiết phục_vụ	4
+tùy trường_hợp	4
+chức_năng nhiệm_vụ	4
+vị_trí việc_làm	4
+yêu_cầu phát_triển	4
+đầy_đủ nội_dung	3
+trường_hợp xác_định	3
+tình_hình phát_triển	3
+tính_chất mức_độ	3
+trường_hợp thay_đổi	3
+đặc_điểm khối_lượng công_việc thực_tế	2
+1985 quy_định	2
+thông_tin xác_định	2
+công_việc thực_tế địa_phương	2
+nội_dung cơ_bản :	2
+phục_vụ phát_triển	2
+phương_pháp xác_định	2
+xác_định nhiệm_vụ	2
+xác_định số_lượng	2
+nội_dung cụ_thể :	1
+số_lượng làm_việc	1
+vị_trí chức_năng	1
+tổng_hợp tình_hình	1
+hiện đảm_nhiệm	1
+tình_hình kinh_tế	1
+tuỳ trường_hợp	1
+phát_triển thị_trường	1
+thông_tin thị_trường	1
+đặc_điểm khối_lượng công_việc	1
+chuẩn_bị đầy_đủ	1
+hoàn_cảnh kinh_tế	1
+yêu_cầu nghiêm_ngặt an_toàn	1

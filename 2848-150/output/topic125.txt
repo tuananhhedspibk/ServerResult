@@ -1,0 +1,307 @@
+bảo_vệ môi_trường	565
+sở tài_nguyên môi_trường	561
+tài_nguyên môi_trường	444
+khai_thác khoáng_sản	160
+phòng tài_nguyên môi_trường	144
+vệ_sinh môi_trường	114
+hoạt_động khoáng_sản	111
+ô_nhiễm môi_trường	102
+phối_hợp sở tài_nguyên môi_trường	91
+giám_đốc sở tài_nguyên môi_trường	74
+phục_hồi môi_trường	74
+thăm_dò khoáng_sản	73
+đề_nghị giám_đốc sở tài_nguyên môi_trường tờ_trình	63
+cơ_quan_tài_nguyên môi_trường	60
+kế_hoạch bảo_vệ môi_trường	59
+báo_cáo đánh_giá tác_động môi_trường	58
+bảo_vệ khoáng_sản khai_thác	58
+tài_nguyên khoáng_sản	54
+gửi sở tài_nguyên môi_trường	53
+sự_cố môi_trường	52
+khai_thác mỏ	50
+quan_trắc môi_trường	46
+nước_sạch vệ_sinh môi_trường nông_thôn	44
+giấy_phép khai_thác khoáng_sản	43
+phòng tài_nguyên môi_trường huyện	41
+cơ_sở dữ_liệu tài_nguyên môi_trường	40
+môi trườn	40
+đấu_giá quyền khai_thác khoáng_sản	39
+điều_tra cơ_bản địa_chất tài_nguyên khoáng_sản	38
+công_tác bảo_vệ môi_trường	37
+mỏ khoáng_sản	37
+hoạt_động khai_thác khoáng_sản	35
+sở tài_nguyên môi_trường trách_nhiệm	35
+đề_án điều_tra cơ_bản địa_chất tài_nguyên khoáng_sản	34
+pháp_luật bảo_vệ môi_trường	33
+đánh_giá tác_động môi_trường	33
+khoáng_sản khai_thác	33
+tài_nguyên môi_trường quy_định	33
+trữ_lượng khoáng_sản	33
+nhiệm_vụ bảo_vệ môi_trường	33
+giám_đốc sở : tài_nguyên môi_trường	32
+phí bảo_vệ môi_trường đối_với nước_thải sinh_hoạt	32
+quyền khai_thác khoáng_sản	32
+cải_thiện môi_trường	31
+khai_thác sử_dụng	31
+bộ_trưởng tài_nguyên môi_trường quy_định	31
+điều_tra cơ_bản	29
+bảo_vệ môi_trường đối_với	29
+bộ_trưởng tài_nguyên môi_trường	28
+hoạt_động khoáng_sản trái_phép	27
+thực_hiện nhiệm_vụ bảo_vệ môi_trường	27
+hội_đồng xét_duyệt trữ_lượng khoáng_sản	27
+hoạt_động bảo_vệ môi_trường	27
+bộ_phận tiếp_nhận kết_quả sở tài_nguyên môi_trường	26
+thẩm_định báo_cáo đánh_giá tác_động môi_trường	25
+tài_nguyên tính_chất lý	25
+thân_thiện môi_trường	25
+phí bảo_vệ môi_trường đối_với nước_thải	25
+sở tài_nguyên môi_trường ký	25
+sự_nghiệp môi_trường	24
+căn_cứ luật bảo_vệ môi_trường 23 6 2014	24
+cá_nhân khai_thác khoáng_sản	24
+sử_dụng khoáng_sản	24
+chế_biến khoáng_sản	23
+tiền quyền khai_thác khoáng_sản	23
+môi_trường biển	23
+quy_định pháp_luật bảo_vệ môi_trường	23
+tạm_thời cấm hoạt_động khoáng_sản	23
+sở tài_nguyên môi_trường chủ_trì	23
+đề_án bảo_vệ môi_trường đơn_giản	22
+quy_định luật khoáng_sản	22
+đề_án bảo_vệ môi_trường chi_tiết	22
+bảo_vệ môi_trường khu công_nghiệp	22
+luật khoáng_sản	22
+trình sở tài_nguyên môi_trường	22
+tài_nguyên môi_trường hướng_dẫn	21
+cá_nhân hoạt_động khoáng_sản	21
+phòng tài_nguyên môi_trường kiểm_tra	21
+kinh_phí sự_nghiệp bảo_vệ môi_trường	21
+phí bảo_vệ môi_trường đối_với nước_thải công_nghiệp	21
+kiểm_soát ô_nhiễm môi_trường	21
+hoạt_động thăm_dò	21
+phí bảo_vệ môi_trường đối_với khai_thác khoáng_sản	21
+đề_án bảo_vệ môi_trường	21
+dữ_liệu tài_nguyên môi_trường	20
+tài_nguyên môi_trường quy_định chi_tiết	20
+hiện_trạng môi_trường	20
+công_nghệ môi_trường	20
+công_nghệ bảo_vệ môi_trường	20
+kinh_phí sự_nghiệp môi_trường	20
+đề_nghị giám_đốc sở tài_nguyên môi_trường	20
+cá_nhân giấy_phép khai_thác khoáng_sản	19
+giải_thưởng môi_trường	19
+chi sự_nghiệp môi_trường	19
+hoạt_động khai_thác	19
+tờ_trình phòng tài_nguyên môi_trường	18
+nhiệm_vụ chi bảo_vệ môi_trường	18
+quan_trắc phân_tích môi_trường	17
+khai_thác khoáng_sản trái_phép	16
+bảo_vệ tài_nguyên khoáng_sản	16
+giám_đốc sở	16
+khoáng_sản kim_loại	16
+căn_cứ luật bảo_vệ môi_trường	16
+tài_nguyên thiên_nhiên	16
+sở tài_nguyên môi_trường tổng_hợp	16
+cơ_sở ô_nhiễm môi_trường nghiêm_trọng	15
+đối_với hoạt_động	15
+bảo_vệ tài_nguyên	15
+sự_nghiệp bảo_vệ môi_trường	15
+bảo_vệ môi_trường đối_với khai_thác khoáng_sản	15
+khắc_phục sự_cố	14
+phép hoạt_động khoáng_sản	14
+hoạt_động khoáng_sản địa_bàn tỉnh	14
+cá_nhân khai_thác	14
+quản_lý tổng_hợp tài_nguyên bảo_vệ môi_trường biển	14
+luật bảo_vệ môi_trường	13
+khắc_phục ô_nhiễm	13
+giấy_phép khai_thác	13
+khoáng_sản trái_phép	12
+ứng_phó sự_cố	12
+vệ_sinh môi_trường nông_thôn	11
+khai_thác tài_nguyên	11
+đóng cửa mỏ	11
+quản_lý hoạt_động khoáng_sản	11
+giấy_phép thăm_dò khoáng_sản	11
+phí bảo_vệ môi_trường	11
+địa_chất khoáng_sản	11
+bảo_vệ môi_trường đối_với nước_thải công_nghiệp	10
+vệ_sinh công_cộng	10
+bộ_trưởng tài_nguyên môi_trường quy_định chi_tiết	10
+tiếp_nhận nước_thải	10
+đóng cửa	10
+biến_đổi khí_hậu	10
+khai_thác sử_dụng khoáng_sản	10
+môi_trường chiến_lược	9
+quyền khai_thác	9
+hợp vệ_sinh	9
+sở tài_nguyên	9
+môi_trường sinh_thái	9
+giám_đốc điều_hành	9
+hoạt_động khoáng_sản địa_bàn	9
+bảo_vệ môi_trường đối_với nước_thải sinh_hoạt	9
+đề_án đóng cửa mỏ	9
+tổng_hợp tài_nguyên bảo_vệ môi_trường biển	9
+đánh_giá môi_trường chiến_lược	9
+hành_lang bảo_vệ	9
+phê_duyệt báo_cáo đánh_giá tác_động môi_trường	9
+trạm quan_trắc	8
+vi_phạm pháp_luật bảo_vệ môi_trường	8
+cơ_sở dữ_liệu	8
+khai_thác bảo_vệ	8
+hoạt_động điều_tra cơ_bản	7
+cá_nhân hoạt_động	7
+bảo_vệ khoáng_sản	7
+tài_nguyên bảo_vệ môi_trường biển	7
+tài_nguyên bảo_vệ môi_trường	7
+bảo_vệ môi_trường đối_với nước_thải	7
+xấu môi_trường	7
+môi_trường đối_với	7
+tác_động xấu	7
+môi_trường địa_bàn tỉnh	6
+tài_nguyên môi_trường quy_định hồ_sơ	6
+kiểm_soát ô_nhiễm	6
+bảo_vệ môi_trường biển	6
+công_tác bảo_vệ	6
+khoáng_sản thẩm_quyền	6
+đối_với khai_thác khoáng_sản	5
+khai_thác sử_dụng cơ_sở dữ_liệu	5
+giấy_phép thăm_dò	5
+quản_lý hoạt_động khoáng_sản địa_bàn tỉnh	5
+nước_sạch vệ_sinh môi_trường	5
+điều_tra cơ_bản địa_chất	5
+nước_thải công_nghiệp	5
+tổng_hợp tài_nguyên	5
+cơ_sở ô_nhiễm môi_trường	5
+môi_trường quy_định	5
+phòng tài_nguyên	5
+bảo_vệ môi_trường địa_bàn tỉnh	5
+kết_quả sở tài_nguyên môi_trường	5
+phép khai_thác	5
+sử_dụng nước_sạch	4
+khoáng_sản địa_bàn tỉnh	4
+giám_đốc sở :	4
+xét_duyệt trữ_lượng khoáng_sản	4
+6 2014 bộ_trưởng tài_nguyên môi_trường quy_định chi_tiết	4
+thu phí bảo_vệ môi_trường	4
+ứng_phó biến_đổi khí_hậu	4
+quản_lý khai_thác	4
+đề_án đóng cửa	4
+điều_tra địa_chất	4
+đề_án thăm_dò	4
+quản_lý tổng_hợp tài_nguyên	4
+khoáng_sản địa_bàn	4
+quản_lý bảo_vệ	4
+sở tài_nguyên môi_trường tờ_trình	4
+6 2014 tài_nguyên môi_trường quy_định chi_tiết	4
+quản_lý nhà_nước bảo_vệ môi_trường	4
+kế_hoạch bảo_vệ	4
+đề_án điều_tra cơ_bản địa_chất	3
+trách_nhiệm sở	3
+cơ_sở dữ_liệu tài_nguyên	3
+thu phí bảo_vệ môi_trường đối_với nước_thải	3
+tiền bảo_vệ	3
+bảo_vệ môi_trường địa_bàn	3
+6 2014 tài_nguyên môi_trường quy_định	3
+đối_với cơ_sở	3
+tiền phí bảo_vệ môi_trường đối_với nước_thải	3
+phối_hợp công_tác	3
+phân_tích môi_trường	3
+điều_tra cơ_bản địa_chất tài_nguyên	3
+2015 bộ_trưởng tài_nguyên môi_trường	3
+gửi sở	3
+pháp_luật khoáng_sản	3
+hoạt_động quan_trắc	3
+khai_thác trái_phép	3
+pháp_luật bảo_vệ	3
+đóng địa_bàn	3
+tác_động môi_trường	3
+2014 tài_nguyên môi_trường	3
+vệ_sinh công_nghiệp	2
+6 2014 bộ_trưởng tài_nguyên môi_trường quy_định	2
+môi_trường trách_nhiệm	2
+thu phí bảo_vệ môi_trường đối_với	2
+cấm hoạt_động khoáng_sản	2
+công_nghệ môi_trường hướng_dẫn	2
+bảo_vệ môi_trường chi_tiết	2
+căn_cứ luật bảo_vệ	2
+thăm_dò địa_chất	2
+quản_lý nhà_nước khoáng_sản	2
+luật bảo_vệ	2
+đánh_giá tác_động	2
+phê_duyệt đề_án	2
+phối_hợp phòng	2
+quốc_gia nước_sạch vệ_sinh môi_trường nông_thôn	2
+khai_thác khoáng_sản địa_bàn tỉnh	2
+quản_lý nhà_nước tài_nguyên	2
+tài_nguyên môi_trường chủ_trì	2
+nhiệm_vụ chi	2
+sử_dụng cơ_sở dữ_liệu tài_nguyên môi_trường	2
+hội_đồng xét_duyệt	2
+phí bảo_vệ môi_trường đối_với	2
+cơ_sở đề_nghị	2
+hội_đồng xét_duyệt trữ_lượng	2
+tạm_thời cấm	2
+tài_nguyên môi	2
+luật bảo_vệ môi_trường 23 6 2014	2
+quy_định pháp_luật	2
+môi_trường nông_thôn	2
+đối_với nước_thải công_nghiệp	2
+khai_thác quản_lý	1
+kế_hoạch sử_dụng	1
+thẩm_định đề_án	1
+tài_nguyên địa_bàn tỉnh	1
+công_tác khảo_sát	1
+quy_định quản_lý bảo_vệ	1
+quản_lý hoạt_động	1
+bộ_phận tiếp_nhận kết_quả sở	1
+sinh_hoạt địa_bàn tỉnh	1
+quan_trắc phân_tích	1
+chủ_trì phối_hợp	1
+kết_quả hoạt_động	1
+đấu_giá quyền khai_thác	1
+quản_lý nhà_nước bảo_vệ	1
+phối_hợp sở	1
+trách_nhiệm hướng_dẫn	1
+trách_nhiệm quản_lý	1
+khoáng_sản khai_thác địa_bàn	1
+đối_với nước_thải sinh_hoạt	1
+2014 bộ_trưởng tài_nguyên môi_trường	1
+tính_chất lý	1
+dữ_liệu tài_nguyên	1
+hoạt_động sự_nghiệp	1
+nước_sạch vệ_sinh	1
+tài_nguyên môi_trường trách_nhiệm	1
+đề_nghị giám_đốc sở	1
+tài_nguyên môi_trường huyện	1
+công_tác phòng	1
+trách_nhiệm báo_cáo	1
+công_nghiệp chế_biến	1
+đánh_giá kết_quả	1
+môi_trường 23	1
+đối_với nước_thải	1
+nông_thôn địa_bàn	1
+công_tác điều_tra	1
+hoạt_động hội_đồng	1
+môi_trường khu công_nghiệp	1
+phê_duyệt kết_quả	1
+thẩm_định trình	1
+hội_đồng thẩm_định	1
+quyền quản_lý	1
+2014 bộ_trưởng tài_nguyên môi_trường quy_định	1
+nhiệm_vụ bảo_vệ	1
+bộ_phận tiếp_nhận kết_quả sở tài_nguyên	1
+đề_án điều_tra	1
+công_tác quản_lý bảo_vệ	1
+giấy_phép hoạt_động	1
+môi_trường địa_bàn	1
+tổng_hợp kế_hoạch	1
+kết_quả thẩm_định	1
+tài_nguyên địa_bàn	1
+báo_cáo kết_quả	1
+đề_án điều_tra cơ_bản địa_chất tài_nguyên	1
+cá_nhân giấy_phép	1
+hoạt_động điều_tra	1
+cá_nhân vi_phạm	1
+sinh_hoạt địa_bàn	1
+khai_thác khoáng_sản địa_bàn	1

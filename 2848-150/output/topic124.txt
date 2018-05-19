@@ -1,0 +1,528 @@
+tổ_chức thực_hiện	2008
+thực_hiện nhiệm_vụ	827
+quá_trình thực_hiện	796
+triển_khai thực_hiện	301
+thực_hiện công_tác	275
+hướng_dẫn thực_hiện	264
+kiểm_tra thực_hiện	260
+thực_hiện quy_định	251
+thực_hiện chính_sách	248
+quá_trình thực_hiện vướng_mắc	247
+tổ_chức kiểm_tra	245
+giao nhiệm_vụ	241
+thực_hiện chế_độ	219
+thực_hiện quyết_định	206
+thực_hiện chương_trình	187
+hoàn_thành nhiệm_vụ	187
+kinh_phí thực_hiện	184
+trách_nhiệm tổ_chức	175
+nhiệm_vụ giao	175
+tổ_chức triển_khai thực_hiện	169
+thực_hiện nội_dung	164
+thực_hiện đầy_đủ	161
+trách_nhiệm hướng_dẫn	156
+tổ_chức bộ_máy	152
+thực_hiện biện_pháp	149
+hướng_dẫn thực_hiện quyết_định	137
+thực_hiện chức_năng	123
+tổ_chức triển_khai	119
+thời_gian thực_hiện	116
+quá_trình triển_khai thực_hiện	109
+trách_nhiệm tổ_chức thực_hiện	106
+chỉ_đạo thực_hiện	99
+thực_hiện nghĩa_vụ	97
+tổ_chức tuyên_truyền	93
+thực_hiện nhiệm_vụ giao	90
+thực_hiện quy_chế	89
+thực_hiện kế_hoạch	89
+thực_hiện công_việc	88
+hướng_dẫn kiểm_tra	87
+khó_khăn vướng_mắc	84
+tổ_chức nhiệm_vụ bồi_thường	84
+hoàn_thành nhiệm_vụ giao	82
+quá_trình thực_hiện khó_khăn	81
+trách_nhiệm chỉ_đạo	81
+thực_hiện thủ_tục	73
+thực_hiện nghiêm_chỉnh	72
+quá_trình tổ_chức thực_hiện	71
+phối_hợp thực_hiện	71
+trách_nhiệm thực_hiện	68
+tổ_chức hoạt_động	67
+giám_sát thực_hiện	66
+tiếp_tục thực_hiện	65
+tình_hình thực_hiện	65
+trách_nhiệm kiểm_tra	62
+hướng_dẫn thực_hiện :	55
+thực_hiện chủ_trương	55
+nhiệm_vụ quyền_hạn	55
+thực_hiện cơ_chế	55
+hướng_dẫn nghiệp_vụ	54
+thành_phố tổ_chức	54
+hướng_dẫn tổ_chức thực_hiện	54
+thực_hiện nghiêm_túc	53
+đồng_thời chỉ_đạo	52
+tổ_chức thực_hiện công_tác	52
+triển_khai công_tác	51
+thực_hiện quy_trình	50
+tổ_chức thực_hiện nhiệm_vụ	50
+thực_hiện một_số nhiệm_vụ	49
+tổ_chức tập_huấn	49
+kiểm_tra thực_hiện quy_định	48
+thực_hiện một_số	46
+quá_trình thực_hiện vướng_mắc đề_nghị	46
+đội kiểm_tra liên_ngành 814 huyện	45
+đội kiểm_tra liên_ngành 814 tỉnh	44
+thực_hiện nghị_định	44
+tổ_chức hội_nghị	44
+tiến_độ thực_hiện	43
+tổ_chức thực_hiện chương_trình	42
+kinh_phí thực_hiện nhiệm_vụ	42
+hướng_dẫn thực_hiện chế_độ	41
+quá_trình thực_hiện khó_khăn vướng_mắc	40
+tổ_chức thực_hiện kế_hoạch	40
+tổ_chức chính_trị	39
+phát_sinh quá_trình	39
+tổ_chức thẩm_định	38
+thực_hiện trình_tự	36
+thực_hiện nghiêm	36
+thực_hiện nguyên_tắc	36
+công_tác kiểm_tra	35
+kiểm_tra thực_hiện quyết_định	34
+thực_hiện đề_án	34
+quyền_hạn trách_nhiệm	34
+phân_công trách_nhiệm	34
+nhiệm_vụ phân_công	33
+nội_dung chương_trình	33
+đầy_đủ nội_dung	32
+tổ_chức họp	32
+quá_trình triển_khai	32
+sắp_xếp tổ_chức	32
+triển_khai thực_hiện quyết_định	30
+quyền_hạn tổ_chức bộ_máy	30
+thực_hiện hiệu_quả	30
+kinh_phí thực_hiện chế_độ	30
+phân_công nhiệm_vụ	30
+quyền_hạn cơ_cấu tổ_chức	29
+tổ_chức lễ	29
+đôn_đốc thực_hiện	29
+thực_hiện nhiệm_vụ phân_công	29
+thực_hiện phương_thức	28
+thực_hiện chế_độ thông_tin	27
+tổ_chức lớp tập_huấn	27
+phát_sinh vướng_mắc	27
+chức_năng nhiệm_vụ	27
+: thực_hiện quy_định	27
+tổ_chức lớp_học	27
+thực_hiện kê_khai	26
+tổ_chức thực_hiện bồi_thường	26
+thị_trấn tổ_chức	26
+hướng_dẫn thực_hiện một_số	26
+cơ_chế chính_sách	26
+thực_hiện chỉ_thị	25
+thời_gian hoàn_thành	25
+thực_hiện nhiệm_vụ chính_trị	25
+đảm_bảo thực_hiện	25
+thực_hiện xong	24
+nội_dung quy_định	24
+thực_hiện dân_chủ	24
+trách_nhiệm đôn_đốc	24
+vướng_mắc đề_nghị	24
+quyền_hạn tổ_chức	24
+người_làm nhiệm_vụ	24
+kiểm_tra liên_ngành	24
+triển_khai công_việc	23
+triển_khai hoạt_động	23
+thực_hiện công_việc :	23
+chế_độ chính_sách	23
+nhiệm_vụ chính_trị	23
+hướng_dẫn thực_hiện nghị_định	23
+quá_trình thực_hiện thông_tư	23
+tập_huấn nghiệp_vụ	23
+thực_hiện nhiệm_vụ quản_lý	22
+giao trực_tiếp	22
+vận_động tổ_chức	22
+thực_hiện đầy_đủ nghĩa_vụ	22
+thực_hiện công_tác kiểm_tra	22
+thực_hiện thí_điểm	22
+quá_trình tổ_chức	22
+vấn_đề phát_sinh khó_khăn	21
+đề_xuất biện_pháp	21
+thực_hiện đường_lối	21
+bao_quát đầy_đủ	21
+quá_trình hoạt_động	21
+chỉ_đạo tổ_chức thực_hiện	21
+tổ_chức lớp	21
+phát_sinh khó_khăn	21
+triển_khai thực_hiện hiệu_quả	20
+thực_hiện đầy_đủ quy_định	20
+hướng_dẫn thực_hiện chính_sách	20
+khó_khăn vướng_mắc đề_nghị	19
+kinh_phí thực_hiện chương_trình	19
+suốt quá_trình	19
+hoàn_thành nghĩa_vụ	19
+kiểm_tra đôn_đốc	19
+nhiệm_vụ trọng_tâm	19
+quá_trình thực_hiện nhiệm_vụ	19
+hội_nghị tập_huấn triển_khai nhiệm_vụ công_tác	19
+triển_khai thực_hiện nhiệm_vụ	19
+thực_hiện chi_trả	19
+thực_hiện đầy_đủ chế_độ	19
+hướng_dẫn cơ_chế	18
+tổ_chức cá_nhân	18
+kiểm_tra chấp_hành	18
+trách_nhiệm tổ_chức triển_khai thực_hiện	18
+tham_gia thực_hiện	18
+hội_nghị tập_huấn triển_khai nhiệm_vụ	18
+triển_khai thực_hiện quy_chế	18
+mô_hình tổ_chức	18
+thực_hiện nội_dung quy_định	17
+trách_nhiệm thực_hiện đầy_đủ	17
+tổ_chức nghiên_cứu	17
+vấn_đề phát_sinh	17
+công_tác bồi_thường	17
+quá_trình thực_hiện phát_sinh vướng_mắc	17
+kiện_toàn tổ_chức	17
+đôn_đốc kiểm_tra	17
+thực_hiện một_số nội_dung	17
+phục_vụ nhiệm_vụ chính_trị	17
+giao kế_hoạch	17
+tình_hình thực_hiện kế_hoạch	16
+tổ_chức liên_quan	16
+vướng_mắc phát_sinh	16
+phát_sinh quá_trình thực_hiện	16
+một_số vấn_đề	16
+quy_định trình_tự	16
+một_số công_việc	16
+nội_dung công_việc	16
+hướng_dẫn thực_hiện một_số nghị_định	15
+triển_khai thực_hiện thông_tư	15
+cơ_cấu tổ_chức	15
+tổ_chức thực_hiện quy_chế	15
+thực_hiện phong_trào	15
+trách_nhiệm bố_trí	15
+chỉ_đạo công_tác	15
+tuyên_truyền chủ_trương	15
+tuyên_truyền phổ_biến	15
+tổ_chức chỉ_đạo thực_hiện	15
+hướng_dẫn quản_lý	14
+triển_khai thực_hiện chương_trình	14
+thực_hiện quy_định nghị_định	14
+tổ_chức đoàn_thể	14
+tình_hình thực_hiện nhiệm_vụ	14
+triển_khai thực_hiện quy_định	14
+hướng_dẫn một_số	14
+tổ_chức nhân_sự	13
+tổ_chức thực_hiện biện_pháp	13
+chức_năng nhiệm_vụ giao	13
+nội_dung liên_quan	13
+thực_hiện giải_pháp	13
+triển_khai thực_hiện kế_hoạch	13
+liên_quan thực_hiện	13
+nhiệm_vụ quyền_hạn :	13
+quá_trình thực_hiện vấn_đề	13
+thực_hiện chế_độ tự_chủ	13
+vấn_đề vướng_mắc	13
+thực_hiện vướng_mắc	12
+chế_độ quy_định	12
+một_số nội_dung	12
+cơ_chế quản_lý_tài_chính	12
+phân_công phụ_trách	12
+vướng_mắc quá_trình	12
+tháo_gỡ khó_khăn	12
+thực_hiện nghiêm_túc quy_định	12
+văn_bản hướng_dẫn	11
+đề_xuất giải_pháp	11
+quy_định quy_chế	11
+bảo_đảm thực_hiện	11
+nghiên_cứu đề_xuất	11
+thực_hiện lồng_ghép	11
+hoàn_thành thủ_tục	11
+thực_hiện khoán	11
+tiếp_tục triển_khai thực_hiện	11
+chỉ_đạo thực_hiện công_tác	11
+thực_hiện giám_sát	11
+thành_phố tổ_chức triển_khai thực_hiện	11
+thành_phố tổ_chức triển_khai	11
+văn_bản hướng_dẫn thực_hiện	11
+tổ_chức lựa_chọn	11
+giải_pháp thực_hiện	11
+tổ_chức triển_khai thực_hiện quy_định	11
+thực_hiện chế_độ tiền_lương	11
+chỉ_đạo triển_khai	11
+hướng_dẫn chức_năng	10
+công_tác tuyên_truyền	10
+thực_hiện công_tác quản_lý	10
+phối_hợp liên_ngành	10
+tổ_chức quốc_tế	10
+thành_phố trách_nhiệm	10
+hướng_dẫn thực_hiện quy_chế	10
+thực_hiện quy_định quy_chế	10
+quy_chế tổ_chức hoạt_động	10
+thực_hiện thông_tư	10
+vướng_mắc quá_trình thực_hiện	10
+kinh_phí hoạt_động	10
+kiểm_tra giám_sát	9
+đầy_đủ nghĩa_vụ	9
+quy_định chức_năng	9
+tài_chính hướng_dẫn thực_hiện	9
+trách_nhiệm tổ_chức triển_khai	9
+quy_định quyết_định	9
+một_số nhiệm_vụ	9
+thực_hiện khó_khăn	9
+kết_quả thực_hiện nhiệm_vụ	9
+phục_vụ nhiệm_vụ	9
+kiểm_tra công_tác	9
+thực_hiện nội_dung công_việc	9
+kinh_phí chương_trình	9
+hướng_dẫn chế_độ	8
+bố_trí công_việc	8
+bố_trí kinh_phí thực_hiện	8
+hướng_dẫn một_số vấn_đề	8
+quy_chế hoạt_động	8
+kinh_phí thực_hiện chính_sách	8
+thực_hiện thỏa_thuận	8
+công_an hướng_dẫn thực_hiện	8
+tiến_độ thực_hiện nhiệm_vụ	8
+trách_nhiệm phối_hợp	8
+lớp tập_huấn	8
+thực_hiện công_tác bồi_thường	8
+trình_tự thủ_tục	8
+đột_xuất tình_hình thực_hiện nhiệm_vụ	8
+trực_tiếp nhiệm_vụ	8
+cơ_chế hoạt_động	8
+nội_dung hoạt_động	8
+triển_khai thực_hiện nội_dung	8
+chế_độ quản_lý	8
+một_số biện_pháp	8
+đội kiểm_tra liên_ngành 814	8
+hướng_dẫn công_tác quản_lý_tài_chính	7
+tổ_chức đón_tiếp	7
+quản_lý tổ_chức bộ_máy	7
+quá_trình thực_hiện phát_sinh	7
+quy_định nghị_định	7
+công_tác thông_tin	7
+phối_hợp công_tác	7
+thực_hiện công_việc quy_định	7
+nghĩa_vụ liên_quan	7
+chính_sách chế_độ	7
+chủ_trương chính_sách	7
+nhiệm_vụ bảo_vệ	7
+chấp_hành chính_sách	7
+tập_huấn triển_khai	6
+trách_nhiệm bồi_thường	6
+thực_hiện chế_độ hợp_đồng	6
+trách_nhiệm quản_lý	6
+tổ_chức cá_nhân thực_hiện	6
+tiến_độ triển_khai	6
+đề_xuất chủ_trương	6
+huyện trách_nhiệm	6
+tổ_chức thực_hiện giám_sát	6
+quy_định cơ_chế	6
+hợp_đồng thực_hiện nhiệm_vụ	6
+chỉ_đạo phong_trào	6
+quá_trình thực_hiện vướng_mắc đề_nghị phản_ánh	6
+thực_hiện biện_pháp bảo_vệ	6
+nhiệm_vụ giải_pháp	6
+chế_độ đãi_ngộ	5
+bố_trí kinh_phí	5
+tài_chính hướng_dẫn thực_hiện quyết_định	5
+giám_sát quá_trình	5
+triển_khai nhiệm_vụ công_tác	5
+thành_viên đội kiểm_tra liên_ngành 814	5
+quyết_định giao	5
+một_số chính_sách	5
+hoàn_thành kế_hoạch	5
+đội kiểm_tra liên_ngành	5
+phương_thức khoán	5
+thực_hiện đồng_bộ	5
+giao trực_tiếp tổ_chức	5
+thực_hiện chiến_lược	5
+quy_chế dân_chủ	5
+đầy_đủ thủ_tục	5
+điều_lệ tổ_chức	5
+phân giao	5
+nghiêm_túc quy_định	5
+huyện chỉ_đạo	5
+kết_quả thực_hiện	5
+hội_nghị tập_huấn	4
+thực_hiện hợp_đồng	4
+thực_hiện chức_năng quản_lý	4
+tình_hình thực_hiện chương_trình	4
+quyết_định chủ_trương	4
+đội kiểm_tra	4
+nhiệm_vụ bồi_thường	4
+thực_hiện nghĩa_vụ tài_chính	4
+một_số chế_độ	4
+liên_quan triển_khai	4
+công_việc liên_quan	4
+thực_hiện cơ_chế tự_chủ	4
+liên_quan tổ_chức triển_khai	4
+hướng_dẫn một_số nội_dung	4
+tỉnh tổ_chức thực_hiện	4
+bảo_đảm thực_hiện nghĩa_vụ	4
+biện_pháp bảo_vệ	4
+trách_nhiệm thực_hiện công_việc	4
+chỉ_đạo trực_tiếp	4
+đầy_đủ chế_độ	4
+tuyên_truyền vận_động	4
+chế_độ quản_lý_tài_chính	4
+chấp_hành quyết_định	4
+tình_hình thực_hiện nhiệm_vụ giao	4
+giám_sát triển_khai	3
+tiếp_tục triển_khai	3
+quy_định một_số	3
+đồng_thời phối_hợp	3
+cơ_chế quản_lý	3
+hướng_dẫn thực_hiện một_số chế_độ	3
+liên_quan quá_trình	3
+liên_quan công_tác	3
+đồng_thời trách_nhiệm	3
+giao trực_tiếp tổ_chức cá_nhân	3
+thông_tin tuyên_truyền	3
+thực_hiện khó_khăn vướng_mắc	3
+hoạt_động đội	3
+chấp_hành đầy_đủ	3
+nhiệm_vụ quản_lý	3
+quyết_định :	3
+trực_tiếp chỉ_đạo	3
+tỉnh tổ_chức triển_khai	3
+nội_dung :	3
+tỉnh thực_hiện chức_năng	3
+tinh_thần trách_nhiệm	3
+nghiên_cứu triển_khai	3
+chấp_hành chế_độ	3
+kết_quả kiểm_tra	3
+tài_chính hướng_dẫn	3
+đảm_bảo công_tác	3
+hoạt_động nghiên_cứu	3
+cơ_chế tự_chủ	3
+triển_khai nhiệm_vụ	3
+thực_hiện công_việc : kiểm_tra	3
+thời_gian công_tác	3
+quy_chế phối_hợp thực_hiện	3
+chương_trình công_tác	3
+hoàn_thành hoàn_thành	3
+quy_chế quản_lý_tài_chính	3
+đột_xuất tình_hình thực_hiện nhiệm_vụ giao	2
+hướng_dẫn thông_tư	2
+bố_trí người_làm	2
+hoạt_động nghiệp_vụ	2
+công_tác phổ_biến	2
+tỉnh giao	2
+thực_hiện nhiệm_vụ bảo_vệ	2
+bao_quát đầy_đủ lĩnh_vực	2
+liên_quan tổ_chức	2
+cá_nhân thực_hiện nhiệm_vụ	2
+kinh_phí phục_vụ công_tác	2
+cá_nhân liên_quan	2
+cơ_cấu tổ_chức bộ_máy	2
+chấp_hành quy_định	2
+kiểm_tra đột_xuất	2
+thông_tư hướng_dẫn	2
+kiểm_tra tình_hình thực_hiện	2
+thực_hiện quy_định thông_tư	2
+tình_hình hoạt_động	2
+cá_nhân tham_gia	2
+giám_sát hoạt_động	2
+quy_chế phối_hợp	2
+giao trực_tiếp nhiệm_vụ	2
+công_tác bảo_vệ	2
+thẩm_định nội_dung	2
+chính_sách tiền_lương	2
+quy_chế giám_sát	2
+quy_định nguyên_tắc	2
+mô_hình quản_lý	2
+thông_tin liên_quan	2
+tham_gia chương_trình	2
+hướng_dẫn một_số :	2
+thực_hiện phát_sinh	2
+bộ_máy quản_lý	2
+chấp_hành nghiêm_chỉnh	2
+kiểm_tra tình_hình	2
+chấp_hành xong	2
+thực_hiện vướng_mắc đề_nghị	2
+thực_hiện hiệu_quả chương_trình	2
+khó_khăn đột_xuất	2
+hướng_dẫn chế_độ quản_lý	2
+cá_nhân trực_tiếp	2
+kiểm_tra chấp_hành quy_định	2
+quản_lý chương_trình	2
+hoàn_thành tiến_độ	2
+bố_trí sắp_xếp	2
+kiểm_tra văn_bản	1
+thông_tư liên_ngành	1
+đảm_bảo tiến_độ	1
+liên_quan kiểm_tra	1
+thực_hiện công_việc quy_định nghị_định	1
+kinh_phí bảo_đảm hoạt_động	1
+tình_hình quản_lý	1
+quy_chế quản_lý	1
+kinh_phí phục_vụ	1
+văn_bản liên_quan	1
+bố_trí kế_hoạch	1
+kinh_phí chi_trả	1
+giám_sát triển_khai thực_hiện	1
+phương_thức chi_trả	1
+kinh_phí tổ_chức hội_nghị	1
+đảm_bảo kinh_phí	1
+công_an hướng_dẫn	1
+thời_gian thực_hiện công_việc	1
+hướng_dẫn chế_độ quản_lý_tài_chính	1
+hoạt_động giám_sát	1
+814 huyện	1
+quản_lý hoạt_động	1
+thực_hiện xong nghĩa_vụ	1
+công_việc :	1
+hoạt_động chương_trình	1
+tỉnh quyết_định	1
+chế_độ tiền_lương	1
+hướng_dẫn quản_lý_tài_chính	1
+thời_gian thẩm_định	1
+tài_chính hướng_dẫn quản_lý	1
+phương_thức phối_hợp	1
+hoạt_động thông_tin	1
+công_tác giám_sát	1
+tài_chính hướng_dẫn thực_hiện chế_độ	1
+kết_quả thẩm_định	1
+một_số nghị_định liên_quan	1
+chế_độ tài_chính	1
+tham_gia hoạt_động	1
+tài_chính hướng_dẫn thực_hiện :	1
+kết_quả công_tác	1
+giao trực_tiếp tổ_chức cá_nhân thực_hiện nhiệm_vụ	1
+chi_trả chế_độ	1
+liên_quan hoạt_động	1
+quy_định một_số nội_dung	1
+trách_nhiệm thực_hiện công_việc :	1
+lĩnh_vực phân_công	1
+quy_định một_số chính_sách	1
+xong thủ_tục	1
+quy_định cơ_chế tự_chủ	1
+công_tác quản_lý_tài_chính	1
+814 tỉnh	1
+công_việc quy_định nghị_định	1
+kiểm_tra liên_ngành 814 huyện	1
+cá_nhân liên_quan công_tác	1
+bảo_đảm bao_quát	1
+triển_khai nhiệm_vụ hội_nghị tổ_chức quy_định điều_lệ tổ_chức chính_trị	1
+nghiệp_vụ công_tác	1
+thực_hiện hướng_dẫn thông_tư	1
+thực_hiện phát_sinh vướng_mắc	1
+liên_quan triển_khai thực_hiện	1
+công_tác quản_lý	1
+lồng_ghép chương_trình	1
+chức_năng quản_lý	1
+kiểm_tra liên_ngành 814 tỉnh	1
+quy_chế quy_định	1
+phục_vụ công_tác	1
+bảo_đảm kinh_phí	1
+trực_tiếp công_tác	1
+chỉ_đạo liên_ngành	1
+hiệu_quả công_tác	1
+quản_lý trực_tiếp	1
+tài_chính hướng_dẫn chế_độ quản_lý	1
+tài_chính nghiên_cứu	1
+công_tác chỉ_đạo	1
+trách_nhiệm thẩm_định	1
+suốt thời_gian	1
+chấp_hành nghiêm_chỉnh quy_định	1

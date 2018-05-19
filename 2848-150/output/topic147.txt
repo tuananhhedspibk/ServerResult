@@ -1,0 +1,295 @@
+sở tư_pháp	345
+giám_đốc sở	331
+quyền_hạn cơ_cấu tổ_chức	274
+sở nội_vụ	205
+phòng chuyên_môn	176
+giám_đốc sở nội_vụ	157
+thanh_tra sở	148
+thủ_trưởng sở	143
+giám_đốc sở tài_chính	125
+giám_đốc sở tư_pháp	121
+sở tài_chính	99
+giám_đốc sở :	97
+đề_nghị giám_đốc sở tài_chính tờ_trình	96
+nội_vụ hướng_dẫn chức_năng	90
+cơ_cấu tổ_chức	88
+phòng tư_pháp	82
+giám_đốc sở y_tế	74
+đề_nghị giám_đốc sở	71
+quy_định chức_năng	68
+chuyên_môn nghiệp_vụ	68
+hướng_dẫn chức_năng	63
+bộ_trưởng tư_pháp	63
+sở y_tế	61
+tổ_chức biên_chế	52
+tổ_chức pháp_chế	51
+phục_hồi chức_năng	50
+nhiệm_vụ quyền_hạn	49
+sở ngoại_vụ	48
+giám_đốc sở xây_dựng	48
+giám_định tư_pháp	47
+tổ_chức bộ_máy	46
+quyền_hạn tổ_chức	45
+đề_nghị giám_đốc sở tài_chính	44
+giám_đốc sở : tài_chính	44
+cơ_quan chuyên_môn	43
+tổ_chức sự_nghiệp	42
+chánh thanh_tra sở	41
+lĩnh_vực phân_công	40
+hướng_dẫn chuyên_môn	40
+giám_đốc trung_tâm	39
+đề_nghị giám_đốc sở nội_vụ tờ_trình	38
+nội_vụ hướng_dẫn	38
+vị_trí chức_năng	37
+lĩnh_vực quản_lý sở	36
+phó_chánh văn_phòng	35
+phối_hợp giám_đốc sở nội_vụ	35
+đề_nghị giám_đốc	34
+đề_nghị giám_đốc sở tư_pháp tờ_trình	33
+hướng_dẫn nghiệp_vụ	33
+kiểm_tra chuyên_môn	33
+quyền_hạn cơ_cấu tổ_chức nội_vụ	32
+quyền_hạn tổ_chức bộ_máy	32
+giúp giám_đốc sở	32
+sở văn_hóa	31
+phó_giám_đốc sở	31
+giám_đốc phó_giám_đốc	31
+bộ_trưởng nội_vụ	30
+- nội_vụ hướng_dẫn chức_năng	29
+lãnh_đạo sở	29
+đề_nghị giám_đốc sở xây_dựng tờ_trình	28
+phòng nội_vụ	28
+giám_đốc sở văn_hóa	28
+quyền_hạn cơ_cấu tổ_chức cơ_quan chuyên_môn	27
+đề_nghị giám_đốc sở công_thương tờ_trình	27
+phối_hợp sở nội_vụ	27
+phối_hợp sở	26
+quyền_hạn cơ_cấu tổ_chức sở tư_pháp	26
+giám_đốc sở ngoại_vụ	26
+trưởng_phòng tư_pháp	25
+nghiệp_vụ sở	25
+sở xây_dựng	25
+tư_pháp hướng_dẫn	25
+trực_thuộc sở nội_vụ	25
+giám_đốc phó_giám_đốc sở	25
+giám_đốc sở công_thương	24
+chức_năng tham_mưu	24
+trực_thuộc sở	23
+tư_pháp - hộ_tịch	23
+quyền_hạn cơ_cấu tổ_chức cơ_quan chuyên_môn giúp uỷ_ban nhân_dân	21
+lĩnh_vực chuyên_môn	21
+phó_chánh thanh_tra sở	21
+giúp bộ_trưởng	21
+trách_nhiệm giám_đốc	21
+chính_phủ quy_định tổ_chức cơ_quan chuyên_môn	20
+nghiệp_vụ chuyên_môn	20
+phạm_vi quản_lý sở	20
+phòng y_tế	20
+chỉ_đạo phòng	19
+thành_lập phòng	19
+phòng tài_chính	19
+quản_lý tổ_chức bộ_máy	19
+đề_nghị giám_đốc sở văn_hóa	19
+tham_mưu giúp	18
+pháp_luật toàn_bộ hoạt_động sở	18
+thành_lập phòng chuyên_môn	18
+gọi phòng chuyên_môn	18
+chánh thanh_tra	18
+biên_chế sở	18
+phòng chuyên_môn nghiệp_vụ	17
+bộ_trưởng tài_chính	17
+phó_giám_đốc trung_tâm	17
+tổ_chức thanh_tra	16
+tổng_số biên_chế	16
+cơ_cấu tổ_chức sở	15
+kỷ_luật giám_đốc	15
+nội_vụ nghiên_cứu	15
+tài_chính hướng_dẫn	15
+phạm_vi chức_năng	15
+đề_nghị giám_đốc sở nội_vụ	15
+phó_chánh thanh_tra	15
+trách_nhiệm giúp	15
+đề_nghị sở tài_chính tờ_trình	14
+sở công_thương	14
+biên_chế công_tác	14
+đề_nghị giám_đốc sở xây_dựng	14
+lĩnh_vực công_tác	13
+phó_giám_đốc sở thực_hiện quy_định pháp_luật	13
+bộ_trưởng công_thương	13
+gửi sở tư_pháp	13
+đề_nghị sở	13
+giúp_việc giám_đốc sở	12
+tổ_chức nghiên_cứu	12
+lãnh_đạo phòng	12
+nhiệm_vụ quyền_hạn :	12
+công_tác pháp_chế	11
+đề_nghị giám_đốc sở tư_pháp	11
+xét đề_nghị giám_đốc sở	11
+bộ_trưởng tài_chính hướng_dẫn	11
+cơ_quan chuyên_môn giúp	11
+hải phòng	10
+cơ_cấu tổ_chức bộ_máy	10
+tổ_chức hoạt_động	10
+thủ_trưởng cơ_quan	10
+giúp giám_đốc	10
+lý_lịch tư_pháp	10
+phòng chức_năng	9
+nhiệm_vụ phân_công	9
+đề_nghị bổ_nhiệm	9
+thực_hiện chức_năng	9
+bộ_trưởng xây_dựng	8
+chức_năng giúp	8
+trách_nhiệm hướng_dẫn	8
+giúp lãnh_đạo	8
+tổ_chức cơ_quan chuyên_môn	8
+nội_vụ xem_xét	8
+giám_đốc thẩm	8
+kiện_toàn tổ_chức	8
+phối_hợp thanh_tra	8
+bộ_trưởng y_tế	8
+lĩnh_vực công_tác phân_công	8
+sở tài_chính tờ_trình	8
+bộ_máy biên_chế	7
+đề_nghị cơ_quan	7
+quyền_hạn trách_nhiệm	7
+giúp_việc giám_đốc	7
+đề_nghị sở tài_chính	7
+chức_năng nhiệm_vụ	7
+hướng_dẫn kiểm_tra	7
+pháp_luật toàn_bộ hoạt_động	7
+bộ_trưởng nội_vụ hướng_dẫn	7
+thủ_trưởng cơ_quan chuyên_môn	7
+phối_hợp sở tài_chính	7
+chánh văn_phòng	7
+cơ_quan chuyên_môn xây_dựng	7
+hoạt_động lĩnh_vực	6
+nghiệp_vụ thanh_tra	6
+gọi phòng	6
+trách_nhiệm sở	6
+y_tế hướng_dẫn	6
+chỉ_đạo sở	6
+04/4/2014 chính_phủ quy_định tổ_chức cơ_quan chuyên_môn	6
+phối_hợp phòng	6
+sở tài_chính tổng_hợp	6
+sở nội_vụ )	6
+bộ_trưởng nội_vụ ban_hành	6
+tư_pháp tổng_hợp	6
+hướng_dẫn quản_lý	5
+đề_nghị giám_đốc sở công_thương	5
+trực_thuộc sở y_tế	5
+thành_lập trung_tâm	5
+nội_vụ tài_chính	5
+công_tác phòng	5
+công_tác xây_dựng	5
+sở tư_pháp trách_nhiệm	5
+quyền_hạn cơ_cấu tổ_chức cơ_quan	5
+tờ_trình đề_nghị	5
+phối_hợp văn_phòng	5
+tài_chính nghiên_cứu	5
+phòng chức_năng quản_lý xây_dựng	4
+cơ_cấu tổ_chức cơ_quan chuyên_môn	4
+tài_chính hướng_dẫn quản_lý	4
+tư_pháp trách_nhiệm	4
+trách_nhiệm tổ_chức	4
+bổ_nhiệm giám_đốc	4
+xét đề_nghị	4
+sở thực_hiện quy_định pháp_luật	4
+thực_hiện chức_năng thanh_tra	4
+lãnh_đạo cơ_quan	4
+phòng văn_hóa	3
+sở công_thương tờ_trình	3
+- tài_chính	3
+công_tác chuyên_môn	3
+sự_nghiệp trực_thuộc sở	3
+bộ_trưởng tài_chính quy_định	3
+pháp_luật lĩnh_vực	3
+chuyên_môn giúp	3
+gửi sở	3
+giám_đốc sở nội_vụ tờ_trình	3
+nội_vụ -	3
+chuyên_môn y_tế	3
+tập_huấn chuyên_môn	3
+đề_nghị xây_dựng	3
+hoạt_động nghiệp_vụ	3
+bộ_trưởng văn_hóa	3
+phân_công nhiệm_vụ	3
+quyền_hạn cơ_cấu tổ_chức văn_phòng	3
+trách_nhiệm chỉ_đạo	3
+công_tác thanh_tra	3
+chính_phủ hướng_dẫn	3
+chức_năng quản_lý	3
+toàn_bộ hoạt_động sở	3
+quyền_hạn cơ_cấu tổ_chức cơ_quan chuyên_môn giúp	3
+quy_định pháp_luật	3
+04 4 2014 chính_phủ quy_định tổ_chức cơ_quan chuyên_môn	3
+tập_huấn nghiệp_vụ	3
+vị_trí công_tác	2
+chính_phủ quy_định chức_năng	2
+2014 bộ_trưởng	2
+gửi sở tài_chính	2
+quyền_hạn cơ_cấu	2
+cơ_cấu tổ_chức cơ_quan	2
+sở xây_dựng tờ_trình	2
+phối_hợp cơ_quan	2
+nhiệm_vụ quản_lý	2
+trách_nhiệm phối_hợp	2
+sở nội_vụ tờ_trình	2
+5 2014 chính_phủ quy_định tổ_chức cơ_quan chuyên_môn	2
+trách_nhiệm tham_mưu	2
+quy_định tổ_chức cơ_quan chuyên_môn	2
+bộ_máy quản_lý	2
+tổ_chức cơ_quan chuyên_môn giúp	2
+pháp_luật lĩnh_vực công_tác	2
+cơ_cấu tổ_chức cơ_quan chuyên_môn giúp uỷ_ban nhân_dân	2
+tài_chính - tư_pháp	2
+công_tác kiểm_tra	2
+quyền_hạn cơ_cấu tổ_chức sở	2
+lĩnh_vực y_tế	1
+hoạt_động sự_nghiệp	1
+bộ_trưởng tài_chính hướng_dẫn thực_hiện	1
+tài_chính xem_xét	1
+đề_nghị uỷ_ban	1
+lĩnh_vực quản_lý	1
+2014 tài_chính hướng_dẫn thực_hiện	1
+gửi văn_phòng	1
+gửi cơ_quan	1
+ngoại_vụ trách_nhiệm	1
+hướng_dẫn thực_hiện :	1
+chỉ_đạo công_tác thanh_tra	1
+văn_phòng chính_phủ	1
+bộ_trưởng tài_chính quy_định quản_lý	1
+trách_nhiệm cơ_quan	1
+chính_phủ tổ_chức hoạt_động	1
+- nội_vụ	1
+gửi sở tài_chính tổng_hợp	1
+xét tờ_trình	1
+hoạt_động văn_hóa	1
+đề_nghị khen_thưởng	1
+lĩnh_vực văn_hóa	1
+tài_chính hướng_dẫn thực_hiện	1
+uỷ_quyền sở	1
+lĩnh_vực phạm_vi quản_lý	1
+thực_hiện quy_định	1
+sở tư_pháp tờ_trình	1
+giúp lãnh_đạo cơ_quan	1
+nội_vụ hướng_dẫn thực_hiện	1
+cơ_quan quản_lý	1
+chỉ_đạo công_tác	1
+công_thương tờ_trình	1
+phối_hợp công_tác	1
+gửi phòng tài_chính	1
+tài_chính tổng_hợp	1
+tổ_chức thực_hiện	1
+sở tài_chính tham_mưu	1
+chức_năng thanh_tra	1
+- nội_vụ hướng_dẫn	1
+xét đề_nghị giám_đốc	1
+uỷ_ban nhân_dân	1
+cơ_cấu tổ_chức sở tư_pháp	1
+biên_chế cơ_quan	1
+thực_hiện nhiệm_vụ	1
+nghiệp_vụ công_tác	1
+tổ_chức sự_nghiệp trực_thuộc	1
+quản_lý )	1
+tài_chính ban_hành	1
+phối_hợp sở văn_hóa	1

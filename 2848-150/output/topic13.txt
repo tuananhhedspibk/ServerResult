@@ -1,0 +1,138 @@
+phong_trào thi_đua	130
+xét tặng	106
+hình_thức khen_thưởng	80
+xét khen_thưởng	80
+đề_nghị khen_thưởng	78
+danh_hiệu thi_đua	75
+thành_tích xuất_sắc	68
+cá_nhân thành_tích	61
+công_tác thi_đua	56
+trình khen_thưởng	51
+ban thi_đua - khen_thưởng	47
+chiến_sĩ thi_đua	41
+giấy khen	40
+quyết_định khen_thưởng	40
+lao_động tiên_tiến	38
+thi_đua khen_thưởng	37
+điển_hình tiên_tiến	37
+danh_hiệu "	35
+danh_hiệu “	32
+đối_với tập_thể	31
+xét tặng giải_thưởng	30
+chiến_sỹ thi_đua	29
+cờ thi_đua	28
+hội_đồng thi_đua	26
+" khen	26
+thi_đua toàn_quốc	25
+tập_thể cá_nhân	25
+khen_thưởng tập_thể	24
+danh_hiệu thi_đua hình_thức khen_thưởng	24
+hiện_vật khen_thưởng	23
+khối thi_đua	23
+trình khen	23
+xét công_nhận	22
+báo_cáo thành_tích	22
+xét đề_nghị	20
+khen_thưởng thành_tích	20
+danh_hiệu “ lao_động tiên_tiến	20
+tiêu_biểu xuất_sắc	19
+cá_nhân thành_tích xuất_sắc	19
+danh_hiệu vinh_dự nhà_nước	19
+tặng khen	18
+" cờ thi_đua	18
+danh_hiệu “ tập_thể lao_động xuất_sắc	18
+danh_hiệu “ chiến_sĩ thi_đua tỉnh	18
+khen thưởn	18
+hội_đồng thi_đua - khen_thưởng tỉnh	17
+' '	17
+hồ_sơ đề_nghị khen_thưởng	17
+hội_đồng thi_đua - khen_thưởng	16
+đề_nghị đổi	16
+quyết_định công_nhận	15
+quỹ thi_đua	15
+danh_hiệu “ tập_thể	14
+công_nhận danh_hiệu	14
+công_nhận danh_hiệu “	14
+thi_đua - khen_thưởng tỉnh	13
+tập_thể lao_động xuất_sắc	13
+khen_thưởng tổng_kết	13
+luật thi_đua	13
+danh_hiệu “ chiến_sĩ thi_đua cơ_sở	13
+thi_đua - khen_thưởng	12
+danh_hiệu “ chiến_sĩ thi_đua	12
+ban thi_đua -	11
+hội_đồng xét_duyệt	11
+lập thành_tích	11
+xét công_nhận danh_hiệu	11
+tặng danh_hiệu	10
+hội_đồng xét	10
+“ chiến_sĩ	10
+tiêu_chuẩn xét	10
+cơ_sở đề_nghị	10
+ban thi_đua	9
+cờ thi_đua chính_phủ	9
+phát_động phong_trào	9
+thành_tích đóng_góp	9
+hội_đồng xét tặng danh_hiệu	9
+anh_hùng lao_động	9
+xét tặng danh_hiệu	9
+tặng giải_thưởng	8
+thành_tích công_tác	8
+chiến_sĩ thi_đua tỉnh	7
+hồ_sơ đề_nghị	7
+xét tặng danh_hiệu nhà_giáo	6
+tập_thể lao_động tiên_tiến	6
+xét tờ_trình	6
+đề_nghị công_nhận	6
+công_nhận danh_hiệu nghệ_nhân	5
+- khen_thưởng	5
+cá_nhân tham_gia	5
+học_tập nước_ngoài	4
+tổng_kết chuyên_đề	4
+đề_nghị xét	4
+phong_trào “	4
+tiên_tiến "	4
+“ chiến_sĩ thi_đua	4
+hồ_sơ đề_nghị công_nhận	4
+tặng danh_hiệu nhà_giáo	4
+hội_nghị sơ_kết	3
+quỹ khen_thưởng	3
+hội_nghị tổng_kết	3
+05 trở	3
+danh_hiệu “ chiến_sĩ	3
+thành_tích tiêu_biểu	3
+- đối_với	3
+thời_gian xét	3
+chiến_sĩ thi_đua cơ_sở	3
+tặng danh_hiệu “	2
+tập_thể lao_động	2
+hội_đồng xét tặng	2
+xét thưởng	2
+năng_suất lao_động	2
+hồ_sơ trình	2
+trình chính_phủ	2
+cá_nhân nước_ngoài	2
+tờ_trình đề_nghị	2
+đẩy_mạnh phong_trào	2
+lưu_trữ hồ_sơ	2
+đại_hội thi_đua	1
+thường_xuyên đột_xuất	1
+thi_đua hình_thức	1
+trở đối_với	1
+lao_động xuất_sắc	1
+tham_gia đóng_góp	1
+tỉnh quyết_định	1
+quà tặng	1
+đối_với cơ_sở	1
+danh_hiệu nghệ_nhân	1
+ghi giấy	1
+báo_cáo tổng_kết	1
+đối_với công_nhân	1
+sáng_kiến cải_tiến	1
+thường_xuyên hàng	1
+tổng_kết công_tác	1
+“ chiến_sĩ thi_đua tỉnh	1
+thủ_tục xét	1
+danh_hiệu nhà_giáo	1
+danh_hiệu vinh_dự	1
+" tập_thể lao_động	1

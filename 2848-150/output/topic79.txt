@@ -1,0 +1,245 @@
+đối_với xí_nghiệp	97
+quỹ phúc_lợi	96
+hoàn_thành kế_hoạch	93
+xí_nghiệp quốc_doanh	83
+quỹ khen_thưởng	79
+hạch_toán kinh_tế	79
+kế_hoạch sản_xuất	74
+quỹ dự_phòng	69
+trích_lập quỹ	69
+xí_nghiệp trực_thuộc	68
+chỉ_tiêu kế_hoạch	63
+trích quỹ	63
+liên_hiệp xí_nghiệp	62
+đơn_vị nội_thương	61
+xí_nghiệp thương_nghiệp	61
+hạch_toán kinh_tế độc_lập	60
+cung_ứng vật_tư	59
+lợi_nhuận kế_hoạch	55
+giá_thành sản_phẩm	55
+thương nghiệp quốc_doanh	52
+đơn_vị kinh_tế	50
+trích_lập quỹ xí_nghiệp	50
+quỹ xí_nghiệp	48
+xí_nghiệp thuỷ_nông	48
+sử_dụng quỹ	46
+đơn_vị kinh_tế cơ_sở	46
+lợi_nhuận thực_hiện	46
+thương nghiệp	45
+phí lưu_thông	43
+lập quỹ	41
+quỹ khen_thưởng phúc_lợi	41
+xí_nghiệp sản_xuất	41
+kế_hoạch nhà_nước	40
+lợi_nhuận định_mức	40
+lập kế_hoạch	39
+hạch_toán giá_thành	38
+phân_phối lợi_nhuận	37
+trích_lập sử_dụng quỹ	35
+chiết_khấu lưu_thông	34
+quỹ phát_triển	34
+ghi kế_hoạch	33
+đơn_vị sản_xuất	32
+đối_với sản_phẩm	32
+quỹ dự_phòng tài_chính	29
+xí_nghiệp công_nghiệp	28
+căn_cứ kế_hoạch	28
+đơn_vị thương_nghiệp	27
+kế_hoạch duyệt	27
+chỉ_tiêu pháp_lệnh	27
+thực_hiện kế_hoạch	27
+đơn_vị kinh_tế quốc_doanh	26
+kinh_doanh thương_nghiệp	26
+trích quỹ xí_nghiệp	26
+đối_với đơn_vị	25
+2 quỹ khen_thưởng	25
+giám_đốc xí_nghiệp	25
+giao kế_hoạch	25
+sản_phẩm chủ_yếu	24
+trích quỹ khen_thưởng	23
+chi_phí tiền_lương sản_phẩm	23
+hạch_toán giá_thành phí lưu_thông	22
+quỹ dự_trữ tài_chính	22
+sản_phẩm dở_dang	21
+sản_xuất kinh_doanh	21
+chi_phí lưu_thông	21
+chi_phí sản_xuất	20
+xét_duyệt hoàn_thành kế_hoạch	20
+giá_trị sản_lượng	20
+quỹ phát_triển sản_xuất	20
+giao chỉ_tiêu	20
+hạ giá_thành	19
+tiêu_thụ sản_phẩm	19
+nghiệp vụ phí	19
+trích lợi_nhuận	18
+chiết_khấu lưu_thông vật_tư	18
+kém phẩm_chất	18
+sản_xuất phụ	18
+ty_thương nghiệp	18
+dự_trữ lưu_thông	18
+hạch_toán độc_lập	17
+vật_tư tìm_kiếm	17
+tài quỹ liên_hiệp xí_nghiệp	17
+quỹ thuỷ_nông tỉnh	17
+đơn_vị sử_dụng	17
+hạch_toán chi_phí sản_xuất	17
+quỹ tiền_lương	17
+lợi_nhuận xí_nghiệp	16
+giao_nộp sản_phẩm	16
+giá_thành phí lưu_thông	16
+quỹ khen_thưởng quỹ phúc_lợi	16
+chỉ_tiêu kế_hoạch nhà_nước	16
+đối_với mặt_hàng	16
+chế_độ phân_phối lợi_nhuận	16
+hạch_toán chi_phí	15
+chi_phí vật_tư	15
+quỹ khuyến_khích phát_triển sản_xuất	15
+thực_hiện chế_độ hạch_toán kinh_tế	14
+chiết_khấu thương nghiệp	14
+chất_lượng sản_phẩm	14
+dự_trữ vật_tư	14
+tỷ_lệ chiết_khấu	13
+thương nghiệp dược_phẩm	13
+kinh_tế quốc_doanh	13
+căn_cứ chỉ_tiêu	13
+đối_với xí_nghiệp quốc_doanh	13
+sử_dụng hợp_lý	13
+nguyên vật_liệu	13
+kế_hoạch phân_phối	13
+kế_hoạch tài_chính	12
+xí_nghiệp vận_tải	12
+tổng doanh_thu	12
+đối_với xí_nghiệp vận_tải	12
+chiết_khấu thương_nghiệp	12
+phúc_lợi tập_thể	11
+trích_lập sử_dụng	11
+đơn_vị hạch_toán kinh_tế	11
+giao chỉ_tiêu kế_hoạch	11
+kế_hoạch nhà_nước giao	10
+gia_công chế_biến	10
+sản_phẩm sản_xuất	10
+đơn_vị trực_thuộc	10
+sản_xuất công_nghiệp	10
+nhà_nước giao	10
+chế_độ hạch_toán kinh_tế	10
+nông_trường quốc_doanh	10
+số_dư quỹ	10
+giá_trị sản_phẩm	9
+bổ_sung quỹ	9
+quỹ khuyến_khích phát_triển	9
+phát_triển sản_xuất	9
+chi_phí tiền_lương	9
+hoàn_thành chỉ_tiêu	9
+xét_duyệt kế_hoạch	9
+kinh_doanh mặt_hàng	9
+mức_độ hoàn_thành	8
+đơn_vị hạch_toán	8
+giá_thành sản_xuất	8
+quỹ liên_hiệp xí_nghiệp	8
+thương_nghiệp i	7
+trích tỷ_lệ	7
+xí_nghiệp thương nghiệp	7
+quỹ lương	7
+phân_phối thu_nhập	7
+vật_tư hàng_hoá	7
+hai quỹ khen_thưởng	6
+đơn_vị sản_xuất kinh_doanh	6
+nội_bộ đơn_vị	6
+sản_phẩm hàng_hoá	6
+tổng công_ty	6
+chủ_quản duyệt	6
+kinh_tế độc_lập	6
+khuyến_khích phát_triển	6
+sản_xuất sản_phẩm	6
+phân_phối sử_dụng	6
+quyết_toán chính_thức	6
+đối_với đơn_vị sản_xuất	5
+khuyến_khích phát_triển sản_xuất	5
+công_ty kinh_doanh	5
+chế_độ phân_phối	5
+định_mức chi_phí	5
+kế_hoạch phát_triển	5
+quỹ trái_phép	5
+chi_phí thực_tế	5
+kinh_tế tập_thể	5
+dự_trữ tài_chính	5
+kế_hoạch sử_dụng	4
+chủ_quản xét_duyệt	4
+chỉ_tiêu quỹ tiền_lương	4
+khối_lượng sản_phẩm	4
+giám_đốc quỹ	4
+thực_tế phát_sinh	4
+đặc_điểm sản_xuất	4
+quỹ dự_trữ	4
+đơn_vị bộ_đội	3
+cơ_sở sản_xuất	3
+chỉ_tiêu chủ_yếu	3
+quỹ tiền_lương thực_hiện	3
+định_mức kinh_tế	3
+phân_bổ chỉ_tiêu	3
+quỹ thuỷ_nông	3
+điều_chỉnh kế_hoạch	3
+phát_triển kinh_tế	3
+sử_dụng sản_phẩm	3
+quyết_toán quỹ	3
+giám_đốc công_ty	3
+vận_tải hàng_hoá	3
+kinh_doanh trái_phép	3
+cân_đối kế_hoạch	2
+kế_hoạch phát_triển kinh_tế	2
+trích phí	2
+lợi_nhuận trích_lập	2
+chỉ_tiêu kinh_tế	2
+chế_độ tiền_lương	2
+quyết_toán đơn_vị	2
+khen_thưởng phúc_lợi	2
+lợi_nhuận trích_lập quỹ	2
+đơn_vị cung_ứng	2
+hoàn_thành hoàn_thành	2
+sản_lượng hàng_hoá	2
+định_mức bình_quân	2
+tỷ_lệ trích	2
+bán_buôn xí_nghiệp	2
+đối_với hàng_hoá	2
+kinh_doanh ăn_uống	2
+tỷ_lệ hao_hụt	2
+chi_phí hợp_lý	2
+xét_duyệt hoàn_thành	2
+sử_dụng vật_liệu	1
+kế_hoạch tài_chính hàng	1
+tài_chính xét_duyệt	1
+cơ_sở kinh_doanh	1
+cung_ứng sản_phẩm	1
+bán_buôn vật_tư	1
+hàng_hoá tồn_kho	1
+sản_phẩm chế_biến	1
+công_ty ngoại_thương	1
+hàng tồn_kho	1
+cơ_sở sản_xuất kinh_doanh	1
+căn_cứ đặc_điểm	1
+phát_triển quỹ	1
+hàng_hoá lưu_thông	1
+kinh_doanh vận_tải	1
+chiết_khấu thương	1
+nghiệp quốc_doanh	1
+thực_hiện chế_độ	1
+sử_dụng quỹ phát_triển	1
+xét_duyệt quyết_toán	1
+sản_phẩm công_nghiệp	1
+tổng tiền_lương	1
+chi_phí phát_sinh	1
+đối_với cơ_sở	1
+kinh_doanh thương	1
+tạm_thời chế_độ	1
+hạch_toán quyết_toán	1
+lưu_thông vật_tư	1
+tài quỹ	1
+trang_trải chi_phí	1
+giá_thành phí	1
+quỹ khen_thưởng quỹ	1
+chất_lượng hàng_hoá	1
+sản_xuất tiêu_thụ	1
+duyệt hàng	1
+bán_buôn công_nghiệp	1
+chế_độ hạch_toán	1
+nguyên_liệu sản_xuất	1

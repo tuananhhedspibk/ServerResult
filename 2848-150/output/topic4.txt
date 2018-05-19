@@ -1,0 +1,129 @@
+đăng_ký thế_chấp	178
+tài_sản bảo_đảm	174
+xử_lý_tài_sản bảo_đảm	88
+đăng_ký giao_dịch bảo_đảm	81
+hợp_đồng thế_chấp	74
+yêu_cầu đăng_ký	58
+đơn yêu_cầu đăng_ký	52
+đơn yêu_cầu	45
+bảo_lãnh đăng_ký	37
+văn_bản bất_động_sản	33
+trường_hợp thế_chấp	32
+tài_sản thế_chấp	30
+hồ_sơ đăng_ký	29
+phòng công_chứng	29
+lệ_phí công_chứng	28
+cơ_quan đăng_ký giao_dịch bảo_đảm	28
+sửa_chữa sai_sót	27
+giao_dịch dân_sự	27
+công_chứng nhà_nước	26
+thế_chấp tài_sản	25
+giao_dịch bảo_đảm	25
+xóa đăng_ký thế_chấp	24
+cơ_quan công_chứng	23
+biện_pháp bảo_đảm	21
+lệ_phí đăng_ký	21
+hợp_đồng bảo_lãnh	21
+hình_thành tương_lai	21
+sổ địa_chính	20
+thay_đổi nội_dung thế_chấp	20
+chứng_thực hợp_đồng	19
+phòng công_chứng nhà_nước	18
+xóa đăng_ký	18
+cung_cấp thông_tin thế_chấp	17
+chứng_thực chữ_ký	17
+ký_kết_hợp_đồng thế_chấp	17
+yêu_cầu công_chứng	17
+xử_lý_tài_sản thế_chấp	16
+sổ đăng_ký	16
+phí cung_cấp thông_tin giao_dịch bảo_đảm	15
+bảo_lãnh thực_hiện	15
+tài_sản hình_thành tương_lai	15
+văn_bản thông_báo xử_lý_tài_sản thế_chấp	14
+bảo_đảm thực_hiện nghĩa_vụ	13
+đăng_ký văn_bản thông_báo	12
+đăng_ký hộ_tịch	12
+xoá đăng_ký	12
+thủ_tục đăng_ký	11
+hồ_sơ đăng_ký thế_chấp	10
+yêu_cầu cung_cấp thông_tin	10
+cung_cấp thông_tin giao_dịch bảo_đảm	10
+đăng_ký giao_dịch	9
+yêu_cầu đăng_ký thế_chấp	9
+đăng_ký thay_đổi nội_dung	9
+đơn đăng_ký	9
+lệ_phí đăng_ký giao_dịch bảo_đảm	8
+yêu_cầu sửa_chữa sai_sót	8
+cầm_cố tài_sản	8
+đăng_ký thay_đổi nội_dung thế_chấp	7
+nghị_định 181/2004	7
+bản_sao giấy_tờ	7
+nộp lệ_phí đăng_ký	6
+- chứng_nhận hợp_đồng	6
+thông_báo văn_bản	6
+phí cung_cấp thông_tin	6
+nộp đơn yêu_cầu	6
+cung_cấp thông_tin	6
+trường_hợp thay_đổi	6
+ghi vào_sổ	6
+tư_pháp - hộ_tịch	6
+thứ_tự ưu_tiên	6
+nộp hồ_sơ đăng_ký	6
+yêu_cầu cơ_quan	5
+chứng_nhận hợp_đồng	5
+thông_tin thế_chấp	5
+thực_hiện nghĩa_vụ bảo_lãnh	5
+đăng_ký thay_đổi	5
+nghĩa_vụ bảo_lãnh	4
+bảo_lãnh tài_sản	4
+yêu_cầu đăng_ký thay_đổi nội_dung thế_chấp	4
+biểu_mẫu đăng_ký	4
+trường_hợp từ_chối	4
+hồ_sơ địa_chính	4
+bản_sao công_chứng	4
+bảo_đảm yêu_cầu	4
+sửa_chữa tài_sản	4
+thực_hiện thủ_tục đăng_ký	3
+văn_bản yêu_cầu	3
+thực_hiện biện_pháp	3
+nộp đơn	3
+tài_sản hình_thành	3
+văn_bản thông_báo	3
+29/2004 /	3
+tài_sản cầm_cố	3
+nộp hồ_sơ	3
+thực_hiện nội_dung	2
+ghi sổ	2
+nội_dung ghi	2
+đơn yêu_cầu đăng_ký thay_đổi	2
+thoả_thuận hợp_đồng	2
+kê_khai đăng_ký	2
+cung_cấp tài_liệu	2
+nộp lệ_phí	2
+- bản_sao	1
+cơ_quan nhà_nước	1
+có_thể uỷ_quyền	1
+nhà_nước bảo_đảm	1
+văn_bản cơ_quan	1
+nội_dung đăng_ký	1
+bảo_lãnh thực_hiện hợp_đồng	1
+giấy_tờ hợp_lệ	1
+thực_hiện nghĩa_vụ	1
+chứng_nhận đăng_ký	1
+thay_đổi nội_dung	1
+giấy_tờ hồ_sơ	1
+thực_hiện kê_khai	1
+văn_bản thoả_thuận	1
+thông_báo xử_lý_tài_sản thế_chấp	1
+thực_hiện hợp_đồng	1
+bản_sao hợp_lệ	1
+ghi hợp_đồng	1
+thực_hiện thủ_tục	1
+nội_dung thế_chấp	1
+thay_đổi nội_dung đăng_ký	1
+đăng_ký biến_động	1
+đơn_giản thủ_tục	1
+cung_cấp thông_tin giao_dịch	1
+hồ_sơ hợp_lệ	1
+bảo_đảm thực_hiện	1
+33/2002 /	1

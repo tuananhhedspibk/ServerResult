@@ -1,0 +1,143 @@
+đi công_tác	461
+trở đi	224
+đi học	151
+thời_gian công_tác	137
+trở lê	96
+trợ_giúp pháp_lý	86
+cử đi công_tác	69
+trường_hợp đi công_tác	69
+cử đi học	67
+thời_gian đi	66
+thời_gian tập_sự	60
+đoàn công_tác	59
+đi đường	58
+đơn_vị cử đi công_tác	52
+cử đi	48
+đường đi	46
+mượn đường	43
+tổ công_tác	41
+thời_gian công_tác thực_tế	38
+thời_gian tập_trung	38
+cử đi đào_tạo	37
+thời_gian công_tác liên_tục	36
+thời_gian làm_việc	35
+thời_gian điều_trị	35
+công_tác liên_tục	32
+thời_gian nghỉ	31
+suốt thời_gian	29
+thường_xuyên đi công_tác lưu_động 10 /	28
+hai trở đi	27
+thời_gian học	27
+dân đi	27
+thời_gian đi công_tác	26
+sơ học	26
+công_tác cơ_yếu	25
+đi phục_vụ	25
+huyện trở	25
+đi công_tác nước_ngoài	25
+chuyến đi	24
+công_tác thực_tế	24
+25 trở	24
+công_chức nhà_nước đi công_tác	24
+đi biển	23
+đình_chỉ công_tác	23
+cử cán_bộ	22
+đi đào_tạo	22
++ đi công_tác	22
+15 km trở	22
+thời_gian đào_tạo	21
+thời_gian phục_vụ	21
+3 trở	21
+đặc_điểm công_tác	21
+đi công_tác thanh_toán	21
+thời_gian công_tác ngành	21
+tương_đương trở	20
+trường_hợp đi công_tác đối_tượng thuê phòng nghỉ	20
+vị_trí công_tác	19
+thời_gian chờ	19
+đi đoàn	19
+phục_vụ công_tác	19
+đến_nơi công_tác	19
+18 trở	19
+chuyến đi công_tác	18
+tiền đi đường	17
+thường_xuyên đi công_tác lưu_động	17
+quãng đường	17
+thời_gian lưu_trú	16
+đi công_tác lưu_động	16
+đi công_tác đoàn	16
+đi nước_ngoài	16
+xe ô_tô đi công_tác	16
+cán_bộ đi	15
+km trở	15
+kinh_phí sử_dụng xe ô_tô đi công_tác	14
+thời_gian thử	14
+sử_dụng xe ô_tô đi công_tác	13
+thời_gian tạm	13
+khoán kinh_phí sử_dụng xe ô_tô đi công_tác	13
+phương_tiện đi công_tác	12
+đoàn đi	12
+điều_động công_tác	12
+đi làm_việc	12
+công_tác đào_tạo	12
+nghỉ công_tác	11
+thẩm_quyền cử đi	11
+học_tập nước_ngoài	10
+tổng thời_gian	10
+xe đi	9
+đi công_tác lưu_động 10 /	9
+thời_gian ngắn	8
+10 km trở	8
+ô_tô đi công_tác	8
+trường_hợp đi	8
+đến_nơi làm_việc	8
+giới_thiệu đi	8
+đơn_vị cử	7
+15 km	7
+đường thủy	7
+công_chức công_tác	7
+đi học trường	7
+sử_dụng xe ô_tô	6
+đường đi công_tác	6
+cán_bộ công_tác	6
+đơn_vị cử đi	6
+đi công_tác thanh_toán tiền	5
+đường ô_tô	5
+10 km	5
+học trường	4
+phòng học	4
+thực_tế đi	4
+công_tác lưu_động	4
+công_tác phòng	4
+giá_trị pháp_lý	4
+hai trở	4
+khoán kinh_phí sử_dụng xe ô_tô	4
+hải phòng	3
+thường_xuyên đi	3
+/ km	3
+thẩm_quyền cử	3
+khuyến_khích học_tập	2
+làm_việc nước_ngoài	2
+kinh_phí đào_tạo	2
+công_tác thanh_toán	2
+phương_tiện trợ_giúp	2
+phương_tiện đi	2
+công_tác đoàn	2
+đơn_vị sử_dụng	2
+công_chức làm_việc	2
+thường_xuyên đi công_tác lưu_động 10	2
+thời_gian thuê	2
+nghỉ chờ	2
+thường_xuyên đi công_tác	2
+thuê xe	2
+xe ô_tô	1
+tạm đình_chỉ	1
+phương_tiện làm_việc	1
+25 /	1
+giá_trị sử_dụng	1
+15 10	1
+/ phòng đi công_tác	1
+đào_tạo cán_bộ	1
+khoán kinh_phí	1
+trường_hợp thuê	1
+đi công_tác lưu_động 10	1

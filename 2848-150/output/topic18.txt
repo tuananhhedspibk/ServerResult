@@ -1,0 +1,134 @@
+máy_móc thiết_bị	114
+thiết_bị chuyên_dùng	67
+định_mức kinh_tế - kỹ_thuật	66
+định_mức kinh_tế kỹ_thuật	64
+kinh_tế - kỹ_thuật	63
+luận_chứng kinh_tế kỹ_thuật	58
+luận_chứng kinh_tế - kỹ_thuật	54
+thiết_kế kỹ_thuật	53
+tiêu_chuẩn kỹ_thuật	53
+chuyên_môn kỹ_thuật	52
+phòng kinh_tế hạ_tầng	51
+kỹ_thuật an_toàn	46
+khoa_học kỹ_thuật	46
+báo_cáo kinh_tế - kỹ_thuật	45
+kinh_tế kỹ_thuật	44
+- biểu	44
+máy vi_tính	43
+khoa_học - kỹ_thuật	41
+cải_tiến kỹ_thuật	40
+quy_chuẩn kỹ_thuật quốc_gia	40
+danh_mục máy_móc	38
+phòng kinh_tế	37
+quy_chuẩn kỹ_thuật	34
+mua_sắm thiết_bị	34
+vật_tư thiết_bị	32
+báo_cáo kinh_tế kỹ_thuật	32
+sự_nghiệp kinh_tế	31
+kỹ_thuật tiến_bộ	30
+hiệu_quả kinh_tế	29
+giải_pháp kỹ_thuật	26
+- kỹ_thuật	25
+thiết_bị văn_phòng	25
+tiến_bộ kỹ_thuật	24
+quy_trình kỹ_thuật	24
+mặt kỹ_thuật	24
+tập_đoàn kinh_tế	22
+tuyến chuyên_môn kỹ_thuật	22
+thiết_bị lưu_trữ	21
+thông_số kỹ_thuật	20
+ứng_dụng kỹ_thuật	20
+thiết_bị máy_móc	20
+an_toàn kỹ_thuật	20
+thiết_bị kỹ_thuật	19
+sử_dụng thiết_bị	19
+hạ_tầng kỹ_thuật	19
+luận_chứng kinh_tế kỹ_thuật (	19
+vật_tư kỹ_thuật	19
+thiết_bị phát	18
+mua_sắm trang_thiết_bị	18
+trình_độ chuyên_môn	18
+lạc_hậu kỹ_thuật	18
+sử_dụng máy_móc	18
+kiểm_định kỹ_thuật an_toàn	17
+trung_tâm kỹ_thuật tổng_hợp	17
+số_liệu chuyên_dùng	17
+thiết_bị lưu khóa	16
+mua thiết_bị	16
+yêu_cầu kỹ_thuật	16
+phương_tiện kỹ_thuật	15
+ứng_dụng tiến_bộ khoa_học kỹ_thuật	14
+thành_phần kinh_tế	14
+thiết_kế kỹ_thuật -	14
+lắp_đặt thiết_bị	13
+cục kỹ_thuật nghiệp_vụ i	13
+định_mức kinh_tế	12
+trung_tâm kỹ_thuật	12
+ứng_dụng tiến_bộ	12
+kiểm_định kỹ_thuật	12
+cán_bộ khoa_học kỹ_thuật	12
+ngành kinh_tế - kỹ_thuật	11
+tiến_bộ khoa_học - kỹ_thuật	11
+kinh_tế -	10
+văn_thư - lưu_trữ	10
+báo_cáo kinh_tế	10
+biện_pháp kỹ_thuật	10
+tiến_bộ khoa_học kỹ_thuật	9
+dịch_vụ kỹ_thuật	9
+máy phát	9
+sử_dụng máy	8
+ngành kinh_tế	8
+vật_tư tiêu_hao	8
+kỹ_thuật trình_bày	7
+mua vật_tư	7
+ban_hành tiêu_chuẩn	7
+chuyên_môn nghiệp_vụ	7
+sử_dụng hiệu_quả	6
+kinh_tế hạ_tầng	6
+kỹ_thuật sử_dụng	6
+kỹ_thuật nghiệp_vụ	6
+thiết_bị phục_vụ	5
+mua_sắm vật_tư	5
+mua_sắm máy_móc	5
+luận_chứng kinh_tế	5
+cán_bộ khoa_học	5
+ban_hành quy_chuẩn kỹ_thuật	5
+nghiệp_vụ chuyên_môn	4
+chuyên_dùng phục_vụ	4
+kỹ_thuật nghiệp_vụ i	4
+thiết_bị phòng	4
+sử_dụng phương_tiện	3
+hệ_thống hạ_tầng kỹ_thuật	3
+sáng_kiến cải_tiến	3
+i -	3
+lập_luận_chứng kinh_tế	3
+tiêu_chuẩn - đo_lường -	3
+phòng chuyên_môn	3
+ứng_dụng tiến_bộ khoa_học	3
+tiêu_chuẩn chuyên_môn	3
+mua_sắm dụng_cụ	2
+trang_bị phương_tiện	2
+chuẩn quốc_gia	2
+lắp_đặt hệ_thống	2
+hệ_thống thang	2
+sử_dụng công_cụ	2
+kinh_tế kỹ_thuật (	2
+tiến_bộ khoa_học	2
+sử_dụng số_liệu	2
+lưu kho	2
+trang_bị dụng_cụ	1
+lưu khóa	1
+trung_tâm dịch_vụ	1
+mua_sắm phương_tiện	1
+( biểu	1
+biểu tổng_hợp	1
+định_mức kinh_tế -	1
+cải_tạo nâng_cấp	1
+sử_dụng dịch_vụ	1
+nghiệp_vụ cán_bộ	1
+tuyến chuyên_môn	1
+phòng chuyên_môn nghiệp_vụ	1
+- cán_bộ	1
+phương_tiện chuyên_dùng	1
+kỹ_thuật quốc_gia	1
+( cục	1

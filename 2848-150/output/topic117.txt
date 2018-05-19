@@ -1,0 +1,23 @@
+qui_định thông_tư	80
+lao độn	65
+qui_định hiện_hành	65
+qui_định pháp_luật	62
+lao động-thương_binh xã_hội	55
+hoạt độn	31
+thực_hiện qui_định	27
+qui_định nghị_định	23
+chính_phủ qui_định	20
+qui_định cụ_thể	19
+lao động-thương_binh	19
+đối_tượng qui_định	15
+điạ phương	15
+liên thôn	7
+qui_định chi_tiết	6
+pháp_luật hiện_hành	6
+nợ khê_đọng	5
+qui_định tiết	4
+sở lao động-thương_binh	3
+sở lao	2
+chính_phủ qui_định chi_tiết	2
+động-thương_binh xã_hội	1
+toàn xã_hội	1

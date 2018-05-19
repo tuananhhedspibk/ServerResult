@@ -1,0 +1,158 @@
+sản_xuất kinh_doanh	468
+cơ_sở sản_xuất	447
+cơ_sở vật_chất	168
+cơ_sở kinh_doanh	141
+cá_nhân sản_xuất	112
+hoạt_động_sản_xuất kinh_doanh	110
+cơ_sở sản_xuất kinh_doanh	89
+đơn_vị sản_xuất	88
+tập_đoàn sản_xuất	78
+sản_xuất nông_nghiệp	57
+chi_phí sản_xuất	54
+hợp_tác_xã nông_nghiệp	54
+đối_với cơ_sở	53
+hộ kinh_doanh	52
+cơ_sở hạ_tầng	51
+phục_vụ sản_xuất	51
+cơ_sở vật_chất kỹ_thuật	50
+sản_xuất sản_phẩm	50
+cơ_sở sản_xuất kinh_doanh tàn_tật	49
+đơn_vị sản_xuất kinh_doanh	48
+đối_với cơ_sở sản_xuất	48
+sản_xuất đời_sống	46
+cơ_sở lưu_trú	46
+đối_với sản_phẩm	46
+trực_tiếp sản_xuất	42
+tăng_cường cơ_sở vật_chất	40
+sản_xuất cung_ứng sản_phẩm	40
+quá_trình sản_xuất	40
+tiêu_thụ sản_phẩm	38
+sản xuấ	37
+dựa cơ_sở	37
+đại_hội xã_viên	36
+xã_viên hợp_tác_xã	34
+cơ_sở hỏa_táng	32
+sản_xuất muối_ăn	32
+cơ_sở kinh_doanh dịch_vụ	32
+kinh_doanh dịch_vụ	30
+khu_vực sản_xuất	28
+cung_ứng sản_phẩm	27
+hợp_tác_xã mua_bán	27
+xây_dựng cơ_sở	27
+cơ_sở sản_xuất tập_thể	26
+xây_dựng cơ_sở vật_chất	25
+liên_hiệp hợp_tác_xã	25
+phát_triển sản_xuất	24
+xây_dựng cơ_sở dữ_liệu	24
+giá_thành sản_phẩm	24
+cơ_sở pháp_lý	24
+thủ_trưởng cơ_sở	23
+sản_phẩm sản_xuất	23
+cơ_sở dữ_liệu	23
+hộ kinh_doanh cá_thể	22
+đối_với cơ_sở kinh_doanh	21
+luật hợp_tác_xã	21
+năng_lực sản_xuất	21
+dây_chuyền sản_xuất	20
+hợp_tác_xã sản_xuất nông_nghiệp	20
+cơ_sở nuôi_dưỡng_thương_binh	20
+nâng hiệu_quả chăn_nuôi nông_hộ	20
+cải_thiện đời_sống	19
+cơ_sở sản_xuất công_nghiệp nông_thôn	19
+chế thử	19
+sử_dụng nghĩa_trang cơ_sở hỏa_táng	18
+cơ_sở sản_xuất kinh_doanh thương bệnh_binh	18
+cơ_sở sản_xuất muối_ăn	18
+tư_liệu sản_xuất	18
+kinh_doanh trái_phép	18
+tập_đoàn sản_xuất nông_nghiệp	17
+đẩy_mạnh sản_xuất	16
+sản_xuất thử	15
+sản_xuất tiêu_thụ	14
+ngành_nghề kinh_doanh	14
+mở_rộng sản_xuất	14
+xác_định cơ_sở	13
+nhu_cầu sản_xuất	13
+cá_nhân kinh_doanh	13
+cơ_sở chế_biến	13
+đời_sống vật_chất	12
+hiệu_quả sản_xuất	12
+chu_kỳ sản_xuất	11
+phục_vụ sản_xuất nông_nghiệp	11
+nghĩa_trang cơ_sở hỏa_táng	11
+sản_xuất tiêu_dùng	11
+trực tiế	10
+phúc_lợi tập_thể	10
+cơ_sở nuôi_dưỡng	10
+trực_tiếp phục_vụ	10
+đối_với đơn_vị	9
+khối_lượng sản_phẩm	9
+sản_xuất muối	9
+sản_xuất công_nghiệp	9
+hợp_tác_xã sản_xuất	9
+chi_phí dịch_vụ	9
+cơ_sở sản_xuất công_nghiệp	9
+phát_triển sản_xuất kinh_doanh	8
+sản_phẩm dịch_vụ	8
+liên_doanh liên_kết	8
+hợp_tác_xã tập_đoàn	7
+đối_với đơn_vị sản_xuất	7
+chính_phủ sản_xuất cung_ứng	7
+sản_xuất nông	7
+cá_nhân trực_tiếp	7
+nâng đời_sống	6
+đối_với hộ	6
+sản_phẩm hàng_hoá	6
+đối_với tập_thể	6
+sử_dụng sản_phẩm	6
+trực_tiếp phục_vụ sản_xuất	6
+kinh_doanh sản_phẩm	6
+tập_thể cá_nhân	5
+kinh_doanh hợp_tác_xã	5
+tăng_cường cơ_sở	5
+giá_thành sản_xuất	5
+sản_xuất kinh_doanh tàn_tật	5
+kinh_doanh ngành_nghề	5
+kinh_doanh thương bệnh_binh	4
+phục_vụ trực_tiếp	4
+sản_xuất cung_ứng	4
+nhu_cầu tiêu_dùng	4
+cung_ứng dịch_vụ	4
+xây_dựng cơ_sở hạ_tầng	3
+phục_vụ nhu_cầu	3
+kinh_doanh cá_thể	3
+nghĩa_trang cơ_sở	3
+khu_vực nông_thôn	3
+kinh_doanh cung_ứng	3
+khôi_phục sản_xuất	2
+sử_dụng nghĩa_trang	2
+nâng hiệu_quả	2
+cơ_sở sản_xuất kinh_doanh thương	2
+cá_nhân nuôi_dưỡng	2
+dịch_vụ kỹ_thuật	2
+cá_nhân kinh_doanh dịch_vụ	2
+cơ_sở vật_chất phục_vụ	2
+chi_phí phục_vụ	2
+sản_phẩm nông_nghiệp	2
+chủ_động xây_dựng	2
+thủ_trưởng đơn_vị	1
+sản_xuất trái_phép	1
+cơ_sở hỏa_táng địa_bàn	1
+sản_xuất tập_thể	1
+sử_dụng hiệu_quả	1
+chi_phí trực_tiếp	1
+đơn_vị sử_dụng	1
+sản_phẩm công_nghiệp	1
+kinh_doanh thương	1
+cá_nhân nhu_cầu	1
+nâng năng_lực	1
+đối_với hàng_hoá	1
+luật xây_dựng	1
+vật_chất kỹ_thuật	1
+mua_bán hàng_hoá	1
+sản_xuất ban_đầu	1
+đối_với khu_vực	1
+sử_dụng nghĩa_trang cơ_sở	1
+kỹ_thuật sử_dụng	1
+liên_kết sản_xuất	1
+nhu_cầu sử_dụng	1

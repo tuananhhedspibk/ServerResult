@@ -1,0 +1,256 @@
+hộ gia_đình	909
+chính_sách hỗ_trợ	215
+hộ nghèo	210
+kinh_phí hỗ_trợ	175
+hỗ_trợ kinh_phí	153
+hỗ_trợ tối_đa	143
+hộ dân	115
+hỗ_trợ tái_định_cư	108
+hỗ_trợ đầu_tư	95
+điều_kiện hỗ_trợ	93
+hộ cận nghèo	92
+công_cụ hỗ_trợ	91
+ngân_hàng chính_sách xã_hội	85
+nội_dung hỗ_trợ	85
+quy_định_mức hỗ_trợ	71
+đối_với hộ gia_đình	62
+đối_tượng hỗ_trợ	61
+tỷ_lệ hộ nghèo	60
+đối_với hộ	54
+chính_sách khuyến_khích	53
+chính_sách đối_với	48
+hộ thoát nghèo	47
+vay đối_với nghèo đối_tượng chính_sách	44
+xã hộ	44
+hỗ_trợ tiền	44
+hỗ_trợ chi_phí	42
+xã nghèo	42
+trợ_giúp kinh_phí	39
+đối_tượng chính_sách	36
+trường_hợp hộ gia_đình	34
+đề_nghị hỗ_trợ	34
+cơ_sở bảo_trợ xã_hội	32
+đối_với đối_tượng	31
+hỗ_trợ đào_tạo	31
+lao_động hộ nghèo	31
+: hỗ_trợ tối_đa	30
+ngân_hàng_phục_vụ nghèo	28
+quy_định chính_sách hỗ_trợ	27
+đối_tượng hỗ_trợ :	26
+cận nghèo	26
+huyện nghèo	26
+chi_nhánh ngân_hàng chính_sách xã_hội	26
+sử_dụng công_cụ hỗ_trợ	26
+thực_hiện chính_sách	26
+hộ nông_dân	26
+nghèo đối_tượng chính_sách	25
+đối_tượng thụ_hưởng	25
+kinh_phí thực_hiện	24
+xoá đói_giảm nghèo	24
+chính_sách xã_hội	24
+thủ_tướng chính_phủ chính_sách hỗ_trợ	24
+hưởng chính_sách	23
+tổng kinh_phí hỗ_trợ	23
+giấy_phép sử_dụng công_cụ hỗ_trợ	22
+gia_đình chính_sách	22
+cơ_chế chính_sách	22
+đối_với nghèo đối_tượng chính_sách	21
+hỗ_trợ cụ_thể	21
+hệ_thống xử_lý hộ gia_đình nông_thôn	21
+hộ đồng_bào dân_tộc_thiểu_số	21
+hưởng chính_sách hỗ_trợ	21
+bố_trí tái_định_cư	21
+ngân_hàng chính_sách xã_hội vay đối_với nghèo đối_tượng chính_sách	21
+hộ dân_tộc_thiểu_số	21
+phụ_nữ hộ nghèo	21
+nông_nghiệp hộ gia_đình	20
+hỗ_trợ lãi_suất	20
+50 % tổng_số cử_tri cử_tri đại_diện hộ gia_đình	20
+bảo_trợ xã_hội	19
+hộ nghèo tham_gia dự_án	19
+hỗ_trợ phát_triển	19
+một_số chính_sách hỗ_trợ	19
+hộ gia_đình nông_thôn	18
+đối_tượng bảo_trợ xã_hội	18
+tổng kinh_phí	18
+đối_với xã	17
+bố_trí kinh_phí	17
+đối_với hộ nghèo	17
+hỗ_trợ đầu_tư cơ_sở hạ_tầng	17
+thực_hiện chính_sách hỗ_trợ	17
+chuẩn nghèo tiếp_cận đa_chiều áp_dụng	17
+chính_sách hỗ_trợ đầu_tư	16
+trợ_giúp xã_hội	15
+hỗ_trợ hộ nghèo	15
+chính_sách ưu_đãi hỗ_trợ đầu_tư	15
+hỗ_trợ hộ	15
+chính_sách ưu_đãi	13
+chuẩn nghèo	13
+quản_lý_tài_chính đối_với ngân_hàng chính_sách xã_hội	12
+định_mức hỗ_trợ	12
+trợ_giúp kinh_phí nuôi_dưỡng	12
+sử_dụng kinh_phí hỗ_trợ	12
+hiệu lự	11
+hiệu chuẩn	11
+tỷ_lệ hộ	11
+thoát nghèo	11
+diện chính_sách	11
+đối_tượng chính_sách xã_hội	10
+thụ_hưởng chính_sách	10
+một_số chính_sách	10
+nhà_nước hỗ_trợ	10
+quản_lý_tài_chính đối_với	9
+hộ nghèo chuẩn	9
+hỗ_trợ 50	9
+chi_nhánh ngân_hàng chính_sách xã_hội tỉnh	9
+đối_tượng hưởng	9
+xã_hội hóa đầu_tư	8
+kinh_phí thực_hiện chính_sách	8
+đối_tượng hưởng chính_sách	8
+ngân_hàng chính_sách xã_hội tỉnh	8
+đại_diện hộ gia_đình	8
+đất hộ gia_đình	8
+cơ_sở hạ_tầng	8
+chính_phủ quy_định chính_sách hỗ_trợ	7
+chi_nhánh ngân_hàng chính_sách	7
+danh_sách đối_tượng	7
+kinh_phí chi_trả	7
+hỗ_trợ 30	7
+ngân_hàng chính_sách xã_hội vay	6
+sinh_hoạt hộ	6
+cơ_sở đề_nghị	6
+đối_tượng áp_dụng	6
+kinh_phí hợp_pháp	6
+điều_kiện hưởng	6
+dân tộ	6
+chính_phủ chính_sách	5
+quy_mô hộ	5
+chính_sách khuyến_khích phát_triển	5
+trường_hợp hộ	5
+diện hộ	5
+một_số chính_sách khuyến_khích	5
+khuyến_khích phát_triển	5
+chính_sách hỗ_trợ đào_tạo	5
+đối_tượng quy_định	5
+khuyến_khích đầu_tư	5
+đối_tượng điều_kiện	5
+quy_chế quản_lý_tài_chính đối_với ngân_hàng chính_sách xã_hội	5
+chính_sách phát_triển	5
+đối_tượng tham_gia	4
+thực_hiện chính_sách ưu_đãi	4
+đồng_bào dân_tộc_thiểu_số	4
+đối_với cơ_sở	4
+đầu_tư hạ_tầng	4
+ủy_thác ngân_hàng chính_sách xã_hội	4
+ngân_hàng chính_sách	4
+chính_phủ chính_sách khuyến_khích	4
+đất nông_nghiệp hộ gia_đình	4
+đối_tượng chính_sách địa_bàn tỉnh	4
+hộ gia	4
+một_số chính_sách ưu_đãi	3
+kinh_phí đào_tạo	3
+diện chính_sách xã_hội	3
+hệ_thống xử_lý	3
+bố_trí kinh_phí thực_hiện	3
+ưu_tiên bố_trí	3
+ưu_đãi quy_định	3
+hệ_thống thoát	3
+hệ_thống xử_lý hộ gia_đình	3
+thực_hiện dự_án	3
+quy_định cơ_chế	3
+định_mức kinh_phí hỗ_trợ	3
+đối_với dự_án	3
+đối_với một_số	3
+chính_sách trợ_giúp	3
+hộ dân nông_thôn	3
+hỗ_trợ 50 %	2
+vay tối_đa	2
+đất hộ	2
+ưu_đãi hỗ_trợ	2
+nội_dung quy_định	2
+nội_dung :	2
+ưu_tiên đầu_tư	2
+đối_tượng chính_sách địa_bàn	2
+ưu_đãi đối_với	2
+chi_nhánh ngân_hàng	2
+địa_bàn xã	2
+chuẩn nghèo tiếp_cận đa_chiều	2
+ngân_hàng chính_sách xã_hội vay đối_với nghèo	2
+quy_định một_số chính_sách	2
+vay đối_với nghèo đối_tượng chính_sách địa_bàn tỉnh	2
+hưởng ưu_đãi	2
+chính_sách khuyến_khích xã_hội_hóa	2
+hợp_pháp quy_định	2
+xử_lý trường_hợp	2
+thủ_tướng chính_phủ	2
+đầu_tư cơ_sở hạ_tầng	2
+hóa đầu_tư	2
+ưu_đãi đầu_tư	2
+lãi_suất ưu_đãi	2
+vay đối_với nghèo đối_tượng chính_sách địa_bàn	2
+áp_dụng đối_với	2
+đối_tượng diện	2
+nghèo đối_tượng chính_sách địa_bàn	2
+ủy_thác ngân_hàng chính_sách xã_hội vay đối_với nghèo	2
+hệ_thống ngân_hàng	2
+ủy_thác ngân_hàng chính_sách xã_hội vay đối_với	2
+hộ đồng_bào	2
+tối_đa 50	2
+30 %	1
+định_mức lao_động	1
+thực_hiện một_số	1
+đối_với đối_tượng quy_định	1
+ngân_hàng chính_sách xã_hội vay đối_với	1
+vay ngân_hàng	1
+: tối_đa	1
+kinh_phí thực_hiện chính_sách ưu_đãi	1
+thực_hiện chi_trả	1
+tổng đầu_tư	1
+đại_diện hộ	1
+sử_dụng lao_động	1
+chuẩn nghèo tiếp_cận	1
+xã_hội địa_bàn	1
+nghèo đối_tượng chính_sách địa_bàn tỉnh	1
+hộ cận	1
+hộ thoát	1
+quy_chế quản_lý_tài_chính đối_với	1
+nghèo tiếp_cận đa_chiều	1
+xã :	1
+chính_phủ một_số chính_sách	1
+hỗ_trợ 30 %	1
+sử_dụng công_cụ	1
+% chi_phí	1
+vay đối_với nghèo	1
+xoá đói_giảm	1
+xử_lý hộ gia_đình nông_thôn	1
+đối_với nghèo	1
+thủ_tướng chính_phủ chính_sách	1
+kế_hoạch_hoá gia_đình	1
+quy_chế áp_dụng đối_với	1
+hệ_thống xử_lý hộ	1
+chính_phủ cơ_chế	1
+chuẩn nông_thôn	1
+trường_hợp thiên_tai	1
+tín_dụng ưu_đãi	1
+cơ_chế quản_lý_tài_chính	1
+một_số nội_dung	1
+sử_dụng kinh_phí	1
+xã_hội hóa	1
+ưu_đãi hỗ_trợ đầu_tư	1
+chính_sách ưu_đãi hỗ_trợ	1
+một_số trường_hợp	1
+khuyến_khích xã_hội_hóa	1
+gia_đình nông_thôn	1
+công_cụ lao_động	1
+điều_kiện :	1
+đề_nghị giấy_phép	1
+tiền vay	1
+30 5 2008 chính_phủ chính_sách khuyến_khích xã_hội_hóa	1
+thực_hiện cơ_chế	1
+tổng kinh_phí thực_hiện	1
+xã_hội tỉnh	1
+chi_phí đầu_tư	1
+chính_phủ tín_dụng đối_với	1
+cụ_thể :	1
+hỗ_trợ đầu_tư cơ_sở	1
+đối_với nghèo đối_tượng chính_sách địa_bàn	1

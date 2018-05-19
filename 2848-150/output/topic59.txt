@@ -1,0 +1,264 @@
+giấy chứng_nhận	834
+giấy chứng_nhận quyền sử_dụng đất	313
+tài_sản gắn liền đất	286
+văn_phòng đăng_ký đất_đai	210
+chi_nhánh văn_phòng đăng_ký đất_đai	194
+văn_phòng đại_diện	168
+giấy chứng_nhận đăng_ký kinh_doanh	153
+bộ_phận tiếp_nhận kết_quả	152
+liền kề	136
+quyền sở_hữu tài_sản gắn liền đất	115
+giấy xác_nhận	111
+giấy chứng_nhận đăng_ký	108
+văn_phòng đăng_ký quyền sử_dụng đất	103
+giấy đăng_ký	76
+đăng_ký kinh_doanh	72
+hồ_sơ văn_phòng đăng_ký đất_đai	66
+giấy chứng_nhận điều_kiện	62
+văn_phòng đăng_ký đất_đai huyện	60
+giấy chứng_nhận đăng_ký đầu_tư	57
+giấy chứng_nhận điều_kiện kinh_doanh	56
+thành_lập văn_phòng đại_diện	54
+giấy chứng_nhận bị_thương	51
+gắn liền	51
+trường_hợp hồ_sơ 16 hồ_sơ làm_việc tiếp_theo	46
+giấy thông_hành	42
+thời_gian bộ_phận tiếp_nhận kết_quả 0	42
+hồ_sơ đăng_ký	41
+văn_phòng đăng_ký đất_đai phát_triển quỹ đất	40
+ký giấy chứng_nhận	38
+đăng_ký đất_đai	38
+giấy giới_thiệu	38
+giấy chứng_minh nhân_dân	36
+giấy chứng_nhận quyền sở_hữu	35
+hồ_sơ chi_nhánh văn_phòng đăng_ký đất_đai	35
+đổi giấy chứng_nhận	34
+giấy chứng_nhận 16 làm_việc tiếp_theo	34
+bộ_phận tiếp_nhận kết_quả tiến_hành trao giấy chứng_nhận sử_dụng đất	33
+văn_phòng đăng_ký đất_đai tỉnh	33
+xác_nhận thay_đổi giấy chứng_nhận	33
+tiếp_nhận hồ_sơ	32
+giấy chứng_minh	31
+lưu giấy chứng_nhận giấy chứng_nhận bộ_phận tiếp_nhận kết_quả làm_việc	31
+giấy chứng_nhận sử_dụng đất	30
+giấy viết	29
+trao giấy chứng_nhận	29
+trao giấy chứng_nhận sử_dụng đất	27
+giấy chứng_nhận kiểm_dịch	25
+chủ sở_hữu tài_sản gắn liền đất	25
+giấy chứng_nhận xuất_xứ	24
+sử_dụng đất	24
+văn_phòng đăng_ký đất_đai ( chi_nhánh văn_phòng đăng_ký đất đa	24
+quyền sở_hữu	23
+công_chức làm_việc bộ_phận tiếp_nhận kết_quả	23
+giấy đăng_ký kiểm_dịch	23
+chi_nhánh văn_phòng đăng_ký đất_đai thực_hiện	22
+bộ_phận tiếp_nhận kết_quả huyện	22
+bản_sao giấy chứng_nhận	21
+đối_với trường_hợp giấy chứng_nhận	21
+ký giấy chứng_nhận kết_quả	21
+văn_phòng đăng_ký đất_đai kiểm_tra	21
+trung_tâm hành_chính công tỉnh trao sử_dụng đất	21
+in giấy chứng_nhận	20
+chứng_nhận giấy	20
+ký giấy chứng_nhận ủy_quyền	20
+trách_nhiệm đăng_ký thành_lập văn_phòng đại_diện	20
+làm_việc hồ_sơ chi_nhánh văn_phòng đăng_ký đất_đai	20
+giấy chứng_nhận bệnh_binh	20
+chi_nhánh văn_phòng đăng_ký đất_đai quét	20
+giấy chứng_nhận quyền sở_hữu quyền sử_dụng đất	20
+gắn liền đất	19
+quyền sử_dụng đất	19
+hồ_sơ chi_nhánh văn_phòng đăng_ký đất_đai làm_việc	18
+bản_sao giấy khai_sinh	18
+bản_sao giấy chứng_nhận đăng_ký	18
+gắn liền quyền sử_dụng đất	18
+nộp 01 hồ_sơ trung_tâm hành_chính công tỉnh	18
+giấy khai_sinh	18
+bộ_phận tiếp_nhận kết_quả văn_phòng ủy_ban nhân_dân huyện trách_nhiệm	18
+giấy chứng_nhận quyền sử_dụng đất lâm_nghiệp	17
+giấy chứng_tử	17
+giấy chứng_nhận quyền sở_hữu công_trình xây_dựng	17
+in giấy chứng_nhận hồ_sơ trình	17
+quyền sử_dụng đất tài_sản gắn liền đất	17
+thu_hồi giấy chứng_nhận	16
+giấy đăng_ký hoạt_động	16
+kết_quả chi_nhánh văn_phòng đăng_ký đất_đai	16
+tài_sản gắn liền	15
+in giấy	15
+đăng_ký thành_lập văn_phòng đại_diện	15
+giấy chứng_nhận tiêu_chuẩn điều_kiện	15
+quyền sử_dụng	15
+trình ủy_ban nhân_dân huyện giấy chứng_nhận	15
+văn_phòng đăng_ký đất_đai quét	14
+giấy chứng_nhận quyền	13
+biến_động đất_đai	12
+tiếp_nhận kết_quả	12
+trao sử_dụng đất	12
+bản_sao giấy chứng_nhận đăng_ký kinh_doanh	12
+đăng_ký kiểm_dịch	12
+xác_nhận đăng_ký	11
+bộ_phận tiếp_nhận kết_quả huyện trao sử_dụng đất	11
+giấy chứng_nhận bộ_phận tiếp_nhận kết_quả	11
+giấy biên_nhận	11
+hồ_sơ địa_chính	11
+hồ_sơ trình	11
+văn_phòng đăng_ký đất_đai thực_hiện thẩm_tra hồ_sơ	11
+chứng_nhận quyền sở_hữu tài_sản gắn liền đất	11
+xác_nhận thay_đổi	10
+văn_phòng đăng_ký đất_đai tiến_hành kiểm_tra hồ_sơ	10
+làm_việc hồ_sơ	10
+hoạt_động văn_phòng đại_diện	10
+hồ_sơ đăng_ký kinh_doanh	10
+thủ_tục đăng_ký	10
+đăng_ký biến_động	10
+đối_với tài_sản	10
+giấy chứng_nhận tiêu_chuẩn	10
+đất_đai sử_dụng đất	9
+số_liệu địa_chính văn_phòng đăng_ký đất_đai	9
+văn_phòng đăng_ký đất_đai thực_hiện	9
+giấy chứng_nhận quyền sử_dụng	9
+lưu giấy chứng_nhận	8
+tài_sản gắn liền đất (	8
+đăng_ký đăng_ký kinh_doanh	8
+sử_dụng đất giấy chứng_nhận	8
+đăng_ký thay_đổi	8
+chủ sở_hữu	8
+tiếp_nhận hồ_sơ đăng_ký	7
+ký giấy	7
+giấy mời	7
+giấy tiếp_nhận hồ_sơ	7
+thủ_tục giấy chứng_nhận	7
+chủ sở_hữu tài_sản	7
+huyện trao sử_dụng đất	7
+làm_việc tiếp_theo	6
+tài_sản sở_hữu	6
+chứng_nhận đăng_ký	6
+đất tài_sản gắn liền đất	6
+chi_nhánh văn_phòng đăng_ký đất_đai tiến_hành	6
+mua tài_sản	6
+lưu giấy chứng_nhận giấy chứng_nhận bộ_phận tiếp_nhận kết_quả	6
+bộ_phận tiếp_nhận kết_quả 0	6
+bộ_phận tiếp_nhận	6
+đại_diện chủ sở_hữu	5
+thẩm_quyền giấy chứng_nhận	5
+bản_sao giấy	5
+( chi_nhánh văn_phòng đăng_ký đất đa	5
+giấy chứng_nhận đối_với trường_hợp giấy chứng_nhận	5
+xóa đăng_ký	5
+tiến_hành trao	5
+bộ_phận tiếp_nhận kết_quả văn_phòng ủy_ban nhân_dân huyện	5
+sở_hữu tài_sản	5
+sở_hữu tài_sản gắn liền đất	5
+chứng_minh nhân_dân	5
+đăng_ký quyền sử_dụng đất	4
+giấy chứng_nhận quyền sở_hữu tài_sản	4
+đất_đai huyện	4
+giấy chứng_nhận quyền sở_hữu tài_sản gắn liền	4
+ủy_ban nhân_dân huyện giấy chứng_nhận	4
+văn_phòng đăng_ký đất_đai tiến_hành	4
+kinh_doanh kết_cấu_hạ_tầng	4
+kiểm_tra hồ_sơ	4
+văn_phòng đăng_ký đất_đai thực_hiện công_việc	4
+thời_gian bộ_phận tiếp_nhận kết_quả	4
+nộp 01 hồ_sơ bộ_phận tiếp_nhận kết_quả	4
+điều_kiện kinh_doanh	4
+hồ_sơ bộ_phận tiếp_nhận kết_quả	4
+chi_nhánh văn_phòng	4
+quyền sở_hữu tài_sản	4
+giấy chứng_nhận đối_với trường_hợp	4
+hồ_sơ kết_quả	4
+làm_việc kết_quả	3
+phát_triển quỹ đất	3
+đất giấy chứng_nhận quyền sử_dụng đất	3
+in giấy chứng_nhận hồ_sơ	3
+ký xác_nhận	3
+giấy chứng_nhận kết_quả	3
+điều_kiện thành_lập	3
+làm_việc hồ_sơ văn_phòng đăng_ký đất_đai	3
+thu_hồi giấy	3
+đất đa	3
+thành_lập văn_phòng	3
+giấy chứng_nhận quốc_tịch	3
+quỹ đất	3
+giấy chứng_nhận ủy_quyền	3
+làm_việc bộ_phận	3
+đăng_ký kinh_doanh quy_định	3
+trách_nhiệm hồ_sơ chi_nhánh văn_phòng đăng_ký đất_đai làm_việc	2
+chi_nhánh văn_phòng đăng_ký đất đa	2
+16 làm_việc	2
+thủ_tục giấy	2
+văn_phòng đăng_ký đất_đai thực_hiện công_việc quy_định	2
+giấy chứng_nhận hồ_sơ trình	2
+chứng_nhận đăng_ký kinh_doanh	2
+đối_với trường_hợp	2
+giấy tiếp_nhận	2
+hẹn kết_quả	2
+công_chức làm_việc bộ_phận	2
+tiến_hành kiểm_tra	2
+thẩm_tra hồ_sơ	2
+chi_nhánh văn_phòng đăng_ký đất_đai làm_việc	2
+sử_dụng tài_sản	2
+đăng_ký thành_lập	2
+chứng_nhận tiêu_chuẩn	2
+kết_quả kiểm_tra	2
+kết_quả thẩm_tra	2
+giấy chứng_nhận giấy chứng_nhận	2
+bộ_phận tiếp_nhận kết_quả văn_phòng ủy_ban nhân_dân huyện trách_nhiệm hồ_sơ	2
+hồ_sơ bộ_phận tiếp_nhận	2
+văn_phòng đăng_ký đất đa	2
+kinh_doanh điều_kiện	2
+tiến_hành trao giấy chứng_nhận	2
+làm_việc hồ_sơ chi_nhánh văn_phòng đăng_ký	2
+huyện giấy chứng_nhận	2
+quyền sử_dụng đất tài_sản gắn liền	2
+sử_dụng quỹ	1
+quyền sở_hữu quyền sử_dụng	1
+thời_gian làm_việc	1
+giấy chứng_nhận quyền sở_hữu quyền	1
+thực_hiện thủ_tục đăng_ký	1
+chứng_nhận bị_thương	1
+lưu hồ_sơ	1
+đất tài_sản gắn liền	1
+văn_phòng đăng_ký quyền sử_dụng	1
+đối_với trường_hợp giấy	1
+hồ_sơ văn_phòng đăng_ký	1
+quyền sử_dụng đất lâm_nghiệp	1
+tiến_hành kiểm_tra hồ_sơ	1
+chứng_nhận tiêu_chuẩn điều_kiện	1
+quyền sở_hữu công_trình xây_dựng	1
+đổi giấy	1
+quỹ phát_triển đất	1
+trách_nhiệm hồ_sơ chi_nhánh văn_phòng đăng_ký đất_đai	1
+quyền sở_hữu tài_sản gắn liền	1
+chứng_nhận quyền sở_hữu	1
+chứng_nhận quyền sở_hữu tài_sản	1
+thay_đổi giấy chứng_nhận	1
+chủ sử_dụng	1
+chi_nhánh văn_phòng đăng_ký	1
+thủ_tục hành_chính	1
+chủ đầu_tư	1
+làm_việc bộ_phận tiếp_nhận kết_quả	1
+điều_kiện làm_việc	1
+trường_hợp hồ_sơ	1
+đất đối_với trường_hợp	1
+chứng_nhận điều_kiện	1
+hồ_sơ bộ_phận	1
+đăng_ký quyền	1
+giấy chứng_nhận quyền sở_hữu quyền sử_dụng	1
+trường_hợp thay_đổi	1
+văn_phòng đăng_ký	1
+bộ_phận tiếp_nhận kết_quả văn_phòng ủy_ban nhân_dân	1
+hồ_sơ văn_phòng	1
+01 hồ_sơ	1
+chứng_nhận quyền sử_dụng	1
+lưu giấy chứng_nhận giấy chứng_nhận	1
+đất giấy chứng_nhận	1
+trách_nhiệm chủ	1
+nộp hồ_sơ đăng_ký	1
+văn_phòng đăng_ký đất_đai tiến_hành kiểm_tra	1
+đại_diện chủ	1
+sử_dụng số_liệu	1
+kết_quả làm_việc	1
+nộp hồ_sơ	1
+kết_quả thực_hiện	1

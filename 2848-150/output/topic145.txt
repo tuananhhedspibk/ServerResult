@@ -1,0 +1,46 @@
+xử_lý chất_thải	84
+chất_thải rắn sinh_hoạt	63
+vận_chuyển rác_thải sinh_hoạt	57
+chất_thải rắn	57
+xử_lý nước_thải	53
+xử_lý chất_thải rắn sinh_hoạt	48
+quản_lý chất_thải	35
+chôn lấp	30
+chân giả	29
+chất bọt	26
+bãi chôn lấp	23
+hệ_thống thu_gom	23
+chất_thải nguy_hại	22
+xử_lý triệt_để	21
+xử_lý rác_thải sinh_hoạt	21
+xử_lý chất_thải rắn	21
+xử_lý nghiêm	20
+vận_chuyển chất_thải rắn sinh_hoạt	17
+bãi chôn lấp chất_thải	17
+quản_lý chất_thải rắn sinh_hoạt	15
+rác_thải sinh_hoạt	15
+quản_lý chất_thải rắn	15
+chôn lấp chất_thải	13
+xử_lý rác_thải	13
+tiếp_nhận nước_thải	13
+dịch_vụ xử_lý chất_thải rắn sinh_hoạt	10
+hệ_thống thoát	8
+nước_thải sinh_hoạt	8
+phương_tiện vận_chuyển	7
+vận_chuyển rác_thải sinh_hoạt địa_bàn	7
+lắp_đặt hệ_thống	6
+vận_chuyển rác_thải	6
+vận_chuyển chất_thải	6
+dịch_vụ thu_gom	5
+hệ_thống xử_lý	4
+cơ_sở xử_lý chất_thải rắn	3
+rác_thải sinh_hoạt địa_bàn	3
+lựa_chọn địa_điểm	3
+vận_hành hệ_thống	3
+sinh_hoạt địa_bàn	3
+vận_chuyển chất_thải rắn	2
+chi_phí vận_chuyển	2
+quản_lý vận_hành	2
+lắp_đặt thiết_bị	1
+cơ_sở xử_lý chất_thải	1
+chi_phí quản_lý	1

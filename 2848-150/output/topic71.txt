@@ -1,0 +1,23 @@
+tiểu thủ_công_nghiệp	60
+cơ_quan lhcxn	54
+niên độ	30
+hướng_dẫn tiểu	28
+niên độ ngân_sách	26
+nợ tài	26
+tiểu chương	21
+tiểu khoản	20
+ghi nợ	18
+hoạch toán	17
+trình_bày ô	17
+đánh_số thứ_tự	14
+sử_dụng ngoại_tệ	14
+kỹ_thuật trình_bày	14
+tài chín	11
+trực tiế	9
+ghi đầy_đủ	7
+độ mật	5
+ghi thành	4
+khoản mục	3
+cơ_quan ngang	2
+pháp lện	1
+độ ngân_sách	1

@@ -1,0 +1,85 @@
+thuốc thiết_yếu	91
+thuốc pháo	84
+mua thuốc	76
+vật_liệu nổ công_nghiệp	51
+quỹ thuốc	51
+pháo nổ	46
+thuốc trừ_sâu	35
+thuốc pháo_hoa	33
+cấp_phát thuốc	33
+kho thuốc	27
+mặt_hàng thuốc	27
+nguyên_liệu thuốc	27
+quỹ thuốc quay_vòng	26
+thuốc giả	24
+đốt pháo nổ	22
+cung_ứng thuốc	21
+kinh_doanh cung_ứng vlncn	21
+pháo nước_ngoài sản_xuất	19
+than thu_hồi	19
+vật_liệu nổ	18
+nhập_khẩu thuốc	18
+phát thuốc	18
+đốt pháo	17
+thuốc dược_liệu	16
+thuốc thông_thường	16
+thuốc - nguyên_liệu	15
+sản_xuất gạch ngói nung	15
+gạch ngói nung	15
+xuất nhập_khẩu thuốc - nguyên_liệu	15
+nguyên_liệu sản_xuất	15
+cung_ứng vlncn	14
+thuốc thú_y	12
+- đo_lường - chất_lượng	12
+nguyên vật_liệu	11
+gạch ngói	10
+xuất nhập_khẩu thuốc	10
+quá_trình sản_xuất	10
+khu_vực sản_xuất	9
+gia_công chế_biến	8
+chất_lượng thuốc	8
+danh_mục thuốc	8
+tiêu_chuẩn - đo_lường - chất_lượng	7
+sử_dụng vật_liệu nổ công_nghiệp	7
+bán_lẻ thuốc	7
+- byt	6
+sử_dụng vật_liệu nổ	6
+phí kiểm_nghiệm	6
+nhập_khẩu thuốc - nguyên_liệu	5
+- nguyên_liệu	5
+nhập kho	4
+tiền thuốc	4
+sản_xuất kinh_doanh	3
+sản_xuất tiêu_dùng	3
+sản_xuất gạch ngói	3
+thuốc quay_vòng	3
+nguyên_liệu gỗ	3
+công_nghiệp chế_biến	3
+xuất nhập_khẩu	3
+pháo pháo	3
+sử_dụng quỹ	2
+sử_dụng máy	2
+mua máy	2
+xuất kho	2
+tiêu_chuẩn đo_lường	2
+công_nghiệp thực_phẩm	2
+kinh_doanh mặt_hàng	2
+phép sử_dụng	2
+tiếp_tục sử_dụng	2
+tiêu_chuẩn - đo_lường -	2
+đo_lường chất_lượng	1
+tiêu_chuẩn chất_lượng	1
+sử_dụng vật_liệu	1
+kinh_doanh xuất nhập_khẩu	1
+kinh_doanh xuất nhập_khẩu thuốc	1
+đo_lường - chất_lượng	1
+sản_phẩm sản_xuất	1
+pháo nước_ngoài	1
+sản_xuất công_nghiệp	1
+đo_lường -	1
+sản_xuất vật_liệu	1
+sản_xuất gạch	1
+sử_dụng sản_phẩm	1
+cấm nhập_khẩu	1
+khu_vực cấm	1
+- đo_lường -	1

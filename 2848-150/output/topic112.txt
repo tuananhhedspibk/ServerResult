@@ -1,0 +1,176 @@
+nghỉ hưu	325
+quỹ tiền_lương	239
+lương tối_thiểu	178
+hưởng lương	171
+lương hưu	162
+đơn_giá tiền_lương	144
+hưởng lương hưu	104
+tiền_lương tối_thiểu	100
+hưởng lương ngân_sách nhà_nước	89
+quỹ lương	80
+phụ_cấp lương	75
+lương cấp_bậc	72
+lương hưu hàng	61
+lương cơ_sở	53
+nghỉ bù	50
+nghỉ ốm	47
+thời_gian nghỉ	44
+tháng_lương tối_thiểu	40
+kỳ lương hàng	40
+chi_trả tiền_lương	34
+chi_phí tiền_lương	33
+bảng lương	33
+cơ_sở lương hưu	32
+nghỉ lễ	31
+lương phụ_cấp	31
+khoản phụ_cấp	31
+cộng dồn	30
+lương phụ_cấp lương	30
+bình_quân tiền_lương	29
+lương hưu trợ_cấp	29
+lương hàm	29
+thang lương	28
+lương bình_quân	27
+chế_độ tiền_lương	26
+phụ_cấp thâm_niên	26
+khoản phụ_cấp lương	25
+điều_chỉnh lương hưu	25
+lĩnh lương	25
+hưởng nguyên lương	24
+lương cơ_sở /	23
+đối_với nữ	23
+% lương cấp_bậc	22
+tiền_lương tối_thiểu 180	22
+quỹ tiền_lương thực_hiện	21
+quân_nhân hưu	21
+% lương	21
+kỳ lương	20
+tính_chất lương	20
+phụ_cấp chức_vụ	20
+công_nhân cao_su	19
+lương bình_quân 5	18
+tiền_lương phụ_cấp	18
+chỉ_tiêu quỹ tiền_lương	17
+5 cuối_cùng	17
+lương chức_vụ	17
+thay lương	17
+lương tối_thiểu nhà_nước quy_định thời_điểm	17
+tiền_tuất hàng	17
+bảng lương nhà_nước quy_định	17
+tổng tiền_lương	16
+hệ_thống thang	16
+xác_định quỹ tiền_lương thực_hiện	15
+điều_chỉnh lương tối_thiểu	12
+ngân_sách nhà_nước	12
+cấp_bậc chức_vụ	12
+tiền_lương phụ_cấp lương	12
+điều_chỉnh lương	12
+tiền_lương thu_nhập	12
+nghỉ ốm_đau	12
+điều_chỉnh tiền_lương tối_thiểu	11
+ngân_sách nhà_nước chi_trả	11
+điều_chỉnh tiền_lương	11
+5 nghỉ hưu	11
+tổng tiền_lương cộng tiền	11
+lương tối_thiểu nhà_nước quy_định	11
+tỷ_lệ % lương hưu	11
+lương khoản phụ_cấp	10
+hưởng phụ_cấp	10
+lương làm_việc ban_đêm	10
+quỹ bảo_hiểm_xã_hội	10
+hệ_số lương	10
+chi_trả lương	10
+tiền_lương cấp_bậc	10
+hưởng lương ngân_sách	9
+% tiền_lương	9
+bảng lương nhà_nước	9
+tổng tiền_lương cộng	9
+chế_độ nghỉ	8
+bình_quân tiền_lương căn_cứ	8
+nguyên lương	8
+5 tháng_lương	8
+chế_độ tử_tuất	8
+% lương hưu	7
+chứng_nhận nghỉ	7
+thời_gian nghỉ_việc	7
+xác_định cơ_sở	7
+hệ_số điều_chỉnh	7
+lương hưu trợ_cấp bảo_hiểm_xã_hội	7
+lương tối_thiểu nhà_nước	6
+% quỹ tiền_lương	6
+% quỹ	6
+đối_với công_nhân	6
+nghỉ chờ	6
+hưởng bảo_hiểm_xã_hội	5
+chứng_nhận nghỉ ốm	5
+chức_vụ dân_cử	5
+xác_định quỹ tiền_lương	5
+thực_hiện chế_độ tiền_lương	5
+hưởng nguyên	5
+phụ_cấp đắt_đỏ	4
+làm_việc ban_đêm	4
+thời_gian hưởng	4
+hưởng hệ_số	4
+lương phụ_cấp thâm_niên	4
+làm_việc lào	4
+hưu hàng	4
+làm_việc cơ_sở	4
+hưởng trợ_cấp	4
+tiền_lương căn_cứ	4
+nghỉ_việc hưởng lương	3
+chết thời_gian	3
+chế_độ lương làm_việc ban_đêm	3
+hưởng chế_độ	3
+đối_với quân_nhân	3
+5 %	3
+lương hệ_số	3
+bình_quân 5	3
+điều_chỉnh trợ_cấp	3
+lương ngân_sách nhà_nước	3
+tiếp_tục làm_việc	3
+thời_gian làm_việc	2
+chế_độ phụ_cấp	2
+hưu :	2
+xác_định tỷ_lệ	2
+thực_hiện chế_độ	2
+tiền_lương khoản	2
+thời_gian chờ	2
+nghỉ_việc hưởng trợ_cấp	2
+hưởng phụ_cấp chức_vụ	2
+% lương tối_thiểu	2
+chế_độ bảo_hiểm_xã_hội	2
+điều_chỉnh bảng	2
+hưởng chế_độ bảo_hiểm_xã_hội	2
+% đơn_giá	2
+hệ_số phụ_cấp	2
+tiền_lương khoản phụ_cấp	2
+bảo_hiểm_xã_hội tiền_lương	2
+thời_gian điều_trị	2
+lương cộng	2
+tỷ_lệ % lương	1
+thu_nhập bình_quân	1
+bảo_hiểm_xã_hội đối_với	1
+cộng phụ_cấp chức_vụ	1
+tiếp_tục hưởng	1
+tối_thiểu nhà_nước quy_định	1
+lương cộng phụ_cấp	1
+quân_nhân hưởng	1
+thời_gian hưởng phụ_cấp	1
+hàng thán	1
+lương bảng	1
+tối_thiểu quy_định	1
+hệ_số lương 5	1
+hưu nghỉ_việc	1
+trợ_cấp ốm_đau	1
+trợ_cấp hàng	1
+khoản chi_phí	1
+tối_thiểu nhà_nước	1
+chế_độ tiền_lương đối_với	1
+trợ_cấp tiền_tuất	1
+đối_với khoản	1
+khoản thu_nhập	1
+hưởng cộng	1
+chế_độ trợ_cấp	1
+điều_chỉnh đơn_giá	1
+hưu trợ_cấp	1
+trợ_cấp bảo_hiểm_xã_hội	1

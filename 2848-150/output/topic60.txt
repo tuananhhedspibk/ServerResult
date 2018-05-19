@@ -1,0 +1,47 @@
+di_tích lịch_sử	47
+dự_trữ quốc_gia	45
+vườn hoa	44
+xây dựn	37
+vườn quốc_gia	36
+sâm ngọc_linh	32
+ban quản_lý di_tích	26
+di_sản văn_hóa	24
+lợi_ích quốc_gia	24
+di_tích lịch_sử - văn_hóa	24
+ý_nghĩa quan_trọng	22
+sở văn_hóa	21
+ảnh_hưởng cảnh_quan	20
+thuần_phong mỹ_tục	20
+sửa_đổi phố	18
+khu bảo_tồn thiên_nhiên	18
+quản_lý di_tích	18
+hệ sinh_thái	17
+du_lịch sinh_thái	17
+nếp sống	15
+phục_hồi di_tích	15
+sở xây dựn	14
+xếp_hạng di_tích	13
+di_tích quốc_gia	13
+bảo_tồn thiên_nhiên	12
+khu bảo_tồn	10
+phong_tục tập_quán	8
+ban quản_lý	7
+di_sản văn_hoá	6
+bộ_trưởng văn_hóa	6
+khu du_lịch	6
+quản_lý nghĩa_trang	6
+( sở xây dựn	4
+di_tích địa_bàn	4
+đánh_số thứ_tự	3
+lợi_ích hợp_pháp	3
+văn_hóa -	3
+di_tích lịch_sử -	3
+lịch_sử - văn_hóa	2
+đặc_biệt quan_trọng	2
+quản_lý bảo_vệ	2
+ban tôn_giáo	2
+lịch_sử -	2
+( mộ	1
+phục_hồi sức_khỏe	1
+chăm_sóc bảo_vệ	1
+bảo_vệ sức_khỏe	1

@@ -1,0 +1,326 @@
+hưởng chế_độ	455
+hưởng trợ_cấp	354
+sinh hoạt_phí	284
+khoản trợ_cấp	219
+hưởng phụ_cấp	188
+chế_độ phụ_cấp	170
+chế_độ trợ_cấp	150
+khoản phụ_cấp	148
+hưởng chính_sách thương_binh	136
+phụ_cấp khu_vực	133
+trợ_cấp hàng	128
+đối_tượng hưởng	126
+phụ_cấp trách_nhiệm	121
+liệt sỹ	115
+hưởng sinh hoạt_phí	114
+hưởng trợ_cấp hàng	110
+hưởng chế_độ bảo_hiểm_xã_hội	98
+hưởng quyền_lợi	92
+hưởng phụ_cấp trách_nhiệm	90
+đối_tượng hưởng chế_độ	83
+chế_độ bảo_hiểm_xã_hội	82
+giải_quyết chế_độ	79
+trợ_cấp sinh hoạt_phí	78
+chi_trả trợ_cấp	76
+chính_sách đối_với	75
+hưởng chính_sách	73
+đối_với đối_tượng	71
+tiền trợ_cấp	64
+kinh_phí chi_trả	63
+chế_độ chính_sách	62
+liệt sỹ công	61
+chế_độ đối_với	61
+hưởng lương	60
+trợ_cấp thôi_việc	59
+phụ_cấp thu_hút	59
+mai_táng phí	56
+hiện hưởng	56
+chế_độ ưu_đãi	55
+thực_hiện chế_độ	55
+chế_độ đãi_ngộ	54
+phụ_cấp ưu_đãi nghề	53
+phụ_cấp ưu_đãi	52
+trợ_cấp bảo_hiểm_xã_hội	52
+hưởng trợ_cấp sức lao_động	49
+trợ_cấp 1	48
+đối_tượng hưởng trợ_cấp	48
+trợ_cấp ưu_đãi	47
+hưởng chế_độ trợ_cấp	46
+trợ_cấp tiền	46
+hưởng ưu_đãi	45
+mộ liệt sỹ	43
+hưởng thù_lao	43
+hưởng chế_độ hưu_trí	42
+một_số chế_độ	39
+nghỉ_việc hưởng trợ_cấp	39
+phụ_cấp thâm_niên	39
+trợ_cấp xã_hội	38
+hưởng chế_độ phụ_cấp	37
+trợ_cấp khó_khăn	37
+hưởng khoản trợ_cấp	37
+chi_trả chế_độ	36
+hưởng lợi	36
+học_bổng chính_sách	36
+giải_quyết chính_sách	35
+gia_đình liệt sỹ	34
+đối_tượng điều_kiện	34
+giải_quyết quyền_lợi	34
+chế_độ chính_sách đối_với	33
+hưởng chế_độ hưu_trí hàng	33
+hưởng bảo_hiểm_xã_hội	32
+hưởng trợ_cấp ưu_đãi	32
+chế_độ_sinh hoạt_phí	32
+hưởng chế_độ ưu_đãi	31
+phương_thức chi_trả	30
+chính_sách ưu_đãi	30
+trợ_cấp đối_tượng	29
+hưởng án_treo	28
+chế_độ học_bổng	28
+giải_quyết quyền_lợi đối_với	28
+trợ_cấp đối_với	28
+thời_gian hưởng	27
+điều_kiện hưởng	26
+trợ_cấp ốm_đau	26
+hưởng trợ_cấp sức lao_động hàng	26
+thời_gian hưởng trợ_cấp	25
+chế_độ cử_tuyển	25
+chế_độ phụ_cấp ưu_đãi nghề	25
+hưởng phụ_cấp ưu_đãi	25
+đối_tượng hưởng phụ_cấp	25
+chính_sách xã_hội	24
+đối_tượng chính_sách	24
+hướng_dẫn thực_hiện chế_độ phụ_cấp	24
+nghĩa_trang liệt sỹ	23
+hưởng phụ_cấp thu_hút	23
+trợ_cấp tuất	23
+phụ_cấp khu_vực 0	23
+thời_gian hưởng chế_độ	22
+tổng tiền_lương cộng tiền phụ_cấp trách_nhiệm	22
+điều_chỉnh trợ_cấp	22
+chế_độ phụ_cấp trách_nhiệm	22
+đối_tượng hưởng chính_sách	22
+hưởng phụ_cấp khu_vực	22
+điều_kiện hưởng trợ_cấp	22
+học_bổng trợ_cấp xã_hội	21
+xét trợ_cấp	21
+số_lượng đối_tượng	21
+chế_độ tiền_lương	21
+hưởng trợ_cấp thôi_việc	21
+kinh_phí thực_hiện chế_độ	21
+trợ_cấp thương_tật	21
+thực_hiện chi_trả	21
+chỉ_số sinh hoạt_phí	21
+chế_độ hưu_trí	20
+diện chính_sách	20
+già_yếu nghỉ_việc	19
+hưởng chế_độ phụ_cấp trách_nhiệm nghề	19
+phụ_cấp lưu_động	19
+đối_tượng hưởng chính_sách xã_hội	19
+đối_tượng hưởng lương	19
+lo mai_táng	19
+chi_trả đối_tượng	18
+trợ_cấp hưu_trí	18
+hưởng học_bổng	18
+khoản kinh_phí	18
+chính_sách chế_độ	18
+thực_hiện chính_sách	17
+trợ_cấp cán_bộ	16
+chi_trả chế_độ phụ_cấp	16
+chế_độ thù_lao	16
+hưởng phụ_cấp ưu_đãi nghề	16
+đối_với đối_tượng hưởng	15
+một_số chế_độ đối_với	15
+diện hưởng trợ_cấp	15
+trợ_cấp đầu	15
+hưởng khoản	15
+hưởng chính_sách ưu_đãi	15
+trợ_cấp sức lao_động	14
+tiếp_tục hưởng	14
+phụ_cấp trách_nhiệm nghề	14
+phụ_cấp đắt_đỏ	14
+nghỉ_việc hưởng trợ_cấp hàng	13
+hưởng trợ_cấp ốm_đau	13
+đối_với đối_tượng hưởng lương	13
+đối_tượng diện	13
+trợ_cấp ưu_đãi hàng	13
+trợ_cấp chôn_cất	13
+diện hưởng	13
+hưởng trợ_cấp bảo_hiểm_xã_hội	13
+phụ_cấp đặc_thù	13
+điều_chỉnh học_bổng chính_sách	13
+điều_kiện hưởng chế_độ	12
+lương sinh hoạt_phí	12
+chế_độ trợ_cấp đối_với	12
+kinh_phí chi_trả phụ_cấp	12
+chính_sách thương_binh	12
+trợ_cấp tiền_tuất	12
+danh_sách đối_tượng	12
+tuất hàng	12
+chế_độ đối_với quân_nhân	11
+chế_độ phụ_cấp đặc_thù	11
+chế_độ thôi_việc	11
+trợ_cấp sức lao_động hàng	11
+đối_tượng chính_sách xã_hội	11
+chế_độ phụ_cấp ưu_đãi	11
+hưởng phụ_cấp thâm_niên	11
+sinh hoạt_phí hàng	11
+chính_sách tiền_lương	11
+thực_hiện chế_độ phụ_cấp	11
+đối_tượng điều_kiện hưởng	11
+quy_định_mức trợ_cấp	11
+nghỉ_việc hưởng lương	10
+trợ_cấp đặc_thù	10
+phụ_cấp trách_nhiệm đối_với	10
+tiền mai_táng	10
+tiền phụ_cấp	10
+trợ_cấp 100	10
+tiền_tuất hàng	10
+kinh_phí chi_trả chế_độ	9
+thương_binh hạng	9
+điều_chỉnh học_bổng	9
+chế_độ đãi_ngộ đối_với	9
+một_số chính_sách	9
+chi_trả trợ_cấp ưu_đãi	9
+phụ_cấp lương	8
+thực_hiện chi_trả trợ_cấp	8
+thời_điểm ngừng hưởng trợ_cấp	8
+phụ_cấp trách_nhiệm công_việc	8
+chi_trả phụ_cấp	8
+sức lao_động	8
+khoản phụ_cấp lương	7
+diện chính_sách xã_hội	7
+thời_gian hưởng phụ_cấp	7
+sinh hoạt_phí đối_với	7
+chế_độ đối_với cán_bộ	7
+chế_độ bảo_hiểm_y_tế	7
+thủ_tướng chính_phủ chế_độ phụ_cấp	7
+chính_sách thu_hút	7
+hưởng phụ_cấp chức_vụ	7
+phụ_cấp lưu_trú	7
+thực_hiện chế_độ ưu_đãi	7
+đối_với khoản	7
+tiền phụ_cấp trách_nhiệm	7
+kinh_phí thực_hiện	6
+hưởng nguyên lương	6
+ưu_đãi đối_với	6
+quân_nhân hưởng	6
+trợ_cấp xã_hội đối_với học_sinh	6
+khoản tiền	6
+chi_trả tiền_lương	6
+tiền_lương khoản phụ_cấp	6
+chính_sách ưu_đãi đối_với	6
+% sinh hoạt_phí công_tác	6
+ngừng hưởng trợ_cấp sức lao_động	6
+thôi_việc hưởng	6
+phụ_cấp chức_vụ	6
+trợ_cấp bệnh_binh	6
+lương khoản phụ_cấp	5
+hướng_dẫn thực_hiện điều_chỉnh	5
+đối_tượng xét	5
+quy_định_chế_độ phụ_cấp	5
+chế_độ đối_với lao_động	5
+xét hưởng	5
+thực_hiện chế_độ tiền_lương	5
+trợ_cấp nuôi_dưỡng	5
+trợ_cấp mai_táng	5
+hưởng chế_độ phụ_cấp trách_nhiệm	4
+hưởng chế_độ bồi_dưỡng	4
+hưởng phụ_cấp lưu_trú	4
+thương_binh xã_hội hướng_dẫn thực_hiện chế_độ	4
+tiền thù_lao	4
+chế_độ tiền_lương đối_với cán_bộ	4
+thủ_tướng chính_phủ chế_độ phụ_cấp ưu_đãi	4
+hiện hưởng cộng	4
+chế_độ phụ_cấp trách_nhiệm nghề	4
+ưu_đãi nghề	4
+chờ giải_quyết	4
+chi_trả lương	4
+đối_với một_số	4
+sỹ gia_đình	3
+hướng_dẫn chế_độ	3
+thời_điểm ngừng hưởng	3
+lương phụ_cấp	3
+ưu_đãi công	3
+nghề công_việc	3
+bệnh_binh hạng	3
+hướng_dẫn thực_hiện chế_độ lương	3
+tiền hàng	3
+hưu_trí hàng	3
+nghỉ_việc hưởng	3
+đối_với khu_vực	3
+hưởng nguyên	3
+trợ_cấp đối_với cán_bộ	3
+thương_binh xã_hội	3
+tiền công	3
+công_nhận liệt sỹ	3
+chi_trả tiền	2
+đối_với công	2
+sức lao_động hàng	2
+phụ_cấp lương cán_bộ	2
+đãi_ngộ đối_với	2
+tiền_lương phụ_cấp	2
+kinh_phí thực_hiện chính_sách	2
+lương hiện hưởng	2
+thực_hiện chính_sách ưu_đãi	2
+chi_trả thù_lao	2
+tiền_lương phụ_cấp lương	2
+chế_độ sức lao_động	2
+chế_độ bồi_dưỡng	2
+hưởng 100	2
+ngừng hưởng trợ_cấp	2
+thời_gian nghỉ_việc	2
+chế_độ hưu_trí hàng	2
+cộng phụ_cấp	2
+chính_phủ chế_độ	2
+thực_hiện khó_khăn	2
+chế_độ tiền_lương đối_với	2
+trách_nhiệm hướng_dẫn	2
+tiền_lương cộng tiền phụ_cấp trách_nhiệm	2
+danh_sách lương	2
+một_số công_việc	2
+tổng tiền_lương cộng tiền	2
+đối_với học_sinh	2
+hướng_dẫn thực_hiện chế_độ	1
+bảo_hiểm_xã_hội đối_với	1
+hướng_dẫn một_số	1
+giải_quyết khó_khăn	1
+khu_vực 0	1
+chính_phủ chính_sách	1
+chính_sách đối_với cán_bộ	1
+thời_gian thực_hiện	1
+gia_đình liệt	1
+bồi_dưỡng đối_với	1
+ngừng hưởng	1
+lương chức_vụ	1
+thời_gian thực_hiện công_việc	1
+trách_nhiệm nghề	1
+phụ_cấp đối_với cán_bộ	1
+đặc_thù đối_với	1
+thực_hiện công_việc	1
+đối_với quân_nhân	1
+xét công_nhận	1
+tiếp_tục thực_hiện	1
+mộ liệt	1
+khoản phí	1
+chế_độ bệnh_binh	1
+phụ_cấp tái_cử	1
+tổng kinh_phí	1
+điều_chỉnh tiền_lương	1
+một_số khoản	1
+nghề lao_động	1
+chính_phủ chế_độ phụ_cấp	1
+xét học_bổng	1
+chế_độ nghỉ	1
+lương đối_với cán_bộ	1
+thu_hút lao_động	1
+danh_sách cán_bộ	1
+chế_độ bồi_dưỡng đối_với	1
+gia_đình chính_sách	1
+nghỉ_việc sức lao_động	1
+nghỉ sức lao_động	1
+quyền_lợi đối_với	1
+chi_trả khoản	1
+chế_độ ưu_đãi đối_với	1
+điều_chỉnh đối_tượng	1
+phụ_cấp ưu_đãi nghề đối_với	1
+tiền phụ_cấp lưu_trú	1

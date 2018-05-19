@@ -1,0 +1,249 @@
+sở tài_chính	413
+ngành liên_quan	389
+phối_hợp sở	371
+cơ_quan liên_quan	337
+đơn_vị liên_quan	317
+thủ_trưởng sở	281
+phối_hợp cơ_quan	254
+sở công_thương	220
+chủ_trì phối_hợp	204
+thủ_trưởng cơ_quan	201
+phối_hợp cơ_quan liên_quan	189
+trách_nhiệm phối_hợp	174
+cơ_quan chuyên_môn	141
+cơ_quan chủ_trì	139
+phối_hợp chặt_chẽ	128
+phối_hợp sở tài_chính	128
+tổ_chức liên_quan	112
+tổ_chức chủ_trì	95
+sở ngoại_vụ	94
+phối_hợp cơ_quan_chức_năng	94
+nội_dung liên_quan	88
+phối_hợp ngành	84
+sở xây_dựng	84
+gửi sở	79
+gửi sở tài_chính	75
+chủ_trì phối_hợp sở	75
+cơ_quan chuyên_môn xây_dựng	71
+trách_nhiệm sở	69
+cơ_quan đầu_mối	65
+phối_hợp tài_chính	65
+trách_nhiệm cơ_quan	63
+đơn_vị chủ_trì	63
+ngành chức_năng	62
+tổ_chức thẩm_định	56
+trách_nhiệm chủ_trì	51
+phối_hợp đơn_vị liên_quan	50
+phối_hợp sở xây_dựng	49
+thủ_trưởng ban	46
+phối_hợp ban quản_lý	46
+quan_hệ phối_hợp	40
+phối_hợp cơ_quan_tài_chính	40
+sở tài_chính trách_nhiệm	39
+phối_hợp giải_quyết	38
+chủ_trì tổ_chức	37
+trách_nhiệm tổ_chức	36
+ban_hành quy_chế phối_hợp	36
+phối_hợp ngành liên_quan	36
+sở quản_lý ngành	36
+gửi sở tài_chính thẩm_định	36
+sở tài_chính chủ_trì	35
+sở chuyên_ngành	35
+chủ_trì phối_hợp cơ_quan liên_quan	35
+ngành công_thương	34
+giao chủ_trì	33
+thành_phố thủ_trưởng cơ_quan	33
+phối_hợp đơn_vị	30
+đơn_vị chức_năng	30
+chủ_trì thẩm_định	29
+trách_nhiệm phối_hợp cơ_quan	29
+phối_hợp sở công_thương	29
+phối_hợp ban	29
+trách_nhiệm chỉ_đạo	29
+trách_nhiệm tham_mưu	29
+thành_phố tổ_chức	28
+thông_tin liên_quan	28
+chủ_trì phối_hợp sở tài_chính	27
+trách_nhiệm phối_hợp sở	27
+chỉ_đạo đơn_vị	27
+ý_kiến thẩm_định sở tài_chính	26
+cơ_quan_chức_năng liên_quan	26
+chủ_trì phối_hợp tài_chính	26
+gửi tài_chính	26
+sở y_tế	26
+cơ_quan tiếp_nhận	25
+chủ_trì phối_hợp cơ_quan	25
+gửi cơ_quan	24
+chủ_động phối_hợp	24
+thủ_trưởng cơ_quan chuyên_môn	24
+thủ_trưởng đơn_vị	24
+cơ_quan hữu_quan	23
+sở văn_hoá-thông	23
+chỉ_đạo cơ_quan_chức_năng	23
+trách_nhiệm quản_lý	22
+gửi sở tài_chính tổng_hợp	22
+thành_phố trách_nhiệm	22
+cơ_quan thông_tấn	21
+giao sở tài_chính chủ_trì	21
+phối_hợp liên_ngành	21
+quy_chế phối_hợp	21
+trách_nhiệm phối_hợp cơ_quan_tài_chính	21
+quản_lý ngành	21
+phối_hợp cơ_quan liên_quan kiểm_tra	21
+phối_hợp sở văn_hóa	19
+sở tài_chính thẩm_định	18
+phối_hợp cơ_quan hữu_quan	18
+trách_nhiệm chính_xác	18
+trách_nhiệm quan_hệ phối_hợp	18
+cơ_quan chủ_trì thẩm_định	18
+trách_nhiệm phối_hợp chặt_chẽ	17
+phương_thức phối_hợp	17
+sở tài_chính tổng_hợp	17
+giao sở tài_chính	16
+phối_hợp thanh_tra	16
+thủ_trưởng cơ_quan liên_quan	16
+ban_ngành liên_quan	16
+y_tế chủ_trì	15
+phối_hợp thực_hiện	15
+xây_dựng quy_chế	14
+phối_hợp chặt_chẽ cơ_quan	14
+cơ_quan quản_lý	14
+chủ_trì phối_hợp ngành	13
+đồng_thời phối_hợp	12
+trách_nhiệm tổng_hợp	12
+ban quản_lý	12
+sở xây_dựng chủ_trì	12
+sở công_thương chủ_trì	12
+cơ_quan chủ_trì tổ_chức	12
+đơn_vị liên_quan trách_nhiệm	12
+tổ_chức thanh_tra	11
+đơn_vị quản_lý	11
+chủ_trì họp	11
+tài_chính chủ_trì	11
+ngành liên_quan xây_dựng	11
+đơn_vị chức_năng liên_quan	11
+cơ_quan_tài_chính trách_nhiệm	11
+trách_nhiệm tiếp_nhận	11
+sở tư_pháp	11
+cơ_quan thường_trực_ban chỉ_đạo	10
+liên_quan trách_nhiệm	10
+cơ_quan liên_quan kiểm_tra	10
+cơ_quan liên_quan tổ_chức	10
+trách_nhiệm thẩm_định	10
+đầu_mối tiếp_nhận	9
+cơ_quan_chức_năng thẩm_quyền	9
+liên_quan tổ_chức	9
+đơn_vị giao	9
+sở xây_dựng tổng_hợp	9
+sở ngoại_vụ thành_phố hồ_chí	9
+trách_nhiệm giúp	9
+thanh_tra sở	9
+đầu_mối giúp	8
+tư_pháp chủ_trì	8
+đơn_vị liên_quan tham_mưu	8
+chỉ_đạo sở	8
+chủ_trì tổ_chức thẩm_định	8
+ban chỉ_đạo	8
+phối_hợp cơ_quan liên_quan tổ_chức	8
+tài_chính chủ_trì phối_hợp	8
+cơ_quan liên_quan xây_dựng	8
+ngành hữu_quan	7
+sở văn_hóa	7
+liên_quan tham_mưu	7
+phối_hợp cục	6
+ban tổ_chức	6
+gửi sở tư_pháp	6
+chức_năng liên_quan	6
+báo cơ_quan	6
+phối_hợp cơ_quan liên_quan tham_mưu	6
+tài_chính ban_hành	6
+giao sở xây_dựng	6
+cơ_quan y_tế	5
+thẩm_định sở tài_chính	5
+quản_lý chặt_chẽ	5
+chủ_trì thẩm_định nội_dung	5
+tổ_chức họp	5
+kiểm_tra chặt_chẽ	5
+thủ_trưởng đơn_vị liên_quan	5
+văn_bản gửi sở	5
+thành_phố thủ_trưởng	4
+cơ_quan liên_quan thẩm_định	4
+đồng_thời gửi sở	4
+đồng_thời chỉ_đạo	4
+quản_lý chuyên_ngành	4
+tổng_hợp gửi	4
+liên_quan thực_hiện	4
+thẩm_định nội_dung	4
+giao sở	4
+chủ_động xây_dựng	4
+sở tài_chính tham_mưu	4
+cơ_quan liên_quan tham_mưu	4
+ý_kiến thẩm_định	4
+cơ_quan thẩm_quyền	4
+cơ_quan thanh_tra	4
+quản_lý ngành công_thương	4
+thẩm_quyền thẩm_định	4
+đơn_vị chủ_trì tổ_chức	4
+liên_quan xây_dựng	4
+ban_hành quy_chế	3
+tổ_chức kiểm_tra	3
+tài_chính thẩm_định	3
+văn_bản liên_quan	3
+cơ_quan_chức_năng kiểm_tra	3
+ngành y_tế	3
+đơn_vị chủ_trì thực_hiện	3
+ý_kiến cơ_quan	3
+liên_quan thẩm_định	3
+gửi cơ_quan_tài_chính	3
+liên_quan xây_dựng kế_hoạch	2
+trách_nhiệm kiểm_tra	2
+tham_mưu giúp	2
+chặt_chẽ cơ_quan	2
+quy_chế quản_lý	2
+đồng_thời gửi	2
+đề_cao trách_nhiệm	2
+chức_năng quản_lý	2
+cơ_quan trách_nhiệm thực_hiện	2
+quy_chế phối_hợp thực_hiện	2
+đồng_thời trách_nhiệm	2
+tổng_hợp gửi tài_chính	2
+sở xây_dựng sở	2
+tổ_chức thực_hiện	2
+thủ_trưởng đơn_vị liên_quan trách_nhiệm	2
+chức_năng thanh_tra	2
+cơ_quan liên_quan trách_nhiệm	2
+gửi cơ_quan quản_lý	2
+kiểm_tra liên_ngành	2
+chức_năng tham_mưu	2
+thẩm_định sở tư_pháp	2
+cơ_quan chuyên_môn giúp	2
+liên_quan kiểm_tra	1
+quản_lý xây_dựng chuyên_ngành	1
+kế_hoạch tài_chính	1
+ngành văn_hóa	1
+cục quản_lý	1
+chuyên_ngành chủ_trì	1
+thường_trực_ban chỉ_đạo	1
+ngoại_vụ trách_nhiệm	1
+tư_pháp trách_nhiệm	1
+cơ_quan thẩm_quyền giao	1
+thực_hiện quy_chế	1
+gửi ban	1
+gửi ban chỉ_đạo	1
+tổ_chức cơ_quan chuyên_môn	1
+phối_hợp cơ_quan quản_lý	1
+ban_hành quy_chế quản_lý	1
+sở thông_tin	1
+sở tư_pháp trách_nhiệm	1
+thực_hiện chức_năng	1
+phối_hợp sở kế_hoạch	1
+ý_kiến chỉ_đạo	1
+kiểm_tra chuyên_môn	1
+sở ngoại_vụ thành_phố	1
+xây_dựng văn_bản	1
+cơ_quan quản_lý chuyên_ngành	1
+trách_nhiệm thực_hiện	1
+y_tế ban_hành	1
+ban chỉ_đạo liên_ngành	1
+chính_xác thông_tin	1
+nội_dung thẩm_định	1

@@ -1,0 +1,117 @@
+khai_thác quản_lý chợ	79
+chuyển_đổi chợ	48
+khai_thác chợ	48
+quản_lý chợ	43
+cửa_hàng xăng_dầu	40
+kinh_doanh chợ	39
+hạng i	37
+xếp_hạng doanh_nghiệp	34
+hạng ii	33
+hạng đặc_biệt	32
+cải_tạo nâng_cấp	32
+xếp hạng	30
+phương_án chuyển_đổi chợ	30
+ban quản_lý chợ	29
+dịch_vụ sử_dụng diện_tích hàng chợ	28
+hạng iii	27
+chợ hạng iii	26
+hạng thương_tật	25
+xếp_hạng đặc_biệt	25
+chợ hạng	25
+đối_với chợ	23
+phát_triển quản_lý chợ	23
+chuyển_đổi mô_hình	22
+đầu_tư xây_dựng chợ	22
+chợ hạng ii	22
+kinh_doanh bất_động_sản	21
+thương_nhân kinh_doanh	20
+giá dịch_vụ sử_dụng diện_tích hàng chợ	19
+chợ đầu_mối	19
+hạng a1	19
+chuyển_đổi mô_hình tổ_chức kinh_doanh	19
+sử_dụng kinh_doanh chợ	18
+tiêu_chuẩn thương_tật 4 hạng	18
+phương_án chuyển_đổi	18
+ban quản_lý	17
+doanh_nghiệp hạng đặc_biệt	17
+tiêu_chuẩn xếp_hạng	16
+xây_dựng chợ	15
+chủ_thể kinh_doanh	15
+chợ nông_thôn	14
+đầu_tư xây_dựng chợ nông_thôn	14
+cửa_hàng thương_nghiệp	14
+phương_án bố_trí	14
+kinh_doanh xăng_dầu	14
+ban chuyển_đổi chợ huyện	14
+chợ chuyển_đổi	14
+phê_duyệt phương_án	13
+chuyển_đổi thành	13
+hạng tương_ứng	13
+sắp_xếp ngành_nghề kinh_doanh	13
+hệ_thống cửa_hàng	12
+hạng 1	12
+chợ địa_bàn	11
+quyết_định xếp_hạng	11
+mô_hình tổ_chức kinh_doanh	10
+ban chuyển_đổi chợ	10
+đầu_tư xây_dựng	9
+đầu_tư kinh_doanh	9
+chợ hạng 1	8
+hạng 2	8
+diện_tích hàng chợ	8
+ngành_nghề kinh_doanh	8
+doanh_nghiệp hạng i	7
+kinh_doanh dịch_vụ	7
+bố_trí sắp_xếp	7
+phương_án sắp_xếp	7
+đề_nghị xếp_hạng	7
+hạng 3	7
+xếp_hạng thương_tật	6
+4 hạng	6
+chuyển_đổi chợ huyện	6
+xây_dựng phương_án	5
+giá dịch_vụ sử_dụng diện_tích hàng	5
+nâng_cấp chợ	5
+hỗ_trợ đầu_tư xây_dựng chợ	5
+đầu_tư phát_triển	4
+diện_tích sử_dụng	4
+quản_lý sử_dụng	4
+công_ty hạng	4
+lựa_chọn đầu_tư	4
+sử_dụng diện_tích hàng chợ	4
+chuyển_đổi hình_thức	4
+hình_thức đối_tác	4
+thương_tật 4 hạng	3
+kinh_doanh địa_bàn	3
+hàng chợ	3
+mô_hình tổ_chức	3
+kinh_doanh hàng_hóa	2
+trưởng ban quản_lý	2
+hỗ_trợ doanh_nghiệp	2
+sử_dụng diện_tích hàng	2
+giá dịch_vụ	2
+đối_với doanh_nghiệp	2
+mở_rộng quy_mô	2
+ban chuyển_đổi	2
+ii iii	2
+xây_dựng mô_hình	1
+sử_dụng diện_tích	1
+kinh_doanh khai_thác	1
+quyết_định đầu_tư	1
+quản_lý khai_thác	1
+đấu_thầu lựa_chọn	1
+lựa_chọn hình_thức	1
+xây_dựng hệ_thống	1
+khai_thác sử_dụng	1
+thương_tật 4	1
+dịch_vụ sử_dụng diện_tích	1
+hình_thức đấu_thầu	1
+diện_tích hàng	1
+xây_dựng nông_thôn	1
+quy_mô diện_tích	1
+sắp_xếp tổ_chức	1
+xây_dựng phương_án giá	1
+mở_rộng diện_tích	1
+doanh_nghiệp hạng	1
+hỗ_trợ đầu_tư xây_dựng chợ nông_thôn	1
+kinh_doanh doanh_nghiệp	1

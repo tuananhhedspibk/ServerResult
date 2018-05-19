@@ -1,0 +1,96 @@
+giá điện	80
+công_ty điện_lực	71
+giá tiêu_thụ nước_sạch	64
+tiêu_thụ nước_sạch	51
+lưới_điện trung áp nông_thôn	46
+trạm biến_áp	43
+sử_dụng điện	42
+ngành điện	41
+công_trình điện	39
+điện biên	37
+tần_số vô_tuyến điện	36
+điện sinh_hoạt	35
+công_tơ điện	35
+lưới_điện trung áp	34
+vô_tuyến điện	32
+hộ dân nông_thôn	29
+sử_dụng nước_sạch	27
+đơn_vị cung_cấp nước_sạch	26
+điện_lực tỉnh	25
+tiêu_thụ nước_sạch sinh_hoạt	25
+nước_sạch sinh_hoạt	24
+ăn_cắp điện	24
+điện nông_thôn	22
+tuyến đường_dây	21
+cục tần_số vô_tuyến điện	21
+tiền điện	20
+mua_bán điện	20
+110 kv	19
+nước_sạch nông_thôn	18
+220 kv	18
+tổ_chức quản_lý điện nông_thôn	18
+quyết_định_giá tiêu_thụ nước_sạch	17
+công_ty điện_lực i	17
+điện thương_phẩm	17
+bù_giá điện	16
+cung_cấp điện	15
+5 m3	14
+cung_cấp nước_sạch	14
+địa_bàn tỉnh điện biên	13
+bảo_vệ tần_số	12
+sinh_hoạt hộ dân nông_thôn	12
+mục_đích sử_dụng	11
+tổng công_ty điện_lực	11
+giá tiêu_thụ	11
+phục_vụ sinh_hoạt	10
+công_trình cấp_nước	10
+tỉnh điện biên	10
+quản_lý điện	9
+trạm bơm	9
+giá sinh_hoạt	9
+áp_dụng giá	9
+tổ_chức quản_lý điện	8
+tổng công_ty	8
+tài_sản lưới_điện	8
+hộ dân	8
+cấp_nước sinh_hoạt	7
+đối_với lưới_điện	7
+quản_lý vận_hành	7
+công_trình cấp_nước sinh_hoạt	7
+công_trình phục_vụ	6
+sử_dụng tần_số	6
+trung áp	6
+điện phục_vụ	6
+khai_thác công_trình nước_sạch	6
+khai_thác công_trình	5
+sinh_hoạt hộ	5
+quản_lý sử_dụng	5
+hợp_đồng mua_bán điện	5
+tài_sản lưới_điện trung áp nông_thôn	5
+quản_lý điện nông_thôn	5
+sử_dụng mục_đích	4
+công_trình nước_sạch	4
+công_trình nước_sạch nông_thôn	3
+tiêu_dùng sinh_hoạt	3
+sử_dụng hợp_lý	3
+vận_hành công_trình	3
+phục_vụ mục_đích	3
+ngành tỉnh	3
+khai_thác sử_dụng	2
+sử_dụng công_trình	2
+bảo_vệ tài_sản	2
+tài_sản lưới_điện trung áp	2
+dân nông_thôn	1
+điện hộ	1
+đối_với hộ	1
+sinh_hoạt địa_bàn tỉnh	1
+đơn_vị quản_lý	1
+quản_lý khai_thác	1
+trung áp nông_thôn	1
+đơn_vị sử_dụng	1
+đối_với công_trình	1
+lưới_điện trung	1
+bộ_máy quản_lý	1
+đối_với tài_sản	1
+bảo_vệ công_trình	1
+phân_phối sử_dụng	1

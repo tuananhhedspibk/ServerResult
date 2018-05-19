@@ -1,0 +1,263 @@
+giá đất	211
+hệ_số điều_chỉnh giá đất	198
+điều_chỉnh giá	168
+bảng giá đất	154
+giá bán_lẻ	110
+kê_khai giá	100
+phương_án giá	91
+uỷ_ban vật_giá nhà_nước	84
+đăng_ký giá	83
+giá thuê	81
+bình_ổn giá	79
+giá bán_buôn	68
+giá đất cụ_thể	62
+điều_chỉnh bảng giá đất	54
+lập phương_án giá	53
+bảng giá thuế tài_nguyên	51
+giá tối_đa	51
+giá bán_buôn công_nghiệp	51
+xây_dựng phương_án giá	51
+giá cụ_thể	50
+giá thị_trường	48
+giá sản_phẩm	48
+biểu giá	47
+bảng giá	46
+áp_dụng giá	46
+đối_với hàng_hóa	43
+hệ_số điều_chỉnh ( đất vị_trí tương_ứng bảng giá đất	40
+: hệ_số điều_chỉnh ( hai đất	40
+thực_hiện kê_khai giá	38
+quản_lý nhà_nước giá	37
+giá hàng_hóa	36
+giá bán_buôn vật_tư	36
+văn_bản kê_khai giá	34
+định_giá đất cụ_thể tư_vấn xác_định_giá đất	33
+giá_cả thị_trường	33
+quỹ bình_ổn giá	33
+xác_định_giá đất cụ_thể	32
+giá chuẩn	32
+biện_pháp bình_ổn giá	31
+uỷ_ban vật_giá nhà_nước quyết_định_giá	30
+quy_định hệ_số điều_chỉnh giá đất	30
+giá_trị ( giá đất bảng giá đấ	29
+giá dịch_vụ	27
+hệ_số điều_chỉnh	27
+ban_hành bảng giá thuế tài_nguyên	26
+thực_hiện đăng_ký giá	26
+xác_định_giá đất	26
+đối_với sản_phẩm	26
+hiệp_thương giá	26
+rà_soát biểu_mẫu đăng_ký giá	26
+phụ giá	25
+tài_nguyên môi_trường quy_định chi_tiết phương pháp_định_giá đất	25
+giá đất bảng giá đất	25
+danh_mục hàng_hóa	25
+giá xi_măng	25
+giá mua	25
+giá tối_đa đối_với	24
+giá chỉ_đạo nhà_nước	24
+dịch_vụ nhà_nước định_giá	24
+đại_lý quyền quyết_định_giá	24
+biểu_mẫu đăng_ký giá	23
+quy_định danh_mục sản_phẩm dịch_vụ	23
+giá bán_buôn xí_nghiệp	23
+kiểm_tra yếu_tố hình_thành giá	23
+giá niêm_yết	22
+xây_dựng phương_án	22
+giá thuế	21
+giá thuế tài_nguyên	21
+giá thoả_thuận	20
+định_giá đất cụ_thể	20
+danh_mục trợ_giá	20
+danh_mục sản_phẩm dịch_vụ	20
+tổ_chức hiệp_thương giá	19
+dịch_vụ thực_hiện bình_ổn giá	19
+thẩm_định phương_án giá	19
+quy_định khung_giá	19
+xi_măng thị_trường	18
+yếu_tố hình_thành giá	18
+phụ giá chất_lượng	17
+bảng giá thuế tài_nguyên đối_với	17
+thay_đổi quyền quyết_định_giá	17
+điều_lệ quản_lý giá	17
+liên_bộ uỷ_ban vật_giá nhà_nước -	17
+mặt_bằng giá	17
+bảng giá thuế	17
+lập phương_án	16
+niêm_yết giá	16
+tiếp_nhận văn_bản kê_khai giá	16
+quyết_định_giá bán_buôn xí_nghiệp	15
+bảng đăng_ký	15
+nhà_nước định_giá	15
+giá khởi_điểm	15
+thẩm_định phương_án giá đất	14
+kinh_doanh hàng_hóa	14
+giá tài_sản	14
+tài_chính quy_định phương pháp_định_giá đối_với hàng_hóa	14
+hệ_số điều_chỉnh giá đất 2017	14
+kinh_doanh xi_măng	14
+giá vật_tư	13
+khung_giá thuế tài_nguyên	13
+phổ_biến thị_trường	13
+tư_vấn xác_định_giá đất	13
+chênh_lệch giá	13
+uỷ_ban vật_giá	13
+quy_định hệ_số điều_chỉnh giá đất 2018	13
+định_giá đất	12
+hội_đồng_bộ_trưởng uỷ_ban vật_giá nhà_nước	12
+giá thu_mua	12
+tài_chính quy_định khung_giá thuế tài_nguyên đối_với	12
+ban_hành bảng giá	11
+giá bán_lẻ thuốc	11
+phương_án giá đất	11
+thẩm_quyền quyết_định_giá	11
+liên_bộ uỷ_ban vật_giá nhà_nước	11
+phương pháp_định_giá	11
+áp_dụng biện_pháp	11
+đối_với mặt_hàng	11
+biến_động giá	11
+giá trung_bình	10
+hệ_số điều_chỉnh giá đất 2018	10
+giá lệ_phí trước_bạ đối_với	10
+quy_định danh_mục sản_phẩm	9
+giá chỉ_đạo	9
+áp_dụng hệ_số	8
+giá thuế tài_nguyên đối_với	8
+quy_định cụ_thể	8
+quy_định chi_tiết phương pháp_định_giá đất	8
+đất bảng giá đất	8
+uỷ_ban vật_giá nhà_nước -	8
+thuế tài_nguyên	8
+thị_trường biến_động	8
+phương_pháp xác_định_giá	8
+: hệ_số điều_chỉnh	7
+thuê đất	7
+bán_buôn công_nghiệp	7
+tài_sản nhà_nước	7
+kê_khai đăng_ký	7
+quản_lý nhà_nước giá địa_bàn tỉnh	7
+quy_định_mức giá	7
+( giá đất bảng giá đấ	7
+tối_đa khung_giá	6
+danh_mục sản_phẩm	6
+khung_giá thuế tài_nguyên đối_với	6
+ban_hành bảng	6
+đất cụ_thể	6
+ban_hành giá dịch_vụ	6
+lập bảng	5
+điều_chỉnh giá đất	5
+quy_định bảng giá	5
+giá lệ_phí trước_bạ	5
+phương pháp_định_giá đối_với hàng_hóa	5
+thực_hiện bình_ổn giá	5
+bảng giá lệ_phí trước_bạ	5
+bảng giá đấ	5
+giá đất bảng giá đấ	5
+tài_chính quy_định phương pháp_định_giá	5
+phê_duyệt giá đất	5
+thuế tài_nguyên đối_với	5
+bảng kê_khai	4
+bán_buôn vật_tư	4
+khung_giá thuế	4
+định_giá tài_sản	4
+ban_hành quy_định	4
+quy_định giá dịch_vụ	4
+thực_hiện quy_định	4
+thực_hiện biện_pháp bình_ổn giá	4
+vật_giá nhà_nước	4
+quy_định khung_giá thuế tài_nguyên	4
+hệ_số điều_chỉnh giá	4
+quyền quyết_định_giá	4
+thẩm_định phương_án	3
+sản_phẩm dịch_vụ	3
+phương_pháp hệ_số	3
+thẩm_định_giá đất	3
+tài_chính quy_định phương pháp_định_giá đối_với	3
+thị_trường tiêu_thụ	3
+ban_hành điều_lệ quản_lý giá	3
+yếu_tố hình_thành	3
+dịch_vụ uỷ_ban vật_giá nhà_nước	3
+hệ_số k	3
+thuê tài_sản	3
+hình_thành giá	3
+áp_dụng đối_với	3
+đối_với tài_sản	3
+thẩm_định_giá đất cụ_thể	3
+ban_hành văn_bản	2
+có_giá đất	2
+: áp_dụng giá	2
+hồ_sơ phương_án giá	2
+xác_định_giá khởi_điểm	2
+giá đất địa_bàn tỉnh	2
+bán_buôn xí_nghiệp	2
+quỹ bình_ổn	2
+danh_mục hàng_hoá	2
+lập quỹ	2
+kinh_doanh dịch_vụ	2
+biện_pháp bình_ổn	2
+sản_phẩm công_nghiệp	2
+quy_định khung_giá thuế tài_nguyên đối_với	2
+quy_định phương pháp_định_giá	2
+tương_ứng bảng giá đất	2
+phương pháp_định_giá đất	2
+đối_với hàng_hoá	2
+( danh_mục	2
+cụ_thể tư_vấn xác_định_giá đất	2
+kinh_doanh mặt_hàng	2
+giá tiêu_thụ	2
+chất_lượng sản_phẩm	2
+quy_định danh_mục	2
+phương_án giá gửi sở	2
+điều_chỉnh bảng giá	2
+dịch_vụ tư_vấn	2
+tài_chính ban_hành	2
+vật_tư hàng_hoá	2
+giá_trị sản_phẩm	1
+ban_hành quy_định_mức	1
+tiếp_nhận văn_bản kê_khai	1
+cụ_thể hóa	1
+giá_cả thị_trường biến_động	1
+tỷ lệ_phí	1
+phê_duyệt phương_án	1
+thoả_thuận tài_chính	1
+sản_phẩm hàng_hoá	1
+tài_chính quy_định	1
+áp_dụng quy_định	1
+( hệ_số	1
+quản_lý nhà_nước giá địa_bàn	1
+thực_hiện kê_khai	1
+bảng giá thuế tài_nguyên địa_bàn tỉnh	1
+đất địa_bàn tỉnh	1
+thực_hiện biện_pháp	1
+tài_chính quy_định phương	1
+hội_đồng_bộ_trưởng uỷ_ban vật_giá	1
+vật_giá nhà_nước quyết_định_giá	1
+quyết_định_giá bán_buôn	1
+quỹ đất	1
+nhà_nước văn_bản	1
+- đối_với	1
+quy_định khung_giá thuế	1
+đất cụ_thể địa_bàn	1
+đăng_ký kinh_doanh	1
+tư_vấn xác_định_giá	1
+phương_án giá trình	1
+nhà_nước quyết_định_giá	1
+điều_chỉnh bảng	1
+phương_án giá gửi	1
+lập danh_mục	1
+giá đối_với hàng_hóa	1
+tài_nguyên môi_trường	1
+điều_chỉnh giá đất 2017	1
+áp_dụng bảng	1
+danh_mục sản_phẩm dịch_vụ uỷ_ban vật_giá nhà_nước	1
+giá đất bảng giá	1
+vị_trí tương_ứng	1
+tài_chính quy_định khung_giá	1
+đăng_ký kinh_doanh quy_định	1
+hệ_số điều_chỉnh (	1
+ban_hành danh_mục	1
+quản_lý nhà_nước	1
+ban_hành quy_định quản_lý	1
+bảng giá đấ 20 tỷ đồng	1
+quy_định phương	1
+: hệ_số	1

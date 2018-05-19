@@ -1,0 +1,1407 @@
+/ nđ-cp	1359
+/ qđ-ubnd	1099
+/ qđ-ttg	809
+/ tt-btc	560
+/ cp	471
+/ nq-hđnd	438
+/ ttg	382
+/ hđbt	368
+căn_cứ nghị_định	342
+/ tt-lb	293
+- tt / lb	256
+/ ttr-ubnd	214
+a /	208
+b /	192
+/ ttlt /	173
+/ ttlb	134
+quy_định nghị_định	128
+/ tt-btnmt	120
+/ ct	117
+/ ttr-stc	115
+/ nđ-c	109
+/ tt-bnv	106
+c /	106
+c / o	100
+- tc /	96
+tt / lb	95
+/ nđ-cp 14 5 2016 chính_phủ quy_định chi_tiết	93
+/ /	88
+căn_cứ nghị_định 163/2016 / nđ-cp 21 12 2016	87
+/ nđ - cp	86
+/ qh13	82
+/ tt-bxd	77
+/ ttr -	74
+tc /	73
+nghị_định 46/2015 / nđ-cp	71
+/ tt -	70
+/ nđ-cp chính_phủ	67
+/ qđ-btc	63
+/ nđ-cp 15	63
+/ tt	62
+/ tt-bgtvt	60
+01 /	58
+/ bc-hđnd	58
+d /	58
+/ ttr-stnmt	57
+/ nđ-cp 10	57
+/ nq-cp	57
+/ tt-btttt	55
+/ nđ-cp 09	54
+/ nđ-cp 13	54
+02 /	53
+nghị_định 43/2014 / nđ-cp	53
+/ nđ-cp 16	53
+46/2014 / nđ-cp 15 5 2014 chính_phủ quy_định	53
+căn_cứ thông_tư	52
+thông_tư liên_tịch 01/2005 / ttlt	52
+/ tt-bnnptnt	51
+/ qđ-bnv	50
+/ nđ-cp 11	50
+/ qđ	50
+/ tt-btc 16 6 2014 tài_chính hướng_dẫn một_số nghị_định	49
+/ ct-ttg	49
+149/2016 / nđ-cp 11 11 2016 chính_phủ sửa_đổi	49
+căn_cứ nghị_định 177/2013 / nđ-cp 14 11 2013	49
+/ tt-bct	48
+/ qđ - ttg	48
+/ tt-btc 15	47
+căn_cứ nghị_định 43/2014 / nđ-cp 15 5 2014	47
+quy_định nghị_định 28 / cp	46
+45/2014 / nđ-cp 15 5 2014 chính_phủ quy_định	46
+căn_cứ nghị_định 24/2014 / nđ-cp	45
+/ nđ-cp 03	45
+01/2017 / nđ-cp 06 01 2017 chính_phủ sửa_đổi	44
+e /	43
+quy_định nghị_định 25 / cp	43
+căn_cứ nghị_định 60/2003 / nđ-cp	42
+/ nđ-cp 19	42
+/ nđ-cp 12	42
+- cp	42
+/ nq-hđnd 11	40
+/ nđ-cp 14	40
+quy_định nghị_định 46/2015 / nđ-cp	40
+/ ttr-snv	40
+/ nđ-cp 28	39
+bổ_sung một_số nghị_định 177/2013 / nđ-cp 14 11 2013	39
+/ nđ-cp 06	38
+/ nđ-cp 22	38
+/ tt - btc	38
+/ nđ-cp 23	38
+/ lb-tt	38
+/ qh12	38
+/ qđ-ttg 14	37
+/ qh11	37
+căn_cứ nghị_định 120/2016 / nđ-cp 23 8 2016	37
+/ bc-stp	37
+/ qđ-ubnd 22	36
+06 /	36
+/ lb	36
+/ nđ-cp 08	36
+/ ttlt -	36
+/ tt-blđtbxh	36
+/ nđ-cp 24	35
+/ qđ-ubnd 20	35
+/ nđ-cp 29	35
+/ lđtbxh-tt	34
+/ tt-bkhcn	34
+26/2016 / tt-bxd	34
+/ ttlt-blđtbxh-btc	33
+/ ttlt	33
+/ tc /	32
+/ nđ-cp 07	32
+/ ttlt-byt-btc	32
+/ nđ-cp 15 5 2014 chính_phủ quy_định giá đất	32
+căn_cứ nghị_định 34/2016 / nđ-cp	32
+/ tt-bgdđt	31
+/ ttr-stp	31
+m3 /	31
+12 / tt-lb	31
+/ nđ-cp 26	31
+nghị_định 28 / cp	30
+/ tt-bvhtt	30
+nghị_định 34/2016 / nđ-cp	30
+/ tt-btc 23	30
+/ ttr-sxd	30
+12 / cp	29
+căn_cứ thông_tư 250/2016 / tt-btc 11 11 2016	29
+nghị_định 177/2013 / nđ-cp 14 11 2013	29
+/ nđ-cp 25	29
+03 /	29
+/ 2017 / qđ-ubnd	29
+- lb / tt	29
+56/2014 / tt-btc 28 4 2014 tài_chính hướng_dẫn thực_hiện	28
+/ 1998	28
+/ nđ-cp 27	28
+quy_định nghị_định 89/2003 / nđ-cp :	28
+căn_cứ thông_tư 342/2016 / tt-btc 30	28
+/ nq-hđnd 13	27
+163/2016 / nđ-cp 21 12 2016	27
+87 / cp	27
+/ qđ-ttg 19	26
+/ nđ-cp 18	26
+tổng công_ty 90 / ttg	26
+/ ttr-sct	25
+/ ktth	25
+- tt	25
+- nq / tw	25
+184/2004 / nđ-cp	25
+/ nđ-cp 17	25
+căn_cứ thông_tư 25/2014 / tt-btc	25
+nghị_định 59/2015 / nđ-cp	24
+/ nđ-cp 01 7	24
+quy_định nghị_định 81 / cp sửa_đổi	24
+47 / cp	24
+40/2017 / tt-btc 28 4 2017 bộ_trưởng tài_chính	24
+nghị_định 25 / cp mã_số ngạch	24
+91 / ttg	24
+/ qđ-byt	24
+/ tt-bca	24
+177 / cp	24
+- tt /	23
+/ nđ-cp 21 10	23
+/ tt-bvhttdl	23
+/ ttr-stttt	23
+nghị_định 42/2017 / nđ-cp	23
+/ nđ-cp 05	23
+tc / tct	23
+/ ttln	23
+/ qđ - ubnd	23
+thực_hiện công_việc quy_định nghị_định 43/2014 / nđ-cp	23
+/ qđ-ttg 26	23
+/ 2018 / qđ-ubnd	23
+nghị_định 86 / cp	22
+09 /	22
+/ tt-btc 28 12 2016 tài_chính quy_định lập dự_toán	22
+15 / cp	22
+quy_định nghị_định 61/2002 / nđ-cp	22
+/ nđ-cp 21	22
+tm /	22
+/ tt-btc 21	22
+158/2016 / nđ-cp 29 11 2016	22
+us đô_la / 1 trường_hợp	22
+/ tc	22
+xd 42 / cp	21
+50/2015 / tt-bgtvt	21
+/ bnnptnt	21
+86 / cp	21
+tt /	21
+nghị_định 25 / cp	21
+14 / ttlb	21
+/ ttr-snn	21
+- qđ /	21
+/ pl-ubtvqh11	21
+/ bc-ktns	21
+nđ - cp	21
+quy_định nghị_định 43/2014 / nđ-cp	21
+/ nđ-cp 07 9	20
+/ nq-ubtvqh11	20
+nghị_định 47/2014 / nđ-cp	20
+quyết_định 111 / hđbt	20
+69/2008 / nđ-cp 30 5 2008 chính_phủ	20
+chính_phủ sửa_đổi	20
+nghị_định 81 / cp sửa_đổi	20
+/ qđ-ubnd 25	20
+bổ_sung một_số nghị_định 177/2013 / nđ-cp	20
+/ qđ-ttg thủ_tướng chính_phủ	20
+180/2002 / qđ-ttg	20
+căn_cứ nghị_định 45/2003 / nđ-cp	20
+us đô_la / 1	20
+nghị_định 01/2017 / nđ-cp	20
+- nđ / lb	20
+25/2002 / tt-btc 21/3/2002	20
+25 /	19
+/ ttr-ubnd 20	19
+nghị_định 81 / cp	19
+/ tu	19
+/ qh10	19
+/ nđ-cp 15/5/2014 chính_phủ quy_định	19
+63/2017 / tt-btc 19 6	19
+/ tt-btc 26 12 2016 tài_chính sửa_đổi	19
+/ qđ -	19
+/ ct-ubnd	19
+l / c	19
+324/2016 / tt-btc	19
+221/2013 / nđ-cp	19
+căn_cứ nghị_định 24/2014 / nđ-cp 04/4/2014	19
+lít xăng / km khoảng_cách địa_giới hành_chính	18
+/ ttlt-btc-blđtbxh	18
+căn_cứ nghị_định 177/2013 / nđ-cp	18
+56 / cp	18
+căn_cứ thông_tư 36/2014 / tt-btnmt 30 6 2014	18
+16/2015 / nđ-cp 14 02 2015 chính_phủ quy_định	18
+nghị_định 46/2014 / nđ-cp	18
+/ qđ-ub	18
+118/2004 / tt-btc	18
+- ttg	18
+/ bc-vhxh	18
+/ tt-byt	18
+căn_cứ nghị_định 46/2015 / nđ-cp	18
+06 / cp	18
+28/4/2014 tài_chính hướng_dẫn thực_hiện nghị_định 177/2013 / nđ-cp 14/11/2013	18
+111 - nđ / lb	18
+/ nđ-cp 09 9	18
+/ qđ-ubnd 31 12	18
+quyết_định 58 / ttg	18
+/ lđtbxh	18
+/ qđ-ttg 22	18
+52/1999 / nđ-cp	18
+/ ttr-ubnd 30	17
+/ nq-hđnd 14	17
+- byt / tt	17
+09/1998 / nđ-cp	17
+nghị_định 09/1998 / nđ-cp	17
+/ qđ-ubnd 17	17
+quy_định nghị_định 47/2014 / nđ-cp	17
+căn_cứ nghị_định 59/2015 / nđ-cp 18 6 2015	17
+tc / cđkt	17
+/ ttr-ubnd 27	17
+căn_cứ quyết_định 27/2003 / qđ-ttg 19 02 2003	17
+căn_cứ thông_tư 233/2016 / tt-btc 11 11 2016	17
+quyết_định 531 / ttg	17
+căn_cứ nghị_định 01/2017 / nđ-cp	17
+03 / tt-lb	17
+/ nđ-cp 30	17
+11/2012 / qh13	17
+thông_tư 50/2015 / tt-bgtvt	17
+căn_cứ quyết_định 276 / ct	17
+59/2014 / nđ-cp	17
+- lđ / tt	17
+tc / nsnn	16
+/ nđ-cp 04	16
+/ qđ-ttg 24	16
+bổ_sung một_số thông_tư 56/2014 / tt-btc	16
+tc / qđ / cđkt	16
+/ qđ-ubnd 28	16
+chính_phủ quy_định	16
+59/2015 / nđ-cp 18 6 2015	16
+43/2005 / nđ-cp	16
+50 / cp	16
+/ km	16
+/ tc / qđ /	16
+204/2004 / nđ-cp 14 12 2004 chính_phủ	16
+26 / cp	16
+531 / ttg	16
+/ ttr-syt	16
+42 / cp	16
+thành_lập quyết_định 90 / ttg	16
+/ nđ-cp 31 12	15
+/ tt-lt	15
+/ nđ-cp 12 11 2015	15
+/ qđ-ttg 25	15
+40/2017 / tt-btc 28/4/2017 tài_chính	15
+/ nđ-cp hướng_dẫn thông_tư	15
+73 / cp	15
+/ cp chính_phủ	15
+/ nq-hđnd 10	15
+/ qđ-ubnd 13	15
+nghị_định 91/2017 / nđ-cp 31 7 2017 chính_phủ	15
+/ nq-hđnd 07 12 2017	15
+47 /	15
+/ nq-hđnd 07	15
+/ qđ-ubnd 09	15
+11/2010 / nđ-cp 24 02 2010 chính_phủ quy_định	15
+nghị_quyết 35/2016 / nq-hđnd	15
+35 / cp	15
+nghị_định 388 / hđbt	15
+/ nđ-cp 26 6 2014	15
+79 /	15
+/ nđ-cp 14 11	15
+/ nq - hđnd	14
+/ c	14
+thông_tư 152/2015 / tt-btc 02 10 2015	14
+căn_cứ nghị_định 163/2016 / nđ-cp	14
+/ tw	14
+87 / cp 19/12/1996	14
+/ tt-bkhđt	14
+nghị_định 01/2017 / nđ-cp 06 01 2017 chính_phủ sửa_đổi	14
+135/2004 / nđ-cp	14
+60/2003 / nđ-cp	14
+11/2010 / nđ-cp 24/02/2010	14
+26 /	14
+nghị_định 149/2016 / nđ-cp	14
+nghị_định 204/2004 / nđ-c	14
+nghị_định 91/2017 / nđ-cp	14
+13/2014 /	14
+/ nđ-cp 11 11	14
+20/1998 / nđ-cp	14
+210/2013 / nđ-cp	14
+01/2017 /	14
+/ nđ-cp 05 5 2014 chính_phủ quy_định	14
+căn_cứ nghị_định 33 - hđbt 27-2-1984	14
+quy_định nghị_định 43/2014 / nđ-cp 15/5/2014 chính_phủ	14
+/ qđ-ttg 17	14
+/ nđ-cp 15 5 2014 chính_phủ quy_định	14
+quy_định nghị_định 204/2004 / nđ-cp	14
+nghị_định 43/2014 / nđ-cp 15 5 2014	14
+- nq /	14
+nghị_định 121/2003 / nđ-cp	14
+04 /	14
+tc / tcdn	14
+nghị_định 20/1998 / nđ-cp	13
+44/2017 / tt-btc 12 5 2017	13
+căn_cứ thông_tư 40/2017 / tt-btc 28 4 2017	13
+43 / cp	13
+04/1999 / nđ-cp	13
+căn_cứ nghị_định 34/2016	13
+thực_hiện quy_định nghị_định 91/2017 / nđ-cp chính_phủ	13
+28 /	13
+76 / cp	13
+/ tt-btc 28	13
+78/2002 / nđ-cp	13
+02/2017 / tt-byt 15 3 2017	13
+2016 -	13
+hướng_dẫn thực_hiện nghị_định 177/2013 / nđ-cp 14 11 2013	13
+8 2016	13
+căn_cứ nghị_định 149/2016 / nđ-cp	12
+thực_hiện nghị_định 10/2002 / nđ-cp	12
+152/2015 / tt-btc 02 10 2015	12
+tc / hcvx	12
+/ nq-hđnd 08 12 2016	12
+/ nq-hđnd 08/12/2016	12
+2076/1998 /	12
+nq /	12
+/ qđ-ubnd 30	12
+/ nq-hđnd 09 12 2016	12
+20 / cp	12
+/ nđ-cp 02	12
+139/2002 / qđ-ttg	12
+99/2015 / nđ-cp	12
+- lb	12
+13 /	12
+07/2015 /	12
+/ nđ -	12
+161/2016 / nđ-cp	12
+/ ttlt-bnv-btc	12
+căn_cứ thông_tư 56/2014 / tt-btc	12
+nghị_quyết 19/2017 / nq-hđnd	12
+nghị_định 28 / cp 29/4/1995	12
+nghị_định 177/2013 / nđ-cp	12
+/ ttlt / btc-btnmt	12
+19/2017 / tt-btc 28 02 2017	12
+10/2002 / nđ-cp 16/01/2002	12
+5 2014	12
+thông_tư liên_tịch 01/2005 /	11
+quy_định nghị_định 121/2003 / nđ-cp	11
+nghị_định 68/2000	11
+/ nđ-cp 01	11
+/ cp 23-5-1993	11
+nghị_định 204/2004 / nđ-cp	11
+10/2002 / nđ-cp 16/01/2002 chính_phủ	11
+thông_tư 06 /	11
+/ nđ-cp 06 6	11
+nghị_định 11/2010 / nđ-cp	11
+nghị_định 163/2016 / nđ-cp 21/12/2016	11
+tc / qđ /	11
+- lb /	11
+qđ / cđkt	11
+76 /	11
+nghị_định 100/2013 / nđ-cp	11
+/ nđ	11
+căn_cứ quyết_định 27/2003 / qđ-ttg	11
+46/2015 / nđ-cp	11
+n % c4 % 90 - cp & amp	11
+quy_định nghị_định 28	11
+/ tđkt	11
+101/2017 / nđ-cp	11
+/ nđ-cp 04 4	11
+17/2001 / nđ-cp	11
+42/2017 / nđ-cp	11
+nghị_định 76 / cp	11
+/ tt-bxd 30 6	10
+15/2016 /	10
+nghị_định 57/2002 / nđ-cp	10
+90 / ttg	10
+nghị_định 06 / cp	10
+103/1998 / tt-btc 18/7/1998	10
+2016 chính_phủ	10
+thực_hiện quy_định nghị_định 91/2017 / nđ-cp	10
+quyết_định 134 / ttg	10
+/ qđ-ubnd 19	10
+42/2017 / nđ-cp 05 4	10
+/ qđ-ttg 29	10
+thực_hiện nghị_định	10
+68/2000 / nđ-cp	10
+27 /	10
+/ nđ-cp 06 4	10
+căn_cứ thông_tư 233/2016 / tt-btc	10
+320/2016 / tt-btc 14	10
+nghị_định 25	10
+nghị_định 175/1999 / nđ-cp 15/12/1999	10
+/ nđ-cp 15 5	10
+/ tt-btc 26	10
+/ nq-hđnd 09	10
+81 / cp	10
+14 11	10
+nghị_định 204/2004 / nđ-cp 14 12 2004 chính_phủ	10
+/ ttlt-btc-btnmt	10
+nghị_định 10/2004 / nđ-cp 07	10
+/ tt-btnmt 30 6 2014	10
+lb / tt	10
+24/2003 / nđ-cp	10
+46/2014 / nđ-cp 15/5/2014	10
+nghị_định 50 / cp	10
+nghị_định 46/2015 /	10
+50/2010 / nđ-cp 14 5 2010	9
+căn_cứ thông_tư 56/2014 / tt-btc 28 4 2014	9
+327/2016 / tt-btc 26 12 2016	9
+37/2014 / tt-btnmt	9
+nghị_định 87 / cp	9
+thông_tư 250/2016 / tt-btc 11 11 2016	9
+căn_cứ nghị_định 43/2014 / nđ-cp	9
+26 / cp 23/5/1993 chính_phủ	9
+103/1998 / tt-btc	9
+căn_cứ nghị_định 45/2003	9
+236 / hđbt	9
+nghị_định 68/2000 / nđ-cp	9
+91/2017 / nđ-cp 31 7 2017	9
+nghị_định 101/2017 / nđ-cp	9
+tài_chính hướng_dẫn một_số nghị_định 46/2014 / nđ-cp	9
+/ tt-bxd 30 6 2016	9
+/ nq-hđnd 05	9
+/ nq-hđnd 08 12	9
+45 / cp	9
+/ 1998 /	9
+25 11	9
+203 / hđbt	9
+nghị_định 123/2017 / nđ-cp 14/11/2017 chính_phủ sửa_đổi	9
+/ tt-btnmt 30	9
+59/2003 / tt-btc	9
+134 / ttg	9
+nghị_định 235	9
+02/2003 / nđ-cp	9
+- ttlb	9
+/ qđ-ubnd 31	9
+123/2017 / nđ-cp 14/11/2017 chính_phủ sửa_đổi	9
+338/2016 / tt-btc 28	9
+/ nđ-cp 31	9
+115/2005 / nđ-cp	9
+nghị_định 184/2004 / nđ-cp	9
+quy_định nghị_định 121/2003	9
+m3 / /	9
+nghị_định 01/2017 /	9
+căn_cứ nghị_định 37/2014 / nđ-cp	8
+320/2016 / tt-btc 14 12 2016	8
+28 / cp	8
+338/2016 / tt-btc	8
+/ qđ-ttg 04	8
+nghị_định 43/2014 /	8
+căn_cứ nghị_định 34/2016 / nđ-cp 14 5 2016	8
+69/2008 / nđ-cp	8
+50/2014 / qđ-ttg 04 9 2014	8
+/ nđ-cp 14 02 2015	8
+40/2017 / tt-btc	8
+nghị_định 45 / cp	8
+81/2003 / nđ-cp	8
+19/2017 / tt-btc 28 02	8
+nghị_định 61/2002 / nđ-cp	8
+căn_cứ nghị_định 47/2014	8
+căn_cứ nghị_định 92/2017 / nđ-cp	8
+/ nđ-cp 09/9/2016	8
+/ n % c4 % 90 - cp	8
+nghị_định 01/2017 / nđ-cp 06/01/2017 chính_phủ	8
+01/2005 / ttlt	8
+nghị_định 45/2014 / nđ-cp 15/5/2014	8
+40/2017 / tt-btc 28/4/2017	8
+căn_cứ thông_tư 36/2014 / tt-btnmt	8
+11 2016	8
+quyết_định 139/2002 / qđ-ttg	8
+thông_tư 19/2017 / tt-btc	8
+nghị_định 236 / hđbt	8
+08/2016 /	8
+nghị_định 121/2003	8
+177/2013 / nđ-cp 14 11 2013	8
+nghị_định 35	8
+/ 1	8
+77/2014 / tt-btc 16 6 2014	8
+170/2003 / qđ-ttg	8
+- tc	8
+44/2017 / tt-btc	8
+2013 chính_phủ	8
+61/2002 / nđ-cp	8
+căn_cứ nghị_định 60/2003	8
+57/2002 / nđ-cp	8
+35/2017 / nđ-cp	8
+căn_cứ quyết_định	8
+5 2016	8
+nghị_định 135/2004 / nđ-cp	7
+177/2013 / nđ-cp	7
+l /	7
+/ nq-hđnd 08 12 2017	7
+17 11	7
+135/2016 / nđ-cp	7
+nghị_định 35/2017 / nđ-cp	7
+327/2016 / tt-btc 26	7
+15 12	7
+nghị_định 28 / cp 29 4 1995 chính_phủ	7
+/ nđ-cp 14 12 2004	7
+thông_tư 333/2016 / tt-btc	7
+33 /	7
+01/2017 / nđ-cp 06/01/2017 chính_phủ sửa_đổi	7
+40/2017 / tt-btc 28 4 2017 tài_chính quy_định_chế_độ công_tác_phí	7
+căn_cứ thông_tư 40/2017 / tt-btc	7
+nghị_định 81/2003 / nđ-cp	7
+/ nđ-cp 06 6 2003	7
+2018 / qđ-ubnd	7
+35/2016 / nq-hđnd	7
+căn_cứ thông_tư 250/2016 / tt-btc	7
+/ tt-btc 17	7
+căn_cứ nghị_định 59/2015 / nđ-cp	7
+căn_cứ nghị_định 77/2003 / nđ-cp	7
+nghị_định 99/2015 / nđ-cp	7
+quy_định chi_tiết	7
+thông_tư 26/2016 / tt-bxd	7
+căn_cứ nghị_định 120/2016 / nđ-cp	7
+175/1999 / nđ-cp 15/12/1999	7
+19/2017 / tt-btc	7
+152/2015 / tt-btc	7
+nghị_định 52/1999 / nđ-cp	7
+35 /	7
+/ qđ /	6
+quyết_định 114/2006 / qđ-ttg	6
+nghị_định 26	6
+/ nđ-cp 29 11 2016 chính_phủ quy_định chi_tiết	6
+14 6	6
+/ ttr-ubnd 24 11 2017	6
+111 / hđbt	6
+nghị_định 17/2001 / nđ-cp	6
+công_việc quy_định nghị_định 43/2014 / nđ-cp	6
+26 / cp 23/5/1993	6
+45/2014 /	6
+nghị_định 35 / cp	6
+45/2014 / nđ-cp 15/5/2014	6
+88/2016 / ttlt /	6
+/ ttr-ubnd 15	6
+nghị_định 76 /	6
+11/2015 /	6
+nghị_định 43	6
+27/2015 /	6
+nghị_định 28 / cp 29	6
+nghị_định 149/2016 / nđ-cp 11 11 2016 chính_phủ sửa_đổi	6
+quyết_định 50/2014 / qđ-ttg 04 9 2014	6
+quyết_định 170/2003 / qđ-ttg	6
+/ tt-btc 30	6
+89/2003 / nđ-cp	6
+byt / tt	6
+/ nđ-cp 06 6 2003 chính_phủ	6
+nghị_định 26 / cp 23/5/1993	6
+02/2017 / tt-byt 15 3	6
+nghị_định 01/2017 / nđ-cp 06 01 2017	6
+/ ttr-ubnd 24	6
+nghị_định 25 /	6
+77/2003 /	6
+nghị_định 149/2016	6
+29/2008 / nđ-cp	6
+nghị_định 161/2016 / nđ-cp	6
+/ l	6
+- qđ	6
+59/2015 / nđ-cp	6
+bổ_sung một_số thông_tư 77/2014 / tt-btc	6
+50/2014 /	6
+nghị_định 115/2005 / nđ-cp	6
+05/2018 / qđ-ubnd	6
+19/2002 / nđ-cp	6
+46/2014 / nđ-cp	6
+/ nđ-cp 10 9	6
+nghị_định 34/2016 / nđ-cp 14/5/2016	6
+nghị_định 20 / cp	6
+30 a	6
+17/2015 /	6
+nghị_định 46/2014 / nđ-cp 15/5/2014	6
+/ nq -	6
+thông_tư 44/2017 / tt-btc	5
+35/2015 / nđ-cp	5
+30 6	5
+nghị_định 388 - hđbt	5
+88/2016 / ttlt-btc-btnmt	5
+56/2014 / tt-btc	5
+lb /	5
+120/2016 / nđ-cp 23 8 2016	5
+quy_định nghị_định 235	5
+/ nđ-cp 10 4	5
+quy_định chi_tiết hướng_dẫn thi_hành một_số nghị_định 163/2016 / nđ-cp	5
+nghị_định 28 / cp 29 4 1995	5
+19/2017 / nq-hđnd	5
+chính_phủ hướng_dẫn	5
+37/2014 /	5
+quy_định nghị_định 43/2014 / nđ-cp 15/5/2014	5
+thông_tư 02/2017 / tt-byt 15 3	5
+/ nđ-cp 14 01	5
+thực_hiện quy_định nghị_định	5
+nghị_định 12/2006	5
+25/2014 / tt-btc	5
+thông_tư 08/2017 /	5
+bổ_sung một_số nghị_định 59/2015 / nđ-cp	5
+căn_cứ thông_tư 36/2014 / tt-btnmt 30	5
+47/2014 / nđ-cp	5
+66 /	5
+77/2014 / tt-btc 16/6/2014	5
+/ nq-hđnd 09 12	5
+2017 chính_phủ sửa_đổi	5
+/ tt-btc 02	5
+5 2015	5
+thông_tư 02/2017 / tt-byt 15 3 2017	5
+nghị_định 118/2015 / nđ-cp	5
+11 2017	5
+quyết_định 90 / ttg	5
+58 /	5
+nghị_định 12 / cp	5
+nghị_định 69/2008 / nđ-cp	5
+nghị_định 47/2014	5
+76/2014 / tt-btc	5
+nghị_định 25 / cp 23/5/1993 chính_phủ	5
+thông_tư 15/2017	5
+quy_định nghị_định 81 / cp	5
+- hđbt	5
+- nđ	5
+/ ttr-ubnd 14 11 2017	5
+47/2014 /	5
+29/2014 /	5
+163/2016 / nđ-cp 21 12 2016 chính_phủ quy_định chi_tiết	5
+nghị_định 135/2016	5
+thông_tư 04	5
+nghị_định 91/2017 / nđ-cp 31 7 2017	5
+- tài_chính	5
+15/2017 / tt-btc	5
+10/2004 / nđ-cp 07 01 2004	5
+34/2016 / nđ-cp	5
+thông_tư 103/1998 / tt-btc 18/7/1998	5
+/ tt-btc 06	5
+14 12	5
+nghị_định 177/2013 / nđ-cp 14/11/2013 chính_phủ	5
+50/2010 / nđ-cp	5
+lđ / tt	5
+64/2014 / nđ-cp	5
+một_số nghị_định	5
+6 2014	5
+- btc	5
+03/2014 /	4
+12/2006 / nđ-cp	4
+nghị_định 25 / cp 23-5-1993 chính_phủ	4
+/ btc	4
+thực_hiện công_việc quy_định nghị_định 43/2014 /	4
+nghị_định 15 / cp	4
+thông_tư 233/2016 / tt-btc 11/11/2016	4
+căn_cứ thông_tư 02/2017 / tt-byt	4
+nghị_định 28 /	4
+16/01/2002 chính_phủ	4
+11/2010 / nđ-cp 24/02/2010 chính_phủ	4
+nghị_định 26 / cp	4
+12 2017	4
+91/2017 / nđ-cp	4
+chính_phủ quy_định chi_tiết	4
+/ nđ-cp 14 02 2015 chính_phủ quy_định	4
+nghị_định 235 -	4
+91/2017 / nđ-cp 31 7 2017 chính_phủ	4
+16/2015 /	4
+177/2013 / nđ-cp 14 11 2013 chính_phủ	4
+nghị_định 61/2002	4
+177/2013 / nđ-cp 14 11 2013 chính_phủ quy_định chi_tiết	4
+/ nđ-cp 15 5 2014 chính_phủ	4
+/ nđ-cp 01 9 2017 chính_phủ	4
+2014 chính_phủ quy_định	4
+- lđ /	4
+nghị_định 20/1998	4
+76/2014 / tt-btc 16 6 2014	4
+nghị_định 34/2016 / nđ-cp 14 5	4
+nghị_định 236	4
+căn_cứ thông_tư 77/2014 / tt-btc 16 6 2014	4
+bổ_sung một_số thông_tư 56/2014 / tt-btc 28 4 2014	4
+100/2013 / nđ-cp	4
+/ nđ-cp 14 02 2015 chính_phủ	4
+nghị_định 42/2017 / nđ-cp 05 4	4
+- ct	4
+tc / qđ	4
+02/2017 /	4
+nghị_định 24/2010	4
+quy_định quyết_định	4
+căn_cứ thông_tư 25/2014	4
+nghị_định 73 / cp	4
+nghị_định 135/2016 / nđ-cp	4
+/ ttr-ubnd 20 11 2017	4
+24/2010 / nđ-cp	4
+2016 chính_phủ sửa_đổi	4
+/ nđ-cp 15/5/2014	4
+36/2014 / tt-btnmt 30 6 2014	4
+quy_định a	4
+09/2015 / qđ-ttg	4
+nghị_định 42/2017	4
+nghị_quyết 35/2016 /	4
+thông_tư 56/2014 / tt-btc 28/4/2014 tài_chính	4
+42 /	4
+26/2016 /	4
+12/2015 / nđ-cp	4
+quyết_định 276 / ct	4
+327/2016 / tt-btc	4
+quyết_định 50/2014	4
+nghị_định 34/2016 /	4
+25 / cp	4
+căn_cứ thông_tư 76/2014 / tt-btc	4
+nghị_định 28	4
+14/2014 /	4
+nghị_định 158/2016 / nđ-cp	4
+thông_tư 37/2014 / tt-btnmt	4
+31 12	4
+nghị_định 210/2013 / nđ-cp	4
+/ tt-btc 30 12 2016 tài_chính quy_định	4
+/ tt-bxd 30	4
+nghị_định 24/2003 / nđ-cp	4
+01/2017 / nđ-cp	4
+thông_tư 56/2014 / tt-btc 28 4 2014	4
+quy_định nghị_định 61/2002	4
+/ ttr-ubnd 29	4
+nghị_định 09/1998	4
+nghị_định 56 / cp	4
+10/2004 / nđ-cp	4
+210/2013 /	4
+thông_tư 06	4
+căn_cứ thông_tư 77/2014 / tt-btc	4
+quyết_định 91 / ttg	4
+177/2013 / nđ-cp 14 11 2013 chính_phủ quy_định	4
+/ nđ-cp 14 11 2013	4
+nghị_định 60/2003 / nđ-cp	4
+nghị_định 33	4
+11/2010 / nđ-cp 24 02 2010 chính_phủ	4
+28 12	4
+44/2014 / nđ-cp	4
+thông_tư 09	4
+quyết_định 111 - hđbt	4
+quyết_định 09/2015 / qđ-ttg	3
+34/2016 / nđ-cp 14 5 2016 chính_phủ quy_định chi_tiết	3
+nghị_định 177/2013 / nđ-cp 14 11 2013 chính_phủ	3
+11/2010 / nđ-cp	3
+63/2017 / tt-btc	3
+nghị_định 46/2014 / nđ-cp 15 5 2014	3
+ttlb /	3
+hướng_dẫn một_số nghị_định 46/2014 / nđ-cp	3
+thông_tư 13 /	3
+căn_cứ thông_tư 44/2017	3
+nghị_định 26 / cp 23/5/1993 chính_phủ	3
+2014 chính_phủ sửa_đổi	3
+43/2014 / nđ-cp	3
+342/2016 / tt-btc	3
+nđ / lb	3
+quyết_định 40/2015 / qđ-ttg	3
+nghị_định 38/2015 / nđ-cp	3
+thông_tư 02/2017 / tt-byt	3
+163/2016 / nđ-cp 21 12 2016 chính_phủ	3
+33/2017 /	3
+thông_tư 152/2015 / tt-btc	3
+nghị_định 10/2002 / nđ-cp	3
+nghị_định 81/2003	3
+thông_tư liên_tịch 88/2016 / ttlt /	3
+nghị_định 01/2017 / nđ-cp 06/01/2017	3
+52/1999 /	3
+56/2014 / tt-btc 28/4/2014 tài_chính	3
+2014 tài_chính	3
+131 / ttg	3
+nghị_định 12/2015 / nđ-cp	3
+12 2016	3
+27/2003 / qđ-ttg	3
+căn_cứ thông_tư 76/2014 / tt-btc 16 6 2014	3
+thông_tư 56/2014 / tt-btc	3
+thực_hiện thông_tư	3
+thông_tư 77/2014 / tt-btc	3
+thông_tư 15/2017 / tt-btc	3
+56 /	3
+19 12	3
+43/2014 / nđ-cp 15/5/2014	3
+11/11/2016 tài_chính	3
+ttlt /	3
+30 11	3
+09/9/2016 chính_phủ	3
+nghị_định 04/1999 / nđ-cp	3
+thông_tư 233/2016 / tt-btc 11 11 2016	3
+thông_tư 59/2003	3
+15 8	3
+bổ_sung một_số nghị_định 177/2013 /	3
+19/2015 /	3
+căn_cứ nghị_định 37/2014	3
+nghị_định 44/2014 / nđ-cp 15 5 2014 chính_phủ	3
+03/2016 /	3
+nghị_định 12/2006 / nđ-cp	3
+15 5	3
+/ nđ-cp 16/01/2002 chính_phủ	3
+căn_cứ nghị_định 24/2014 / nđ-cp 04	3
+01/2017 / nđ-cp 06/01/2017 chính_phủ	3
+/ cp 29	3
+388 / hđbt	3
+29/2008 /	3
+căn_cứ nghị_định 33 - hđbt 27-2-1984 hội_đồng_bộ_trưởng	3
+333/2016 / tt-btc	3
+/ nđ-cp 09/9/2016 chính_phủ	3
+nghị_định 02/2003	3
+10/2002 / nđ-cp	3
+28 / cp 29 4 1995	3
+/ nđ-cp 14/12/2004	3
+/ nđ-cp 14 02	3
+nghị_định 149/2016 / nđ-cp 11/11/2016 chính_phủ	3
+/ nđ-cp 23 8	3
+149/2016 / nđ-cp 11 11 2016 chính_phủ	3
+nghị_định 46/2014 /	3
+nghị_định 100/2013	3
+276 / ct	3
+/ nđ-cp 26 6	3
+2008 chính_phủ	3
+11 2013	3
+11 2014	3
+29 11 2013	3
+nghị_định 19/2002 / nđ-cp	3
+14 02	3
+14 5	3
+38/2015 / nđ-cp	3
+thông_tư 342/2016 / tt-btc	3
+92/2017 / nđ-cp	3
+nghị_định 16/2015 / nđ-cp	3
+02 2014	3
+/ ttr-ubnd 14	3
+nghị_định 50/2010 / nđ-cp 14 5 2010	3
+nghị_định 45/2014 / nđ-cp 15/5/2014 chính_phủ	3
+/ ttr	3
+/ nq-hđnd 11 12	3
+204/2004 / nđ-cp	3
+50/2010 / nđ-cp 14 5 2010 chính_phủ	3
+nghị_định 235 - hđbt	3
+28 02	3
+24 11	3
+qđ /	3
+thông_tư liên_tịch	3
+04/1999 /	3
+/ nđ-cp 24 02	3
+nghị_định 115/2005	3
+/ ttr-ubnd 30 11 2017	3
+25 / cp 23-5-1993	3
+44/2017 / tt-btc 12 5	3
+thông_tư 77/2014 / tt-btc 16/6/2014	3
+29 4	3
+30 9	3
+căn_cứ nghị_định 34/2016 / nđ-cp 14	3
+01/2017 / nđ-cp 06/01/2017	3
+26 5	3
+21 11	3
+căn_cứ nghị_định 47/2014 / nđ-cp	3
+81/2013 / nđ-cp	3
+28 / cp 29 4 1995 chính_phủ	3
+nghị_định 177/2013 / nđ-cp 14/11/2013	3
+/ tt-btc 16	3
+2016 chính_phủ quy_định	3
+nghị_định 12/2015	3
+/ nđ-cp 12 11	3
+nghị_định 149/2016 / nđ-cp 11/11/2016	3
+nghị_định 04/1999	3
+nghị_định 60/2003 / nđ-cp 06/6/2003	3
+căn_cứ thông_tư 02/2017 /	3
+nq - hđnd	3
+quyết_định 50/2014 / qđ-ttg 04 9 2014 thủ_tướng chính_phủ	3
+08/2017 /	3
+thông_tư 40/2017 / tt-btc 28 4 2017 bộ_trưởng tài_chính	3
+thông_tư 43/2003 /	3
+nghị_định 43/2014 / nđ-cp 15/5/2014	3
+18 6	2
+- byt	2
+/ nđ-cp 26 6 2014 chính_phủ	2
+/ nđ-cp 09 9 2016 chính_phủ	2
+quyết_định 134	2
+17 12	2
+thông_tư 80/2005 /	2
+121/2003 / nđ-cp	2
+căn_cứ nghị_định 163/2016 / nđ-cp 21	2
+căn_cứ nghị_định 45/2003 /	2
+nghị_định 118/2015	2
+nghị_định 158/2016 / nđ-cp 29 11 2016	2
+25 12	2
+11 2016 tài_chính hướng_dẫn	2
+/ cp 19/12/1996	2
+căn_cứ nghị_định 34/2016 /	2
+/ nq-hđnd 07 12	2
+thông_tư 40/2017 / tt-btc 28/4/2017	2
+233/2016 / tt-btc	2
+nghị_định 44/2014	2
+/ nđ-cp 14/11/2013	2
+45/2003 / nđ-cp	2
+34/2016 /	2
+2 lít xăng / km	2
+thực_hiện quy_định	2
+thông_tư 50/2015	2
+nghị_định 10/2004 / nđ-cp	2
+131 /	2
+9 2017	2
+tài_chính hướng_dẫn thực_hiện nghị_định 177/2013 / nđ-cp	2
+10 2004	2
+thực_hiện quy_định thông_tư 40/2017 / tt-btc	2
+quyết_định 50/2014 / qđ-ttg	2
+235 /	2
+xd 42 /	2
+2016 tài_chính	2
+thông_tư 338/2016 / tt-btc	2
+46/2016 /	2
+1995 chính_phủ	2
+26 11 2014	2
+158/2016 / nđ-cp	2
+/ nđ-cp 29 11	2
+24 02	2
+nghị_định 175/1999 / nđ-cp	2
+46/2015 /	2
+thông_tư liên_tịch 13/2014 /	2
+quy_định quyết_định 114/2006 / qđ-ttg	2
+10/2004 / nđ-cp 07 01	2
+căn_cứ nghị_định 77/2003	2
+/ qđ-ttg 31	2
+15/5/2014 chính_phủ quy_định	2
+căn_cứ nghị_định 01/2017 / nđ-cp 06 01 2017	2
+xây_dựng 177 / cp	2
+2010 chính_phủ	2
+nghị_định 19/2002	2
+tài_chính quy_định	2
+nghị_định 10/2002	2
+thông_tư 36/2014 / tt-btnmt	2
+căn_cứ thông_tư 250/2016 / tt-btc 11 11 2016 tài_chính	2
+thông_tư 324/2016 / tt-btc	2
+- lđ	2
+nghị_định 69/2008 / nđ-cp 30 5 2008 chính_phủ	2
+58 / ttg	2
+86 /	2
+/ cp 23	2
+nghị_định 29/2008 / nđ-cp	2
+20 6	2
+276 /	2
+nghị_định 25 / cp 23-5-1993	2
+135/1998 /	2
+16 11	2
+- trường_hợp	2
+22 6	2
+46/2014 / nđ-cp 15	2
+nghị_định 35/2015	2
+nghị_định 38/2015	2
+5 2015 chính_phủ	2
+19/2017 / tt-btc 28	2
+50/2014 / qđ-ttg	2
+43/2014 / nđ-cp 15 5 2014 chính_phủ quy_định chi_tiết	2
+71 /	2
+căn_cứ thông_tư liên_tịch	2
+thông_tư 50/2015 /	2
+nghị_định 01/2017 / nđ-cp 06/01/2017 chính_phủ sửa_đổi	2
+221/2013 /	2
+nghị_định 59/2015 / nđ-cp 18 6 2015	2
+nghị_định 29/2008	2
+căn_cứ thông_tư 233/2016	2
+nghị_định 86 /	2
+115/2005 /	2
+45/2014 / nđ-cp 15 5 2014	2
+25 / cp 23-5-1993 chính_phủ	2
+quyết_định 114/2006	2
+nghị_định 91/2017 / nđ-cp chính_phủ	2
+căn_cứ nghị_định 33	2
+233/2016 / tt-btc 11/11/2016	2
+/ nđ-cp 05 5	2
+11/11/2016 chính_phủ	2
+233/2016 / tt-btc 11 11 2016	2
+29 12	2
+- 2010	2
+2017 / qđ-ubnd	2
+nghị_định 44/2014 / nđ-cp 15 5 2014 chính_phủ quy_định	2
+2014 thủ_tướng chính_phủ	2
+42/2017 /	2
+- byt /	2
+56/2014 / tt-btc 28 4 2014	2
+thông_tư 59/2003 / tt-btc	2
+thông_tư 02 /	2
+nghị_định 46/2014 / nđ-cp 15 5 2014 chính_phủ quy_định	2
+09/2017 /	2
+căn_cứ nghị_định 44/2014 / nđ-cp	2
+căn_cứ nghị_định 16/2015 / nđ-cp	2
+nghị_định 11/2010 / nđ-cp 24 02 2010 chính_phủ quy_định	2
+nghị_định 10/2002 / nđ-cp 16/01/2002 chính_phủ	2
+nghị_định 43/2014 / nđ-cp 15/5/2014 chính_phủ	2
+nghị_định 92/2017 / nđ-cp	2
+thông_tư 56/2014 / tt-btc 28/4/2014	2
+nghị_định 02/2003 / nđ-cp	2
+/ nđ-cp 23 8 2016	2
+28 / cp 29/4/1995	2
+căn_cứ nghị_quyết	2
+thông_tư 40/2017 / tt-btc	2
+nghị_định 45/2014 / nđ-cp 15 5 2014 chính_phủ quy_định	2
+căn_cứ thông_tư 342/2016 / tt-btc	2
+43 /	2
+/ tt-btc 12 5 2017	2
+quy_định nghị_định 25	2
+29 11	2
+chính_phủ thông_tư hướng_dẫn	2
+/ tt-btc 26 12 2016 tài_chính	2
+quy_định nghị_định 91/2017 / nđ-cp	2
+qđ-ttg 24	2
+quy_định thông_tư	2
+/ ttr-ubnd 17 11 2017	2
+2014 chính_phủ	2
+căn_cứ nghị_định 43/2014 / nđ-cp 15 5 2014 chính_phủ	2
+14 9	2
+nghị_định 76	2
+22 4	2
+bổ_sung một_số nghị_định 177/2013 / nđ-cp 14/11/2013 chính_phủ	2
+thông_tư hướng_dẫn	2
+22 12	2
+46/2014 / nđ-cp 15 5 2014 chính_phủ	2
+69/2008 / nđ-cp 30 5 2008	2
+/ cp 23-5-1993 chính_phủ	2
+quy_định b	2
+73 /	2
+bổ_sung một_số nghị_định 177/2013 / nđ-cp 14/11/2013	2
+33 -	2
+thông_tư 13	2
+203 /	2
+30 12	2
+thông_tư 77/2014 / tt-btc 16 6 2014	2
+thông_tư 233/2016	2
+nghị_định 25 / cp 23/5/1993	2
+09 12	2
+/ nđ-cp 14 11 2013 chính_phủ quy_định	2
+/ nđ-cp 01 7 2016 chính_phủ	2
+/ nđ-cp 15 5 2014	2
+căn_cứ nghị_định 43/2014	2
+27/2003 / qđ-ttg 19 02 2003	2
+/ hs	2
+27 11	2
+46/2014 / nđ-cp 15 5 2014	2
+quyết_định 09/2015	2
+/ tt-btc 11	2
+b c	2
+7 1998	2
+thông_tư 103/1998 / tt-btc	2
+thông_tư 250/2016 / tt-btc	2
+quy_định nghị_định 46/2015 /	2
+nghị_định 204/2004 / nđ-cp 14 12 2004	2
+6 2016	2
+/ tct	2
+15 9	2
+căn_cứ nghị_định 46/2014 / nđ-cp 15 5 2014 chính_phủ	2
+nghị_định 92/2009	2
+công_tác_phí quy_định	2
+342/2016 / tt-btc 30 12 2016 tài_chính	2
+87 /	1
+căn_cứ nghị_định 34/2016 / nđ-cp 14/5/2016	1
+123/2017 / nđ-cp 14/11/2017	1
+/ nđ-cp 14 12 2004 chính_phủ	1
+12 5 2017	1
+11 12	1
+/ qđ-ubnd 22 12	1
+09 6	1
+thông_tư 56/2014 /	1
+09 4	1
+388 /	1
+/ ttr-ubnd 29 11 2017	1
+9 2016	1
+/ nđ-cp 11 11 2016 chính_phủ	1
+10 11	1
+chính_phủ - tài_chính	1
+10 us	1
+/ nđ-cp 11/11/2016	1
+611 /	1
+hướng_dẫn một_số nghị_định 46/2014 / nđ-cp 15 5 2014	1
+6 2003 chính_phủ	1
+10/2004 / nđ-cp 07	1
+căn_cứ nghị_định 46/2015	1
+thông_tư 19/2017 / tt-btc 28 02	1
+tài_chính hướng_dẫn thực_hiện nghị_định 177/2013 / nđ-cp 14/11/2013	1
+28 8	1
+nghị_định 11/2010 / nđ-cp 24/02/2010 chính_phủ	1
+/ tt-btc 18/7/1998	1
+/ cp 23/5/1993 chính_phủ	1
+thông_tư 02/2017 /	1
+46/2014 / nđ-cp 15/5/2014 chính_phủ	1
+nghị_định 11/2010 / nđ-cp 24 02 2010 chính_phủ	1
+nghị_định 120/2016 / nđ-cp 23 8 2016 chính_phủ	1
+23/5/1993 chính_phủ	1
+26 12	1
+28 12 2016 tài_chính quy_định lập dự_toán	1
+22 12 2014	1
+quy_định nghị_định 47/2014	1
+thông_tư 338/2016 / tt-btc 28	1
+nghị_định 01/2017 / nđ-cp 06 01 2017 chính_phủ	1
+quyết_định 139/2002 /	1
+11 2015	1
+28 4 2014	1
+15 5 2014 chính_phủ quy_định	1
+4 1995	1
+tt-btc 15	1
+34/2016 / nđ-cp 14/5/2016	1
+13 11	1
+114/2006 / qđ-ttg	1
+c d	1
+nghị_định 34/2016 / nđ-cp 14/5/2016 chính_phủ	1
+thông_tư 118/2004 / tt-btc	1
+12 2013	1
+1998 chính_phủ	1
+một_số nghị_định 46/2014 / nđ-cp 15 5 2014 chính_phủ	1
+/ nđ-cp 01 9 2017	1
+/ nđ-cp 31 7	1
+5 2014 chính_phủ quy_định	1
+căn_cứ thông_tư 342/2016 / tt-btc 30 12 2016	1
+16 a	1
+20/2016 /	1
+3 -	1
+195 /	1
+21 12 2016	1
+nghị_định 69/2008 / nđ-cp 30 5 2008	1
+căn_cứ nghị_định 149/2016	1
+nghị_định 57/2002	1
+nghị_định 35/2017	1
+thông_tư 327/2016 / tt-btc 26 12 2016	1
+nghị_định 46/2014 / nđ-cp 15/5/2014 chính_phủ	1
+15 11	1
+/ 1 / 1	1
+/ cđkt	1
+02 2003	1
+/ qh13 19 6	1
+/ ttr-ubnd 17	1
+căn_cứ nghị_định 92/2017	1
+thông_tư 09/2015	1
+thông_tư liên_tịch 88/2016	1
+7 2016	1
+120/2016 / nđ-cp	1
+hướng_dẫn một_số nghị_định	1
+kèm nghị_định 12 / cp	1
+36 /	1
+quy_định nghị_định 43/2014	1
+/ nđ-cp 18 6 2015 chính_phủ	1
+2015 chính_phủ	1
+nghị_định 60/2003	1
+158/2016 / nđ-cp 29	1
+thông_tư 40/2017 / tt-btc 28 4 2017	1
+căn_cứ thông_tư 56/2014 / tt-btc 28	1
+nghị_định 37/2014 / nđ-cp	1
+thông_tư 25/2002 / tt-btc	1
+quy_định nghị_định 43/2014 /	1
+nghị_định 45/2014 / nđ-cp 15 5 2014	1
+69/2008 / nđ-cp 30	1
+nghị_định 50/2010 / nđ-cp	1
+35/2017 /	1
+33/2016 /	1
+118/2015 / nđ-cp	1
+thông_tư 40/2017 /	1
+căn_cứ nghị_định 149/2016 /	1
+quy_định c	1
+35/2016 /	1
+09 10	1
+16 7	1
+4 2014	1
+/ nđ-cp 06 01	1
+nghị_định 184/2004	1
+50/2014 / qđ-ttg 04 9 2014 thủ_tướng chính_phủ	1
+22 11	1
+24 12	1
+/ nq-hđnd 08	1
+388 - hđbt	1
+nghị_định 16/2015 / nđ-cp 14 02 2015 chính_phủ quy_định	1
+2017 chính_phủ quy_định chi_tiết	1
+11 2008	1
+/ tt-btc 11 11 2016 tài_chính	1
+nghị_định 34/2016 / nđ-cp 14/5/2016 chính_phủ quy_định chi_tiết	1
+thông_tư 26/2016 /	1
+5 m3	1
+09 10 2017	1
+18/2016 /	1
+quyết_định 58	1
+7 2016 chính_phủ	1
+11 2016 chính_phủ sửa_đổi	1
+/ qh13 20 6	1
+20 11	1
+căn_cứ nghị_định 24/2014 / nđ-cp 04/4/2014 chính_phủ quy_định	1
+căn_cứ nghị_định 177/2013 / nđ-cp 14/11/2013 chính_phủ quy_định	1
+/ qđ-ttg 04 9	1
+12 2016 tài_chính	1
+nghị_định 89/2003 / nđ-cp :	1
+/ tt-btc 16 6	1
+69/2008 / nđ-cp 30 5 2008 chính_phủ chính_sách khuyến_khích	1
+nghị_định 10/2004 / nđ-cp 07 01 2004	1
+căn_cứ nghị_định 45/2014 / nđ-cp 15 5 2014 chính_phủ	1
+42/2017 / nđ-cp 05	1
+thông_tư 233/2016 /	1
+25 / cp 23/5/1993 chính_phủ	1
+10 km	1
+28/4/2014 tài_chính	1
+16 10	1
+căn_cứ nghị_định 34/2016 / nđ-cp 14/5/2016 chính_phủ quy_định	1
+2016 tài_chính quy_định	1
+149/2016 / nđ-cp	1
+28 4 2014 tài_chính hướng_dẫn thực_hiện	1
+10/2004 /	1
+/ tt-btc 02 10	1
+thực_hiện nghị_định 177/2013 / nđ-cp 14/11/2013	1
+118 /	1
+hướng_dẫn thông_tư	1
+nghị_quyết 19/2017 /	1
+15 11 2017	1
+/ tt-btc 14	1
+thông_tư 36/2014 / tt-btnmt 30 6 2014	1
+thực_hiện nghị_định 177/2013 / nđ-cp 14 11 2013	1
+chính_phủ chính_sách	1
+thông_tư 25/2014	1
+2013 thủ_tướng chính_phủ	1
+27 01	1
+thông_tư 327/2016 / tt-btc 26	1
+170/2003 /	1
+căn_cứ thông_tư 250/2016 / tt-btc 11	1
+nghị_định 25 / cp mã_số	1
+kèm nghị_định 25 / cp	1
+/ nđ-cp 21 12 2016 chính_phủ quy_định chi_tiết	1
+50/2010 / nđ-cp 14 5	1
+01 11	1
+nghị_định 24/2014 / nđ-cp 04/4/2014	1
+01 2003 chính_phủ	1
+liên_tịch tài_chính	1
+thông_tư 59/2003 /	1
+- nq	1
+/ nđ-cp 21 12 2016 chính_phủ quy_định	1
+- tài_chính -	1
+/ nđ-cp 11/11/2016 chính_phủ	1
+/ nđ-cp 05 4	1
+thông_tư 09/2015 /	1
+06 11	1
+/ tt-btc 11 11 2016 bộ_trưởng	1
+02 2015 chính_phủ quy_định chi_tiết	1
+02/2003 /	1
+21 12	1
+23 6	1
+căn_cứ nghị_định 01/2017 /	1
+149/2016 / nđ-cp 11 11 2016	1
+13 4	1
+nghị_định 123/2017	1
+59/2003 /	1
+nghị_định 210/2013	1
+8 1998	1
+15/2015 /	1
+nghị_định 11/2010	1
+04 4	1
+thông_tư 19/2017 /	1
+01 02	1
+13 11 2008	1
+4 -	1
+40/2017 / tt-btc 28 4 2017	1
+/ nđ-cp 14 5	1
+căn_cứ nghị_định 44/2014	1
+/ nđ-cp 15/5/2014 chính_phủ	1
+/ nđ-cp 14/11/2013 chính_phủ quy_định	1
+59/2015 / nđ-cp 18 6 2015 chính_phủ quản_lý	1
+thực_hiện quy_định nghị_định 91/2017	1
+177 /	1
+5 2016 chính_phủ quy_định chi_tiết	1
+90 /	1
+2016 chính_phủ quy_định chi_tiết	1
+nghị_định 99/2015	1
+căn_cứ nghị_định 01/2017 / nđ-cp 06 01	1
+thông_tư liên_tịch 01/2005	1
+20 12	1
+149/2016 / nđ-cp 11/11/2016 chính_phủ	1
+nghị_định 120/2016 / nđ-cp	1
+/ qh13 25	1
+thông_tư 25/2002	1
+12 2016 bộ_trưởng tài_chính quy_định lập dự_toán	1
+kèm quyết_định 180/2002 / qđ-ttg	1
+27 12	1
+11 11	1
+81 /	1
+31 10	1
+01 9	1
+01 7	1
+45/2014 / nđ-cp	1
+11 2013 chính_phủ quy_định	1
+một_số công_việc	1
+23 8	1
+111 - nđ /	1
+24/2014 / nđ-cp 04/4/2014	1
+92/2009 / nđ-cp	1
+15 11 2010	1
+120/2016 / nđ-cp 23 8 2016 chính_phủ	1
+81/2017 /	1
+nghị_định 221/2013 /	1
+căn_cứ nghị_định 120/2016 / nđ-cp 23	1
+thông_tư 36/2014	1
+28 4	1
+quy_định b nghị_định	1
+28 11	1
+nghị_định 177/2013 /	1
+02 2017 tài_chính quy_định	1
+tt-btc 11 11 2016	1
+tài_chính sửa_đổi	1
+/ nđ-cp 14 12	1
+02 2018	1
+căn_cứ thông_tư 342/2016 / tt-btc 30 12 2016 tài_chính	1
+nq -	1
+10 12	1
+tài_chính hướng_dẫn một_số nghị_định 45/2014 / nđ-cp	1
+/ nđ-cp 06/6/2003	1
+29/4/1995 chính_phủ	1
+nghị_định 42/2017 / nđ-cp 05	1
+175/1999 / nđ-cp	1
+56/2014 / tt-btc 28 4 2014 tài_chính	1
+nq / tw	1
+nghị_định 37/2014 / nđ-cp 05	1
+căn_cứ nghị_định 120/2016 / nđ-cp 23 8 2016 chính_phủ	1
+nghị_định 120/2016 / nđ-cp 23 8 2016	1
+/ nđ-cp 09 9 2016	1
+căn_cứ nghị_định 34/2016 / nđ-cp 14/5/2016 chính_phủ	1
+một_số nghị_định 46/2014 / nđ-cp 15	1
+15 7	1
+căn_cứ nghị_định 01/2017 / nđ-cp 06	1
+15/2017 /	1
+24/02/2010 chính_phủ	1
+bổ_sung một_số nghị_định 59/2015	1
+cp chính_phủ	1
+thực_hiện quyết_định	1
+một_số nghị_định 59/2015 / nđ-cp	1
+quy_định nghị_quyết	1
+nghị_định 24/2003	1
+nghị_định 149/2016 / nđ-cp 11 11	1
+thông_tư 03/2014	1
+20/1998 /	1
+nghị_định 50/2010 / nđ-cp 14 5 2010 chính_phủ	1
+hướng_dẫn lập	1
+163/2016 / nđ-cp 21/12/2016	1
+căn_cứ quyết_định 27/2003	1
+căn_cứ nghị_định 177/2013 /	1
+11 2016 tài_chính	1
+17 a	1
+01/2005 /	1
+thông_tư 08/2017	1
+thông_tư 338/2016	1
+ttlt -	1
+nghị_định 135/2004	1
+a b	1
+06 01 2017 chính_phủ sửa_đổi	1
+10 2017	1
+42/2017 / nđ-cp 05 4 2017	1
+01 2003	1
+/ tt-btc 16 6 2014 tài_chính hướng_dẫn	1
+11/2010 / nđ-cp 24 02 2010	1
+thông_tư 56/2014	1
+05 12	1
+59/2015 / nđ-cp 18 6 2015 chính_phủ	1
+77/2014 / tt-btc	1
+3 2018	1
+05 01	1
+10 2015	1
+bổ_sung một_số thông_tư 56/2014 / tt-btc 28	1
+tài_chính hướng_dẫn	1
+17 6	1
+2014 bộ_trưởng tài_chính	1
+tài_chính -	1
+/ btc-btnmt	1
+nghị_định 35/2015 / nđ-cp	1
+/ nđ-cp 24 02 2010	1
+thông_tư 233/2016 / tt-btc 11	1
+06/01/2017 chính_phủ sửa_đổi	1
+thực_hiện công_việc quy_định nghị_định	1
+căn_cứ nghị_định 43/2014 / nđ-cp 15	1
+thi_hành một_số nghị_định 163/2016 / nđ-cp 21 12 2016	1
+nghị_định 78/2002 / nđ-cp	1
+/ nđ-cp 11 11 2016 chính_phủ sửa_đổi	1
+/ tt-btc 02 10 2015	1
+căn_cứ thông_tư 36/2014	1
+hướng_dẫn bổ_sung	1
+2017 chính_phủ	1
+nghị_định 91/2017 / nđ-cp 31	1
+15 02	1
+thông_tư 79/2005 /	1
+45/2014 / nđ-cp 15	1
+thông_tư 233/2016 / tt-btc	1
+/ nđ-cp 16/01/2002	1
+45 /	1

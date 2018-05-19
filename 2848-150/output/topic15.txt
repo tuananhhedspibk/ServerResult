@@ -1,0 +1,261 @@
+cơ_quan hải_quan	402
+tổng_cục hải_quan	267
+tờ khai	240
+xuất nhập_khẩu	238
+thủ_tục hải_quan	201
+chủ hàng	173
+hải_quan cửa_khẩu	162
+dán tem	147
+hàng_hoá nhập_khẩu	121
+hàng_hoá xuất_khẩu	119
+lô hàng	115
+hàng nhập_khẩu	109
+bưu_cục ngoại dịch	107
+đối_với hàng_hoá	97
+hoàn_thành thủ_tục hải_quan	92
+cục quản_lý xuất nhập_cảnh	75
+hải_quan tỉnh	69
+tờ khai hải_quan	69
+lệ_phí hải_quan	63
+xuất nhập_cảnh	60
+tạm dừng thủ_tục hải_quan	59
+nhập_khẩu hàng_hoá	55
+thủ_tục nhập_khẩu	55
+cục hải_quan tỉnh	53
+tạm nhập	52
+đối_với hàng_hoá nhập_khẩu	46
+hàng xuất_khẩu	44
+tạm dừng	43
+kinh_doanh xuất nhập_khẩu	42
+giấy_phép kinh_doanh xuất nhập_khẩu	42
+chi_cục hải_quan	41
+cục hải_quan	38
+- tổng_cục hải_quan	37
+thuốc_lá điếu	37
+giấy_phép nhập_khẩu	36
+giám_sát hải_quan	35
+hàng_hoá xuất nhập_khẩu	34
+bưu_cục kiểm quan	33
+hàng cấm	32
+hàng nhập lậu	32
+ngành hải_quan	31
+xuất_xứ hàng_hoá	31
+lưu kho	31
+đối_với hàng_hoá xuất_khẩu	30
+nhập khẩ	30
+kiểm_tra hải_quan	30
+hàng quá_cảnh	29
+dán tem hàng nhập_khẩu	29
+tạm nhập tái_xuất	28
+hàng_hoá tạm dừng thủ_tục hải_quan	28
+hàng_hoá biên_giới	27
+giấy_phép xuất_khẩu	27
+chủ lô hàng	26
+công_ty xuất nhập_khẩu	26
+nhãn_hiệu hàng_hoá	26
+quản_lý xuất nhập_cảnh	25
+bưu_kiện nhập_khẩu	25
+cấm nhập_khẩu	25
+phép nhập_khẩu	24
+phát_hiện hàng_hoá giả_mạo nhãn_hiệu	24
+thủ_tục xuất_khẩu	23
+xuất kho	23
+lô hàng xuất_khẩu	23
+kẹp chì	22
+nợ thuế xuất nhập_khẩu	22
+quản_lý xuất nhập_khẩu	22
+phép xuất_khẩu	22
+nộp tờ khai	21
+thuế xuất nhập_khẩu	21
+xuất khẩ	21
+kho dầu_mỏ sản_phẩm dầu_mỏ	20
+cán_bộ hải_quan	20
+quản_lý_xuất nhập cản	20
+buộc tái_xuất	20
+nộp cơ_quan hải_quan	20
+giả_mạo nhãn_hiệu	19
+nhập_khẩu thuốc_lá điếu	19
+buôn_bán hàng cấm	19
+danh_mục hàng_hoá	19
+đơn_vị xuất hàng	19
+áp_dụng biện_pháp kiểm_soát biên_giới sở_hữu công_nghiệp	19
+tạm_nhập - tái_xuất	19
+thuốc_lá điếu nước_ngoài	19
+lệ_phí lưu kho	18
+tổng_cục hải_quan hướng_dẫn	18
+trốn lậu	18
+tạm xuất	18
+nhập lậu	18
+gửi cơ_quan hải_quan	18
+cơ_quan quản_lý xuất nhập_cảnh	18
+tem hàng nhập_khẩu	17
+thực xuất	17
+cấm xuất_khẩu	17
+văn_hoá_phẩm xuất nhập_khẩu	17
+chứng_từ bảo_lãnh	17
+vận_chuyển hàng_hoá	17
+cục hàng ddvn	16
+hàng_hoá giả_mạo nhãn_hiệu	16
+thủ_tục hải_quan đối_với	16
+xuất nhập_khẩu văn_hoá_phẩm	16
+thủ_tục xuất_cảnh	16
+niêm_phong hải_quan	15
+hàng nhập	15
+chủ hàng xuất_trình	15
+lô hàng tạm dừng thủ_tục hải_quan	14
+hàng_hoá vận_chuyển	14
+đối_với mặt_hàng	14
+hàng_hoá xuất	14
+mua_bán hàng_hoá	14
+nhập_khẩu lưu_thông thị_trường	14
+giấy_phép xuất nhập_khẩu	14
+cục quản_lý	13
+đối_với lô hàng	13
+nhập kho	13
+thời_hạn nộp	13
+phòng quản_lý xuất nhập_khẩu	13
+hải_quan thủ_tục	13
+chi_cục_trưởng chi_cục	12
+hàng lậu	12
+nhập_khẩu tiểu_ngạch	12
+lưu_thông thị_trường	12
+lược khai	12
+vận_chuyển hàng	12
+kho hải_quan	12
+thị_trường nội_địa	12
+thời_hạn tạm dừng thủ_tục hải_quan	12
+hải_quan kiểm_tra	11
+kiểm_tra xác_nhận	11
+hàng_hóa xuất_khẩu	11
+hoàn_thành thủ_tục	11
+xuất nhập_khẩu trung_ương	11
+cơ_quan hải_quan thủ_tục	11
+khai hàng_hoá	10
+biện_pháp kiểm_soát biên_giới sở_hữu công_nghiệp	10
+hàng xuất	10
+tờ khai hàng	10
+tịch_thu hàng_hoá	9
+xuất nhập_khẩu tiểu_ngạch	9
+giấy_phép xuất	9
+thủ_tục hải_quan đối_với hàng_hoá	9
+chứng_từ hợp_pháp	9
+tổng_cục_trưởng tổng_cục	9
+kiểm_tra thực_tế	9
+kiểm_tra giám_sát	8
+đối_với hàng_hóa	8
+yêu_cầu áp_dụng biện_pháp kiểm_soát	8
+quản_lý thị_trường	8
+hải_quan thủ_tục hải_quan	8
+cửa_khẩu nhập	8
+tạm chờ xử_lý	8
+chủ sở_hữu	8
+thủ_tục nộp	7
+thủ_tục giấy_phép	7
+đối_với cơ_quan	7
+yêu_cầu áp_dụng biện_pháp kiểm_soát biên_giới sở_hữu công_nghiệp	7
+tổng_cục thuế	7
+quản_lý xuất	7
+xử_lý tịch_thu	7
+xuất hàng	7
+yêu_cầu tạm dừng	6
+cơ_quan quản_lý thị_trường	6
+tạm chờ	6
+hàng_hoá tạm	6
+hàng tạm dừng	6
+hàng_hoá lưu_thông	6
+xác_nhận cơ_quan	6
+cửa_khẩu tạm nhập	6
+nhập_khẩu tiểu_ngạch biên_giới	6
+biện_pháp xử_lý	6
+lưu kho hải_quan	6
+thuế hàng_hoá	6
+tổng_cục tiêu_chuẩn	5
+xuất_khẩu hàng	5
+sản_phẩm hàng_hoá	5
+phát_hiện hàng_hoá	5
+hải_quan đối_với	5
+giấy_phép kinh_doanh	5
+khai hải_quan	5
+hàng_hoá lưu_thông thị_trường	5
+tạm dừng thủ_tục	5
+chi_cục quản_lý thị_trường	5
+bưu_kiện xuất_khẩu	4
+hải phòng	4
+hải_quan đối_với hàng_hoá	4
+nhập cản	4
+nhập_khẩu văn_hoá_phẩm	4
+hàng tạm dừng thủ_tục hải_quan	4
+cơ_quan quản_lý	4
+hải_quan nộp	4
+hải_quan chấp_nhận	4
+hàng_hoá tạm dừng thủ_tục hải_quan hàng_hoá	4
+cửa_khẩu biên_giới	4
+xong thủ_tục	4
+tổng_cục hải	4
+thuế xuất_khẩu	3
+kiểm_tra phát_hiện	3
+áp_dụng biện_pháp kiểm_soát biên_giới	3
+giấy_phép xuất_khẩu (	3
+cửa_khẩu tạm	3
+áp_dụng đối_với	3
+- đối_với	3
+địa_điểm kinh_doanh	3
+dầu_mỏ sản_phẩm dầu_mỏ	3
+hàng gửi	3
+nhãn sản_phẩm	3
+kiện hàng	2
+cục quản_lý xuất	2
+thị_trường tiêu_thụ	2
+yêu_cầu tạm dừng thủ_tục hải_quan	2
+hàng tạm	2
+- tổng_cục	2
+tạm gửi	2
+thời_hạn tạm	2
+kiểm_soát biên_giới sở_hữu công_nghiệp	2
+chờ xử_lý	2
+bưu_cục ngoại	2
+dừng thủ_tục hải_quan	2
+áp_dụng biện_pháp	2
+tài_chính - tổng_cục hải_quan	2
+nộp lệ_phí	2
+nhập_khẩu thuốc_lá	2
+nộp lệ_phí hải_quan	2
+miễn giấy_phép	2
+tiểu_ngạch biên_giới	1
+( cục quản_lý_xuất nhập cản	1
+cơ_quan thuế	1
+đơn phép	1
+yêu_cầu cơ_quan	1
+văn_hoá_phẩm xuất	1
+phối_hợp cục	1
+kinh_doanh thương_nghiệp	1
+nhập_khẩu lưu_thông	1
+sở_hữu công_nghiệp	1
+nhập_khẩu lô	1
+thời_hạn tạm dừng	1
+gửi cục	1
+đối_với sản_phẩm	1
+phép kinh_doanh	1
+vận_chuyển hàng_hóa	1
+hàng ddvn	1
+quản_lý_xuất nhập	1
+đơn yêu_cầu tạm dừng	1
+ngành tỉnh	1
+tiêu_thụ sản_phẩm	1
+áp_dụng đối_với cán_bộ	1
+kinh_doanh mặt_hàng	1
+thuế xuất	1
+kinh_doanh xuất	1
+yêu_cầu áp_dụng biện_pháp kiểm_soát biên_giới	1
+( tổng_cục	1
+yêu_cầu chủ	1
+biện_pháp kiểm_soát biên_giới sở_hữu	1
+xuất_khẩu thị_trường	1
+thủ_tục thành_lập	1
+công_ty kinh_doanh	1
+miễn lệ_phí	1
+hướng_dẫn kiểm_tra	1
+( cục	1
+ngoại dịch	1
+giấy_phép vận_chuyển	1
+biện_pháp kiểm_soát biên_giới	1

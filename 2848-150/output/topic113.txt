@@ -1,0 +1,74 @@
+ngành địa_phương	203
+ngành trung_ương	182
+trung_ương địa_phương	165
+ngành liên_quan	158
+toàn ngành	144
+chính_quyền địa_phương	144
+rút kinh_nghiệm	124
+hai ngành	94
+trao_đổi thống_nhất	70
+đóng trụ_sở	68
+ngành chủ_quản	63
+trao_đổi ý_kiến	48
+hai thoả_thuận	45
+ngành nội_thương	45
+ý_kiến thống_nhất	42
+đóng địa_phương	38
+cơ_quan_tài_chính địa_phương	36
+ngành trung_ương địa_phương	34
+phá dỡ	31
+thống_nhất ý_kiến	29
+ngành công_an	29
+giấy rút	28
+đóng dấ	27
+tư phá	26
+hợp đồn	25
+xác_nhận chính_quyền địa_phương	25
+ngành kiểm_sát	25
+rút ngắn thời_gian	25
+đóng địa_bàn	25
+vi rút	24
+ngành hữu_quan	23
+trao_đổi kinh_nghiệm	23
+cá nhâ	22
+ngành liên_quan địa_phương	22
+hai chiều	22
+trung_ương đóng	22
+địa_phương tiến_hành	21
+hợp phá	21
+thoả_thuận hai	20
+tình_hình_cụ_thể địa_phương	20
+tham_gia ý_kiến	19
+trung_ương đóng địa_phương	18
+ngành y_tế	18
+lãnh_đạo hai	18
+góp ý_kiến	18
+xác nhậ	17
+trú đóng	17
+bàn_bạc thống_nhất	15
+ngành kinh_tế	15
+ý_kiến thoả_thuận	15
+nội_bộ ngành	15
+ý_kiến chỉ_đạo	13
+thời_gian ngắn	11
+ngành công_nghiệp	9
+tham_khảo ý_kiến	9
+rút ngắn	9
+địa_phương phản_ảnh	8
+viên_chức ngành	8
+ý_kiến nhận_xét	7
+hiệu lự	7
+ngàn đồn	7
+ý_kiến tham_gia	6
+trung_ương đóng địa_bàn	5
+xác_nhận chính_quyền	5
+ngành đường_sắt	4
+phát_triển ngành	3
+giấy xác_nhận	2
+y_tế địa_phương	2
+trụ_sở địa_bàn	2
+thời_gian đóng	2
+ngành bưu_điện	2
+trung_ương chỉ_đạo	2
+phạm_vi toàn_quốc	1
+chủ_quản cơ_quan_tài_chính	1

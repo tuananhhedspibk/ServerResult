@@ -1,0 +1,260 @@
+( gọi tắt	482
+( gọi	439
+( mẫu_số	217
+( )	191
+( 0	174
+( viết tắt	155
+5 ( phẩy nă làm_việc	107
+hội_đồng_bộ_trưởng ( chính_phủ )	98
+thời_hạn 30	87
+thời_hạn 02 làm_việc	79
+chậm nhất_là	74
+thời_hạn ( 0	69
+thời_gian làm_việc	68
+thời_gian 0	62
+chậm 15	58
+thời_hạn 15	57
+05 làm_việc	55
+thị_trấn ( gọi	53
+10 làm_việc	53
+( gọi tắt nghị_định	48
+gọi tắt	46
+hai mươi	46
+thời_hạn 05 làm_việc	46
+thời_hạn 7	45
+hai ( 0	45
+thời_hạn 10	45
+( b	44
+thị_trấn ( gọi xã )	43
+thời_hạn 03	41
+5 (	40
+( huyệ	39
+bốn ( 0	39
+thời_hạn 03 làm_việc	38
+trụ_sở làm_việc	38
+thời_hạn 5	37
+03 làm_việc	36
+( bốn	35
+phương_tiện làm_việc	34
+01 ( mộ	34
+chủ_tịch hội_đồng_bộ_trưởng ( thủ_tướng chính_phủ )	33
+chậm 30	33
+( gọi cơ_quan	32
+kéo_dài thời_gian	32
+15 làm_việc	31
+thời_hạn 10 làm_việc	31
+thời_gian 01 ( mộ làm_việc	31
+05 (	31
+( mẫu_số 1	31
+01 ( mộ làm_việc	31
+mười lăm	30
+( hai	30
+viết tắt	30
+thời_hạn hai ( 0	30
+thời_hạn 05	30
+mẫu_số 01	29
+thời_hạn mười	29
+thời_gian thực_hiện_tại a	28
+thành_phố tỉnh ( gọi huyệ	28
+thị_trấn ( gọi tắt	28
+thời_hạn 5 làm_việc	27
+5 ( phẩy nă làm_việc kết_quả	27
+thành_phố ( gọi	27
+thời_hạn 20	26
+thời_gian 03 ( b làm_việc	26
+( mẫ	26
+việt_nam (	26
+5 ( phẩy nă làm_việc giấy_tờ chứng_minh	26
+thời_hạn mười lăm	25
+thành_phố tỉnh ( gọi	25
+thời_hạn 15 làm_việc	25
+thời_gian địa_điểm	25
+thời_gian thực_hiện_tại	25
+kéo_dài thời_hạn	25
+chậm 10	24
+( mười	24
+thời_hạn 07	24
+( chín	24
+tỉnh ( thành_phố )	24
+chậm 05 làm_việc	23
+chậm 5	23
+mẫu_số 02	23
+( mẫu_số 0	23
+( kể_cả	22
+chữ_viết tắt	22
+5 b	22
+thời_hạn tối_đa	22
+thời_hạn 07 làm_việc	21
+chương_trình 30 a	21
+07 làm_việc	21
+03 ( b	21
+thị_trấn (	21
+kết_thúc thời_hạn	20
+02 ( ha	20
+10 ( mườ	20
+5 làm_việc	20
+thời_gian thực_hiện_tại b	19
+( kể_cả thời_gian	19
+( viết tắt nghị_định	18
+xác_định thời_hạn	18
+chính_phủ ( gọi	18
+mẫu_số 03	18
+( gọi tắt huyệ	18
+tiếp_tục làm_việc	18
+3 ( b	17
+chậm tiến_độ	17
+thời_hạn bảy	17
+02 làm_việc	17
+07 ( bả làm_việc	17
+hai (	17
+thành_phố )	17
+( viết gọn	17
+chậm 20	17
+( gọi huyệ	17
+( mẫu_số 02	16
+chậm 05	16
+việt_nam ( gọi tắt	16
+lệ_phí trước_bạ )	16
+thành_phố ( gọi tắt	16
+xã )	16
+ít_nhất 05	16
+15 ( mười lă	15
+( mẫu_số 03	15
+( thiế	15
+ít_nhất 01	15
+ít_nhất 03	15
+tỉnh ( gọi	15
+nước_ngoài (	15
+lề_lối làm_việc	14
+01 (	14
+thời_gian 03 ( b	14
+( nă	14
+sáu mươi	13
+( mẫu_số 01	13
+ít_nhất hai	13
+ít_nhất 30	13
+thời_hạn 02	13
+03 (	13
+05 ( nă làm_việc	13
+mẫu_số 04	12
+thời_gian 01	12
+quy_chế làm_việc	12
+việt_nam ( gọi	12
+( viết	12
+thời_gian tối_đa	12
+địa_điểm làm_việc	11
+thời_gian 02 ( ha làm_việc hồ_sơ	11
+tỉnh ( gọi huyệ	11
+thời_gian 02 ( ha làm_việc	11
+vòng 15	11
+05 ( nă	10
+thời_hạn giải_quyết	10
+thời_gian 02 ( ha	10
+thời_gian nhất_định	10
+( gọi tắt tỉn	9
+mẫu_số 0	9
+( phẩy	9
+chính_phủ )	9
+trở (	9
+( ha	9
+thời_gian 01 ( mộ	8
+( mười lă	8
+( chính_phủ )	8
+02 ( ha làm_việc	8
+làm_việc tiếp_theo	7
+( b làm_việc	7
+hội_đồng_bộ_trưởng ( thủ_tướng chính_phủ )	7
+trước_bạ )	7
+thời_gian 03	7
+nă làm_việc	6
+tối_đa 05	6
+02 (	6
+03 ( b làm_việc	6
+thời_gian giải_quyết	6
+( mườ	6
+kết_quả làm_việc	6
+làm_việc cơ_quan	5
+bốn mươi	5
+5 ( phẩy nă làm_việc hồ_sơ	5
+01 01	5
+15 10	5
+( gọi xã )	5
+tối_đa 10	5
+thời_gian 05	4
+b làm_việc	4
+( 0 làm_việc	4
+gọi tắt nghị_định	4
+thời_hạn hai	4
+( bả làm_việc	4
+ít_nhất 5	4
+03 trở	4
+tối_đa 03	4
+( mộ	4
+nước_ngoài ( gọi	4
+01 10	4
+( gọi xã	4
+ít_nhất 10	4
+hội_đồng_bộ_trưởng (	4
+vòng 5	4
+03 02	3
+( b làm_việc hồ_sơ	3
+15 7	3
+05 10	3
+thời_gian 02	3
+05 trở	3
+thời_hạn nước_ngoài	3
+07 ( bả	3
+15 5	3
+tối_đa 15	3
+05 5	3
+tối_đa 5	3
+hai trở	3
+ít_nhất 1	3
+phẩy nă làm_việc	3
+mẫu_số 1	2
+thời_gian 03 ( b làm_việc hồ_sơ	2
+mẫu_số 7	2
+( thành_phố )	2
+ha làm_việc	2
+( gọi ubnd huyệ	2
+thủ_tướng chính_phủ	2
+01 7	2
+chủ_tịch hội_đồng_bộ_trưởng	2
+gọi tỉn	2
+tối_đa 20	2
+5 trở	2
+15 3	2
+tắt nghị_định	2
+kể_cả thời_gian	2
+viết gọn	2
+làm_việc kết_quả	1
+làm_việc nước_ngoài	1
+( ha làm_việc	1
+thành_phố tỉnh (	1
+5 làm_việc hồ_sơ	1
+thị_trấn ( gọi xã	1
+30 10	1
+mẫu_số 3	1
+( bả	1
+phẩy nă	1
+thời_gian 01 (	1
+lệ_phí trước_bạ	1
+làm_việc hồ_sơ	1
+nước_ngoài làm_việc	1
+30 5	1
+gọi tắt huyệ	1
+làm_việc thời_hạn	1
+ha trở	1
+( thủ_tướng chính_phủ )	1
+ít_nhất 3	1
+phẩy nă làm_việc hồ_sơ	1
+phẩy nă làm_việc giấy_tờ chứng_minh	1
+( mẫu_số 7	1
+bả làm_việc	1
+làm_việc cơ_sở	1
+10 10	1
+01 02	1
+20 7	1
+07 7	1
+giấy_tờ chứng_minh	1
+trụ_sở cơ_quan	1

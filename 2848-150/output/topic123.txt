@@ -1,0 +1,185 @@
+thủ_tục hành_chính	253
+địa_giới hành_chính	145
+giải_quyết tranh_chấp	135
+cải_cách hành_chính	124
+quyết_định cưỡng_chế	124
+kiểm_soát thủ_tục hành_chính	121
+giải_quyết thủ_tục hành_chính	94
+thực_hiện cưỡng_chế	83
+chấp_hành quyết_định	83
+giải_quyết công_việc	78
+thực_hiện thủ_tục hành_chính	74
+thời_gian giải_quyết	71
+ban thực_hiện cưỡng_chế	58
+giải_quyết tranh_chấp đất_đai	55
+ban cưỡng_chế	54
+giải_quyết thủ_tục	54
+kết_quả giải_quyết	50
+thời_gian thực_hiện	47
+cơ_quan thực_hiện thủ_tục hành_chính	42
+thực_hiện thủ_tục	40
+cải_cách thủ_tục hành_chính	39
+: tổng thời_gian thực_hiện thủ_tục	36
+thời_gian thực_hiện thủ_tục	35
+tổng thời_gian thực_hiện công_việc	34
+quyết_định giải_quyết tranh_chấp đất_đai	34
+cơ_quan trách_nhiệm thực_hiện công_việc :	34
+trung_tâm hành_chính công tỉnh	33
+giải_quyết hồ_sơ	33
+cửa liên_thông	32
+trường_hợp thực_hiện thủ_tục	30
+cơ_chế cửa	28
+cơ_chế cửa liên_thông	28
+ban_hành quyết_định cưỡng_chế	27
+xác_định chỉ_số cải_cách hành_chính	26
+thủ_tục hành_chính thẩm_quyền giải_quyết	25
+thẩm_quyền giải_quyết	24
+kế_hoạch cưỡng_chế	23
+quyết_định thành_lập	22
+tiến_hành cưỡng_chế	22
+cưỡng_chế thực_hiện quyết_định giải_quyết tranh_chấp đất_đai	22
+kết_quả thực_hiện	22
+đường địa_giới hành_chính	21
+chỉ_số cải_cách hành_chính	20
+giải_quyết thủ_tục hành_chính đất_đai	20
+niêm_yết công_khai	20
+thực_hiện cơ_chế cửa	20
+công_khai xin_lỗi	19
+thủ_tục giải_quyết	19
+chấp_hành xong	19
+công_bố thủ_tục hành_chính	19
+xác_minh thực_địa	18
+thực_hiện quyết_định	18
+thực_hiện công_việc :	18
+thực_hiện thủ_tục đăng_ký	17
+thực_hiện công_việc : kiểm_tra hồ_sơ	17
+bảo_đảm đơn_giản thủ_tục hành_chính	17
+tranh_chấp đất_đai	17
+chấp_hành quyết_định trung_tâm	17
+phối_hợp thực_hiện thủ_tục	17
+cửa liên_thông giải_quyết thủ_tục hành_chính	17
+kết_quả giải_quyết thủ_tục hành_chính	17
+miễn chấp_hành thời_gian	17
+trung_tâm hành_chính	16
+áp_dụng biện_pháp cưỡng_chế	16
+quyết_định buộc tái_xuất	16
+trung_tâm giải_quyết thủ_tục hành_chính tỉnh trách_nhiệm	16
+quyết_định giải_quyết tranh_chấp	16
+cải_cách hành_chính nhà_nước	15
+đẩy_mạnh cải_cách hành_chính	15
+thời_hạn giải_quyết	15
+hẹn kết_quả	14
+thực_hiện công_việc	13
+quyết_định :	13
+thực_hiện quyết_định cưỡng_chế	13
+tổng thời_gian thực_hiện thủ_tục	12
+thông_báo cưỡng_chế	12
+công_tác cải_cách hành_chính	12
+thực_hiện quyết_định giải_quyết tranh_chấp đất_đai	11
+tự_nguyện chấp_hành	11
+giải_quyết xong	11
+tiến_hành thủ_tục	10
+hồ_sơ địa_giới hành_chính	10
+trung_tâm giải_quyết thủ_tục hành_chính	9
+chi_phí cưỡng_chế	9
+thực_hiện xong	8
+quy_chế thực_hiện cơ_chế cửa	8
+biện_pháp cưỡng_chế	8
+đường địa_giới	8
+phối_hợp thực_hiện	8
+thủ_tục hành_chính đất_đai	7
+thẩm_quyền ban_hành	7
+kết_quả xác_minh	7
+quyết_định giải_quyết	7
+thực_hiện cơ_chế	7
+hành_chính công	7
+phiếu kiểm_soát	6
+cưỡng_chế thực_hiện quyết_định	6
+quyết_định công_bố	6
+cưỡng_chế thực_hiện	6
+công_bố công_khai	6
+miễn chấp_hành	6
+biện_pháp giải_quyết	5
+kết_quả giải_quyết thủ_tục	5
+trung_tâm giải_quyết thủ_tục hành_chính tỉnh trách_nhiệm hồ_sơ	5
+quyết_định buộc	5
+trung_tâm hành_chính công	5
+phối_hợp giải_quyết	5
+thủ_tục đăng_ký	5
+nhiệm_vụ kiểm_soát thủ_tục hành_chính	5
+thẩm_quyền quyết_định	5
+thực_hiện công_tác	5
+trách_nhiệm thực_hiện công_việc	4
+trách_nhiệm thực_hiện	4
+hồ_sơ kết_quả	4
+thực_hiện trình_tự	3
+cơ_quan hành_chính nhà_nước	3
+thời_gian thực_hiện công_việc	3
+hành_chính công tỉnh	3
+thủ_tục hành_chính thẩm_quyền	3
+cơ_quan thực_hiện thủ_tục	3
+thời_gian nghỉ	3
+quyết_định miễn	3
+xong thủ_tục	3
+xác_định tình_trạng	2
+cơ_quan thẩm_quyền	2
+kiểm_tra chấp_hành	2
+trung_tâm giải_quyết thủ_tục hành_chính tỉnh	2
+tiến_hành xác_minh	2
+thực_hiện biện_pháp	2
+hồ_sơ thủ_tục	2
+đẩy_mạnh cải_cách	2
+quy_chế phối_hợp thực_hiện	2
+đất_đai thực_hiện	2
+trường_hợp từ_chối	2
+xác_định thông_báo	2
+ban chấp_hành	2
+tổng thời_gian thực_hiện	2
+chấp_hành biện_pháp	2
+biện_pháp kiểm_soát	2
+phối_hợp công_tác	2
+hành_chính thẩm_quyền	2
+hành_chính nhà_nước	2
+quyết_định 09/2015	2
+cơ_quan nhà_nước	1
+kiểm_tra thực_hiện quyết_định	1
+quyết_định áp_dụng biện_pháp	1
+thực_hiện quyết_định giải_quyết tranh_chấp	1
+ban_hành quyết_định	1
+tiến_hành kiểm_tra hồ_sơ	1
+xác_định nhiệm_vụ	1
+hồ_sơ địa_giới	1
+cơ_quan hành_chính nhà_nước tỉnh	1
+hồ_sơ trung_tâm hành_chính công	1
+phối_hợp ban	1
+thực_hiện thỏa_thuận	1
+kiểm_soát thủ_tục	1
+trách_nhiệm thực_hiện công_việc :	1
+trách_nhiệm phối_hợp	1
+thủ_tục hồ_sơ	1
+cơ_quan nhà_nước thẩm_quyền	1
+tổng thời_gian	1
+công_tác cải_cách	1
+thành_lập trung_tâm	1
+ban_hành quy_chế phối_hợp	1
+công_bố kết_quả	1
+tiến_hành công_việc	1
+kết_quả thực_hiện nhiệm_vụ	1
+cơ_quan tiến_hành	1
+thực_hiện đồng_bộ	1
+đăng_ký đất_đai	1
+ban_hành cơ_chế	1
+cơ_quan hành_chính	1
+giải_quyết hồ_sơ đăng_ký	1
+thủ_tục hành_chính sai_sót	1
+bảo_đảm thực_hiện	1
+công_bố thủ_tục	1
+thành_lập ban	1
+liên_quan kiểm_soát thủ_tục hành_chính	1
+quy_chế phối_hợp	1
+nhiệm_vụ kiểm_soát	1
+cửa liên_thông giải_quyết	1
+trình_tự thủ_tục	1
+thông_báo kết_quả	1
+thực_hiện kế_hoạch	1
+cưỡng_chế thực_hiện quyết_định giải_quyết	1

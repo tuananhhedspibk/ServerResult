@@ -1,0 +1,66 @@
+bệnh_viện đa_khoa	102
+nằm điều_trị	59
+phụ_cấp thường_trực	57
+điều_trị nội_trú	52
+định suất	51
+tuyến huyện	47
+thu viện_phí	44
+phòng_khám đa_khoa	38
+điều_trị bệnh_viện	35
+phòng_khám bệnh_viện	34
+chống dịch	34
+dịch truyền	33
+chuyên_khoa i	31
+bệnh_viện chuyên_khoa	31
+tuyến tỉnh	30
+bệnh_viện tuyến	27
+nữ hộ_sinh	27
+điều_trị ngoại_trú	27
+cận lâm_sàng	27
+bệnh_viện huyện	26
+định suất /	24
+phục_vụ người_bệnh	23
+viện điều_dưỡng	22
+chẩn_đoán điều_trị	21
+bình_quân giường_bệnh /	21
+chuyên_khoa ii	21
+bệnh_viện hạng	20
+hồi_sức cấp_cứu	19
+bệnh_viện tuyến tỉnh	19
+viện kết_thúc đợt điều_trị ngoại_trú	17
+giường điều_trị	16
+bệnh_nhân phong	16
+điều_trị bệnh_nhân	16
+đối_với người_bệnh	15
+thời_gian điều_trị	15
+điều_trị ổn_định	15
+hạng ii	14
+/ phiên_trực	14
+người_bệnh điều_trị	13
+hạng i	13
+phụ_cấp phẫu_thuật	12
+đợt điều_trị	12
+nội_trú bệnh_viện	11
+điều_trị người_bệnh	11
+bình_quân giường_bệnh	10
+cấp_cứu điều_trị	10
+giới_thiệu bệnh_viện	8
+nhiệm_vụ thường_trực	7
+hạng iii	6
+định_mức bình_quân	6
+định biên	6
+điều_trị cắt_cơn	6
+suất /	6
+đối_với tuyến	5
+xét_nghiệm chẩn_đoán	4
+viện nghiên_cứu	4
+đa_khoa khu_vực	3
+phụ_cấp khu_vực	3
+vi rút	2
+tuyến chuyên_môn	2
+chi bình_quân giường_bệnh	2
+khu_vực iii	2
+giường_bệnh /	2
+khu_vực ii	2
+đợt điều_trị ngoại_trú	1
+viện kết_thúc đợt điều_trị	1

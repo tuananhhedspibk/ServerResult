@@ -1,0 +1,177 @@
+tổng dự_toán	71
+khối_lượng công_việc	69
+tổng_cục địa_chất	64
+thăm_dò địa_chất	59
+phương_án địa_chất	57
+đơn_vị thi_công	54
+dự_toán phương_án	52
+khối_lượng hoàn_thành	47
+lập phương_án	43
+hoàn_thành bàn_giao	38
+biên_bản nghiệm_thu	38
+dự_toán duyệt	36
+đơn_vị địa_chất	35
+tổng điều_tra	32
+thanh_toán khối_lượng	29
+lập dự_toán	29
+thanh_toán trực_tiếp	29
+tổng giá_trị	28
+phương_án hoàn_thành	28
+chứng_từ thanh_toán	28
+đơn_vị nhận_thầu	27
+khối_lượng công_tác	27
+nhiệm_vụ địa_chất	26
+chỉ_định thầu	26
+bổ_sung tài_khoản tạm_ứng	24
+- chi_phí	23
+bảng kê	23
+hội_đồng nghiệm_thu	23
+tạm thanh_toán	23
+cấp_vốn thanh_toán	21
+khối_lượng công_việc thực_hiện	21
+tìm_kiếm thăm_dò	20
+khối_lượng xây_lắp	19
+thẩm_quyền duyệt	19
+chi_phí nhân_công	19
+bảng kê thanh_toán	18
+tổng dự_toán duyệt	18
+dự_toán chi_phí	18
+công_trình hoàn_thành	16
+tài_khoản tạm_ứng	16
+hoàn_thành tiến_độ	16
+giá_trị dự_toán	15
+bảng kê chi_tiết	15
+xdcb hoàn_thành	15
+máy thi_công	15
+điều_chỉnh dự_toán	15
+dự toá	14
+thanh_toán tạm_ứng	14
+thể_thức thanh_toán	13
+phương_thức thanh_toán	13
+tiến_độ thi_công	13
+xác_nhận khối_lượng	12
+giá_trị khối_lượng	12
+phương_án điều_tra	12
+chi_phí trực_tiếp	12
+chứng_từ hợp_pháp	12
+tổng_cục mỏ địa_chất	12
+% giá_trị dự_toán	12
+thanh_toán hình_thức	11
+thanh_toán khối_lượng hoàn_thành	10
+thanh_toán chi_phí	10
+điều_tra địa_chất	10
+phê_duyệt dự_toán	9
+khối_lượng xdcb hoàn_thành	9
+phê duyệ	9
+công_tác điều_tra	9
+đơn_vị tư_vấn	9
+thi_công xây_lắp	9
+hoàn_thành kế_hoạch	9
+lập bảng kê	9
+tổng dự_toán công_trình	9
+mỏ địa_chất	9
+tạm_ứng thanh_toán	8
+phê_duyệt phương_án	8
+hạng_mục công_trình	8
+thanh_toán xong	8
+hoàn_thành nghiệm_thu	8
+nghiệm_thu bàn_giao	8
+toàn_bộ chi_phí	7
+xác_định khối_lượng	7
+công_tác nghiệm_thu	6
+- tổng_cục	6
+đình_chỉ thi_công	6
+điều_tra thăm_dò địa_chất	6
+thẩm_quyền phê_duyệt	6
+căn_cứ kế_hoạch	6
+nghiệm_thu khối_lượng	6
+- biên_bản	6
+giá_trị công_trình	6
+xác_nhận hoàn_thành	6
+căn_cứ khối_lượng công_việc	5
+thanh_toán toàn_bộ	5
+dự_toán công_trình	5
+kế_hoạch duyệt	5
+kê chi_tiết	5
+toàn_bộ công_trình	5
+điều_tra thăm_dò	5
+% giá_trị	5
+căn_cứ khối_lượng	5
+lập kế_hoạch	5
+quyết_định phê_duyệt phương_án	5
+thẩm_quyền phê_duyệt dự_toán	5
+công_tác khảo_sát	5
+chi_phí khảo_sát	5
+tiến_độ thực_hiện	4
+chứng_từ liên_quan	4
+đơn_vị cung_cấp	4
+địa_chất hoàn_thành	4
+lập chứng_từ	4
+thời_gian hoàn_thành	4
+đơn_vị dự_toán	4
+tiến_hành công_việc	4
+hoàn_thành công_trình	4
+duyệt thông_báo	4
+hoàn_thành nhiệm_vụ	4
+khối_lượng xdcb	4
+nghiệm_thu công_trình	4
+thông_báo duyệt	3
+lập bảng	3
+chi_phí phục_vụ	3
+tiến_hành thủ_tục	3
+quyết_định thay_đổi	3
+bàn_giao toàn_bộ	3
+công_trình phục_vụ	3
+hình_thức thanh_toán	3
+% chi_phí	3
+chi_phí chuẩn_bị	3
+thuyết_minh chi_tiết	3
+quyết_định đình_chỉ	3
+xác_định đơn_giá	2
+tổng_cục_trưởng tổng_cục	2
+biên_bản bàn_giao	2
+chứng_từ chi_tiêu	2
+% tổng	2
+điều_chỉnh kế_hoạch	2
+chi_phí liên_quan	2
+lập biên_bản	2
+thẩm_quyền phê_duyệt phương_án	2
+chứng_từ bảo_lãnh	2
+kết_thúc điều_tra	2
+điạ phương	2
+phê_duyệt kế_hoạch	2
+thực_hiện phương_thức	2
+cung_cấp tài_liệu	2
+bàn_giao công_trình	2
+hoàn_thành hoàn_thành	2
+đơn_vị liên_quan	2
+thực_hiện công_việc	2
+công_tác chuẩn_bị	1
+tổng thời_gian	1
+tài_liệu phục_vụ	1
+- kỳ	1
+công_tác thanh_toán	1
+tài_liệu lưu_trữ	1
+thực_hiện quy_trình	1
+tiến_hành lập	1
+hoàn_thành thủ_tục	1
+thanh_toán tài_khoản	1
+liên_quan trực_tiếp	1
+công_việc liên_quan	1
+thông_báo đơn_giá	1
+tạm đình_chỉ	1
+kê thanh_toán	1
+quyết_định 999	1
+quyết_định tạm	1
+nghiệm_thu nhiệm_vụ	1
+tài_liệu liên_quan	1
+chứng_từ chi_tiêu hợp_pháp	1
+quyết_định phê_duyệt	1
+lập biên_bản xác_nhận	1
+thi_công dự_toán	1
+thực_hiện công_tác	1
+tài_khoản tạm	1
+dịch_vụ tư_vấn	1
+chi_phí dịch_vụ	1
+căn_cứ quyết_định	1
+thực_hiện kế_hoạch	1

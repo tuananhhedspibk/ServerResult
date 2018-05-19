@@ -1,0 +1,264 @@
+chế_độ chi_hội_nghị	192
+chế_độ công_tác_phí	116
+quy_định_chế_độ công_tác_phí	110
+phụ_cấp lưu_trú	98
+tổ_chức hội_nghị	94
+vé máy_bay	79
+thanh_toán khoán	69
+chi công_tác_phí	67
+thanh_toán tiền	50
+chế_độ chi_tiêu	49
+tài_chính quy_định_chế_độ công_tác_phí	49
+hội_nghị tổng_kết	48
+chế_độ chi tổ_chức hội_nghị	47
+chi tổ_chức hội_nghị	44
+khoán :	43
+hội_nghị sơ_kết tổng_kết chuyên_đề	38
+: thanh_toán giá thuê phòng ngủ	38
+thanh_toán hình_thức khoán	38
+thuê địa_điểm	37
+tiền thuê phòng nghỉ	36
+thuê phòng	34
+giấy mời	34
+thanh_toán hóa_đơn thực_tế	32
+chi tiền	32
+tổ_chức chính_trị	30
+quy_định chi công_tác_phí	30
+hội_nghị chuyên_môn	30
+phương_tiện đi_lại	29
+chi_phí đi_lại	28
+đại_biểu tham_dự	28
+thanh_toán tiền thuê phòng nghỉ	27
+thanh_toán giá thuê phòng thực_tế	26
+thực_tế phát_sinh	26
+tiền công_tác_phí	26
+tiền thuê chỗ	25
+tổ_chức họp	25
+dự hội_nghị	24
+chứng_từ thanh_toán	24
+đại_biểu mời	24
+đại_biểu mời danh_sách lương cơ_quan nhà_nước	23
+khoán tiền công_tác_phí	22
+thuê phòng nghỉ	22
+chi thuê chuyên_gia	22
+thanh_toán tiền thuê phòng nghỉ công_tác	22
+chi bù chênh_lệch	21
+thanh_toán khoán tiền tự_túc phương_tiện	20
+phiên họp	20
+chi_tiêu hội_nghị	20
+đại_hội đại_biểu	20
+khoán tiền	20
+thanh_toán công_tác_phí	20
+chi thực_tế tổ_chức tập_trung	19
+giá xăng thời_điểm	19
+thuê chuyên_gia	19
+thuê hội_trường	19
+chi hỗ_trợ tiền đại_biểu mời danh_sách lương cơ_quan nhà_nước	19
+giấy biên_nhận chủ phương_tiện	19
+hoá_đơn thực_tế	19
+tiền_phương_tiện đi_lại	19
+chế_độ thanh_toán công_tác_phí	18
+thanh_toán chế_độ công_tác_phí	18
+hội_nghị tổ_chức quy_định điều_lệ tổ_chức chính_trị	18
+tự_túc phương_tiện	18
+hưởng phụ_cấp lưu_trú	18
+chứng_từ chi_tiêu hợp_pháp	18
+tổ_chức đại_hội	18
+thu tiền tiền phụ_cấp lưu_trú đại_biểu cơ_quan nhà_nước	17
+hóa_đơn thực_tế	17
+chi tối_đa	17
+thanh_toán tiền thuê	16
+chỗ nghỉ	16
+phòng nghỉ	16
+thanh_toán tiền chi_phí đi_lại	16
+chi giải_khát	16
+khoán chi	16
+tiền thuê phòng	16
+tài_chính quy_định_chế_độ	15
+hỗ_trợ tiền	15
+- hội_nghị chuyên_môn	15
+chi chế_độ công_tác_phí	15
+khoán kinh_phí	15
+dự họp	14
+chi hỗ_trợ	14
+chế_độ quy_định	14
+thanh_toán tiền_lương	14
+giá thuê phòng thực_tế	14
+chứng_từ hợp_pháp	14
+: thanh_toán giá thuê phòng ngủ tối_đa	14
+chi hỗ_trợ tiền	14
+một_số chế_độ chi_tiêu	14
+kinh_phí tổ_chức hội_nghị	13
+đại_hội đảng	13
+thực_hiện khoán	13
+chế_độ chi_tiêu hội_nghị	13
+tiền thuê	13
+thuê phương_tiện	13
+tiêu_chuẩn thuê phòng	12
+phòng tiêu_chuẩn	12
+phục_vụ hội_nghị	11
+: chi tối_đa	11
+tối_đa 1	11
+thực_hiện chế_độ	11
+trách_nhiệm thanh_toán	11
+hợp_đồng thuê	11
+chi thù_lao	11
+xăng xe	10
+: tối_đa	10
+đại_biểu dự	10
+khoán tiền tự_túc phương_tiện	10
+kinh_phí hợp_pháp	10
+hội_nghị sơ_kết	9
+tiền thuê phòng nghỉ công_tác	9
+tiền thuê phương_tiện	9
+kết_thúc đợt	9
+trường_hợp thuê	9
+thí_điểm khoán	9
+phụ_cấp lưu_trú :	9
+thuê xe	9
+thanh_toán khoán kinh_phí sử_dụng	8
+hưởng chế_độ	8
+bộ_trưởng tài_chính quy_định_chế_độ công_tác_phí	8
+tiền thù_lao	8
+khoán kinh_phí sử_dụng	8
+tham_dự họp	8
+lớp tập_huấn	8
+thuê chỗ	7
+chi_trả thù_lao	7
+thực_hiện chế_độ tự_chủ	7
+chủ_trì họp :	7
+thuê phòng nghỉ công_tác	6
+chỗ làm_việc	6
+chi_hội_nghị đối_với cơ_quan	6
+thanh_toán giá	6
+giấy biên_nhận	6
+: thanh_toán giá	6
+cá_nhân thành_phần	6
+thu tiền tiền phụ_cấp lưu_trú đại_biểu	6
+tổng_kết chuyên_đề	5
+hội_nghị tập_huấn	5
+chứng_từ chi_tiêu	5
+thanh_toán giá thuê phòng ngủ	5
+kinh_phí thực_hiện chế_độ	5
+phương_thức khoán	5
+tham_dự hội_nghị	5
+tự_chủ tài_chính	5
+hình_thức khoán	5
+chủ_trì họp	4
+chi thực_tế	4
+hình_thức thanh_toán	4
+thanh_toán chi_phí	4
+công_tác_phí cán_bộ	4
+tiền tàu xe	4
+giá thuê	4
+chế_độ phụ_cấp	4
+mời tham_dự	4
+danh_sách lương cơ_quan	4
+chi hỗ_trợ tiền đại_biểu mời	4
+thực_tế tối_đa	4
+thanh_toán hợp_đồng	4
+tổng_kết công_tác	4
+tổ_chức thực_hiện	4
+quy_định_chế_độ chi_tiêu	4
+giá vé	4
+chế_độ thù_lao	4
+tối_đa 150	4
+công_tác_phí quy_định	4
+chế_độ chi_tiêu tài_chính	3
+tổ_chức cá_nhân	3
+tiền chi_phí đi_lại	3
+chi_tiêu tài_chính	3
+danh_sách lương cơ_quan nhà_nước	3
+phụ_cấp trách_nhiệm	3
+cá_nhân thanh_toán khoán	3
+đơn_giá thuê	3
+thanh_toán hình_thức	3
+chi công_tác	3
+thanh_toán giá thuê phòng ngủ 1	3
+hưởng thù_lao	3
+thu tiền tiền phụ_cấp lưu_trú đại_biểu cơ_quan	3
+chi tổ_chức hội_nghị đối_với cơ_quan nhà_nước	3
+tiền phụ_cấp	3
+tổ_chức lớp	3
+thực_hiện chế_độ chi_tiêu	3
+mời danh_sách lương cơ_quan nhà_nước	3
+chế_độ chi_hội_nghị địa_bàn tỉnh	2
+phương_tiện làm_việc	2
+tối_đa 200	2
+bố_trí kinh_phí	2
+kinh_phí chi_trả chế_độ	2
+kinh_phí chi	2
+phòng ngủ	2
+khoán thanh_toán	2
+chi_trả tiền	2
+tập_huấn chuyên_môn	2
+nghỉ đại_biểu	2
+tổ_chức lớp tập_huấn	2
+làm_việc chế_độ	2
+tỉnh quy_định_chế_độ công_tác_phí	2
+chế_độ chi_hội_nghị đối_với cơ_quan	2
+nghỉ tiêu_chuẩn	2
+thực_hiện chế_độ phụ_cấp	2
+chi hỗ_trợ tiền đại_biểu mời danh_sách lương cơ_quan	2
+chi thực_tế tổ_chức tập_trung thu tiền	2
+: 150	2
+sử_dụng kinh_phí	2
+: thực_hiện quy_định	2
+quy_định_chế_độ thu	2
+chi_trả lương	2
+thu hợp_pháp	2
+bù chênh_lệch	2
+thanh_toán giá thuê phòng	2
+chế_độ thu	2
+thu tiền	2
+tiền tàu	2
+nhà_nước hỗ_trợ	2
+chi_tiêu hợp_pháp	1
+tiền sử_dụng	1
+chế_độ khám	1
+làm_việc cơ_quan	1
+giá thuê phòng	1
+hỗ_trợ tối_đa	1
+đối_với cơ_quan	1
+tiền vé	1
+nghỉ bù	1
+tiền ăn_theo	1
+kinh_phí chi_trả	1
+chủ_trì tổ_chức hội_nghị	1
+chi_hội_nghị địa_bàn tỉnh	1
+cơ_quan chủ_trì tổ_chức	1
+thực_hiện quy_định	1
+chế_độ hợp_đồng	1
+quy_định_chế_độ phụ_cấp	1
+tổ_chức tập_huấn	1
+tỉnh quy_định_mức	1
+chi hỗ_trợ cán_bộ	1
+thanh_toán giá thuê phòng ngủ tối_đa	1
+phương_tiện phục_vụ	1
+hỗ_trợ tiền đại_biểu	1
+hỗ_trợ tiền đại_biểu mời danh_sách lương cơ_quan nhà_nước	1
+- chi_phí	1
+chế_độ chi tổ_chức hội_nghị đối_với cơ_quan nhà_nước	1
+kinh_phí thực_hiện	1
+: 200	1
+một_số chế_độ	1
+vận_dụng chế_độ	1
+thanh_toán hóa_đơn	1
+chi_trả chế_độ	1
+chi sơ_kết	1
+tàu xe	1
+bộ_trưởng tài_chính quy_định_chế_độ	1
+- chi	1
+kinh_phí chi_tiêu	1
+chênh_lệch giá	1
+chế_độ nghỉ	1
+vé tàu	1
+tiêu_chuẩn quy_định	1
+phòng giao_dịch	1
+biển đảo	1
+phục_vụ công_tác	1
+tổ_chức hội_nghị đối_với cơ_quan nhà_nước	1
+hội_nghị cán_bộ	1
+cơ_quan đảng	1
+tiền thanh_toán	1
+thù_lao giảng_viên	1

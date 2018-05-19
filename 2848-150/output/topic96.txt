@@ -1,0 +1,189 @@
+ban chỉ_đạo	226
+trưởng ban	213
+thanh_tra viên	210
+chấp_hành viên	194
+thanh_tra chuyên_ngành	139
+ban tổ_chức	131
+dự thi	130
+đề thi	124
+ban thanh_tra nhân_dân	84
+kỳ thi	74
+thanh_tra tỉnh	72
+phó trưởng ban	62
+công_tác thanh_tra	60
+ban chấp_hành công_đoàn	55
+tổ_chức thanh_tra	54
+chấm thi	51
+chánh thanh_tra	50
+hoạt_động ban chỉ_đạo	43
+đoàn thanh_tra	41
+tổ_chức hoạt_động	41
+chánh thanh_tra tỉnh	40
+ban thanh_tra nhân_dân xã	39
+tổ_chức kỳ thi	39
+đội thanh_tra	38
+đại_hội cnvc	38
+tiến_hành thanh_tra	37
+thi tốt_nghiệp	36
+thành_viên ban chỉ_đạo	35
+ban tổ_chức chính_quyền tỉnh	33
+đăng_ký dự thi	31
+tổ_chức công_đoàn	30
+ban qdy tỉnh	30
+thành_viên ban kiểm_soát	30
+tổ_chức thi	29
+thành_viên ban	28
+ban qdy	28
+thẩm_tra viên	27
+hoạt_động ban	27
+ban chấp_hành hội cựu_chiến_binh	26
+coi thi	25
+quy_định_mức kinh_phí hỗ_trợ hoạt_động ban thanh_tra nhân_dân xã	25
+ban chỉ_đạo 389	25
+thành_lập ban chỉ_đạo	25
+hoạt_động thanh_tra	24
+ban kiểm_soát quỹ	23
+ban qdy cấp_bộ	23
+kinh_phí hoạt_động ban chỉ_đạo	23
+thanh_tra hành_chính	22
+ban kiểm_soát	22
+ban chấp_hành	22
+uỷ_ban quốc_gia asem 5	22
+thí_sinh tham_dự	21
+cộng_tác_viên thanh_tra	21
+thanh_tra nhân_dân	20
+ban chỉ_đạo trung_ương	20
+phí dự thi	20
+công_đoàn cơ_sở	20
+kỳ thi olympic	19
+ban chấp_hành công_đoàn cơ_sở	19
+ban qdy quân_khu	19
+sử_dụng quyết_toán kinh_phí bảo_đảm hoạt_động ban thanh_tra nhân_dân	19
+hội_nghị asem 5	19
+thường_trực_ban chỉ_đạo	18
+hội_đồng đề thi	18
+trưởng ban tổ_chức	18
+kinh_phí công_đoàn	18
+tổ_chức hoạt_động thanh_tra	18
+kinh_phí hỗ_trợ hoạt_động ban thanh_tra nhân_dân xã	18
+thi hàn	18
+đảm_bảo hoạt_động ban chỉ_đạo	17
+ban điều_hành	17
+thi :	17
+ban chỉ_đạo liên_ngành	17
+thi học_sinh giỏi	16
+kiểm_soát viên	16
+ban tổ_chức chính_quyền	16
+chỉ_đạo công_tác thanh_tra	16
+phó_chánh thanh_tra	16
+kết_luận thanh_tra	15
+hoạt_động ban thanh_tra nhân_dân	15
+ban thanh_tra giao_thông	14
+trưởng ban chỉ_đạo	14
+kỳ thi học_sinh giỏi	14
+thành_lập ban	14
+asem 5	13
+trưởng ban kiểm_soát	12
+đề_nghị trưởng ban	12
+hội_đồng thi	12
+kinh_phí hoạt_động	12
+trưởng ban tổ_chức chính_quyền	12
+tổ_chức hội_nghị asem 5	11
+chính_quyền xã	11
+gửi ban chỉ_đạo	11
+đề xuất_trình	11
+ban giám_khảo	11
+ban chỉ_đạo tổng	10
+ban thanh_tra	10
+tổ_chức hội_nghị	10
+ban chấp_hành hội	10
+hoạt_động ban thanh_tra nhân_dân xã	9
+dự hội_nghị	9
+kinh_phí hoạt_động ban thanh_tra nhân_dân	8
+học_sinh giỏi quốc_gia	8
+chi hoạt_động ban chỉ_đạo	8
+học_sinh giỏi	8
+đối_với thanh_tra viên	7
+thanh_tra giao_thông	7
+gửi ban	6
+thanh_tra viên thanh_tra	6
+kiểm_soát quỹ	6
+thành_lập đoàn	6
+tổ_chức đại_hội	6
+đề_nghị trưởng	5
+tổng thanh_tra	5
+thanh_tra chấp_hành	5
+tham_dự kỳ thi	5
+luật thanh_tra	5
+thi olympic	5
+tổ_chức hội	4
+bảo_đảm hoạt_động ban thanh_tra nhân_dân	4
+kinh_phí tổ_chức hội_nghị	4
+dự thi_tuyển	4
+thành_viên tham_dự	4
+389 tỉnh	4
+quy_định_mức kinh_phí hỗ_trợ hoạt_động ban thanh_tra	4
+sử_dụng quyết_toán kinh_phí bảo_đảm hoạt_động	3
+thi học_sinh	3
+ban điều_phối	3
+trưởng ban ban	3
+giỏi quốc_gia	3
+thành_viên hội_đồng	3
+kinh_phí hoạt_động ban	3
+thanh_tra chuyên_ngành giao_thông	3
+kinh_phí bảo_đảm hoạt_động ban thanh_tra nhân_dân	3
+ban chấp_hành trung_ương	2
+ngạch thanh_tra	2
+uỷ_ban quốc_gia	2
+ban thanh_tra nhân_dân xã địa_bàn tỉnh	2
+chấp_hành quyết_toán	2
+tham_dự kỳ	2
+ngạch thanh_tra viên	2
+đội phó	2
+hoạt_động hội_đồng	2
+qdy tỉnh	2
+trung_ương đoàn	2
+kinh_phí đảm_bảo	2
+điều_hành hoạt_động	2
+chỉ_đạo 389 tỉnh	2
+bảo_đảm kinh_phí	2
+kinh_phí hỗ_trợ hoạt_động ban thanh_tra nhân_dân	2
+qdy quân_khu	2
+quy_định_mức kinh_phí hỗ_trợ hoạt_động ban thanh_tra nhân_dân	2
+công_tác chỉ_đạo	2
+kinh_phí bảo_đảm	1
+kỳ thi olympic quốc_tế	1
+sử_dụng quỹ	1
+tổ_chức hội_nghị asem	1
+kinh_phí bảo_đảm hoạt_động	1
+kỳ thi học_sinh	1
+hội_nghị asem	1
+chấp_hành quyết_toán kinh_phí	1
+đảm_bảo kinh_phí	1
+ban tổ_chức trung_ương	1
+quyết_toán kinh_phí	1
+kinh_phí hỗ_trợ hoạt_động ban thanh_tra	1
+bảo_đảm hoạt_động	1
+chi tổ_chức hội_nghị	1
+kinh_phí hỗ_trợ	1
+kinh_phí đảm_bảo hoạt_động	1
+thành_viên đoàn	1
+uỷ_ban nhân_dân tỉnh	1
+tổng công_đoàn	1
+sử_dụng kinh_phí	1
+quyết_toán kinh_phí bảo_đảm hoạt_động	1
+kinh_phí hỗ_trợ hoạt_động ban thanh_tra nhân_dân xã địa_bàn tỉnh	1
+hỗ_trợ hoạt_động ban thanh_tra nhân_dân	1
+nhân_dân tỉnh	1
+quy_định_mức kinh_phí hỗ_trợ hoạt_động	1
+đảm_bảo hoạt_động	1
+chỉ_đạo công_tác	1
+cơ_sở đề_nghị	1
+chuyên_ngành giao_thông	1
+chỉ_đạo liên_ngành	1
+thi tổ_chức kỳ thi	1
+nhân_dân xã	1
+chấp_hành công_đoàn cơ_sở	1
+gửi uỷ_ban	1
+tham_dự hội_nghị	1
+tổ_chức chính_quyền	1

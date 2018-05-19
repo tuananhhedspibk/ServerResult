@@ -1,0 +1,151 @@
+ngân_hàng nhà_nước	668
+kho_bạc nhà_nước	628
+ngân_hàng thương_mại	171
+tài_khoản tiền gửi	127
+kho_bạc nhà_nước tỉnh	94
+kho_bạc nhà_nước giao_dịch	85
+giám_đốc kho_bạc nhà_nước tỉnh	78
+hệ_thống kho_bạc nhà_nước	71
+ngân_hàng nhà_nước trung_ương	68
+cục kho_bạc nhà_nước	66
+gửi tài_chính	63
+chi_nhánh ngân_hàng	62
+tài_khoản đặc_biệt	61
+gửi ngân_hàng	60
+tín_phiếu kho_bạc	54
+tiền gửi	54
+ngân_hàng kiến_thiết	52
+kho_bạc nhà_nước thực_hiện	49
+chi_nhánh ngân_hàng nhà_nước	48
+ngân_hàng nhà_nước cơ_sở	47
+ngân_hàng thương_mại quốc_doanh	47
+tiền gửi ngân_hàng	46
+ngân_hàng trung_ương	44
+ngân_hàng nhà_nước tỉnh	42
+gửi cơ_quan_tài_chính	40
+chi_cục kho_bạc nhà_nước	39
+ngân_sách nhà_nước	37
+tài_khoản tạm	36
+cơ_quan ngân_hàng nhà_nước	33
+đồng gửi	32
+chủ tài_khoản	31
+quản_lý tiền_mặt	31
+đối_chiếu số_liệu	30
+tài_khoản kho_bạc nhà_nước	30
+liên_bộ tài_chính - ngân_hàng nhà_nước	29
+kho_bạc nhà_nước trung_ương	29
+tài_khoản ngân_hàng	27
+kho_bạc nhà_nước huyện	27
+gửi ngân_hàng nhà_nước	26
+số_dư tài_khoản	26
+- ngân_hàng nhà_nước	25
+cơ_quan_tài_chính đồng	25
+cơ_quan_tài_chính ngân_hàng	25
+gửi kho_bạc nhà_nước	24
+chi_nhánh ngân_hàng nước_ngoài	24
+tài_khoản tạm_ứng	23
+tài_khoản tiền gửi thanh_toán	23
+ngân_hàng chuyên_doanh	22
+tài_khoản tiền gửi đơn_vị	21
+ngân_hàng liên_doanh	21
+số_dư tài_khoản tiền gửi	21
+cơ_quan_tài_chính ngân_hàng nhà_nước	20
+ngân_hàng nuớc	20
+ngân_hàng quốc_gia	19
+trích tài_khoản	17
+tài_khoản tạm_ứng tỉnh	17
+tài_chính ngân_hàng nhà_nước	17
+trái_phiếu kho_bạc	16
+xác_nhận kho_bạc nhà_nước	16
+tồn_quỹ ngân_sách	16
+trọng_điểm nhà_nước	16
+tài_khoản giao_dịch	16
+tài_khoản tiền gửi ngân_hàng	15
+tài_khoản tiền gửi đơn_vị dự_toán	15
+giám_đốc kho_bạc nhà_nước	15
+hệ_thống kho_bạc	15
+đơn_vị tài_khoản	15
+thống_đốc ngân_hàng nhà_nước	14
+tài_chính ngân_hàng	14
+đồng gửi cơ_quan_tài_chính	13
+ngân_hàng trích	13
+chi điếm ngân_hàng	13
+gửi cơ_quan	13
+tiền tài_khoản	12
+gửi cơ_quan_tài_chính đồng	12
+gửi cục	12
+đồng_thời gửi	11
+ngân_hàng thế_giới	11
+chi_cục kho_bạc	11
+ngân_sách tỉnh	10
+đồng gửi tài_chính	10
+hệ_thống ngân_hàng	10
+tài_khoản kho_bạc	9
+tài_chính - ngân_hàng nhà_nước	9
+cục kho_bạc	9
+ghi tài_khoản	8
+tài_khoản tạm gửi	8
+cơ_quan nhà_nước	7
+ngân_sách nhà_nước kho_bạc nhà_nước	7
+tiền gửi kho_bạc nhà_nước	7
+thông_qua hệ_thống	7
+tài_khoản hạn_mức	7
+tài_khoản tiền	7
+- tài_chính	6
+lãi_suất tiền gửi	6
+tiền gửi đơn_vị dự_toán	6
+giám_đốc chi_nhánh ngân_hàng	6
+giám_đốc chi_nhánh	6
+hạch_toán tài_khoản	6
+trích tài_khoản tiền gửi	6
+tín_dụng ngân_hàng	6
+liên_bộ tài_chính - ngân_hàng	6
+xác_nhận kho_bạc	6
+ngân_sách trung_ương	5
+cục quản_lý	5
+nguồn_gốc ngân_sách nhà_nước	5
+gửi kho_bạc	5
+tài_khoản chuyên	5
+tạm đình_chỉ	4
+lĩnh tiền	4
+tạm_ứng thanh_toán	4
+liên tỉnh	4
+hệ_thống tài_khoản	4
+giao_dịch ngân_hàng	4
+tài_chính thông_báo	4
+tài_chính ban_hành hệ_thống	4
+tạm gửi	4
+tiền gửi kho_bạc	4
+tạm hoãn	3
+tiền tạm_ứng	3
+thanh_toán tiền	3
+thông_báo cơ_quan	3
+tài_chính -	3
+tiền thanh_toán	3
+đồng_thời thông_báo	3
+thanh_toán tạm_ứng	3
+tài_chính - ngân_hàng	3
+lệnh chi tiền	2
+tạm thanh_toán	2
+tiền gửi đơn_vị	2
+tạm trích	2
+ghi chi	2
+gửi thông_báo	2
+đơn_vị quản_lý	2
+điếm ngân_hàng	1
+đơn_vị dự_toán	1
+nhà_nước kho_bạc nhà_nước	1
+thống_đốc ngân_hàng	1
+tiền gửi thanh_toán	1
+chi điếm	1
+ngân_sách nhà_nước kho_bạc	1
+tiền trích	1
+- chi	1
+trích tài_khoản tiền	1
+lệnh tạm	1
+trung_ương quản_lý	1
+chi tiền	1
+ngân_sách huyện	1
+thông_báo cục	1
+liên_bộ tài_chính	1
+tài_chính ban_hành	1

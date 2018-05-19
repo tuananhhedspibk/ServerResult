@@ -1,0 +1,59 @@
+ty tài_chính	202
+thông_tư liên_bộ	71
+sở tài_chính	64
+ty thủy_lợi	31
+liên_bộ tài_chính –	29
+– tài_chính	25
+– – – – – – – –	25
+thủy_lợi điện_lực	23
+hải phòng	23
+ty y_tế	21
+tài_chính –	18
+gửi tài_chính	14
+phòng tài_chính	14
+kế_hoạch thu_chi tài_vụ	11
+thành_phố hà_nội	11
+khoá_sổ thu_chi	10
+thống_nhất tài_chính	9
+liên_bộ tài_chính	9
+báo_cáo tài_chính	8
+phòng tài_chính huyện	8
+thu_chi tài_vụ	7
+gửi sở	7
+liên_bộ nghiên_cứu	7
+thông_tư liên_bộ 14	7
+thu_chi tài_chính	7
+ghi kế_hoạch	6
+báo_cáo liên_bộ	6
+– – – – – –	6
+thông_tư 32	5
+hoàn_thành nhiệm_vụ	5
+tài_chính – ngân_hàng	5
+kế_hoạch tài_chính	4
+– ngân_hàng	3
+văn_hóa –	3
+cửa_hàng thương_nghiệp	3
+– – – – – – – – –	3
+– – – – –	3
+– – – –	3
+lập kế_hoạch	3
+xét_duyệt kế_hoạch	3
+phản_ánh liên_bộ	3
+tài_chính nghiên_cứu	3
+lập “	2
+tài_chính xét_duyệt	2
+gửi báo_cáo	2
+kế_hoạch thu_chi tài_chính	2
+hoàn_thành kế_hoạch	2
+sở y_tế	2
+phản_ánh tài_chính	2
+gửi kế_hoạch	2
+gửi ngân_hàng	1
+gửi phòng tài_chính	1
+xét_duyệt hoàn_thành	1
+liên_bộ y_tế	1
+lập kế_hoạch tài_chính	1
+tài_chính ngân_hàng	1
+– – – – – – –	1
+lập kế_hoạch thu_chi	1
+ghi lý_do	1

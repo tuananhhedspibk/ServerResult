@@ -1,0 +1,62 @@
+apec 2006	64
+nhân_viên phục_vụ	54
+phép sử_dụng thẻ abtc	38
+thẻ abtc	35
+biên_soạn chương_trình	28
+dịch tài_liệu	25
+trưởng tiểu_ban	25
+ngắn_hạn nước_ngoài	22
+tiểu_ban chuyên_môn	22
+câu trắc_nghiệm	20
+phép sử_dụng thẻ	19
+biên_soạn giáo_trình	18
+nhân_viên y_tế	15
+hội_nghị apec 2006	14
+biên_soạn tài_liệu	14
+tiếng nước_ngoài	14
+in_ấn tài_liệu	13
+quy_chế quản_lý thẻ đi_lại doanh_nhân apec	12
+đi_lại doanh_nhân apec	12
+sử_dụng thẻ abtc	12
+ban thư_ký	10
+tiếp nước_ngoài	9
+phương_tiện đi_lại	9
+phục_vụ hội_nghị	8
+phương_tiện làm_việc	8
+thẻ đi_lại doanh_nhân apec	7
+tài_liệu học_tập	5
+giá_trị sử_dụng	5
+hội_thảo quốc_tế	5
+thư_ký apec	5
+tài_liệu tiếng	4
+thời_hạn sử_dụng	4
+hội_nghị apec	4
+ban điều_phối	3
+sử_dụng phương_tiện	3
+in giấy	3
+doanh_nhân apec	3
+đi_lại doanh_nhân	3
+phương_tiện phục_vụ	3
+thời_gian phục_vụ	3
+phép sử_dụng thẻ đi_lại	3
+tham_gia chương_trình	3
+ban thư_ký apec	3
+đồ_dùng học_tập	2
+trưởng ban	2
+trang_thiết_bị phục_vụ	2
+quản_lý sử_dụng	2
+cán_bộ quản_lý	2
+olympic quốc_tế	2
+thẻ đi_lại	1
+sử_dụng thẻ	1
+cán_bộ nhân_viên	1
+tài_liệu phục_vụ	1
+thời_gian địa_điểm	1
+nước_ngoài làm_việc	1
+mua_sắm trang_thiết_bị	1
+học_tập nước_ngoài	1
+địa_điểm làm_việc	1
+dịch tiếng	1
+thông_lệ quốc_tế	1
+quản_lý chương_trình	1
+nước_ngoài phép	1

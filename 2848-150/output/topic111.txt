@@ -1,0 +1,121 @@
+giá dịch_vụ	143
+sử_dụng dịch_vụ	131
+cung_ứng dịch_vụ	125
+phí dịch_vụ	94
+cung_cấp dịch_vụ	91
+dịch_vụ công_ích	86
+đại_lý internet	81
+giá tối_đa	62
+sử_dụng dịch_vụ internet	54
+dịch_vụ thu_gom	44
+cung_cấp dịch_vụ internet	43
+kinh_doanh dịch_vụ	39
+giá_trị sử_dụng	39
+hoạt_động dịch_vụ	39
+dịch_vụ sử_dụng đường_bộ	39
+nhà_hàng ăn_uống	38
+giá viện_phí	36
+dầu_nhờn động_cơ	34
+dịch_vụ công_ích thủy_lợi	33
+đơn_vị cung_ứng dịch_vụ	29
+dịch_vụ quốc_doanh	29
+kinh_doanh dịch_vụ ăn_uống	28
+dịch_vụ kỹ_thuật	27
+thu phí dịch_vụ	27
+dịch_vụ công_ích quản_lý	27
+giá dịch_vụ sử_dụng	26
+truy_nhập internet	26
+dịch_vụ tư_vấn	26
+doanh_nghiệp cung_cấp dịch_vụ	25
+thu giá dịch_vụ	25
+dịch_vụ bưu_chính	24
+dịch_vụ sử_dụng đò	24
+quản_lý sử_dụng	23
+dịch_vụ sử_dụng cảng	23
+cung_ứng dầu	22
+doanh_nghiệp cung_cấp dịch_vụ internet	22
+đơn_vị cung_cấp dịch_vụ	20
+đơn_vị sử_dụng	20
+thu giá dịch_vụ sử_dụng đường_bộ	20
+giá dịch_vụ kỹ_thuật	20
+vé thu giá dịch_vụ sử_dụng đường_bộ	18
+vận_chuyển rác_thải sinh_hoạt sử_dụng vốn ngân_sách nhà_nước	17
+giá dịch_vụ thu_gom	17
+giá dịch_vụ sử_dụng đường_bộ	17
+dịch_vụ ăn_uống	16
+chất_lượng dịch_vụ	16
+kinh_doanh ăn_uống	15
+dịch_vụ công_cộng	15
+dịch_vụ sử_dụng cầu	13
+thu giá	12
+quy_định giá dịch_vụ	12
+tràn dầu	12
+giá cung_cấp	12
+cung_cấp sử_dụng dịch_vụ	12
+dịch_vụ du_lịch	12
+truy_nhập internet công_cộng	12
+khung_giá dịch_vụ	10
+hoạt_động kinh_doanh	10
+giá cước	9
+thu giá dịch_vụ sử_dụng	9
+quản_lý sử_dụng phí	9
+thu quốc_doanh	8
+sự_cố tràn dầu	8
+niêm_yết công_khai	8
+tối_đa dịch_vụ sử_dụng đường_bộ	8
+quy_định_mức giá	8
+dịch_vụ sử_dụng	7
+sử_dụng đường_bộ	7
+dịch_vụ kỹ_thuật xét_nghiệm	7
+hoạt_động kinh_doanh dịch_vụ	6
+thu viện_phí	6
+đơn_vị quản_lý	6
+quy_định_mức giá dịch_vụ	6
+tối_đa dịch_vụ thu_gom	6
+đơn_vị tư_vấn	6
+cước phí	6
+đơn_vị cung_cấp	6
+cung_cấp kịp_thời	5
+giá niêm_yết	5
+đơn_vị cung_ứng	5
+doanh_nghiệp cung_cấp	5
+cung_ứng sản_phẩm	4
+quản_lý hoạt_động	4
+dịch_vụ internet	4
+phí đường_bộ	4
+cá_nhân kinh_doanh dịch_vụ	4
+giá tối_đa dịch_vụ	4
+quy_định_mức thu	3
+sử_dụng phí	3
+tối_đa khung_giá	3
+phí sử_dụng	3
+quy_định quản_lý hoạt_động	3
+thu phí	3
+giá vé	3
+giá dịch_vụ khám	3
+sản_phẩm dịch_vụ	2
+vé thu giá dịch_vụ	2
+kinh_doanh du_lịch	2
+chỉ_số giá	2
+giá cước vận_chuyển	2
+cước vận_chuyển	1
+tối_đa dịch_vụ	1
+hoạt_động cung_cấp dịch_vụ	1
+thu phí sử_dụng	1
+quản_lý nhà_nước giá	1
+sinh_hoạt sử_dụng vốn ngân_sách nhà_nước	1
+kinh_doanh khách_sạn	1
+công_ích thủy_lợi	1
+niêm_yết giá	1
+vận_chuyển rác_thải sinh_hoạt sử_dụng vốn	1
+sử_dụng đò	1
+vận_chuyển rác_thải sinh_hoạt sử_dụng	1
+hoạt_động bưu_chính	1
+cá_nhân kinh_doanh	1
+quy_định khung_giá	1
+doanh_nghiệp nhà_nước	1
+hoạt_động công_ích	1
+quản_lý nhà_nước	1
+vé thu	1
+tối_đa dịch_vụ sử_dụng	1
+giá sinh_hoạt	1

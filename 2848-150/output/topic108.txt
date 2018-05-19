@@ -1,0 +1,37 @@
+pmu / adb	67
+địa_bàn tỉnh rịa-vũng tàu	52
+ngành đường_sắt	47
+chuyến thăm	41
+rịa-vũng tàu	36
+tổng_cục hàng_không dân_dụng	33
+đoàn tàu	28
+pmu trung_ương	28
+thăm quan	25
+chuyến bay	23
+đoàn đại_biểu nước_ngoài	22
+trưởng tàu	22
+tuyến đường_sắt	22
+đường_sắt liên_vận quốc_tế	22
+hải_quan ga liên_vận	21
+vụ lễ_tân	19
+ga liên_vận	18
+tàu quân_sự	18
+tỉnh rịa-vũng tàu	17
+liên_vận quốc_tế	17
+cảng hàng_không	16
+đón đoàn	16
+hàng_không dân_dụng	11
+ga liên_vận nội_địa	11
+ga liên_vận biên_giới	8
+đoàn đại_biểu	7
+tuyến tỉnh	6
+liên_hiệp đường_sắt	5
+nước_ngoài thăm	5
+đi nước_ngoài	4
+hải_quan ga	4
+tổng_cục_trưởng tổng_cục	2
+chuyến đi	2
+hải_quan tỉnh	2
+đi đoàn	2
+tổng_cục hàng_không	1
+ngành tỉnh	1

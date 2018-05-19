@@ -1,0 +1,382 @@
+- chi	815
+khoản chi	630
+nội_dung chi	498
+chi hỗ_trợ	208
+chi công_tác	208
+định_mức chi	188
+chi hoạt_động	175
+chi thường_xuyên	167
+- chi_phí	157
+chi bồi_dưỡng	140
+nhiệm_vụ chi	134
+kinh_phí hoạt_động	104
+kinh_phí chi	86
+khoản kinh_phí	86
+sửa_chữa thường_xuyên	85
+chi cụ_thể	77
+chi xây_dựng	76
+chi sự_nghiệp	72
+chi mua_sắm	72
+- chi hỗ_trợ	71
+dự_toán chi	69
+- đối_với	66
+mục chi	64
+kinh_phí hoạt_động thường_xuyên	62
+lệnh chi tiền	60
+chi_phí hoạt_động	60
+chi mua	58
+khoản chi_phí	58
+chi thù_lao	57
+định_mức phân_bổ	56
+- khoản chi	53
+định_mức chi_tiêu	53
+nội_dung chi :	51
+nội_dung hoạt_động	51
+kiểm_soát chi	50
+đối_với khoản chi	50
+chi đào_tạo	50
++ chi	49
+dự_toán chi thường_xuyên	47
+mua_sắm trang_thiết_bị	47
+khoản chi thường_xuyên	46
+hỗ_trợ hoạt_động	44
+- chi mua_sắm	44
+đối_với hoạt_động	42
+quy_định nội_dung chi	42
+nội_dung chi chi	39
+chi hoạt_động thường_xuyên	39
+khoán chi	39
+chi khen_thưởng	39
+- chi công_tác	38
+khoản đóng_góp	38
+chi tiền	37
+hỗ_trợ tiền	36
+hỗ_trợ chi_phí	35
+chi sửa_chữa	34
+tập_huấn nghiệp_vụ	34
+định_mức chi_phí	33
+hoạt_động thường_xuyên	33
+hỗ_trợ kinh_phí	33
+chi ngân_sách	33
+kinh_phí chi thường_xuyên	32
+chi_phí đào_tạo	32
+nội_dung phức_tạp	32
+- chi hoạt_động	32
+nội_dung công_việc	31
+chi cụ_thể :	30
+ghi chi	30
+chi tối_đa	30
+chi nội_dung	29
+kinh_phí hỗ_trợ	29
+chi điều_tra	29
+kinh_phí chương_trình	28
+định_mức phân_bổ dự_toán chi thường_xuyên	28
+khoản chi_tiêu	27
+nhu_cầu chi	27
+công_tác quản_lý_tài_chính	26
+nội_dung chi hoạt_động	26
+quản_lý_tài_chính đối_với	25
+chi điếm	25
+hoạt_động sự_nghiệp	25
+kinh_phí sự_nghiệp	25
+đối_với khoản	25
+chi nội_dung :	24
+- chi tiền	24
+định_mức hỗ_trợ	24
+kinh_phí mua_sắm	24
+chi bảo_đảm hoạt_động giám_sát	23
+: chi tối_đa	23
+chi quý	23
+công_tác quản_lý_tài_chính đối_với	23
++ chi_phí	23
+khoản chi liên_quan trực_tiếp	23
+bổ_sung kinh_phí hoạt_động	22
+nội_dung chi_tiêu	22
+chi_phí thường_xuyên	22
+chi sai	22
+chi_phí mua	22
+- chi đào_tạo	22
+- chi khen_thưởng	21
+chi_phí hoạt_động thường_xuyên	21
+chi tương_ứng	21
+tập_huấn chuyên_môn nghiệp_vụ	20
+chi bình_quân	20
+phân_cấp nhiệm_vụ chi	20
+- chi bồi_dưỡng	20
+thanh_toán khoản chi ngân_sách nhà_nước	20
+bổ_sung kinh_phí	20
+chi nhà_trẻ	19
+nội_dung chi nêu	19
+phục_vụ hoạt_động	19
+chi phục_vụ	19
+phân_bổ kinh_phí	19
+in_ấn tài_liệu	19
+chi nêu	18
+- chi văn_phòng_phẩm	18
+chi công_tác_phí	18
+nội_dung hỗ_trợ	18
+chi hỗ_trợ cán_bộ	18
+kinh_phí tiết_kiệm	18
+chi hoạt_động giám_sát	18
+nội_dung chi dự_án	18
+chi công_tác tuyên_truyền	18
+khoản chi tính_chất	18
+định_mức phân_bổ kinh_phí	18
+bồi_dưỡng nghiệp_vụ	18
+- chi mua	18
+hoạt_động chương_trình	17
+khoản mục	17
+nội_dung liên_quan	17
+nội_dung chương_trình	17
+tiết_kiệm chi	17
+một_số khoản chi	17
+chi thực_tế	17
+xã : chi	17
+uỷ_nhiệm chi	17
+hướng_dẫn nội_dung chi	16
+bảo_đảm hoạt_động	16
+kinh_phí thường_xuyên	16
+phục_vụ công_tác	16
+định_mức khoán	16
+nội_dung :	15
+hỗ_trợ kinh_phí hoạt_động	15
+khoản chi liên_quan	15
+chi sửa_chữa thường_xuyên	15
+chi hoạt_động chương_trình	15
+chi văn_phòng_phẩm	15
+định_mức phân_bổ kinh_phí bảo_đảm công_tác xây_dựng văn_bản quy_phạm pháp_luật	15
+- đào_tạo	14
+chi sửa_chữa_lớn	14
+chi bồi_dưỡng thành_viên	14
+chi_tiết mục chi	14
+hoạt_động thường_xuyên :	14
+nhiệm_vụ chi ngân_sách	13
+toàn_bộ kinh_phí	13
+khoản tiền	13
+một_số khoản	13
+định_mức kinh_phí hỗ_trợ	13
+đảm_bảo hoạt_động	13
+đấu_thầu mua_sắm	13
+chi biên_soạn	12
+hỗ_trợ tối_đa	12
+kinh_phí bảo_đảm hoạt_động	12
+hỗ_trợ cụ_thể	12
+kinh_phí hỗ_trợ hoạt_động	12
+trang_trải kinh_phí	12
+hoạt_động nghiệp_vụ	12
+hoạt_động liên_quan	12
+công_tác xây_dựng	12
+bồi_dưỡng cán_bộ	12
+dự_toán chi_phí	12
+kinh_phí đào_tạo	12
+chi giải_thưởng	12
+khoản chi ngân_sách	11
+bảo_đảm toàn_bộ chi_phí hoạt_động thường_xuyên	11
+hoạt_động giám_sát	11
+khoán kinh_phí	11
+nội_dung quy_định	10
+lệnh chi	10
+chi_phí sửa_chữa	10
+quy_định_mức phân_bổ kinh_phí	10
+kinh_phí duy_tu	10
+chi thường_xuyên hàng	10
+chi thường_xuyên ngân_sách	10
+kinh_phí bảo_đảm	10
+chi chương_trình mục_tiêu	10
+chi in	10
+toàn_bộ chi_phí	9
+chi sơ_kết	9
+định_mức bình_quân	9
+huy_động đóng_góp	9
+bảo_đảm chi_phí hoạt_động	9
+khoản tương_ứng	8
+thù_lao cán_bộ	8
+đóng_góp xây_dựng	8
+chi in_ấn	8
+tiết_kiệm chi_phí	8
+đối_với cán_bộ	8
+mua vật_tư	8
+chi chương_trình	8
+chi hỗ_trợ tiền	8
+tính_chất đặc_thù	8
+chi_phí phục_vụ	7
+định_mức phân_bổ chi	7
+đảm_bảo tiết_kiệm	7
+nội_dung cụ_thể	7
+phân_bổ dự_toán	7
+nhiệm_vụ thường_xuyên	7
+lớp tập_huấn	7
+chi_phí nhân_công	7
+chi_phí thực_tế	7
+tiền mua	7
+chuyên_môn nghiệp_vụ	7
+duy_tu bảo_dưỡng	7
+- khen_thưởng	6
+kinh_phí bảo_đảm công_tác	6
+toàn_bộ hoạt_động	6
+nghiệp_vụ chuyên_môn	6
+liên_quan công_tác	6
+chi_phí trực_tiếp	6
+bảo_đảm kinh_phí hoạt_động	6
+chi_phí liên_quan	6
+chi công_tác quản_lý	6
+trang_trải chi_phí	6
+chi_phí quản_lý	6
+bảo_dưỡng thường_xuyên	6
+bảo_đảm kinh_phí	6
+thanh_toán khoản chi ngân_sách	5
+- cán_bộ	5
+hướng_dẫn nghiệp_vụ	5
+đào_tạo cán_bộ	5
+kinh_phí phục_vụ	5
+: tối_đa	5
+khoản viện_trợ	5
+bảo_đảm toàn_bộ chi_phí	5
+công_tác_phí cán_bộ	5
+tập_huấn chuyên_môn	5
+biên_soạn chương_trình	5
+lớp đào_tạo	5
+thường_xuyên hàng	5
+định_mức phân_bổ kinh_phí bảo_đảm	5
+chi_phí khảo_sát	5
+ngân_sách chi thường_xuyên	5
+chi tập_huấn	4
+dự_toán kinh_phí hoạt_động	4
+dự_toán kinh_phí	4
+toàn_bộ chi_phí hoạt_động	4
+chi phục_vụ hoạt_động	4
+quy_định một_số chi	4
+xây_dựng dự_toán kinh_phí	4
+mua tài_liệu	4
+chi liên_quan trực_tiếp công_tác	4
+cụ_thể :	4
+thanh_toán chi_phí	4
+quản_lý_tài_chính đối_với kinh_phí	4
+nội_dung ghi	4
+liên_quan hoạt_động	4
+mua_sắm vật_tư	4
+chi tính_chất	4
+chi_phí vật_tư	4
+kinh_phí bảo_đảm công_tác xây_dựng	4
+một_số nội_dung	4
+phục_vụ trực_tiếp	4
+kinh_phí chương_trình mục_tiêu	4
+kinh_phí hợp_pháp	4
+chi thường_xuyên ngân_sách nhà_nước	4
+dự_toán kinh_phí hỗ_trợ	4
+tiền bồi_dưỡng	4
++ đối_với	4
+thanh_toán khoản chi_phí	4
+kinh_phí bảo_đảm công_tác xây_dựng văn_bản quy_phạm pháp_luật	4
+hướng_dẫn công_tác quản_lý_tài_chính	3
+nhu_cầu kinh_phí	3
+hỗ_trợ ngân_sách	3
+khoản kinh_phí ngân_sách	3
+bảo_đảm toàn_bộ	3
+một_số nội_dung :	3
+kinh_phí chi thường_xuyên ngân_sách	3
+chi_tiết mục	3
+quy_định cụ_thể	3
+thanh_toán trực_tiếp	3
+mua_sắm dụng_cụ	3
+xây_dựng chương_trình	3
+- xã :	3
+hướng_dẫn cụ_thể	3
+tài_liệu phục_vụ	3
+chi bảo_đảm hoạt_động	3
+thanh_toán khoản	3
+xây_dựng dự_toán	3
+bảo_đảm công_tác	3
+giám_sát hoạt_động	3
+cán_bộ công_tác	3
+dự_toán chi ngân_sách	3
+huy_động hợp_pháp	3
+chi bù	3
+bù chi	3
+lớp bồi_dưỡng	3
+mua sách	3
+định_mức phân_bổ dự_toán chi	3
+quy_định_mức phân_bổ	3
+định_mức phân_bổ kinh_phí bảo_đảm công_tác	2
+quy_định chi_tiết	2
+phân_bổ kinh_phí bảo_đảm công_tác xây_dựng văn_bản	2
+trang_thiết_bị phục_vụ	2
+chương_trình đào_tạo	2
+công_việc :	2
+chi đảm_bảo hoạt_động	2
+văn_bản hướng_dẫn	2
+bồi_dưỡng chuyên_môn	2
+liên_quan trực_tiếp	2
+công_việc liên_quan	2
+bồi_dưỡng thành_viên	2
+phân_bổ kinh_phí bảo_đảm công_tác xây_dựng văn_bản quy_phạm pháp_luật	2
+cán_bộ quản_lý	2
+công_tác quản_lý	2
+phân_bổ kinh_phí bảo_đảm công_tác xây_dựng	2
+đào_tạo bồi_dưỡng	2
+khoán :	2
+phân_bổ chi	2
+- đối_với khoản	2
+thường_xuyên ngân_sách	2
+định_mức phân_bổ dự_toán chi thường_xuyên ngân_sách	2
+bổ_sung :	2
+thanh_toán khoản chi	2
+khảo_sát xây_dựng	2
+định_mức phân_bổ kinh_phí bảo_đảm công_tác xây_dựng	2
+công_tác tuyên_truyền	2
+hỗ_trợ đào_tạo	2
+pháp_luật toàn_bộ hoạt_động	2
+kinh_phí chi_tiêu	2
+công_tác đào_tạo	2
+hướng_dẫn quản_lý	1
+thanh_toán khoán	1
+cán_bộ xã	1
+công_tác khảo_sát	1
+chi ngân_sách hàng	1
+công_tác thanh_toán	1
+đảm_bảo kinh_phí	1
+quản_lý_tài_chính chương_trình	1
+tiền điện	1
+hướng_dẫn chuyên_môn	1
+cụ_thể một_số	1
+phân_bổ ngân_sách	1
+dự_toán ngân_sách	1
+bồi_dưỡng hiện_vật	1
+định_mức phân_bổ dự_toán	1
+phân_bổ chi_tiết	1
+kinh_phí phục_vụ công_tác	1
+bổ_sung mục_tiêu	1
+biên_soạn tài_liệu	1
+phục_vụ nhu_cầu	1
+liên_quan trực_tiếp công_tác	1
+quy_định_mức tối_đa	1
+xã :	1
+mua hàng	1
+tiền thù_lao	1
+chi công_tác quản_lý nhà_nước	1
+quy_định_mức kinh_phí hỗ_trợ hoạt_động	1
+quản_lý sửa_chữa	1
+phục_vụ nhiệm_vụ	1
+bảo_đảm hoạt_động giám_sát	1
+đối_với một_số	1
+trực_tiếp nhiệm_vụ	1
+dự_toán xây_dựng	1
+hướng_dẫn phân_cấp	1
+- đối_với dự_án	1
+bảo_đảm công_tác xây_dựng	1
+tài_liệu liên_quan	1
+bảo_đảm toàn_bộ chi_phí hoạt_động	1
+hướng_dẫn một_số nội_dung	1
+phân_bổ kinh_phí bảo_đảm	1
+trực_tiếp công_tác	1
+quản_lý chương_trình	1
+toàn_bộ tiền	1
+dự_toán chi sự_nghiệp	1
+sai quy_định	1
+bổ_sung nội_dung	1
+chương_trình công_tác	1
+công_tác giám_sát	1
+nhiệm_vụ kiểm_soát	1
+tiền công_tác_phí	1
+công_tác_phí quy_định	1
+nhà_nước hỗ_trợ	1

@@ -1,0 +1,197 @@
+thông_báo văn_bản	200
+văn_bản đề_nghị	199
+ý_kiến văn_bản	118
+nêu lý_do	101
+tham_gia ý_kiến	97
+công_bố công_khai	92
+thông_báo công_khai	88
+gửi văn_bản	86
+văn_bản trả_lời	81
+văn_bản thông_báo	81
+trách_nhiệm thông_báo	79
+ý_kiến thẩm_định	76
+dự_thảo văn_bản	76
+đồng_thời thông_báo	75
+thông_báo kết_quả	73
+gửi cơ_quan	72
+văn_bản gửi	71
+niêm_yết công_khai	70
+văn_bản yêu_cầu	65
+kính gửi :	64
+ý_kiến cơ_quan	63
+đồng_thời gửi	60
+đồng_ý văn_bản	59
+thông_báo cơ_quan	58
+trả_lời văn_bản	57
+văn_bản xác_nhận	54
+cơ_quan chủ_trì soạn_thảo	52
+văn_bản chấp_thuận	49
+ý_kiến chỉ_đạo	48
+báo_cáo văn_bản	44
+gửi báo_cáo	42
+báo_cáo thẩm_định	42
+ý_kiến thống_nhất	42
+văn_bản cơ_quan	36
+ký văn_bản	36
+yêu_cầu cơ_quan	35
+thống_nhất ý_kiến	35
+tham_khảo ý_kiến	35
+gửi thông_báo	34
+văn_bản điện_tử	32
+thời_gian gửi báo_cáo	31
+xây_dựng văn_bản	31
+chủ_trì soạn_thảo	30
+thời_gian thẩm_định	30
+đề_nghị cơ_quan	29
+cơ_sở đề_nghị	28
+ý_kiến thống_nhất văn_bản	28
+góp ý_kiến	27
+soạn_thảo văn_bản	25
+văn_bản kiến_nghị	25
+ý_kiến tham_gia	25
+phát_biểu ý_kiến	25
+văn_bản phép	24
+nội_dung văn_bản	24
+văn_bản thoả_thuận	24
+tiếp_thu ý_kiến	24
+văn_bản liên_quan	23
+trách_nhiệm báo_cáo	23
+trách_nhiệm trả_lời văn_bản	23
+gửi văn_bản đề_nghị	23
+thẩm_định nội_dung	23
+chấp_thuận văn_bản	22
+tổng_hợp ý_kiến	21
+ý_kiến đồng_ý	20
+kết_quả thẩm_định	20
+ý_kiến đề_xuất	20
+ý_kiến thẩm_định văn_bản	20
+đề_xuất ý_kiến	20
+ban_hành văn_bản	19
+chủ_trì thẩm_định nội_dung quy_định	19
+nội_dung thẩm_định	19
+cơ_quan tiếp_nhận	19
+văn_bản đồng_ý	19
+văn_bản mật	19
+phiếu ý_kiến	19
+văn_bản pháp_quy	18
+trách_nhiệm chính_xác	18
+thoả_thuận văn_bản	18
+thông_báo danh_sách	18
+coi đồng_ý	17
+tiếp_thu ý_kiến thẩm_định	17
+văn_bản nêu	17
+thẩm_định trình	17
+văn_bản yêu_cầu sửa_đổi	17
+gửi phiếu ý_kiến	17
+thẩm_định dự_thảo	17
+đồng gửi	16
+văn_bản ủy_quyền	16
+gia_hạn thời_gian	16
+xem_xét chấp_thuận	16
+ý_kiến trả_lời	15
+trách_nhiệm cơ_quan	15
+chuẩn_bị nội_dung	15
+ý_kiến thoả_thuận	15
+thời_gian gia_hạn	15
+thông_báo kết_quả thẩm_định	15
+niêm_yết trụ_sở	14
+cơ_sở ý_kiến	14
+thông_báo chính_thức	14
+rà_soát văn_bản	14
+thẩm_định thông_báo	13
+trách_nhiệm nội_dung văn_bản trình	13
+nội_dung quy_định	13
+thời_hạn gửi báo_cáo	13
+thông_báo kịp_thời	13
+trách_nhiệm xem_xét	13
+ý_kiến góp_ý	13
+kính gửi	12
+trách_nhiệm theo_dõi	12
+ý_kiến kết_luận	12
+ban_hành thông_báo	12
+báo_cáo giải_trình	12
+trao_đổi ý_kiến	12
+tóm_tắt nội_dung	12
+hoàn_toàn trách_nhiệm	12
+trình lãnh_đạo	12
+nội_dung phức_tạp	12
+trách_nhiệm thẩm_định	12
+đồng_thời chỉ_đạo	11
+báo_cáo kết_quả	11
+văn_bản qppl	11
+lãnh_đạo cơ_quan	11
+thống_nhất văn_bản	11
+đồng_thời báo_cáo	11
+trách_nhiệm chỉ_đạo	10
+thời_hạn gửi	10
+thông_báo văn_bản cơ_quan	10
+xác_nhận cơ_quan	9
+ý_kiến văn_bản gửi	9
+văn_bản trình	9
+trả_lời kiến_nghị	9
+thẩm_định báo_cáo	9
+gửi phiếu	8
+tiếp_nhận văn_bản	8
+trách_nhiệm nội_dung văn_bản	8
+đề_nghị xây_dựng	8
+nội_dung :	7
+cơ_sở ý_kiến thẩm_định	7
+tờ_trình đề_nghị	7
+danh_mục văn_bản	7
+trao_đổi thống_nhất	7
+kiến_nghị cơ_quan	6
+đề_nghị gia_hạn	6
+trách_nhiệm trả_lời	6
+văn_bản sửa_đổi	6
+tham_gia đóng_góp	6
+nội_dung liên_quan	6
+đồng_thời trách_nhiệm	6
+chủ_trì thẩm_định nội_dung	6
+ký xác_nhận	5
+cơ_quan liên_quan	5
+công_bố kết_quả	5
+quy_định trình_tự	5
+thông_qua hình_thức	5
+kết_quả thẩm_định trình	5
+trách_nhiệm tiếp_nhận	5
+trụ_sở cơ_quan	5
+cơ_quan chủ_trì	4
+chủ_trì thẩm_định	4
+thông_báo dự_kiến	4
+tổng_hợp báo_cáo	4
+văn_bản nêu lý_do	4
+ký ban_hành	4
+báo_cáo lãnh_đạo	3
+báo_cáo kết_quả thẩm_định	3
+chấp_thuận xây_dựng	3
+tổng_hợp gửi	3
+cơ_quan thẩm_quyền	3
+trách_nhiệm chủ_trì	2
+tiếp_nhận kết_quả	2
+thẩm_định nội_dung quy_định	2
+đề_nghị phép	2
+kịp_thời báo_cáo	2
+xem_xét sửa_đổi	2
+đề_nghị ban_hành	2
+thẩm_quyền chấp_thuận	2
+thẩm_quyền thẩm_định	2
+điện_tử cơ_quan	1
+xác_nhận cơ_quan thẩm_quyền	1
+ký cam_kết	1
+xem_xét trình	1
+chương trìn	1
+bộ_phận tiếp_nhận kết_quả	1
+tổng_hợp kết_quả	1
+trách_nhiệm tổng_hợp	1
+danh_sách đề_nghị	1
+ban_hành quy_định	1
+thẩm_định văn_bản	1
+thời_hạn quy_định	1
+báo_cáo kịp_thời	1
+xây_dựng cơ_sở	1
+bộ_phận tiếp_nhận	1
+công_bố danh_mục	1
+trình cơ_quan	1
+liên_quan xây_dựng	1
+phép xây_dựng	1
+xem_xét tổng_hợp	1

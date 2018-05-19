@@ -1,0 +1,80 @@
+tổng_cục bưu_điện	200
+trợ cước	90
+trợ cước vận_chuyển	82
+hải_quan bưu_điện	70
+nhân_viên hải_quan	54
+nhân_viên bưu_điện	51
+ngành bưu_điện	51
+trưởng trạm	51
+chuyến thư	50
+kinh_phí trợ_giá	47
+hàng gửi	45
+gói bưu_phẩm	43
+cước vận_chuyển	36
+bưu_kiện vô thừa_nhận	34
+bưu_kiện xuất_khẩu	32
+kiện hàng	29
+trạm bưu_điện xã	27
+bưu_tá viên	26
+bưu điệ	26
+bưu_điện xã	26
+cán_bộ bưu_điện	26
+nghiệp_vụ bưu_điện	25
+trạm vận_chuyển	25
+gửi đường bưu_điện	24
+phát bưu_phẩm	24
+thư chuyển_tiền	23
+túi thư	23
+bưu_phẩm bưu_kiện	22
+bưu gửi	21
+kiểm_tra bưu gửi	21
+bưu_cục phát	20
+thu cước	18
+bưu kiệ	17
+tổng_cục hải_quan	17
+vô thừa_nhận	17
+thủ_tục hải_quan đối_với bưu_phẩm	16
+dịch_vụ chuyển_phát	16
+bưu_chính viễn_thông	15
+máy phát	15
+đối_với bưu_phẩm	15
+cán_bộ hải_quan	14
+đường bưu_điện	12
+phiếu kiểm_soát	10
+trợ_giá trợ cước	10
+bưu_điện truyền_thanh	9
+tiền cước	8
+kiểm_tra hải_quan	8
+giá cước	6
+phương_tiện vận_chuyển	5
+hải_quan đối_với bưu_phẩm	5
+cán_bộ nhân_viên	5
+dịch_vụ bưu_chính	5
+trạm bưu_điện	5
+gửi tổng_cục	4
+giám_sát hải_quan	4
+thủ_tục hải_quan	3
+xong thủ_tục	3
+phương_tiện làm_việc	2
+tổng_cục_trưởng tổng_cục	2
+niêm_phong hải_quan	2
+đối_với hàng_hoá	2
+trách_nhiệm bố_trí	2
+vận_chuyển hàng	2
+giá cước vận_chuyển	2
+vận_chuyển ấn_phẩm	2
+trách_nhiệm kiểm_tra	1
+bố_trí cán_bộ	1
+ngành hải_quan	1
+thủ_tục hải_quan đối_với	1
+ghi phiếu	1
+nghiệp_vụ cán_bộ	1
+kiểm_tra giám_sát	1
+địa_điểm làm_việc	1
+tiền hàng	1
+ghi nhãn	1
+bưu_kiện vô	1
+hàng xuất_khẩu	1
+vận_chuyển hàng_hoá	1
+hải_quan đối_với	1
+trợ_giá trợ	1

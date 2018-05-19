@@ -1,0 +1,63 @@
+tủ_sách pháp_luật	108
+băng ghi_hình	53
+sách giáo_khoa	53
+ấn_phẩm văn_hoá	38
+vui_chơi giải_trí	36
+phát_hành sách	34
+tài_liệu pháp_lý	30
+quản_lý khai_thác tủ_sách pháp_luật	28
+phát_hành báo_chí	24
+băng âm_thanh	23
+khai_thác tủ_sách pháp_luật	22
+đĩa âm_thanh	22
+mua sách	22
+xuất_bản lịch_tờ	22
+tờ báo	21
+ngành văn_hoá	21
+phát_hành phim	21
+thư_viện công_cộng	20
+cục xuất_bản	20
+thực hiệ	19
+văn_hoá_phẩm phản_động	19
+hoạt_động văn_hoá	18
+tranh hoành_tráng	17
+di_sản văn_hoá	16
+mua sách_báo	15
+báo điện_tử	14
+cơ_quan báo_chí	12
+tài_liệu tuyên_truyền	9
+phim chiếu_bóng	8
+văn_hoá nghệ_thuật	7
+đời_sống văn_hoá	7
+phát hình	6
+báo_chí nước_ngoài	5
+luật xuất_bản	5
+hoạt_động báo_chí	5
+sự_nghiệp văn_hoá	4
+đọc xuất_bản_phẩm	4
+luật báo_chí	4
+hoạt_động xuất_bản	4
+mua vé	3
+báo_chí lưu_chiểu	3
+nhà_nước đặt_hàng	3
+quản_lý ngành	3
+nhà_nước ta	2
+in giấy	2
+quản_lý khai_thác	2
+pháp_luật chuyên_ngành	2
+quản_lý khai_thác tủ_sách	2
+mua máy	2
+xuất_bản_phẩm lưu_chiểu	2
+phụ_trách tủ_sách	2
+phổ_biến rộng_rãi	2
+giáo_dục pháp_luật	2
+giấy giới_thiệu	2
+tài_liệu tiếng	1
+hoạt_động sự_nghiệp	1
+mua tài_liệu	1
+đọc xuất_bản_phẩm lưu_chiểu	1
+quản_lý nhà_nước hoạt_động	1
+cơ_quan quản_lý	1
+tuyên_truyền phổ_biến	1
+duyệt hàng	1
+nội_dung hoạt_động	1

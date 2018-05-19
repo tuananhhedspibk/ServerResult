@@ -1,0 +1,232 @@
+( )	1518
+( bao_gồm	746
+đối_với trường_hợp	728
+( đối_với	693
+- đối_với	640
+( kể_cả	575
+( trừ	541
+- trường_hợp	303
+trường_hợp cần_thiết	227
+trường_hợp đặc_biệt	217
+trừ trường_hợp	204
+( ghi	158
+( trường_hợp	157
+( trừ trường_hợp	124
+áp_dụng đối_với	105
++ đối_với	93
+xã )	92
+( đối_với dự_án	76
+( cục	76
+( vụ	74
+trường_hợp cụ_thể	73
+( gọi	69
+việt_nam (	65
+đối_với một_số	63
+trừ đi	61
+đối_với tất_cả	60
+thành_phố )	54
+việt_nam -	54
+đối_với xã	52
+- đối_với dự_án	52
+trở (	48
+( đối_với trường_hợp	47
+( phân_biệt	46
+trường_hợp phát_hiện	43
+( đối_với đơn_vị	42
+- bản_sao	41
+đối_với đối_tượng	40
+( ký )	40
+một_số trường_hợp	40
+( bản_sao	38
+trường_hợp thay_đổi	38
+áp_dụng đối_với trường_hợp	37
+nhân (	37
+trường_hợp cấp_cứu	35
+đối_với gói_thầu	34
+- đối_với đối_tượng	33
+( cầ	33
+tuỳ trường_hợp cụ_thể	33
+( thành_phố )	32
+( kể_cả trường_hợp	32
+( thiế	29
+vụ_trưởng vụ	29
+phụ_cấp ( )	28
+trung_ương (	28
+đối_với khu_vực	28
+( trừ thiết_kế công_nghệ )	27
+( hai	27
+y_tế ( vụ	27
+( phườn	26
+trường_hợp đột_xuất	26
+( tức_là	26
+nhân dâ	25
+đối_với dự_án	25
+đối_với khoản	25
+( đối_với trại_giam	24
+( 12 thán	24
+trường_hợp không_thể	23
+( trừ dự_án	23
+( sở nội_vụ )	23
+thế_giới (	23
+( bảo	23
+đối_với trường_hợp cụ_thể	23
+( tổng_cục	23
+( * )	22
+( - ) chiết_khấu	22
+( chia thán	22
+( đối_với xí_nghiệp	21
+đối_với đơn_vị	20
+tuỳ trường_hợp	20
+tài_chính ( tổng_cục thuế ) phát_hành	20
+trường_hợp thiên_tai	20
++ đối_với đối_tượng	20
+yêu cầ	19
+trường_hợp miễn	19
+xã ( phườn	19
+trừ trường_hợp đặc_biệt	19
+tài_chính ( vụ	18
+công_nghệ ( )	18
+trở đối_với	18
+trung_ương ( vụ	18
+( năm_mươi	18
+kể_cả trường_hợp	18
+trường_hợp nêu	17
+( gọi_là	17
+nội_vụ ( cục	17
+cũ )	17
+trường_hợp từ_chối	17
+một_số trường_hợp đặc_biệt	17
+quốc_tế )	17
+tài_chính ( vụ tcđ	17
+phụ_cấp khu_vực ( )	16
+- nội_vụ	16
+36 thán	16
+tài_chính ( tổng_cục thuế )	16
+- đối_với đơn_vị	16
+trường_hợp cá_biệt	15
+( 36 thán	15
+( [	15
+đối_với vụ	15
+trường_hợp khẩn_cấp	14
+trường_hợp xảy	14
+trừ trường_hợp quy_định	14
+( đối_với xã	14
+km trở ( đối_với xã	13
+nội_vụ )	13
+kể_cả phụ_cấp	12
+( chia	12
+tài_chính ( vụ tài_chính	12
+khu_vực ( )	12
+( cũ )	12
+- chi_phí	11
+thuế )	11
+quốc_lộ )	11
+( cũ ) trở	11
+cũ (	11
+một_số trường_hợp cụ_thể	10
+trường_hợp chủ	10
+tài_nguyên môi_trường ( đối_với đơn_vị	10
+khoản trừ	9
+gửi tài_chính ( vụ	9
+chủ_quản (	9
+nội_vụ -	9
+( bao_gồm kinh_phí	9
+thiết_kế công_nghệ ( )	9
+hai (	9
+ngoại_tệ )	9
+liên_quan ( )	9
+( trăm	8
+trừ khoản	8
+môi_trường ( đối_với	8
+( vụ tài_chính	8
+trực_tiếp_quản_lý )	8
+( nội_vụ )	8
+- tổng_cục	8
+tùy trường_hợp	8
+- đối_với khoản	8
+bao_gồm chi_phí	8
+trường_hợp xếp	8
+( bao_gồm tiền	8
+trở đi	7
+môi_trường ( bao_gồm	7
+chủ_quản ( đối_với	7
+chi_phí cần_thiết	7
+trừ đi chi_phí	7
+áp_dụng đối_với tất_cả	7
+trừ dự_án	7
+bao_gồm khoản	7
+trừ chi_phí	6
+( trừ khoản	6
+tiệp khắc ( cũ )	6
+áp_dụng tất_cả	6
+( tổng_cục thuế )	6
+trường_hợp tách	6
+ký )	6
+12 thán	6
+- tài_chính	5
+vận_tải (	5
+( bao_gồm khoản	5
+trở ( đối_với	5
+đối_với đối_tượng nêu	4
+- thông	4
+bao_gồm thuế	4
+tất_cả khoản	4
+chính_thức (	4
+quốc_doanh (	4
++ chi_phí	4
+đối_với vụ tai_nạn	4
+đối_với xí_nghiệp	4
+tài_chính ( tổng_cục	4
+cao_cấp (	3
+không_thể đi	3
+( 36	3
+công_nghệ )	3
+( vụ tcđ	3
+trường_hợp đi	3
+tùy trường_hợp cụ_thể	3
+việt_nam ( gọi	3
+) chiết_khấu	3
+( kể_cả phụ_cấp	3
+hai trở	3
+trung_ương ( đối_với	3
+đối_với sĩ_quan	2
+tài_chính -	2
+đối_với trại_giam	2
+tiệp khắc	2
+khoản chi_phí	2
+thành_phố ( gọi	2
+đối_tượng áp_dụng	2
+( gọi xã )	2
+tổng_cục thuế )	2
+* )	2
+đối_với đơn_vị trung_ương	1
+( đối_với đơn_vị trung_ương	1
+phụ_cấp khu_vực	1
+khoản thuế	1
+vụ tai_nạn	1
+tất_cả đơn_vị	1
+quy_định cụ_thể	1
+thiết_kế công_nghệ )	1
+hai trở đi	1
+- tài_chính -	1
+y_tế xã	1
+phụ_cấp khu_vực (	1
+trừ dự_án quy_định	1
+tiệp khắc (	1
+khoản phụ_cấp	1
+trung_ương ( gọi	1
+vận_tải ( đối_với	1
+bao_gồm tiền	1
+y_tế -	1
+một_số khoản	1
+hai trăm	1
+( tổng_cục thuế	1
+( cũ	1
+đơn_vị trực_tiếp_quản_lý	1
+ký ghi	1
+quốc_tế khu_vực	1
+đối_tượng miễn	1
+tài_chính - tổng_cục	1
+chia tách	1
+tài_chính tổng_cục	1
+trường_hợp thiết_kế hai	1

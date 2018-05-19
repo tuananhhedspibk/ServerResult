@@ -1,0 +1,77 @@
+chiều sâu	49
+5 m	47
+2 m	37
+chiều rộng	37
+diện_tích tối_thiểu	36
+biển quảng_cáo	36
+bảng quảng_cáo	32
+tường rào	25
+trạm trung_chuyển	24
+hùng vương	23
+tổng diện_tích	23
+mặt sàn	20
+150 m	20
+sơ_đồ vị_trí	19
+bấm lỗ	18
+đầu hẻm	18
+250 m	18
+áp_dụng đất nằm hẻm chiều rộng ( đầu hẻ	18
+( phân_biệt chiều rộng hẻ	18
+khoảng_cách tối_thiểu	17
+bề rộng	17
+đóng bcl	17
+gạch_men ốp_lát	17
+bê_tông cốt thép	17
+m2 sàn	16
+trạm quan_trắc	14
+công_trình quy_mô 25 tầng chiều 75 m	14
+m2 trở	13
+trục đường	13
+đất nằm hẻm	12
+mốc lộ_giới	12
+xác_định vị_trí	11
+công_trình công_cộng	8
+quy_mô 25 tầng chiều 75 m	8
+quy_mô diện_tích	8
+vệ_sinh công_cộng	7
+cốt thép	7
+- đất nằm hẻm phường	6
+cắm mốc	6
+vật kiến_trúc	6
+m chiều	5
+nguyên vật_liệu	5
+m2 (	5
+đất nằm	4
+vật_liệu nổ	4
+toàn_bộ diện_tích	4
+tiếp_giáp đường	4
+iii trở	4
+chiều rộng (	3
+đất vị_trí	3
+công_trình quảng_cáo	3
+quảng_cáo ngoài_trời	3
+công_trình kiến_trúc	2
+diện_tích đất	2
+khu_vực cấm	2
+75 m	2
+diện_tích diện_tích tối_thiểu	2
+liên thôn	2
+khu_vực iii	2
+5 trở	2
+công_trình quy_mô	1
+tối_đa 2	1
+gạch ngói	1
+xác_định diện_tích	1
+công_trình quy_mô 25 tầng	1
+đoạn đường	1
+chiều 75 m	1
+đất diện_tích	1
+5 (	1
+cháy nổ	1
+tối_đa 5	1
+dọc đường	1
+đứng đầu	1
+lô đất	1
+kết_cấu công_trình	1
+tầng chiều	1
+x 8	1

@@ -1,0 +1,206 @@
+quyền sử_dụng đất	254
+đấu_giá tài_sản	173
+đấu_giá quyền sử_dụng đất	150
+sử_dụng đất	137
+quyền sử_dụng	90
+bảo_lãnh quyền sử_dụng đất	83
+trúng đấu_giá	79
+quyền nghĩa_vụ	77
+tổ_chức đấu_giá	72
+nghĩa_vụ tài_chính	65
+thực_hiện nghĩa_vụ	63
+chuyển_nhượng quyền sử_dụng đất	60
+thực_hiện nghĩa_vụ tài_chính	58
+tham_gia đấu_giá	56
+giá_trị quyền sử_dụng đất	54
+ủy quyền	48
+công_nhận quyền sử_dụng đất	37
+xác_định_giá đất	34
+tài_sản thuê tài_chính	34
+hội_đồng thẩm_định_giá đất tỉnh	31
+quyền tự_chủ	31
+thông_qua hình_thức đấu_giá quyền sử_dụng đất	30
+góp vốn quyền sử_dụng đất	29
+thông_qua hình_thức đấu_giá	29
+ban_hành thông_báo nghĩa_vụ tài_chính	29
+xác_định_giá khởi_điểm đấu_giá quyền sử_dụng đất	29
+giấy_tờ quyền sử_dụng đất	28
+xác_định nghĩa_vụ tài_chính	28
+góp quyền sử_dụng đất	27
+thế_chấp quyền sử_dụng đất	27
+trúng đấu_giá quyền sử_dụng đất	26
+lập “ phiếu thông_tin xác_định nghĩa_vụ tài_chính sử_dụng đất	26
+xác_định_giá đất cụ_thể	25
+thông_báo thực_hiện nghĩa_vụ tài_chính sử_dụng đất	24
+thời_hạn sử_dụng	21
+góp vốn	20
+chứng_từ thực_hiện nghĩa_vụ tài_chính	19
+sử_dụng đất nộp bổ_sung chứng_từ hoàn_thành nghĩa_vụ tài_chính	18
+quy_trình luân_chuyển hồ_sơ xác_định nghĩa_vụ tài_chính	17
+giá_trị sử_dụng	17
+thẩm_định_giá đất cụ_thể	17
+phí tham_gia đấu_giá tài_sản	17
+xác_định_giá khởi_điểm	16
+góp vốn tài_sản	16
+phiếu thông_tin	16
+hoàn_thành nghĩa_vụ tài_chính	16
+sử_dụng đất thực_hiện nghĩa_vụ tài_chính	16
+thẩm_định_giá đất	14
+quyền sở_hữu	14
+hoàn_thành nghĩa_vụ	14
+thế_chấp giá_trị quyền sử_dụng đất	14
+chuyển_nhượng tài_sản	14
+giá khởi_điểm	14
+kết_quả trúng đấu_giá	13
+xác_định thông_báo	13
+hội_đồng thẩm_định_giá đất	13
+đất đấu_giá	12
+luân_chuyển hồ_sơ	12
+thực_hiện đấu_giá quyền sử_dụng đất	12
+giá khởi_điểm đấu_giá quyền sử_dụng đất	12
+sử_dụng đất hộ gia_đình	12
+nghĩa_vụ tài_chính sử_dụng đất	11
+bảo_lãnh quyền	11
+khởi_điểm đấu_giá quyền sử_dụng đất thuê	11
+luân_chuyển hồ_sơ xác_định nghĩa_vụ tài_chính đất_đai sử_dụng đất	11
+hồ_sơ xác_định nghĩa_vụ tài_chính	11
+tự_chủ tài_chính	10
+chuyển_nhượng quyền sử_dụng	10
+quyền chủ_động	10
+nghĩa_vụ tài_chính đất_đai	10
+thông_báo thực_hiện nghĩa_vụ tài_chính	9
+ban_hành thông_báo	9
+chuyển_nhượng quyền	9
+quyền_lợi nghĩa_vụ	9
+hồ_sơ xác_định nghĩa_vụ tài_chính đất_đai	8
+sử_dụng tài_sản	8
+nghĩa_vụ bảo_lãnh	8
+quyền khai_thác	8
+đất_đai sử_dụng đất	8
+phí đấu_giá	8
+đất cụ_thể	8
+công_khai tài_chính	8
+khả_năng tài_chính	7
+luật đấu_giá tài_sản	7
+giá đất	7
+thẩm_định_giá đất tỉnh	7
+công_nhận kết_quả	7
+hình_thức đấu_giá	7
+xác_định nghĩa_vụ tài_chính đất_đai	7
+thực_hiện nghĩa_vụ bảo_lãnh	7
+phiếu thông_tin xác_định nghĩa_vụ tài_chính	7
+hội_đồng thẩm_định_giá	7
+thuê đất thông_qua hình_thức đấu_giá	6
+thuê đất	6
+tổ_chức thực_hiện đấu_giá	6
+đấu_giá quyền sử_dụng đất thuê	6
+tài_sản sở_hữu	5
+hồ_sơ xác_định	5
+giấy_tờ quy_định	5
+quyền sử	5
+phương_án đấu_giá	5
+xác_định nghĩa_vụ	5
+dịch_vụ đấu_giá tài_sản	5
+đấu_giá quyền	5
+quyền sử_dụng đất hộ gia_đình	5
+đất chuyển_nhượng	5
+xác_định nghĩa_vụ tài_chính đất_đai sử_dụng đất	4
+xác_định nghĩa_vụ tài_chính sử_dụng đất	4
+quyền sở_hữu quyền sử_dụng đất	4
+tổ_chức thực_hiện	4
+nghĩa_vụ nộp	4
+sử_dụng đất quy_định luật đất_đai	4
+phiếu thông_tin xác_định nghĩa_vụ tài_chính sử_dụng đất	3
+luân_chuyển hồ_sơ xác_định nghĩa_vụ tài_chính đất_đai	3
+xác_định thời_hạn	3
+đất quy_định luật đất_đai	3
+khai_thác sử_dụng	3
+quy_định cụ_thể	3
+khởi_điểm đấu_giá quyền sử_dụng đất	3
+16/6/2014 tài_chính	3
+công_nhận quyền sử_dụng	3
+góp quyền	3
+hình_thức đấu_giá quyền sử_dụng đất	3
+quy_chế đấu_giá	3
+đấu_giá quyền khai_thác	3
+tài_chính thông_báo	3
+giá khởi_điểm đấu_giá	3
+xác_định_giá khởi_điểm đấu_giá	3
+tài_chính ban_hành	3
+khởi_điểm đấu_giá	2
+thuê đất thông_qua	2
+sử_dụng phí	2
+sử_dụng đất nộp bổ_sung chứng_từ hoàn_thành nghĩa_vụ	2
+“ phiếu thông_tin xác_định nghĩa_vụ tài_chính sử_dụng đất	2
+hình_thức thuê đất	2
+bổ_sung chứng_từ hoàn_thành nghĩa_vụ tài_chính	2
+sử_dụng đất nộp	2
+tham_gia hội_đồng	2
+tài_chính quy_định	2
+nghĩa_vụ tài_chính đất_đai sử_dụng đất	2
+đấu_giá quyền sử_dụng	2
+thời_hạn nộp	2
+thực_hiện quy_định	2
+thế_chấp quyền sử_dụng	2
+luân_chuyển hồ_sơ xác_định nghĩa_vụ tài_chính	2
+giấy_tờ giá_trị	2
+chứng_từ bảo_lãnh	2
+sử_dụng vốn	2
+thông_qua hình_thức	2
+thực_hiện xong nghĩa_vụ	2
+quyền sử_dụng đất thuê	2
+quyền sử_dụng đất tài_sản	2
+thông_báo kết_quả	2
+luật tổ_chức	2
+đất hộ	1
+thông_qua hội_đồng	1
+góp quyền sử_dụng	1
+thực_hiện xong	1
+đất xác_định	1
+giấy_tờ chứng_minh thực_hiện xong nghĩa_vụ tài_chính	1
+“ phiếu	1
+quyền sở_hữu quyền sử_dụng	1
+tài_sản thế_chấp	1
+trúng đấu_giá quyền	1
+lập hồ_sơ	1
+tài_chính đất_đai	1
+thực_hiện nghĩa_vụ tài_chính sử_dụng đất	1
+tài_sản thuê	1
+quyền sử_dụng đất hộ	1
+quyền sử_dụng đất quy_định	1
+tham_gia thực_hiện	1
+xong nghĩa_vụ	1
+dịch_vụ đấu_giá	1
+công_nhận quyền	1
+khởi_điểm đấu_giá quyền sử_dụng	1
+hộ gia_đình	1
+giá_trị quyền sử_dụng	1
+luân_chuyển hồ_sơ xác_định nghĩa_vụ	1
+thông_báo nộp	1
+đất thực_hiện nghĩa_vụ tài_chính	1
+xác_định cụ_thể	1
+thời_hạn quy_định	1
+tham_gia đấu_giá quyền	1
+tham_gia đấu_giá tài_sản	1
+giá đất cụ_thể	1
+đất_đai thực_hiện	1
+sử_dụng đất hộ	1
+tổ_chức thực_hiện đấu_giá quyền	1
+thuê tài_sản	1
+hồ_sơ xác_định nghĩa_vụ tài_chính đất_đai sử_dụng đất	1
+thực_hiện xong nghĩa_vụ tài_chính	1
+đất thuê	1
+giá_trị tài_sản	1
+chứng_minh thực_hiện	1
+vốn tài_sản	1
+luân_chuyển hồ_sơ xác_định	1
+bảo_lãnh thực_hiện	1
+lập phương_án	1
+thông_báo công_khai	1
+nghĩa_vụ tài_chính (	1
+hình_thức sở_hữu	1
+quyền sở_hữu tài_sản	1
+giá khởi_điểm đấu_giá quyền	1
+vốn góp	1
+phí dịch_vụ	1
+thông_tin xác_định nghĩa_vụ tài_chính	1

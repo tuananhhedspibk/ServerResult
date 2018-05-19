@@ -1,0 +1,192 @@
+đăng_ký kinh_doanh	244
+tổ_chức cá_nhân	189
+tổ_chức hoạt_động	178
+hoạt_động kinh_doanh	151
+cá_nhân nước_ngoài	136
+phép sử_dụng	113
+cá_nhân liên_quan	83
+giấy_phép hoạt_động	81
+cá_nhân hoạt_động	80
+giấy_phép kinh_doanh	79
+cá_nhân tham_gia	79
+khai_thác sử_dụng	75
+giấy_phép sử_dụng	67
+thu_hồi giấy_phép	59
+đăng_ký hoạt_động	56
+cá_nhân kinh_doanh	55
+nhu_cầu sử_dụng	53
+sử_dụng mục_đích	50
+tổ_chức cá_nhân liên_quan	49
+cá_nhân sử_dụng	47
+giấy_phép lái_xe	45
+cá_nhân nhu_cầu	45
+cá_nhân phép	45
+sử_dụng con_dấu	41
+liên_quan hoạt_động	40
+giấy_phép thành_lập	40
+khắc dấu	39
+phép thành_lập	38
+thủ_tục đăng_ký	38
+phép hoạt_động	38
+hoạt_động lĩnh_vực	37
+thuế_thu_nhập cá_nhân	37
+phép khai_thác	37
+tổ_chức cá_nhân kinh_doanh	35
+đối_với hoạt_động	32
+tham_gia hoạt_động	31
+quản_lý sử_dụng	30
+tổ_chức hoạt_động kinh_doanh	29
+quá_trình hoạt_động	29
+giấy_phép hành_nghề	29
+đơn phép	29
+thay_đổi nội_dung	29
+giấy_phép lưu_hành	29
+hoạt_động kinh_doanh hoạt_động	28
+tạm đình_chỉ	25
+con_dấu tài_khoản	25
+hành_nghề quản_lý	24
+mục_đích sử_dụng	24
+đăng_ký đăng_ký kinh_doanh	24
+phép kinh_doanh	24
+đình_chỉ hoạt_động	24
+hồ_sơ phép	24
+mục_đích kinh_doanh	24
+hoạt_động liên_quan	23
+hành_nghề y	23
+nội_dung hoạt_động	23
+gia_hạn giấy_phép	22
+sử_dụng số_liệu	22
+quản_lý sử_dụng con_dấu	22
+tham_gia hội_chợ	22
+cá_nhân tham_gia hoạt_động	21
+hoạt_động khai_thác	21
+chứng_chỉ hành_nghề	21
+tổ_chức liên_quan	20
+tái sử_dụng	20
+ngừng hoạt_động	20
+hạn sử_dụng	19
+nội_dung liên_quan	19
+đăng_ký hành_nghề	19
+giấy_phép khai_thác	19
+kinh_doanh trái_phép	19
+thủ_tục giấy_phép	18
+lệ_phí giấy_phép	18
+ghi giấy_phép	18
+thẩm_quyền phép	17
+quy_chế hoạt_động	17
+quá_trình khai_thác	17
+sát_hạch giấy_phép lái_xe	17
+thu_hồi chứng_chỉ hành_nghề	17
+thủ_tục thành_lập	17
+mẫu con_dấu	17
+đăng_ký tổ_chức hội_chợ	16
+giấy_phép vận_chuyển	16
+hồ_sơ giấy_phép	15
+sử_dụng trái_phép	15
+quản_lý hoạt_động	15
+thời_hạn sử_dụng	15
+tiếp_tục sử_dụng	15
+tổ_chức hội_chợ	15
+đăng_ký tham_gia	15
+tình_hình hoạt_động	14
+điều_lệ tổ_chức hoạt_động	14
+cá_nhân hoạt_động thương_mại	14
+địa_điểm kinh_doanh	14
+nội_dung đăng_ký	14
+tiến_hành hoạt_động	13
+sai mục_đích	13
+cá_nhân khai_thác	13
+tiệp khắc	13
+mẫu dấu	13
+hoạt_động dịch_vụ	13
+cá_nhân giấy_phép	13
+quản_lý khai_thác	12
+lệ_phí giấy_phép hoạt_động	11
+tổ_chức tư_vấn	11
+đăng_ký lưu_hành	11
+hoạt_động kinh_doanh dịch_vụ	10
+hoạt_động bình_thường	10
+quy_chế tổ_chức hoạt_động	10
+cá_nhân hoạt_động liên_quan	10
+trình_tự thủ_tục	10
+nước_ngoài phép	10
+thẩm_quyền giấy_phép	9
+phép sử_dụng tạm_thời	9
+liên_quan lĩnh_vực	9
+đề_nghị giấy_phép	9
+kinh_doanh hoạt_động	9
+kinh_doanh vàng_bạc	9
+đối_với hoạt_động kinh_doanh	9
+hoạt_động thương_mại	9
+đăng_ký thay_đổi nội_dung	9
+chuyển_đổi mục_đích	9
+chuyển_đổi hình_thức hoạt_động giải_thể	9
+cá_nhân đăng_ký	9
+tiến_hành thủ_tục	8
+lệ_phí đăng_ký	8
+tình_hình sử_dụng	8
+chủ_thể tham_gia hoạt_động	8
+cá_nhân kinh_doanh dịch_vụ	8
+thay_đổi nội_dung đăng_ký	8
+hồ_sơ đăng_ký	8
+chuyển_đổi hình_thức hoạt_động	8
+đăng_ký thay_đổi	8
+hoạt_động tư_vấn	8
+sử_dụng tạm_thời	7
+đồ_dùng cá_nhân	7
+bản_sao giấy_phép	7
+sổ đăng_ký	7
+phép tách	7
+điều_kiện thành_lập	7
+điều_kiện kinh_doanh	7
+kinh_doanh điều_kiện	7
+sử_dụng hợp_lý	7
+sử_dụng dịch_vụ	6
+hồ_sơ đăng_ký kinh_doanh	6
+kinh_doanh dịch_vụ	6
+thu_hồi chứng_chỉ	6
+kinh_doanh khai_thác	5
+sử_dụng hiệu_quả	5
+đơn giấy_phép	5
+thành_lập đoàn	5
+nội_dung giấy_phép	5
+tạm ngừng	5
+có_thể thành_lập	4
+chuyển_đổi mục_đích sử_dụng	4
+sát_hạch giấy_phép	4
+khai_thác trái_phép	4
+đơn đăng_ký	4
+liên_quan tổ_chức	3
+chủ_thể kinh_doanh	3
+điều_lệ quản_lý	3
+điều_kiện hành_nghề	3
+phép mục_đích sử_dụng	3
+đăng_ký thành_lập	3
+hiệu_quả hoạt_động	3
+tổ_chức hiệp_thương	3
+quản_lý sử_dụng lệ_phí	2
+nội_dung ghi	2
+vận_chuyển trái_phép	2
+điều_kiện phép	2
+đề_nghị phép	2
+thời_hạn nước_ngoài	2
+quy_chế tạm_thời	2
+đề_nghị đổi	2
+điều_lệ tổ_chức	2
+khai_thác quản_lý	1
+tình_hình quản_lý	1
+quy_chế quản_lý	1
+liên_quan quá_trình	1
+lĩnh_vực quản_lý	1
+đối_với hoạt_động lĩnh_vực	1
+kinh_doanh khách_sạn	1
+đơn đề_nghị	1
+chuyển_đổi hình_thức	1
+chủ_thể tham_gia	1
+điều_lệ quy_chế	1
+tài_khoản chuyên	1
+hoạt_động giải_thể	1
+tạm_thời cấm	1
+dịch_vụ tư_vấn	1
+cá_nhân giấy_phép khai_thác	1
+sử_dụng lệ_phí	1

@@ -1,0 +1,135 @@
+quyền tác_giả	130
+tư_cách pháp_nhân	117
+sở_hữu công_nghiệp	117
+chủ sở_hữu	114
+tác_phẩm kiến_trúc	97
+nộp đơn	88
+quyền sở_hữu	82
+sử_dụng tác_phẩm	69
+vật kiến_trúc	58
+đơn yêu_cầu	58
+quyền yêu_cầu	55
+chủ sở_hữu tác_phẩm	49
+áp_dụng sáng_kiến	49
+xâm_phạm quyền sở_hữu công_nghiệp	48
+đối_với tác_phẩm	46
+quỹ nhuận_bút	44
+đồng tác_giả	43
+bảo_hộ quyền tác_giả	43
+vi_phạm quyền tác_giả	42
+chủ sở_hữu công_nghiệp	38
+kiểu_dáng công_nghiệp	35
+chủ sở_hữu tài_sản	35
+lợi_ích hợp_pháp	32
+nhuận_bút tác_phẩm	32
+quyền lợi_ích hợp_pháp	31
+tác_giả chủ sở_hữu tác_phẩm	31
+tác_phẩm báo_chí chất_lượng	31
+đại_diện chủ sở_hữu	30
+quyền sở_hữu công_nghiệp	30
+hàng_hoá xâm_phạm quyền sở_hữu công_nghiệp	30
+chủ sở_hữu tác_phẩm kiến_trúc	29
+nộp đơn yêu_cầu	28
+thời_hiệu khởi_kiện	28
+sáng_tạo tác_phẩm	23
+tác_phẩm báo_chí	20
+khung nhuận_bút	20
+đơn yêu_cầu bảo_hộ	20
+hỗ_trợ hoạt_động sáng_tạo tác_phẩm	20
+đăng_ký bảo_hộ	19
+tác_giả ( đồng tác_giả )	19
+cục quyền tác_giả	18
+nghi_ngờ xâm_phạm quyền sở_hữu công_nghiệp	18
+nhuận_bút khuyến_khích	18
+xác_định tình_trạng pháp_lý sở_hữu công_nghiệp	18
+yếu_tố vi_phạm	17
+quyền khởi_kiện	17
+văn_bằng bảo_hộ	17
+tác_phẩm điện_ảnh	17
+quyền sử_dụng	17
+lập_luận tài_liệu	16
+quyền nhân_thân	16
+áp_dụng đầu_tiên	16
+tác_giả tác_phẩm	16
+sáng_kiến sáng_chế	16
+tác_giả sáng_chế	15
+hình_thức sở_hữu	15
+liên_quan quyền tác_giả	14
+tước quyền	13
+thưởng tác_giả	13
+tranh_chấp liên_quan quyền tác_giả	13
+chấp_nhận đơn	13
+quyền tác_giả đối_với	12
+xác_lập quyền sở_hữu	12
+nhuận_bút tác_giả	12
+tác_giả đồng_thời	12
+xâm_phạm quyền	11
+tài_liệu chứng_minh	11
+tranh_chấp phát_sinh	10
+quyền lợi_ích	10
+hoạt_động sáng_tạo tác_phẩm	10
+quyền nộp đơn	10
+bảo_hộ quyền	9
+lợi_ích vật_chất	8
+đổi_mới sáng_tạo	8
+đơn đặt_hàng	8
+cục quyền	8
+yêu_cầu bảo_hộ	8
+tác_giả tác_phẩm kiến_trúc	8
+bất_kỳ hình_thức	7
+bảo_đảm quyền	7
+giá_trị pháp_lý	7
+vi_phạm quyền	7
+chuyển_giao quyền	6
+thu_thập chứng_cứ	6
+có_thể uỷ_quyền	6
+tác_giả đồng_thời chủ sở_hữu tác_phẩm	6
+đại_diện hợp_pháp	6
+quyền sở_hữu tài_sản	6
+đại_diện chủ	6
+tác_giả (	5
+tác_giả chủ sở_hữu	5
+quyền sở_hữu quyền	4
+tài_sản sở_hữu	4
+giá_trị sử_dụng	4
+tác_giả )	4
+tranh_chấp quyền	4
+hoạt_động sáng_tạo	4
+tình_trạng pháp_lý	4
+quà biếu	3
+báo_chí chất_lượng	3
+chủ sử_dụng	3
+nghĩa_vụ liên_quan	3
+áp_dụng đối_với	3
+tài_liệu liên_quan	3
+quyền nghĩa_vụ	3
+tiếp_tục sử_dụng	3
+định khung	2
+nghi_ngờ xâm_phạm	2
+xác_lập quyền	2
+tình_trạng pháp_lý sở_hữu công_nghiệp	2
+quyền chủ_động	2
+yêu_cầu chủ	2
+đồng_thời chủ sở_hữu tác_phẩm	2
+yêu_cầu toà_án	2
+chất_lượng hàng_hoá	2
+đồng tác_giả )	2
+đơn đăng_ký	2
+tranh_chấp liên_quan quyền	1
+tài_sản giá_trị	1
+sở_hữu tác_phẩm kiến_trúc	1
+( đồng tác_giả )	1
+hỗ_trợ hoạt_động sáng_tạo	1
+đồng_thời chủ	1
+hoạt_động báo_chí	1
+đối_với hàng_hoá	1
+sử_dụng tài_sản	1
+đăng_ký quyền	1
+hàng_hoá xâm_phạm quyền	1
+chứng_minh quyền	1
+sở_hữu quyền	1
+tranh_chấp liên_quan	1
+đối_với tài_sản	1
+dấu_hiệu vi_phạm	1
+bảo_đảm yêu_cầu	1
+( cục	1

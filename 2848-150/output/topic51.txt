@@ -1,0 +1,120 @@
+thể_dục thể_thao	390
+thể_thao du_lịch	304
+uỷ_ban thể_dục thể_thao	153
+tổng_cục du_lịch	71
+giải thi_đấu thể_thao	66
+đối_với vận_động_viên	56
+môn thể_thao	53
+cơ_sở thực_hiện xã_hội_hóa	47
+hòa giải thương_mại	42
+sở thể_dục thể_thao	41
+danh_lam thắng_cảnh	41
+hoạt_động thể_dục thể_thao	39
+ủy_ban thể_dục thể_thao	39
+tổng_cục thể_dục thể_thao	39
+sở văn_hóa	34
+giải thi_đấu	34
+sở du_lịch	31
+chương_trình quốc_gia thể_thao	30
+bảo_vệ phát_huy giá_trị di_tích	29
+ngành du_lịch	29
+đội_tuyển trẻ	27
+thể_thao thành_tích	25
+ngành thể_dục thể_thao	25
+liên_đoàn_thể_thao quốc_gia	25
+huy àng	24
+phục_vụ du_lịch	23
+thi_đấu thể_thao	23
+chuẩn văn_hóa	23
+lập thành_tích	23
+chế_độ dinh_dưỡng	22
+chính_sách khuyến_khích xã_hội_hóa đối_với hoạt_động lĩnh_vực giáo_dục	22
+đối_với huấn_luyện_viên	22
+văn_hóa thể_thao	21
+vận_động_viên đội_tuyển	21
+đại_hội thể_dục thể_thao	21
+kinh_doanh dịch_vụ văn_hóa	21
+hoạt_động văn_hóa	21
+hòa giải cơ_sở	21
+tập_huấn thi_đấu	21
+vận_động_viên thể_thao	20
+lĩnh_vực văn_hóa	19
+huy_chương bạc	18
+đại_hội thể_thao	18
+kinh_doanh khách_sạn du_lịch	18
+phát_huy giá_trị di_tích	17
+dịch_vụ du_lịch	17
+ngành văn_hóa	14
+tổ_chức giải	14
+lĩnh_vực thể_dục thể_thao	14
+hòa giải	14
+huấn_luyện_viên thể_thao	14
+văn_hóa thông_tin thể_thao	12
+đội_tuyển quốc_gia	12
+bộ_trưởng văn_hóa	12
+khuyến_khích xã_hội_hóa	12
+vận_động_viên huấn_luyện_viên	11
+thể_thao quốc_tế	11
+thưởng vận_động_viên	11
+uỷ_ban thể_dục thể_thao hướng_dẫn	11
+thực_hiện xã_hội_hóa	10
+đối_với cơ_sở	9
+chính_sách khuyến_khích xã_hội_hóa đối_với hoạt_động lĩnh_vực	9
+kinh_doanh du_lịch	9
+hoạt_động lĩnh_vực	9
+đối_với hoạt_động	8
+lưu_trú du_lịch	8
+chính_sách khuyến_khích xã_hội_hóa	7
+phát_huy giá_trị	7
+khách_sạn du_lịch	7
+hưởng_thụ văn_hóa	6
+quốc_gia thể_thao	6
+hợp_tác quốc_tế	5
+thông_tin thể_thao	5
+phục_vụ hoạt_động	5
+thành_tích thi_đấu	5
+bảo_vệ phát_huy giá_trị	5
+đối_với hoạt_động lĩnh_vực giáo_dục	5
+tổ_chức giải thi_đấu	4
+hoạt_động kinh_doanh	4
+tổ_chức hoạt_động	4
+chương_trình quốc_gia	4
+đối_với hoạt_động lĩnh_vực	3
+ủy_ban thể_dục	3
+đại_hội thể_dục	3
+sở thể_dục	3
+tổ_chức đại_hội	3
+chính_sách đối_với	3
+đối_với khu_vực	3
+trung_tâm dịch_vụ	2
+lĩnh_vực giáo_dục	2
+bảo_vệ phát_huy	2
+thương_mại du_lịch	2
+tổ_chức quốc_tế	2
+uỷ_ban thể_dục	2
+hoạt_động lĩnh_vực giáo_dục	2
+tổ_chức tập_huấn	2
+sở thương_mại	2
+chính_sách khuyến_khích	2
+xã_hội_hóa lĩnh_vực	2
+hoạt_động thể_dục	2
+tổng_cục thể_dục	2
+hoạt_động đội	2
+quốc_tế khu_vực	2
+xã_hội_hóa đối_với hoạt_động lĩnh_vực giáo_dục	2
+chính_sách khuyến_khích xã_hội_hóa đối_với	1
+dịch_vụ văn_hóa	1
+xã_hội_hóa đối_với hoạt_động	1
+hợp_tác quốc_tế lĩnh_vực	1
+thực_hiện chế_độ	1
+kinh_doanh hoạt_động	1
+hoạt_động sự_nghiệp	1
+chuẩn quốc_gia	1
+hướng_dẫn lập	1
+quốc_tế lĩnh_vực	1
+thể_dục thể_thao hướng_dẫn	1
+ngành thể_dục	1
+bạc liêu	1
+thưởng thưởng	1
+giá_trị di_tích	1
+sự_nghiệp thể_dục	1

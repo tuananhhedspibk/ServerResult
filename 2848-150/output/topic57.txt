@@ -1,0 +1,159 @@
+nghiện ma_túy	201
+chất ma_tuý	155
+chất ma_túy	123
+cai_nghiện ma_túy	119
+nghiện ma_tuý	117
+giáo_dục phục_hồi hành_vi	70
+bán_dâm cai_nghiện ma_túy	63
+khung hình_phạt	56
+nhựa thuốc_phiện	51
+giám_đốc trung_tâm	49
+cơ_sở cai_nghiện ma_túy	48
+vận_chuyển trái_phép	48
+tình_tiết_giảm nhẹ	45
+điều_trị nghiện chất dạng thuốc_phiện thuốc thay_thế	44
+áp_dụng biện_pháp	42
+trái_phép chất ma_tuý	37
+hai mươi	36
+- xử_phạt tù	35
+tổng_hợp hình_phạt	35
+hình_phạt bổ_sung	35
+tàng_trữ trái_phép	35
+sử_dụng trái_phép chất ma_tuý	33
+áp_dụng biện_pháp xử_lý hành_chính cơ_sở cai_nghiện bắt_buộc	33
+sử_dụng trái_phép	32
+vận_chuyển trái_phép chất ma_tuý	32
+cai_nghiện bắt_buộc	30
+nhân_cách nghiện ma_túy	28
+tiền chất	28
+tại_gia_đình cộng_đồng	27
+phục_hồi sức_khỏe	25
+trăm gam	25
+thuốc nghiện	24
+cư_trú ổn_định	24
+cai_nghiện ma_tuý	23
+chữa_trị trung_tâm	23
+cai_nghiện tự_nguyện	22
+điều_trị cắt_cơn	22
+nhựa cần_sa	21
+thể lỏng	21
+đối_với nghiện ma_túy	21
+mua_bán trái_phép chiếm_đoạt	20
+áp_dụng hình_phạt	20
+lợi_dụng chức_vụ	20
+trái_phép chất ma_túy	20
++ thuốc_phiện	20
+mua_bán trái_phép	20
+xử_phạt tù	20
+tình_tiết định khung hình_phạt	19
+hai trăm	19
+cai_nghiện ma_tuý tại_gia_đình cộng_đồng	18
+điều_trị nghiện ma_túy	18
+trọng_lượng chất ma_túy	18
+cơ_sở cai_nghiện bắt_buộc	18
+hình_phạt tù	17
+áp_dụng biện_pháp cơ_sở cai_nghiện bắt_buộc	17
+cơ_sở điều_trị	16
+- xử_phạt tù mười	16
+hối_lộ giá_trị	16
+cơ_sở cai_nghiện	16
+hình_phạt tuyên	16
+quỹ trái_phép	16
+buôn_bán trái_phép	15
+mười lăm	15
+hai trở	14
+dịch_vụ điều_trị nghiện chất dạng thuốc_phiện thuốc thay_thế	14
+tổng_số_lượng chất	13
+trăm năm_mươi	12
+tình_tiết định khung	11
+trái_phép chất ma_tuý "	11
+áp_dụng đối_với	11
+cai_nghiện trung_tâm	10
+giám_đốc thẩm	10
+thể rắn	9
+mươi gam	9
++ chất ma_túy	9
+tội_phạm ma_tuý	9
+hành_vi mua_bán	9
+5 kg	9
++ chất ma_túy thể	9
+cơ_sở giáo_dục	9
+sáu mươi	8
+bán_dâm cai_nghiện	8
+chính_phủ quy_định_chế_độ áp_dụng biện_pháp	8
+cơ_sở điều_trị nghiện	8
+trung_tâm giáo_dục	8
+cai_nghiện ma_túy tại_gia_đình	8
+kg trở	8
+sản_xuất trái_phép	7
+điều_trị nghiện	7
+hồ_sơ đề_nghị áp_dụng biện_pháp cơ_sở cai_nghiện bắt_buộc	7
+chống ma_túy	7
+chất ma_tuý số_lượng	7
+định khung hình_phạt	7
+cơ_sở cai_nghiện ma_túy tỉnh	6
+áp_dụng biện_pháp xử_lý hành_chính	6
+xử_phạt hành_chính	6
+phục_hồi hành_vi	6
+vận_chuyển trái_phép hàng_hoá	6
+đối_với thành_niên	6
+tù chung_thân	6
+quy_định_chế_độ áp_dụng biện_pháp	5
+đối_với hành_vi	5
+hai chất	5
+hồ_sơ đề_nghị áp_dụng biện_pháp	5
+trung_tâm dịch_vụ	4
+đề_nghị giám_đốc	4
+chất phóng_xạ	4
+đối_với nghiện	4
+xử_lý hành_chính	4
+điều_trị ổn_định	4
+quyết_định áp_dụng biện_pháp	3
++ đối_với	3
+cai_nghiện tại_gia_đình	3
+nghiện chất dạng thuốc_phiện thuốc thay_thế	3
+giáo_dục phục_hồi	3
+tình_trạng nghiện	3
+biện_pháp cơ_sở	3
+cơ_sở đề_nghị	3
+thuốc thay_thế	3
+đề_nghị áp_dụng	2
+áp_dụng biện_pháp xử_lý	2
+trở đối_với	2
+nghiện chất dạng thuốc_phiện	2
+thuốc điều_trị	2
+xử_phạt hành_chính hành_vi	2
+thuốc_phiện thuốc thay_thế	2
+biện_pháp cơ_sở cai_nghiện bắt_buộc	2
+sản_xuất trái_phép chất	2
+điều_trị nghiện chất dạng thuốc_phiện	2
+giá_trị trăm	2
+chống ma_tuý	2
+cai_nghiện ma_tuý tại_gia_đình	1
+sử_dụng quỹ	1
+điều_trị nghiện chất dạng	1
+dịch_vụ điều_trị nghiện chất dạng thuốc_phiện	1
++ chất	1
+tình_tiết "	1
+bổ_sung quỹ	1
+chính_phủ quy_định_chế_độ	1
+chất ma_tuý "	1
+sử_dụng trái_phép chất	1
+dịch_vụ điều_trị	1
+mua_bán trái_phép chất	1
+dịch_vụ điều_trị nghiện chất dạng	1
+giá_trị sản_xuất	1
+quy_định_chế_độ áp_dụng biện_pháp xử_lý hành_chính	1
+xử_lý hành_vi	1
+chất dạng thuốc_phiện	1
+chính_phủ quy_định_chế_độ áp_dụng biện_pháp xử_lý hành_chính	1
+cơ_sở giáo_dục -	1
+quyết_định tòa_án	1
+- đối_với	1
+chất dạng thuốc_phiện thuốc thay_thế	1
+chất ma_túy thể	1
+giáo_dục -	1
+ma_túy tự_nguyện	1
+tiền thuốc	1
+số_lượng giá_trị	1
+mục_đích sản_xuất	1

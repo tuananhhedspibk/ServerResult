@@ -1,0 +1,170 @@
+cơ_quan công_an	367
+công_an nhân_dân	328
+công_an tỉnh	270
+lực_lượng vũ_trang	261
+dân_quân tự_vệ	230
+đơn_vị quân_đội	96
+lực_lượng công_an	86
+chỉ_huy quân_sự tỉnh	86
+công_an huyện	83
+dân y	81
+quân_đội nhân_dân	76
+công_nhân_viên quốc_phòng	64
+huy_động lực_lượng	57
+cơ_quan quân_sự	56
+phục_vụ quốc_phòng	55
+phục_vụ chiến_đấu	54
+công_an nhân_dân vũ_trang	54
+đóng quân	52
+đội chủ_lực	52
+phục_vụ quân_đội	50
+sẵn_sàng chiến_đấu	46
+quốc_phòng - an_ninh	45
+viên_chức lực_lượng vũ_trang	45
+công_ty quốc_phòng	44
+công_an xã	44
+lực_lượng công_an nhân_dân	43
+xã đội	42
+tư_lệnh quân_khu	41
+ngành công_an	40
+ban chỉ_huy quân_sự	40
+ban chỉ_huy	40
+giám_đốc công_an tỉnh	39
+công_an trách_nhiệm	36
+nghĩa_vụ quân_sự	35
+phối_hợp quốc_phòng	34
+lực_lượng dân_quân tự_vệ	34
+phối_hợp công_an tỉnh	33
+cơ_quan công_an huyện	33
+an_ninh quốc_phòng	32
+công_tác quốc_phòng	30
+bộ_trưởng quốc_phòng	29
+ban chỉ_huy quân_sự huyện	29
+phối_hợp lực_lượng	28
+quân_y đơn_vị	27
+nhân khẩ	27
+công_an hướng_dẫn	26
+anh_hùng lực_lượng vũ_trang	26
+chủ_nhiệm quân_y	26
+công_nhân_viên_chức quốc_phòng	26
+quân_đội nhân_dân công_an nhân_dân	25
+đơn_vị vũ_trang nhân_dân	25
+quân_sự địa_phương	25
+bộ_trưởng công_an	24
+- quốc_phòng	23
+lĩnh_vực quốc_phòng	23
+lực_lượng vũ_trang nhân_dân	23
+toàn dân	22
+nhiệm_vụ quốc_phòng	22
+thời_gian phục_vụ quân_đội	21
+trưởng công_an	20
+công_an nhân_dân hưởng lương	20
+cơ_quan quân_sự địa_phương	20
+lực_lượng xây_lắp	20
+cục quân_y	20
+nhân dâ	19
+tem_thư quân_đội	19
+anh_hùng lực_lượng vũ_trang nhân_dân	19
+đơn_vị trực_thuộc quốc_phòng	19
+đơn_vị quân	18
+ban chỉ_huy quân_sự xã	18
+viên_chức dân y lực_lượng vũ_trang	18
+quân độ	18
+sĩ_quan quân_đội	17
+quốc_phòng -	17
+chiến_sỹ dân_quân tự_vệ	17
+công_an phường	17
+chỉ_huy quân_sự	17
+chỉ_huy đơn_vị	17
+quân_đội công_an	17
+phối_hợp cơ_quan công_an	17
+lực_lượng cảnh_sát	17
+cơ_quan công_an chuyên_trách	17
+chiến_sĩ cảnh_sát	16
+phục_vụ nhiệm_vụ	16
+lĩnh_vực an_ninh	15
+trưởng công_an xã	15
+liên_bộ quốc_phòng	15
+cán_bộ chỉ_huy	15
+phối_hợp công_an	14
+tổng_cục cảnh_sát	14
+pháp_lệnh dân_quân tự_vệ	14
+quốc_phòng nội_vụ	14
+cán_bộ chiến_sĩ	13
+quốc_phòng - công_an	13
+lực_lượng quân_đội	13
+phục_vụ an_ninh	12
+huấn_luyện quân_sự	11
+đơn_vị lực_lượng vũ_trang	11
+chỉ_huy quân_sự xã	11
+quân_y quân_khu	11
+đối_với dân_quân tự_vệ	10
+chuyên_dùng phục_vụ	10
+cục cảnh_sát	10
+giáo_dục quốc_phòng	10
+sắp_xếp lực_lượng	10
+trường_giáo_dưỡng công_an	9
+chỉ_đạo đơn_vị	9
+chứng_minh nhân_dân	9
+đối_với dân_quân	8
+sự_nghiệp lực_lượng vũ_trang	7
+- nội_vụ	7
+cơ_quan cảnh_sát	7
+quốc_phòng toàn dân	7
+mục_đích quốc_phòng	6
+đơn_vị trực_tiếp_quản_lý	6
+cục_trưởng cục	6
+phối_hợp cơ_quan	5
+quân_sự quân_khu	5
+trách_nhiệm phối_hợp	5
+đơn_vị trực_thuộc	5
+lực_lượng dân_quân	5
+quân_sự tỉnh	5
+nhân tỉnh	5
+luật dân_quân tự_vệ	5
+chiến_sĩ dân_quân	5
+quân_sự huyện	4
+đơn_vị bộ_đội	4
+phối_hợp ban	4
+đơn_vị vũ_trang	4
+liên_bộ quốc_phòng -	4
+chỉ_đạo lực_lượng	3
+phối_hợp cục	3
+cán_bộ công_nhân_viên	3
+thời_gian phục_vụ	3
+ban chỉ_đạo	3
+- an_ninh	3
+cơ_quan trực_tiếp_quản_lý	3
+nhiệm_vụ thường_trực	3
+bộ_trưởng nội_vụ	3
+toàn tỉnh	3
+cán_bộ công_nhân_viên_chức	3
+quân_sự xã	2
+giám_đốc công_an	2
+trưởng ban	2
+- quốc_phòng hướng_dẫn	2
+điều_động công_tác	2
+- cán_bộ	2
+nhân_dân tỉnh	2
+phục_vụ mục_đích	2
+chiến_sỹ dân_quân	2
+đối_với cơ_quan	1
+viên_chức ngành	1
+cán_bộ xã	1
+cơ_quan thường_trực	1
+- tổng_cục	1
+liên_bộ nội_vụ -	1
+nội_vụ -	1
+nhân_dân huyện	1
+vũ_trang nhân_dân	1
+chỉ_huy bộ_đội biên_phòng tỉnh	1
+dân y lực_lượng vũ_trang	1
+đơn_vị đóng	1
+đơn_vị thi_công	1
+nội_vụ hướng_dẫn	1
+trách_nhiệm hướng_dẫn	1
+huy_động dân	1
+yêu_cầu nhiệm_vụ	1
+nhân_dân vũ_trang	1
+phục_vụ công_tác	1
+huyện trách_nhiệm	1

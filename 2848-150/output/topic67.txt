@@ -1,0 +1,181 @@
+xây_dựng kế_hoạch	269
+quy_hoạch xây_dựng	213
+phù_hợp quy_hoạch	111
+quy_hoạch phát_triển	105
+xây_dựng phương_án	101
+lập kế_hoạch	95
+điều_chỉnh quy_hoạch	81
+xây_dựng đề_án	75
+lập quy_hoạch	72
+quy_hoạch chi_tiết	72
+dịch_vụ đô_thị – nông_thôn	70
+xây_dựng nông_thôn	66
+khu_vực đô_thị	66
+khu_vực nông_thôn	60
+xây_dựng quy_hoạch	58
+quy_hoạch đô_thị	53
+phân_loại đô_thị	52
+xây_dựng hệ_thống	49
+khu_vực cấm	42
+kế_hoạch dài_hạn	41
+kế_hoạch phát_triển	41
+lập phương_án	41
+quy_hoạch tổng_thể	41
+quy_hoạch chi_tiết xây_dựng	40
+quy_hoạch thăm_dò	37
+phê_duyệt quy_hoạch	36
+công_tác quy_hoạch xây_dựng	35
+quản_lý đô_thị	34
+quy_hoạch phát_triển ngành	34
+quy_hoạch duyệt	33
+phát_triển hệ_thống	31
+thực_hiện quy_hoạch	30
+đất đô_thị ( od đất nông_thôn ( on	30
+mỹ_quan đô_thị	28
+xây_dựng kế_hoạch đào_tạo	28
+đồ_án quy_hoạch xây_dựng	28
+đô_thị (	28
+thẩm_định đề_án	27
+điều_chỉnh kế_hoạch	27
+chỉ_giới xây_dựng	27
+phát_triển đô_thị	27
+hệ_thống thoát	26
+mật_độ xây_dựng	26
+quy_hoạch mạng_lưới	26
+phạm_vi ranh_giới	24
+quy_hoạch phân khu	23
+thẩm_định phương_án	22
+đồ_án quy_hoạch	22
+xây_dựng mô_hình	21
+nằm quy_hoạch	21
+xây_dựng hệ_thống thông_tin	21
+phù_hợp quy_hoạch phát_triển	21
+dịch_vụ đô_thị	21
+công_tác quy_hoạch	21
+khu_vực công_thương_nghiệp	20
+khu_vực quy_hoạch	20
+quy_hoạch xây_dựng đô_thị	20
+lập đề_án	20
+quy_hoạch tổng_thể phát_triển	19
+trung_tâm dịch_vụ	19
+hạ_tầng kỹ_thuật đô_thị	18
+đề_án pod	18
+bổ_sung quy_hoạch	18
+quy_mô dân_số	17
+điều_chỉnh phù_hợp	16
+xây_dựng khu	16
+kế_hoạch đào_tạo	16
+quy_hoạch thẩm_quyền phê_duyệt	15
+phê_duyệt kế_hoạch	15
+phát_triển mạng_lưới	14
+lập quy_hoạch chi_tiết	14
+xây_dựng chương_trình	14
+phê_duyệt đề_án	13
+phạm_vi điều_chỉnh	13
+phê_duyệt phương_án	12
+đề_án phát_triển	12
+hệ_thống hạ_tầng	12
+thông_qua quy_hoạch	12
+xây_dựng cơ_sở	12
+đất nông_thôn	12
+xây_dựng kết_cấu_hạ_tầng	12
+khu trung_tâm	11
+đầu_tư xây_dựng	11
+cây_xanh đô_thị	11
+trung_tâm thương_mại	11
+đầu_tư phát_triển	10
+phương_án cải_tạo	10
+thương_mại dịch_vụ	10
+đề_xuất phương_án	10
+phát_triển nhân_lực	10
+xây_dựng kế_hoạch phát_triển	10
+quy_hoạch 01	9
+kế_hoạch đầu_tư	9
+xây_dựng đô_thị	9
+kế_hoạch tổng_thể	9
+công_tác xây_dựng	9
+phát_triển thương_mại	9
+công_bố quy_hoạch	9
+thông_qua đề_án	9
+vật_liệu xây_dựng	9
+đất đô_thị	9
+phương_án bồi_thường	8
+cải_tạo nâng_cấp	8
+hoàn_thiện hệ_thống	8
+ha trở	8
+cơ_sở hạ_tầng	8
+thực_hiện đề_án	7
+bổ_sung phù_hợp	7
+đồ_án quy_hoạch chi_tiết	7
+xây_dựng khu_đô_thị	6
+thẩm_quyền phê_duyệt	6
+dự_kiến kế_hoạch	6
+phát_triển ngành	6
+đô_thị i	5
+đất đô_thị ( od	5
+thẩm_định phê_duyệt	5
+hệ_thống kết_cấu_hạ_tầng	5
+hạ_tầng thương_mại	5
+hạ_tầng khu	5
+nông_thôn (	5
+nằm khu	5
+luật quy_hoạch đô_thị	5
+khuyến_khích phát_triển	5
+trung_tâm phát_triển	4
+xây_dựng cơ_sở hạ_tầng	4
+phê_duyệt phương_án bồi_thường	4
+kế_hoạch duyệt	4
+quy_hoạch sử_dụng đất	4
+phát_triển hạ_tầng	4
+phù_hợp quy_hoạch tổng_thể	4
+trung_tâm phát_triển quỹ đất	4
+thực_hiện kế_hoạch	4
+thực_hiện kế_hoạch phát_triển	3
+chương_trình phát_triển	3
+quy_hoạch sử_dụng	3
+phù_hợp quy_hoạch tổng_thể phát_triển	3
+tổng_thể phát_triển	3
+( chi_tiết	3
+phù_hợp quy_hoạch tổng_thể phát_triển kinh_tế	3
+kỹ_thuật đô_thị	3
+thẩm_quyền phê_duyệt phương_án	3
+đào_tạo nhân_lực	3
+thực_hiện công_tác	3
+đầu_tư xây_dựng cơ_sở hạ_tầng	3
+luật xây_dựng	3
+phân khu	3
+đầu_tư xây_dựng kết_cấu_hạ_tầng	3
+đất thương_mại	2
+lập quỹ	2
+đầu_tư hạ_tầng	2
+hệ_thống hạ_tầng kỹ_thuật	2
+nằm phạm_vi	2
+mô_hình quản_lý	2
+hệ_thống cơ_sở	2
+hệ_thống thông_tin	2
+xây_dựng trường	2
+( ha	2
+đất nằm	1
+trung_tâm phát_triển quỹ	1
+chợ nông_thôn	1
+thực_hiện kế_hoạch phê_duyệt	1
+xây_dựng chợ	1
+xây_dựng chợ nông_thôn	1
+trường đào_tạo	1
+chương_trình đào_tạo	1
+phát_triển quỹ	1
+( od	1
+dịch_vụ kỹ_thuật	1
+đề_án thăm_dò	1
+quỹ đất	1
+kế_hoạch sử_dụng đất	1
+khu đất	1
+phù_hợp quy_mô	1
+phát_triển nông_thôn	1
+cơ_sở đào_tạo	1
+03 (	1
+công_tác quản_lý	1
+thông_qua hệ_thống	1
+phát_triển cơ_sở hạ_tầng	1
+đào_tạo phù_hợp	1
+thẩm_quyền thẩm_định	1

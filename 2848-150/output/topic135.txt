@@ -1,0 +1,120 @@
+ubnd tỉnh	1320
+ubnd huyện	675
+chủ_tịch ubnd huyện	343
+chủ_tịch ubnd tỉnh	314
+ubnd xã	265
+chánh văn_phòng ubnd tỉnh	245
+hđnd tỉnh	224
+văn_phòng ubnd tỉnh	165
+trình ubnd tỉnh	161
+báo_cáo ubnd tỉnh	105
+chủ_tịch ubnd xã	93
+tham_mưu ubnd tỉnh	78
+trình ubnd tỉnh quyết_định	71
+địa_bàn tỉnh long an	68
+ubnd tỉnh quyết_định	58
+ubnd tỉnh ban_hành	56
+ubnd tỉnh phê_duyệt	55
+thường_trực hđnd	51
+chánh văn_phòng	50
+đại_biểu hđnd	49
+chủ_tịch ubnd	47
+thành_viên ubnd tỉnh	47
+thường_trực hđnd tỉnh	46
+nghị_quyết hđnd tỉnh	45
+ubnd tỉnh xem_xét	45
+chủ_tịch ubnd tỉnh quyết_định	42
+giúp ubnd tỉnh	41
+ubnd tỉn	41
+đại_biểu hđnd tỉnh	37
+ubnd tỉnh ban_hành quy_định	36
+địa_bàn tỉnh	36
+trình chủ_tịch ubnd tỉnh	35
+trình ubnd huyện	34
+ban hđnd	33
+cơ_quan chuyên_môn ubnd tỉnh	32
+trình ubnd tỉnh phê_duyệt	31
+trình ubnd	30
+trình ubnd tỉnh xem_xét	30
+tỉnh phú_yên	30
+trình chủ_tịch	28
+ubnd huyệ	26
+hđnd huyện	26
+địa_phận huyện	26
+báo_cáo ubnd tỉnh xem_xét	25
+tỉnh long an	24
+chủ_tịch phó_chủ_tịch	24
+tỉnh quyết_định	23
+ngành tỉnh	23
+gửi văn_phòng ubnd tỉnh	22
+giá_cả huyện	20
+trình hđnd tỉnh	20
+trình chủ_tịch ubnd tỉnh phê_duyệt	20
+trình chủ_tịch ubnd tỉnh quyết_định	19
+ubnd tỉnh phú_yên	18
+chủ_tịch ubnd tỉnh xem_xét	17
+đề_xuất ubnd tỉnh	17
+trình hđnd	17
+hđnd xã	16
+ubnd tỉnh đồng_nai	16
+báo_cáo chủ_tịch ubnd tỉnh	16
+báo_cáo ubnd	15
+chủ_tịch ubnd tỉnh phê_duyệt	15
+địa_bàn huyện	13
+tỉnh xem_xét	13
+cơ_quan thường_trực	13
+báo_cáo chủ_tịch	13
+ubnd huyện phê_duyệt	12
+tổng_hợp báo_cáo ubnd tỉnh	12
+tổ đại_biểu hđnd	12
+ubnd tỉnh trình	11
+đoàn_thể tỉnh	9
+2017 ubnd tỉnh	9
+văn_phòng ubnd tỉnh trình lãnh_đạo	8
+văn_phòng ubnd tỉnh trình lãnh_đạo ubnd tỉnh	8
+xem_xét quyết_định	8
+lãnh_đạo ubnd tỉnh	7
+huyện quyết_định	7
+tham_mưu ubnd	6
+trình lãnh_đạo	6
+nghị_quyết hđnd	6
+long an	5
+phó_chủ_tịch ubnd	5
+giúp ubnd	5
+tham_mưu giúp	5
+trình chủ_tịch ubnd	4
+chánh thanh_tra tỉnh	4
+tỉnh phê_duyệt	4
+thanh_tra tỉnh	4
+quyết_định phê_duyệt	4
+xem_xét trình	4
+ban_hành quyết_định	3
+giúp chủ_tịch	3
+địa_bàn tỉnh phú_yên	3
+thành_viên ubnd	3
+phó_chủ_tịch thường_trực	3
+tỉnh ban_hành	3
+tỉnh đồng_nai	3
+văn_phòng ubnd	2
+gửi ban	2
+cơ_quan chuyên_môn ubnd	2
+tham_mưu chủ_tịch	2
+tỉnh trình	2
+thành_viên ban	2
+chuyên_môn ubnd	2
+văn_phòng ubnd tỉnh trình	2
+địa_bàn xã	2
+tổ đại_biểu đại_biểu	2
+báo_cáo chủ_tịch ubnd	2
+ubnd tỉnh xem_xét quyết_định	1
+tổng_hợp trình	1
+giúp lãnh_đạo cơ_quan	1
+tỉnh ban_hành quy_định	1
+phê_duyệt báo_cáo	1
+báo_cáo tổng_hợp	1
+tổng_hợp báo_cáo	1
+lãnh_đạo văn_phòng	1
+tỉnh xem_xét quyết_định	1
+thủ_trưởng cơ_quan chuyên_môn ubnd	1
+ban thường_trực	1
+tổ đại_biểu	1

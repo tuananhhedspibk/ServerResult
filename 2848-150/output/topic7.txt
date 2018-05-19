@@ -1,0 +1,136 @@
+trồng rừng	178
+rừng phòng_hộ	138
+phát_triển đất trồng lúa	100
+rừng trồng	82
+rừng đặc_dụng	77
+bảo_vệ rừng	65
+giao đất	59
+rừng sản_xuất	57
+đất trồng lúa	55
+rừng tự_nhiên	53
+trồng lúa	47
+sử_dụng đất trồng lúa	46
+phân_hạng đất	46
+đất rừng phòng_hộ	46
+bảo_vệ phát_triển rừng	43
+giao đất lâm_nghiệp	42
+đất trồng hàng	41
+đất rừng	39
+hạng đất	38
+giao rừng	35
+đất trồng	35
+đất lâm_nghiệp	34
+đất trồng lâu_năm	33
+đất chuyên trồng lúa_nước	32
+diện_tích rừng	32
+chuyên trồng lúa_nước	28
+phát_triển rừng	25
+tổ_chức phát_triển quỹ đất	25
+diện_tích đất	25
+che_phủ rừng	25
+mục_đích sử_dụng đất trồng lúa	24
+đất sản_xuất	24
+quỹ đất	23
+trồng phân_tán	22
+- đất độ_phì	22
+quỹ phát_triển đất	22
+đối_với cây_trồng	22
+điể đất	22
+5 yếu_tố	22
+đất rừng đặc_dụng	21
+rừng trồng nguyên_liệu gỗ	21
+trồng hàng	20
+trung_tâm phát_triển quỹ đất	20
+diện_tích đất canh_tác	20
+tổng diện_tích	20
+cây_gỗ nguy_cấp	20
+thuế sử_dụng đất nông_nghiệp	20
+phân_hạng đất thuế	20
+sử_dụng đất	19
+thành rừng	19
+nguyên_liệu gỗ	19
+đặc_sản rừng	19
+đối_với đường_phố có_giá đất mặt_tiền 1	18
+đất rừng sản_xuất	18
+khu rừng	18
+nguyên_liệu giấy	17
+5 triệu ha rừng	17
+khoán rừng đất lâm_nghiệp	17
+trồng lâu_năm	16
+đối_với đất trồng	14
+đất có_mặt_nước	13
+diện_tích trồng	13
+rừng đất lâm_nghiệp	13
+đất trồng lúa_nước	13
+trồng công_nghiệp	13
+có_giá đất mặt_tiền	12
+trồng lúa_nước	12
+rừng phòng_hộ rừng đặc_dụng	12
+bảo_vệ phát_triển	11
+phát_triển quỹ đất	11
+5 ha	11
+đất trống	11
+đất canh_tác	10
+phòng_hộ đầu	10
+sử_dụng đất lâm_nghiệp	10
+đất nông_nghiệp	9
+cung_cấp nguyên_liệu	8
+hạng đất thuế	8
+nghề rừng	8
+đất vườn	7
+sản_xuất lâm_nghiệp	7
+trung_tâm phát_triển	6
+sản_xuất nông_nghiệp	6
+phòng_hộ xung_yếu	6
+phòng_hộ rừng	6
+khoán rừng	6
+có_giá đất mặt_tiền 1	6
+trồng rừng nguyên_liệu	5
+mục_đích sử_dụng	5
+đối_với đất nông_nghiệp	4
+đất chuyên trồng	4
+khu đất	4
+đối_với diện_tích	4
+5 triệu	4
+rừng nguyên_liệu	4
+chăm_sóc bảo_vệ	4
+tái_sinh rừng	3
+phát_triển đất	3
+mục_đích sản_xuất	3
+có_giá đất	2
+trung_tâm phát_triển quỹ	2
+đất độ_phì	2
+phát_triển sản_xuất	2
+phát_triển chăn_nuôi	2
+phát_triển đất trồng	2
+triệu ha	2
+thuế nông_nghiệp	2
+chuyên trồng	2
+lô đất	2
+tỷ_lệ che_phủ	2
+ha rừng	2
+đất nằm	1
+diện_tích đất nông_nghiệp	1
+mục_đích sử_dụng đất	1
+sử_dụng quỹ	1
+chu_kỳ sản_xuất	1
+sử_dụng diện_tích	1
+chiếm tỷ_lệ	1
+phát_triển đất trồng lúa địa_bàn tỉnh	1
+diện_tích sử_dụng	1
+bảo_vệ chăm_sóc	1
+1 -	1
+sử_dụng đất trồng	1
+mục_đích lâm_nghiệp	1
+1 triệu	1
+sản_xuất công_nghiệp	1
+đất khu	1
+- đối_với	1
+sử_dụng đất nông_nghiệp	1
+trồng 5 triệu ha	1
+bình_quân 1	1
+nông_nghiệp đất	1
+diện_tích đất trồng	1
+sử_dụng mục_đích	1
+thuế sử_dụng đất	1
+triệu ha rừng	1

@@ -1,0 +1,152 @@
+bao_gồm :	1225
+cụ_thể :	888
+đối_tượng áp_dụng	554
+phạm_vi điều_chỉnh	463
+quyết_nghị :	429
+quyết_định :	383
+đối_tượng áp_dụng :	227
+: 100	176
+áp_dụng đối_với	165
+nguyên_tắc :	158
+xã :	154
+phạm_vi điều_chỉnh đối_tượng áp_dụng	128
+nội_dung :	128
+: 20	127
+phạm_vi điều_chỉnh :	121
+: 50	113
+: 200	111
+ví_dụ :	109
+đối_với đối_tượng	102
+công_thức :	92
+: 500	84
+giấy_tờ :	82
+phạm_vi áp_dụng	82
+: tối_đa	81
+: 30	79
+: 150	78
+quy_định cụ_thể :	74
+thí_dụ :	74
+: 300	72
+: 80	70
+hình_thức :	67
+đối_tượng phạm_vi áp_dụng	63
+quy_định cụ_thể	57
+chú_ý :	56
+ghi_chú :	54
+chủ_yếu :	52
+áp_dụng :	52
+: 40	52
+cơ_bản :	49
+đối_tượng miễn	48
+đối_tượng nêu	47
+: áp_dụng đối_với	43
+đối_tượng tham_gia	41
+điều_kiện :	40
+: 60	38
+công_việc :	35
+: 70	35
+áp_dụng hình_thức	35
+áp_dụng biện_pháp	35
+đối_tượng quy_định	33
+: 250	32
+áp_dụng thống_nhất	32
+đối_tượng thu :	30
+: 120	30
+nguyên_tắc áp_dụng	30
+phạm_vi áp_dụng :	30
+: 400	30
+đối_tượng diện	28
+phạm_vi toàn_quốc	27
+phạm_vi đối_tượng	27
+phạm_vi đối_tượng áp_dụng	25
+xác_định công_thức :	25
+nội_dung chủ_yếu :	25
+áp_dụng đối_với giám_định chết	24
+- xã :	24
+điều_chỉnh :	24
+diện rộng	23
+phạm_vi ảnh_hưởng	21
+2025 :	21
+: áp_dụng giá	20
+phạm_vi rộng	20
+nội_dung cụ_thể :	19
+chiếu áp_dụng	19
+hai hình_thức :	19
+áp_dụng tất_cả	19
+đối_tượng phạm_vi	19
+quy_định áp_dụng đối_với	18
+đối_tượng thụ_hưởng	18
+áp_dụng phương_thức	18
+quyết_định giá_như :	18
+: 700	18
+bao_gồm tiếp_thu	18
+áp_dụng đơn_giá	17
+áp_dụng quy_định	16
+quy_định quyết_định	16
+xem_xét điều_chỉnh	16
+tối_đa 500	16
+xác_định cụ_thể	15
+điều_chỉnh phù_hợp	14
+40 chỉ_tiêu :	13
+: “	12
+từ_ngữ :	12
+nội_dung cơ_bản :	12
+áp_dụng đối_với đối_tượng	11
+đối_với xã	10
+tối_đa 300	10
+bao_gồm nội_dung	10
+đối_tượng điều_kiện	10
+bao_gồm : chi_phí	10
+tối_đa 200	9
+xem_xét quyết_định	9
+% áp_dụng đối_với	8
+nội_dung chủ_yếu	8
+nội_dung cụ_thể	8
+bao_gồm chi_phí	8
+khoán :	7
+quyết_định áp_dụng biện_pháp	7
+nằm phạm_vi	7
+quyết_định miễn	7
+đối_với đối_tượng nêu	6
+giấy_tờ quy_định	6
+áp_dụng đối_với tất_cả	6
+có_thể áp_dụng	6
+giá_như :	6
+: hệ_số điều_chỉnh	5
+diện miễn	5
+nội_dung cơ_bản	5
+quy_định nguyên_tắc	5
+tối_đa 150	5
+- đối_với đối_tượng	4
+điều_chỉnh đơn_giá	4
+xác_định công_thức	4
+nội_dung quy_định	3
+đối_với đối_tượng quy_định	3
+hình_thức khoán	3
+áp_dụng đầu_tiên	3
+đối_với tất_cả	3
+hai hình_thức	3
+tối_đa 30	2
+điều_chỉnh giá	2
+điều_kiện cụ_thể	2
+phù_hợp nội_dung	2
+tối_đa 20	2
+nội_dung công_việc	2
+tối_đa 50	2
+giá cụ_thể	2
+áp_dụng đối_với giám_định	2
+: hệ_số	2
+áp_dụng hệ_số	1
+công_việc cụ_thể	1
+đối_tượng thu	1
+30 chỉ_tiêu	1
+nông_thôn : hệ_số điều_chỉnh	1
+có_thể xem_xét	1
+cụ_thể phù_hợp	1
+tối_đa 100	1
+40 chỉ_tiêu	1
+phương_thức khoán	1
+- đối_với	1
+tối_đa 70	1
+điều_chỉnh đối_tượng	1
+60 %	1

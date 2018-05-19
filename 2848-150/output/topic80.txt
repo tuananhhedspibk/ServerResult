@@ -1,0 +1,365 @@
+giáo_dục đào_tạo	700
+trường đại_học	185
+trường phổ_thông	182
+sở giáo_dục đào_tạo	180
+cơ_sở giáo_dục	160
+đối_với học_sinh	154
+cơ_sở đào_tạo	148
+đối_với giáo_viên	125
+ngành giáo_dục	121
+giáo_dục - đào_tạo	110
+trung_học phổ_thông	103
+trung_học chuyên_nghiệp	98
+trung_học cơ_sở	96
+giáo_viên dạy	95
+lưu học_sinh	91
+trường mầm_non	87
+trường sư_phạm	87
+bổ_túc văn_hoá	84
+cơ_sở giáo_dục đào_tạo	83
+cơ_sở giáo_dục - đào_tạo	78
+ngành giáo_dục đào_tạo	75
+đại_học trung_học chuyên_nghiệp	70
+giáo_viên chuyên_trách	70
+học trường	69
+sự_nghiệp giáo_dục	67
+giáo_viên phổ_thông	65
+bậc học	64
+giáo_dục mầm_non	62
+lớp đào_tạo	62
+phòng giáo_dục	61
+hệ_thống giáo_dục quốc dân	56
+đào_tạo đại_học	56
+tốt_nghiệp đại_học	55
+trường phổ_thông dân_tộc nội_trú	52
+sở giáo_dục	52
+quỹ bảo_trợ nhà_trường	51
+trường tiểu_học	50
+học văn_hóa	49
+trường lớp	47
+phụ_cấp dạy	46
+đội_ngũ giáo_viên	46
+phòng học	45
+trình_độ đại_học	44
+trường cao_đẳng	44
+phổ_cập giáo_dục	43
+giáo_viên mẫu_giáo	43
+trung_học chuyên_nghiệp dạy nghề	39
+dạy nghề	38
+sở giáo_dục - đào_tạo	38
+tiền_lương dạy	38
+phòng giáo_dục đào_tạo	37
+trường trung_học phổ_thông	37
+giáo_viên kiêm chức	37
+- đào_tạo	36
+lớp bồi_dưỡng	36
+giáo_viên trường	36
+giáo_viên dân_lập	35
+học_sinh trường	35
+ty giáo_dục	35
+chương_trình đào_tạo	34
+khoá học	34
+giáo_viên mầm_non	34
+đào_tạo giáo_viên	34
+cơ_sở vật_chất	33
+bồi_dưỡng giáo_viên	33
+môn_học gdqp	33
+trường đào_tạo	32
+quỹ học_phí	32
+liên_bộ giáo_dục đào_tạo	32
+giáo_dục phổ_thông	32
+cán_bộ quản_lý giáo_dục	32
+trình_độ cao_đẳng	31
+giáo_dục đào_tạo ban_hành	30
+cơ_sở giáo_dục đào_tạo công_lập	30
+trường trung_học chuyên_nghiệp	30
+trường dạy nghề	29
+kết_quả học_tập	29
+sinh_viên học	29
+xoá mù_chữ	29
+trường trung_học cơ_sở	29
+giáo_dục quốc_phòng	29
+công_tác bổ_túc văn_hoá	28
+cơ_sở giáo_dục mầm_non	28
+đối_với trường	28
+đào tạ	28
+phổ_thông trung_học	27
+bổ_túc văn_hóa	27
+liên_bộ tài_chính - giáo_dục đào_tạo	27
+dự_bị đại_học	27
+trường mẫu_giáo	26
+trung_tâm giáo_dục	26
+trung_tâm giáo_dục thường_xuyên	26
+khoa sư_phạm	26
+dạy lớp	26
+đào_tạo cán_bộ	25
+giáo_viên giảng_dạy	25
+học_sinh giỏi	25
+thi tốt_nghiệp	25
+bộ_trưởng giáo_dục đào_tạo	25
+giáo_viên tiểu_học	24
+trường dự_bị đại_học	24
+ngạch giáo_viên trung_học cơ_sở	24
+giám_đốc sở giáo_dục đào_tạo	24
+giáo_viên chuyên_nghiệp	24
+ngạch giáo_viên mầm_non	24
+trường mầm_non công_lập	24
+dạy giáo_viên	23
+trình_độ đào_tạo	23
+ngạch giáo_viên tiểu_học	23
+chi sở phòng phát_hành sách	23
+lĩnh_vực giáo_dục - đào_tạo	23
+học_sinh học	22
+kiêm chức	22
+dạy văn_hóa	22
+tài_chính - giáo_dục đào_tạo	22
+giáo_viên vỡ_lòng	22
+kế_hoạch đào_tạo	22
+cha_mẹ học_sinh	22
+lớp tại_chức	22
+trường công_lập	22
+phòng lđ-tbxh	22
+sinh_viên trường	22
+công_tác trường chuyên_biệt	21
+trường đại_học trung_học chuyên_nghiệp	21
+đầu năm_học	21
+sinh_viên diện	21
+mời giảng	21
+chi quỹ học_phí	21
+cơ_sở giáo_dục trường_giáo_dưỡng	21
+giáo_viên quốc_lập	21
+cơ_sở giáo_dục mầm_non công_lập	20
+lớp mẫu_giáo	20
+trường chuyên_biệt	20
+chương_trình giáo_dục	20
+ngạch giáo_viên trung_học	20
+môn gdqp	19
+học_sinh không_thể đi trường trở	19
+biên_chế giáo_viên	19
+giáo_dục thường_xuyên	19
+học_sinh lào	19
+thcn dn	19
+cơ_sở giáo_dục công_lập	19
+xóa mù_chữ	19
+khuyến_khích học_tập	18
+trình_độ học_vấn	18
+học_sinh campuchia	18
+tốt_nghiệp trường	18
+sinh_viên trường đào_tạo công_lập	18
+bảo_trợ nhà_trường	18
+trường trung_học	18
+khoản đóng_góp xây_dựng trường	18
+giáo_viên dạy lớp	18
+công_tác cơ_sở giáo_dục đào_tạo	18
+- giáo_dục đào_tạo	18
+trung_tâm gdqp	17
+trung_cấp chuyên_nghiệp	17
+giáo_dục nghề_nghiệp	17
+cơ_sở giáo_dục phổ_thông công_lập	17
+xây_dựng trường	17
+lớp đại_học	16
+giáo_viên dân_lập i	16
+tốt_nghiệp trung_học cơ_sở	16
+dạy học	16
+khóa học	16
+cao_đẳng sư_phạm	16
+chuyên_ngành đào_tạo	16
+ngạch giáo_viên	15
+đồ_dùng dạy_học	15
+đi đào_tạo	15
+mác -	15
+đào_tạo bồi_dưỡng	15
+dự_án phát_triển giáo_viên tiểu_học	15
+giảng_dạy trường	15
+đi học	15
+đồ_dùng học_tập	15
+bồi_dưỡng giáo_viên dạy nghề	15
+công_tác dạy văn_hóa	15
+lương giáo_viên	14
+tốt_nghiệp trung_học	14
+giáo_dục đào_tạo hướng_dẫn	14
+đối_với cơ_sở	14
+lớp mầm_non	14
+hiệu_trưởng trường	14
+học_sinh trường đại_học	14
+học_bổng khuyến_khích học_tập	14
+liên_bộ giáo_dục	14
+giáo_viên tiểu_học chuẩn	14
+học_bổng học_sinh	14
+trung_học sư_phạm	14
+liên_bộ giáo_dục -	14
+công_tác đào_tạo	14
+kinh_phí đào_tạo	13
+cơ_quan quản_lý giáo_dục đào_tạo	13
+đào_tạo lái_xe	13
+cơ_sở đào_tạo nước_ngoài	13
+bồi_dưỡng tại_chức	13
+- đối_với	13
+quản_lý giáo_dục	13
+miễn học_phí	12
+tốt_nghiệp trung_học phổ_thông	12
+đại_học sư_phạm	12
+dạy trường	12
+trường thpt	12
+học_sinh phổ_thông	12
+phân_công dạy	11
+đối_tượng học_sinh	11
+học_sinh trường phổ_thông	11
+học_tập nước_ngoài	11
+ngành_nghề đào_tạo	11
+học_phí đối_với học_sinh	11
+học_sinh trường phổ_thông dân_tộc	10
+hệ_thống giáo_dục	10
+giáo_viên dạy nghề	10
+sinh_viên đối_tượng	10
+cơ_sở công_lập	10
+sinh_viên tốt_nghiệp	10
+đào_tạo nước_ngoài	10
+học_sinh dân_tộc_thiểu_số nội_trú	10
+quỹ học_bổng	10
+giáo_viên trung_học cơ_sở	9
+học_sinh diện	9
+đào_tạo nghề	9
+công_chức giáo_viên phổ_thông	9
+liên_bộ giáo_dục đào_tạo -	9
+giáo_viên trung_học	9
+học nghề	9
+chương_trình bổ_túc	9
+mầm_non công_lập	9
+đào_tạo cán_bộ khoa_học	9
+giáo_dục -	9
+chương_trình môn_học	9
+sách giáo_khoa	9
+học lớp	8
+bố_trí giáo_viên	8
+học phổ_thông	8
+giáo_viên tốt_nghiệp	8
+liên_bộ giáo_dục đào_tạo - tài_chính	8
+cán_bộ khoa_học	8
+công_tác tuyển_sinh	8
+lớp ghép	7
+quốc phòn	7
+cơ_quan quản_lý giáo_dục	7
+cơ_sở giáo_dục -	7
+tốt_nghiệp đại_học trở	7
+trường phổ_thông dân_tộc	7
+viên_chức ngành giáo_dục	6
+học_sinh dân_tộc_thiểu_số	6
+học_bổng khuyến_khích	6
+trường đào_tạo công_lập	6
+giáo_dục sức_khoẻ	6
+quản_lý quỹ	6
+lĩnh_vực giáo_dục	6
+cán_bộ quản_lý	6
+cơ_sở giáo_dục phổ_thông	6
+học_sinh trung_học	6
+bồi_dưỡng kiến_thức	6
+mầm_non tiểu_học	6
+trực_tiếp giảng_dạy	6
+phổ_thông công_lập	6
+đóng_góp xây_dựng trường	6
+giáo_dục đào	5
+sở tài_chính	5
+giáo_dục tiểu_học	5
+phát_triển giáo_viên tiểu_học	5
+đào_tạo hệ_thống giáo_dục quốc dân	5
+học_phí trường	5
+học_phí đối_với	5
+mầm_non chuẩn	5
+chi đào_tạo	5
+đào_tạo trình_độ	5
+xây_dựng chương_trình	5
+chuyên_nghiệp dạy nghề	5
+đóng_góp xây_dựng	4
+giáo_dục phổ_thông công_lập	4
+xây_dựng chương_trình khung	4
+- tài_chính - giáo_dục đào_tạo	4
+trung_tâm dạy nghề	4
+i -	4
+trung_học cơ_sở chuẩn	4
+giáo_viên kiêm	4
+lương cơ_sở	4
+đi học trường	4
+dân_tộc nội_trú	4
+trường đại_học trung_học	3
+thi học_sinh	3
+đào_tạo công_lập	3
+trình_độ đại_học trở	3
+giáo_dục đào_tạo - tài_chính	3
+học_tập rèn_luyện	3
+đại_học trung_học	3
+quản_lý ngành	3
+kiến_thức quản_lý	3
+đối_với cán_bộ	3
+giáo_dục đào_tạo công_lập	3
+cơ_sở giáo_dục - đào_tạo hệ_thống giáo_dục	2
+ngành văn_hóa	2
+thi học_sinh giỏi	2
+xây_dựng hệ_thống	2
+sự_nghiệp văn_hoá	2
+bộ_trưởng giáo_dục	2
+giáo_dục quốc dân	2
+phổ_thông dân_tộc nội_trú	2
+đội_ngũ cán_bộ	2
+khoản phụ_cấp	2
+văn_hóa -	2
+giáo_dục - tài_chính	2
+sở giáo_dục -	2
+trực_tiếp giảng_dạy trường	2
+giáo_viên trung_học cơ_sở chuẩn	2
+phát_triển ngành	2
+phổ_thông i	2
+cơ_sở giáo_dục - đào_tạo hệ_thống giáo_dục quốc	2
+lớp tập_huấn	2
+chi quỹ	2
+dân_lập i	2
+diện miễn	2
+tiểu_học chuẩn	2
+tuyển biên_chế	2
+văn_hoá -	2
+hướng_dẫn quản_lý	1
+trung_học chuyên_nghiệp dạy	1
+đào_tạo - tài_chính	1
+sở văn_hóa	1
+đại_học trở	1
+- tài_chính	1
+quỹ bảo_trợ	1
+tài_chính ban_hành	1
+công_tác dân_tộc	1
+ngắn_hạn nước_ngoài	1
+trường dự_bị	1
+sở văn_hoá	1
+trường chuẩn	1
+ngành văn_hoá	1
+liên_bộ giáo_dục - tài_chính	1
+dân_tộc_thiểu_số nội_trú	1
+đóng_góp quỹ	1
+trường dạy	1
+sở xây_dựng	1
+đào_tạo sĩ_quan	1
+kết_quả công_tác	1
+giáo_dục mầm_non công_lập	1
+chi công_tác	1
+dân_tộc bán_trú	1
+liên_bộ hướng_dẫn	1
+giáo_dục quốc	1
+- chi	1
+xây_dựng cơ_sở	1
+cán_bộ chuyên_trách	1
+hệ_thống cơ_sở	1
+công_tác xây_dựng	1
+khuyến_khích phát_triển	1
+bổ_túc trung_học	1
+đi công_tác	1
+cơ_sở dạy nghề	1
+biên_chế công_tác	1
+công_tác quốc_phòng	1
+sinh_viên trường đào_tạo	1
+quốc dân	1
+đối_tượng miễn	1
+học_sinh không_thể	1
+- giáo_dục đào_tạo hướng_dẫn	1
+xây_dựng kế_hoạch	1
+bố_trí cán_bộ	1
+cán_bộ công_tác	1
+công_tác phòng	1

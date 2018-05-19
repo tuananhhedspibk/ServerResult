@@ -1,0 +1,89 @@
+hạ_tầng kỹ_thuật	79
+công_trình hạ_tầng kỹ_thuật	78
+công_trình hạ_tầng kỹ_thuật sử_dụng	73
+cáp viễn_thông	67
+cột ăng ten	43
+cột treo cáp	33
+cơ_sở hạ_tầng	32
+cột điện	31
+bưu_chính viễn_thông	29
+doanh_nghiệp viễn_thông	26
+quy_chuẩn kỹ_thuật quốc_gia	26
+công_trình hạ_tầng kỹ_thuật viễn_thông thụ_động	25
+sử_dụng công_trình hạ_tầng kỹ_thuật	24
+quy_hoạch_hạ_tầng kỹ_thuật viễn_thông thụ_động	23
+neo đậu	22
+cơ_sở hạ_tầng đường_sắt	21
+thuế_lợi tứ	20
+hạ_tầng kỹ_thuật viễn_thông thụ_động	19
+mạng viễn_thông	19
+cáp treo	18
+yêu_cầu kỹ_thuật	18
+kỹ_thuật viễn_thông thụ_động	18
+công_trình hạ_tầng	17
+phát_triển cơ_sở hạ_tầng	17
+hộp cáp	16
+xây_dựng công_trình hạ_tầng kỹ_thuật viễn_thông thụ_động	15
+hệ_thống hạ_tầng kỹ_thuật	15
+công_trình hạ_tầng kỹ_thuật đi cáp viễn_thông	14
+treo cáp viễn_thông	14
+hạ_tầng kỹ_thuật đi cáp viễn_thông	12
+quy_chuẩn kỹ_thuật	12
+kỹ_thuật đi cáp viễn_thông	11
+đi cáp viễn_thông	9
+biện_pháp kỹ_thuật	8
+xây_dựng công_trình hạ_tầng kỹ_thuật	8
+xây_dựng_hạ_tầng kỹ_thuật	7
+viễn_thông địa_bàn	7
+công_trình ngầm	7
+đầu_tư xây_dựng_hạ_tầng kỹ_thuật	6
+cột treo	6
+đầu_tư hạ_tầng	6
+công_trình cơ_sở hạ_tầng	6
+dịch_vụ viễn_thông	5
+lắp_đặt công_trình	5
+lắp_đặt thiết_bị	5
+hạ_tầng viễn_thông	5
+đầu_tư xây_dựng_hạ_tầng	5
+cơ_sở hạ_tầng viễn_thông	5
+ăng ten	5
+công_trình xây_dựng	4
+xây_dựng hệ_thống	4
+công_trình hạ_tầng kỹ_thuật viễn_thông	4
+công_trình hạ_tầng kỹ_thuật đi	4
+hạ_tầng kỹ_thuật sử_dụng	3
+kỹ_thuật viễn_thông thụ_động địa_bàn	3
+phương_tiện kỹ_thuật	3
+sử_dụng công_trình	3
+đầu_tư cơ_sở hạ_tầng	3
+bảo_vệ công_trình	3
+viễn_thông thụ_động	3
+xây_dựng cơ_sở hạ_tầng	2
+đi cáp	2
+kỹ_thuật viễn_thông	2
+sử_dụng thẻ	2
+treo cáp	2
+hạ_tầng kỹ_thuật viễn_thông	2
+ban_hành quy_chuẩn kỹ_thuật	2
+cột ăng	1
+dịch_vụ bưu_chính	1
+sử_dụng công_trình hạ_tầng	1
+xây_dựng công_trình	1
+sử_dụng điện	1
+sử_dụng dịch_vụ	1
+lắp_đặt hệ_thống	1
+xây_dựng công_trình hạ_tầng kỹ_thuật viễn_thông	1
+ban_hành quy_chuẩn	1
+chủ sử_dụng	1
+chủ đầu_tư	1
+yêu_cầu chủ	1
+hạ_tầng đường_sắt	1
+đầu_tư xây_dựng cơ_sở	1
+kỹ_thuật quốc_gia	1
+thụ_động địa_bàn	1
+kỹ_thuật sử_dụng	1
+viễn_thông thụ_động địa_bàn	1
+kỹ_thuật đi	1
+công_trình điện	1
+quốc_gia xây_dựng	1
+chủ đầu_tư hạ_tầng	1

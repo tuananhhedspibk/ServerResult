@@ -1,0 +1,264 @@
+lập hồ_sơ	439
+lập biên_bản	367
+tiếp_nhận hồ_sơ	248
+hồ_sơ đề_nghị	221
+hồ_sơ hợp_lệ	198
+lập danh_sách	182
+nộp hồ_sơ	141
+gửi hồ_sơ	127
+thẩm_định hồ_sơ	116
+lập thành	102
+hoàn_chỉnh hồ_sơ	94
+đơn đề_nghị	92
+công_văn đề_nghị	91
+lập hồ_sơ đề_nghị	91
+đầy_đủ hồ_sơ	85
+kiểm_tra hồ_sơ	79
+giấy_tờ liên_quan	78
+kèm hồ_sơ	66
+tài_liệu liên_quan	59
+lập bảng kê	59
+thủ_tục hồ_sơ	58
+thẩm_tra hồ_sơ	57
+làm_việc hồ_sơ	56
+biên_bản bàn_giao	55
+bảng kê	54
+gửi kèm	54
+ký xác_nhận	53
+cơ_quan tiếp_nhận hồ_sơ	53
+hồ_sơ gửi	51
+ghi đầy_đủ	50
+hồ_sơ đăng_ký	48
+ghi biên_bản	48
+lưu_trữ hồ_sơ	44
+giấy_tờ chứng_minh	44
+giấy_tờ cần_thiết	43
+đại_diện hợp_pháp	42
+tiến_hành thủ_tục	41
+hồ_sơ trình	41
+hồ_sơ tài_liệu	39
+lập thành biên_bản	39
+làm_việc hồ_sơ hợp_lệ	38
+- công_văn đề_nghị	37
+trường_hợp hồ_sơ	37
+đầy_đủ thủ_tục	36
+toàn_bộ hồ_sơ	36
+đại_diện cơ_quan	35
+gửi bản_sao	35
+hồ_sơ đề_nghị hỗ_trợ	35
+tài_liệu chứng_minh	34
+nghiên_cứu hồ_sơ	34
+giấy xác_nhận	33
+hoàn_thiện hồ_sơ	33
+giấy_tờ hợp_lệ	33
+hồ_sơ đầy_đủ	32
+trình_tự thủ_tục	32
+chứng_từ hợp_lệ	31
+lập phiếu	30
+ghi vào_sổ	30
+bàn_giao hồ_sơ	30
+lập bảng	29
+01 hồ_sơ	29
+trách_nhiệm lập	28
+thành_phần hồ_sơ	28
+- đơn đề_nghị	27
+hồ_sơ thủ_tục	27
+biên_bản ghi	27
+giấy_tờ gốc	27
+tài_liệu hồ_sơ	27
+lập sổ	26
+cơ_quan tiếp_nhận	26
+kèm danh_sách	25
+- bản_sao	25
+lưu_giữ hồ_sơ	25
+lưu hồ_sơ	25
+ghi giấy	25
+trách_nhiệm lập hồ_sơ	24
+danh_sách đề_nghị	24
+hồ_sơ gốc	24
+trích lục	24
+giấy_tờ kèm	24
+giấy_tờ hồ_sơ	23
+tài_liệu cần_thiết	23
+trường_hợp hồ_sơ đầy_đủ	22
+kèm bản_sao	22
+biên_bản giao_nhận	22
+biên_bản xác_nhận	22
+chứng_từ chứng_minh	22
+cung_cấp tài_liệu	22
+hoàn_tất thủ_tục	22
+đề_nghị cơ_quan	21
+gửi đơn	21
+kiểm_tra xác_nhận	21
+thẩm_định hồ_sơ đề_nghị	21
+hồ_sơ pháp_lý	21
+chuẩn_bị hồ_sơ	20
+nộp 01 hồ_sơ	20
+trích lục hồ_sơ	20
+giấy_tờ giá_trị	20
+chứng_từ liên_quan	20
+thu_thập tài_liệu	20
+- biên_bản	20
+lập biên_bản xác_nhận	20
+trách_nhiệm kiểm_tra hồ_sơ	20
+ký biên_bản	19
+lập thành_văn_bản	19
+hướng_dẫn lập	19
+thủ_tục đăng_ký	19
+lập biên_bản ghi	19
+xác_nhận nguồn_gốc	19
+lưu ký	19
+biên_bản kiểm_tra	18
+chứng_từ gốc	18
+ký_tên đóng_dấu	18
+biên_bản lập	18
+cung_cấp đầy_đủ	18
+lập thành 02	18
+cơ_quan đại_diện	17
+giao_nhận hồ_sơ	17
+kèm biên_bản	17
+pháp_lý hồ_sơ	17
+ghi sổ	17
+đối_chiếu hồ_sơ	17
+nộp đơn	17
+bản_sao giấy_tờ	17
+lập chứng_từ	17
+xác_nhận cơ_quan	17
+giải_quyết hồ_sơ	17
+thủ_tục rút_gọn	17
+giấy giới_thiệu	17
+hồ_sơ hoàn_công	17
+thể_hiện đầy_đủ	16
+thụ_lý hồ_sơ	16
+ký ghi	16
+ghi lý_do	16
+giấy tiếp_nhận hồ_sơ	15
+tiến_hành kiểm_tra	15
+thủ_tục cần_thiết	15
+trách_nhiệm tiếp_nhận	14
+lập danh_mục	14
+bản_sao hợp_pháp	14
+hồ_sơ chứng_từ	14
+cơ_quan liên_quan	13
+bản_sao hợp_lệ	13
+xuất_trình giấy_tờ	13
+thời_điểm nộp	12
+biên_bản chữ_ký	12
+tiến_hành kiểm_tra hồ_sơ	12
+bản_sao công_chứng	12
+lập biên_bản vi_phạm	12
+hồ_sơ bệnh_án	11
+giá_trị pháp_lý	11
+ghi thành	11
+gửi cơ_quan	11
+nộp đầy_đủ	11
+tiến_hành xác_minh	11
+ghi phiếu	11
+giấy uỷ_quyền	11
+luân_chuyển hồ_sơ	11
+biên_nhận hồ_sơ	11
+kèm sơ_đồ	11
+hồ_sơ vụ_việc	10
+đầy_đủ tài_liệu	10
+trường_hợp cần_thiết	10
+chứng_từ hợp_pháp	10
+lập phương_án	10
+hoàn_thành thủ_tục	9
+đầy_đủ giấy_tờ	9
+hồ_sơ đề_nghị công_nhận	9
+giấy giới_thiệu cơ_quan	9
+trách_nhiệm cung_cấp	8
+lập gửi	8
+thủ_tục xét	8
+tiếp_nhận đơn	8
+thời_điểm nộp hồ_sơ	7
+xác_nhận đăng_ký	7
+thành biên_bản	7
+đại_diện chính_quyền	7
+xác_nhận chính_quyền	7
+nộp hồ_sơ đăng_ký	7
+gửi hồ_sơ đề_nghị	7
+biên_bản vi_phạm	7
+ký đơn	7
+đơn đăng_ký	7
+tiếp_nhận hồ_sơ đăng_ký	6
+trách_nhiệm kiểm_tra	6
+nội_dung ghi	6
+thủ_tục nộp	6
+danh_mục tài_liệu	6
+báo cơ_quan	6
+đề xuất_trình	6
+bảng kê_khai	5
+quy_trình lập	5
+xét đề_nghị	5
+giấy mời	5
+sổ đăng_ký	5
+lập biên_bản xử_lý	5
+bản_sao giấy	5
+kèm giấy_tờ	5
+bảng đăng_ký	5
+xét cần_thiết	5
+làm_việc cơ_quan	4
+có_thể uỷ_quyền	4
+trách_nhiệm hướng_dẫn	4
+lập “	4
+mời đại_diện	4
+nộp 01	4
+cơ_quan tiến_hành	4
+xác_nhận đơn	4
+in_ấn tài_liệu	4
+đề_nghị hỗ_trợ	4
+lưu kho	4
+gửi phiếu	3
+ký giấy	3
+đầy_đủ nội_dung	3
+tờ báo	3
+bàn_giao toàn_bộ	3
+đồng_thời gửi	3
+tài_liệu pháp_lý	3
+giấy chứng_minh	3
+chuẩn_bị đầy_đủ	3
+cư_trú hợp_pháp	3
+trách_nhiệm cơ_quan	3
+thành 02	3
+giấy biên_nhận	3
+ghi mã_số	3
+xử_lý trường_hợp	3
+cơ_quan công_chứng	3
+giải_quyết thủ_tục	3
+thời_điểm bàn_giao	3
+hồ_sơ đề_nghị xét	2
+liên_quan kiểm_tra	2
+nội_dung đăng_ký	2
+kê_khai nộp	2
+lục hồ_sơ	2
+chuyển_đổi thành	2
+giấy tiếp_nhận	2
+- trường_hợp	2
+hồ_sơ đề_nghị áp_dụng	2
+giải_quyết hồ_sơ đăng_ký	2
+trường_hợp vi_phạm	2
+nội_dung liên_quan	2
+hoàn_thành bàn_giao	2
+trách_nhiệm thẩm_định	2
+trách_nhiệm xem_xét	1
+trường_hợp di_chuyển	1
+thủ_tục giấy	1
+xét công_nhận	1
+tiến_hành lập	1
+cơ_quan_chức_năng kiểm_tra	1
+cơ_quan liên_quan kiểm_tra	1
+chuẩn_bị nội_dung	1
+xác_nhận giấy	1
+đề_nghị công_nhận	1
+giấy_tờ quy_định	1
+chứng_từ nộp	1
+thủ_tục giải_quyết	1
+hồ_sơ địa_chính	1
+có_thể xem_xét	1
+trường_hợp phát_hiện	1
+hồ_sơ mời	1
+phương_án chuyển_đổi	1
+02 làm_việc	1
+kiểm_tra xử_lý	1
+vào_sổ đăng_ký	1

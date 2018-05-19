@@ -1,0 +1,84 @@
+miền núi	415
+đặc_biệt khó_khăn	194
+miền nam	121
+miền bắc	108
+uỷ_ban dân_tộc miền núi	98
+đồng_bào dân_tộc_thiểu_số	85
+đồng_bào dân_tộc	71
+muối iốt	67
+xã đặc_biệt khó_khăn	63
+định_canh định_cư	62
+dân_tộc miền núi	56
+ban dân_tộc	55
+hải_đảo đồng_bào dân_tộc	50
+xã biên_giới	46
+xã miền núi	45
+trung_tâm cụm xã	39
+uỷ_ban dân_tộc	35
+công_tác dân_tộc	33
+dân_tộc_thiểu_số miền núi	33
+ủy_ban dân_tộc	32
+xã vùng_cao	30
+chăm_sóc trẻ_em hoàn_cảnh đặc_biệt khó_khăn	30
+thực_sự khó_khăn	26
+đời_sống khó_khăn	26
+khu_vực ii	26
+đồi núi trọc	25
+muối i ốt	25
+đồng_bào miền núi	25
+dân_tộc nội_trú	25
+thôn đặc_biệt khó_khăn	23
+hoàn_cảnh khó_khăn	23
+địa_bàn miền núi	23
+ban định_canh định_cư	21
+thực_hiện định_canh định_cư	21
+miền trung	21
+khó_khăn vướng_mắc	20
+khu_vực iii	20
+xã đặc_biệt khó_khăn miền núi vùng_sâu	20
+hoàn_cảnh đặc_biệt khó_khăn	20
+tháo_gỡ khó_khăn	19
+xã an_toàn_khu	19
+ổn_định đời_sống	18
+dân_tộc đặc_biệt khó_khăn	17
+đi_lại khó_khăn	17
+lĩnh_vực công_tác dân_tộc	17
+dân_tộc miền nú	16
+xây_dựng trung_tâm cụm xã	16
+xã khu_vực iii	13
+xã đồng_bằng	13
+cụm xã	11
+trẻ_em hoàn_cảnh đặc_biệt khó_khăn	11
+hoàn_cảnh đặc_biệt	10
+phong_tục tập_quán	10
+địa_bàn xã	9
+dân_tộc_thiểu_số nội_trú	8
+chính_quyền xã	8
+miền nú	7
+liên thôn	7
+khó_khăn đặc_biệt	6
+công_tác dân_tộc miền núi	6
+khó_khăn đột_xuất	6
+đặc_biệt khó_khăn miền núi	5
+đồi núi	5
+trung_tâm cụm	4
+phục_vụ đồng_bào	4
+dân_tộc miền	4
+khó_khăn gian_khổ	4
+xã miền	4
+i ốt	4
+miền núi vùng_sâu	3
+trẻ_em hoàn_cảnh đặc_biệt	3
+địa_bàn miền	2
+chăm_sóc trẻ_em hoàn_cảnh đặc_biệt	2
+ii iii	2
+uỷ_ban dân_tộc miền	2
+công_tác chăm_sóc	1
+lĩnh_vực công_tác	1
+xã đặc_biệt khó_khăn miền núi	1
+xã đặc_biệt	1
+hải_đảo đồng_bào	1
+khu_vực biên_giới	1
+xã đặc_biệt khó_khăn miền	1
+chăm_sóc trẻ_em	1
+ban định_canh	1

@@ -1,0 +1,277 @@
+căn_cứ nghị_định	1322
+căn_cứ thông_tư	913
+căn_cứ quyết_định	622
+điều_khoản thi_hành	516
+ban_hành kèm quyết_định	438
+hiệu_lực thi_hành	428
+quy_định quyết_định	354
+quyết_định hiệu_lực thi_hành	338
+quyết_định :	298
+thông_tư hiệu_lực thi_hành	259
+đăng công_báo	246
+quy_định nghị_định	243
+ban_hành quy_định	241
+ban_hành kèm nghị_định	236
+thông_tư liên_tịch	229
+thi_hành quyết_định	224
+quyết_định hiệu_lực	218
+căn_cứ thông_tư liên_tịch	195
+( ban_hành kèm quyết_định	181
+ban_hành kèm thông_tư	171
+thông_tư hiệu_lực	169
+thông_tư hiệu_lực thi_hành 15	168
+thay_thế quyết_định	164
+bãi_bỏ quyết_định	156
+ban_hành quyết_định	149
+dự_thảo quyết_định	147
+thông_tư hiệu_lực ký	127
+kèm quyết_định	126
+thông_tư hiệu_lực thi_hành ký	123
+quy_định thông_tư	118
+ban_hành kèm quyết_định quy_định	113
+căn_cứ pháp_lệnh	94
+hướng_dẫn thi_hành	94
+ban_hành thông_tư	93
+thông_tư hiệu_lực 15	92
+kèm thông_tư	91
+thi_hành nghị_định	83
+căn_cứ nghị_định 34/2016	81
+ban_hành kèm	79
+ban_hành quy_chế	78
+căn_cứ nghị_quyết	75
+thông_tư hiệu_lực 15 ký	66
+điều_khoản thi_hành :	64
+kèm thông_tư nà	64
+ký quyết_định	59
+quyết_định hiệu_lực thi_hành 15	56
+thông_tư hiệu_lực thi_hành 15 ký	56
+( ban_hành kèm quyết_định :	53
+hướng_dẫn thi_hành nghị_định	51
+hướng_dẫn thi_hành quyết_định	51
+thông_tư hiệu_lực thi_hành 15 đăng công_báo	48
+ban_hành nghị_định	48
+căn_cứ chức_năng	42
+quyết_định 61/2005 / qđ-bnv hiệu_lực thi_hành	40
+quyết_định công_nhận	39
+căn_cứ nghị_định 44/2014	39
+quyết_định hiệu_lực thi_hành 01	38
+thông_tư nà	36
+trách_nhiệm thi_hành quyết_định	36
+căn_cứ chỉ_thị	34
+thông_tư hiệu_lực ban_hành	34
+đính kèm thông_tư nà	33
+căn_cứ pháp_lý	33
+tài_chính ban_hành	33
+thông_tư hiệu_lực 15 đăng công_báo	31
+điều_khoản chuyển_tiếp	31
+ban_hành kèm quyết_định quy_chế phối_hợp	29
+ban_hành kèm nghị_định 25 / cp	29
+quy_định quy_chế	28
+ban_hành quy_định quản_lý	27
+ký ban_hành	27
+thông_tư liên_tịch 88/2016 /	27
+ban_hành kèm quyết_định quy_chế	26
+ban_hành quy_định điều_kiện	25
+- điều_khoản thi_hành	25
+ban_hành kèm quyết_định quy_định quản_lý	25
+ban_hành kèm thông_tư nà	24
+quyết_định hiệu_lực 15	24
+thay_thế thông_tư	24
+quy_định chuyển_tiếp	24
+quyết_định hiệu_lực 10	23
+ban_hành kèm quyết_định quy_chế quản_lý	23
+ban_hành kèm quyết_định “ quy_định	23
+đăng công_báo thay_thế thông_tư	22
+# quyết_định	22
+hướng_dẫn thông_tư	21
+ban_hành kèm quyết_định quy_định điều_kiện	21
+ngưng hiệu_lực	21
+phụ_lục ban_hành kèm thông_tư nà	21
+ban_hành kèm nghị_định 204/2004 / nđ-cp	20
+thi_hành ký	20
+quyết_định hiệu_lực thi_hành 10	20
+hiệu_lực thi_hành 15	19
+thông_tư liên_tịch hiệu_lực 15	19
+( kèm	18
+căn_cứ thông_tư 77/2014	18
+thay_thế thông_tư liên_tịch	18
+chấm_dứt hiệu_lực	18
+trách_nhiệm thi_hành	17
+giang ban_hành kèm quyết_định	17
+quyết_định bổ_nhiệm	16
+thời_điểm quyết_định	16
+hiệu_lực ký	16
+quyết_định 41/2005	16
+căn_cứ thông_tư 76/2014	16
+quyết_định 71/2005	16
+thông_tư thay_thế thông_tư	16
+đăng công_báo thay_thế thông_tư liên_tịch	16
+quy_định pháp_lệnh	15
+thông_tư liên_bộ	15
+quyết_định hiệu_lực 01	15
+cà mau	15
+cà mau ban_hành kèm quyết_định	15
+quyết_định hiệu_lực thi_hành 20	14
+kèm quyết_định 05/2018 / qđ-ubnd	14
+ban_hành quy_chế phối_hợp	14
+hiệu_lực thi_hành ký	14
+ban_hành danh_mục	14
+thông_tư thay_thế	13
+iii - điều_khoản thi_hành	13
+căn_cứ nghị_định 37/2014	13
+ban_hành kèm nghị_định 34/2016 /	13
+ban_hành đơn_giá	13
+tài_chính hướng_dẫn thi_hành quyết_định	13
+2018 thay_thế quyết_định	13
+kèm nghị_định	12
+thông_tư hướng_dẫn	12
+kèm thông_tư liên_tịch	12
+đính kèm	12
+quyết_định 178/2001	12
+( ban_hành kèm thông_tư	12
+thi_hành chỉ_thị	11
+nghị_quyết hiệu_lực thi_hành	11
+quy_định thông_tư liên_tịch	11
+điều_lệ bảo_hiểm_xã hội ban_hành kèm nghị_định	11
+căn_cứ thông_tư 02/2017	11
+căn_cứ nghị_định 92/2017	10
+61/2005 / qđ-bnv	10
+ban_hành kèm thông_tư liên_tịch	10
+bảo_hiểm_xã hội ban_hành kèm nghị_định	10
+ban_hành kèm nghị_định 45 / cp	10
+/ qđ-bnv hiệu_lực thi_hành	10
+phụ_lục kèm quyết_định	10
+thông_tư hiệu_lực thi_hành 01	10
+đăng công_báo thay_thế	10
+thông_tư liên_tịch 88/2016	9
+thông_tư hiệu_lực ký thay_thế	9
+quy_định chức_năng	9
+hiệu_lực toàn_bộ	9
+/ qđ-bnv	9
+ban_hành thay_thế	9
+căn_cứ nghị_định 47/2014	9
+thông_tư 08/2017	9
+bản_sao quyết_định	9
+căn_cứ nghị_định 77/2003	8
+( kèm thông_tư	8
+đính kèm thông_tư	8
+phụ_lục kèm thông_tư	8
+quyết_định 61/2005 / qđ-bnv	8
+quyết_định hiệu_lực 20	8
+quy_định nghị_quyết	7
+ban_hành kèm quyết_định “	7
+hiệu_lực 15	7
+hiệu_lực thi_hành 25	7
+căn_cứ quyết_định thi_hành	7
+15 ký	7
+ban_hành điều_lệ	7
+hiệu_lực 15 đăng công_báo	7
+( ban_hành kèm	6
+bãi_bỏ thông_tư	6
+hiệu_lực 15 ký	6
+ban_hành kèm nghị_định 25 /	6
+phụ_lục ban_hành kèm thông_tư	6
+quy_định phụ_lục	6
+ban_hành quy_định chức_năng	6
+tài_chính ban_hành thông_tư	6
+ban_hành kèm nghị_định 12 / cp	5
+hiệu_lực thi_hành 15 đăng công_báo	5
+liên_quan căn_cứ quyết_định thi_hành	5
+điều_kiện :	5
+kèm thông_tư liên_bộ	5
+hiệu_lực thi_hành 01	5
+ban_hành quy_chế quản_lý	5
+nghị_định 95	5
+thông_tư bãi_bỏ	5
+hiệu_lực thi_hành 15 ký	5
+cà mau ban_hành	4
+ký thay_thế thông_tư	4
+ban_hành kèm nghị_quyết	4
+( ban_hành	4
+thi_hành điều_lệ	4
+thông_tư liên_tịch hiệu_lực	4
+nghị_định 25	4
+căn_cứ quyết_định 276	4
+hướng_dẫn quản_lý	3
+trách_nhiệm hướng_dẫn	3
+tỉnh cà mau	3
+nghị_quyết hiệu_lực	3
+ban_hành kèm thông_tư liên_bộ	3
+hướng_dẫn thông_tư liên_tịch	3
+thi_hành 15 ký	3
+căn_cứ thông_tư 02/2017 /	3
+phụ_lục ban_hành kèm	3
+giang ban_hành	3
+liên_bộ 01 /	3
+thi_hành 01 01	3
+quy_định điều_lệ	3
+thông_tư 109/2016	3
+quy_chế quy_định	3
+thông_tư 02/2017	3
+thi_hành 15	2
+15 đăng công_báo	2
+quyết_định 95	2
+phụ_lục kèm	2
+cũ ban_hành kèm nghị_định 25 / cp	2
+quyết_định 61/2005	2
+15 10	2
+quy_định nghị_định 25	2
+tỉnh cà mau ban_hành kèm quyết_định	2
+( danh_mục	2
+hiệu_lực 15 ký ban_hành	2
+nghị_định 45/2015	2
+iii thông_tư	2
+hiệu_lực 01	2
+quyết_định 71/2005 /	2
+thông_tư liên_tịch 13/2014	2
+quy_định danh_mục	2
+- điều_khoản	2
+quy_định phụ_lục kèm thông_tư	2
+ban_hành kèm nghị_định 204/2004	2
+01 2018	1
+kèm nghị_định 45 / cp	1
+kèm bản_sao	1
+điều_lệ bảo_hiểm_xã hội ban_hành	1
+thi_hành 01	1
+ban_hành nghị_quyết	1
+thông_tư 109/2016 /	1
+kèm nghị_quyết	1
+nghị_định 92/2017	1
+01 /	1
+quy_định phụ_lục ban_hành kèm	1
+hướng_dẫn chức_năng	1
+25 12	1
+tài_chính quy_định	1
+thay_thế thông_tư liên_bộ	1
+ký thay_thế	1
+nghị_định 44/2014	1
+nghị_định 47/2014	1
+điều_lệ bảo_hiểm_xã hội	1
+hiệu_lực 10	1
+tài_chính hướng_dẫn thi_hành	1
+( ban_hành kèm nghị_quyết	1
+quy_định phụ_lục kèm	1
+tỉnh quyết_định bổ_nhiệm	1
+quyết_định 95 - cp	1
+( phụ_lục	1
+hội ban_hành kèm nghị_định	1
+điều_lệ bảo_hiểm_xã hội ban_hành kèm	1
+/ cp	1
+giang ban_hành kèm	1
+quyết_định 276	1
+kèm quyết_định quy_định	1
+công_báo thay_thế thông_tư liên_tịch	1
+bảo_hiểm_xã hội ban_hành	1
+hiệu_lực thi_hành 20	1
+nghị_định 45	1
+iii -	1
+: “	1
+01 2018 thay_thế quyết_định	1
+quyết_định quy_chế	1
+13/2014 /	1
+quyết_định hiệu_lực 01 01	1
+iii - điều_khoản	1
+thông_tư liên_bộ 01	1
+ký thay_thế thông_tư liên_bộ	1
+quyết_định hiệu_lực thi_hành 01 01 2018	1
+nghị_định 204/2004	1

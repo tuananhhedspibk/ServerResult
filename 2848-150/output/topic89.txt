@@ -1,0 +1,154 @@
+sản_xuất nông_nghiệp	101
+phát_triển sản_xuất	81
+ứng_dụng công_nghệ_cao	63
+nông_nghiệp ứng_dụng công_nghệ_cao	60
+hỗ_trợ phát_triển sản_xuất	56
+khuyến_khích phát_triển	53
+đầu_tư phát_triển	51
+tiêu_thụ sản_phẩm	46
+công_nghệ sản_xuất	43
+sản_xuất sản_phẩm	42
+đa_dạng_hóa sinh_kế nhân rộng mô_hình nghèo	38
+nhân rộng	37
+đổi_mới công_nghệ	34
+công_nghiệp hỗ_trợ	34
+hỗ_trợ phát_triển	33
+danh_mục sản_phẩm	31
+mở_rộng diện_tích	31
+bảo_tồn đa_dạng sinh_học	31
+vật_nuôi lâm_nghiệp	30
+đa_dạng sinh_học	29
+quy_trình sản_xuất	29
+nhân rộng mô_hình	29
+chế_phẩm sinh_học	29
+thực_hành tiết_kiệm	28
+ngành công_nghiệp	27
+ha trở	27
+hỗ_trợ doanh_nghiệp	26
+sản_xuất công_nghiệp	25
+mô_hình trình_diễn	25
+chuyển_giao công_nghệ	24
+dự_án sản_xuất thử_nghiệm	24
+tái_cơ_cấu ngành nông_nghiệp	24
+lĩnh_vực nông_nghiệp	24
+dự_án phát_triển sản_xuất	23
+chế_biến nông_sản	21
+giới_thiệu sản_phẩm	21
+sản_phẩm nông_nghiệp	21
+nhân rộng mô_hình nghèo	21
+ưu_tiên phát_triển	20
+ứng_dụng công_nghệ	20
+phát_triển ngành	20
+khu nông_nghiệp ứng_dụng công_nghệ_cao	20
+danh_mục công_nghệ_cao	20
+xây_dựng mô_hình	19
+phát_triển ngành_nghề	19
+công_nghiệp chế_biến	19
+công_nghệ sinh_học	19
+thực_hành sản_xuất nông_nghiệp	18
+ngành nông_nghiệp	18
+nông_nghiệp công_nghệ_cao	18
+quy_trình thực_hành sản_xuất nông_nghiệp	17
+liên_kết sản_xuất	17
+phát_triển công_nghiệp	17
+chính_sách khuyến_khích	16
+đa_dạng_hóa sinh_kế	16
+doanh_nghiệp công_nghệ_cao	16
+quy_trình công_nghệ	16
+sản_xuất thử_nghiệm	16
+khuyến_khích doanh_nghiệp	15
+quy_mô sản_xuất	15
+mở_rộng thị_trường	14
+hỗ_trợ đầu_tư	14
+phát_triển thị_trường	14
+mở_rộng quy_mô	13
+chất_lượng sản_phẩm	13
+thị_trường tiêu_thụ	12
+phục_vụ sản_xuất	12
+sản_xuất nông	12
+khuyến_khích đầu_tư	12
+khuyến_khích phát_triển sản_xuất	11
+phục_vụ sản_xuất nông_nghiệp	11
+phát_triển nông_nghiệp ứng_dụng công_nghệ_cao	11
+nnưdcnc phú_yên	11
+sản_xuất lâm_nghiệp	11
+ưu_tiên đầu_tư	10
+mô_hình sản_xuất	10
+sản_phẩm sản_xuất	10
+chương_trình cây_trồng	10
+khu công_nghệ_cao	10
+giá_trị sản_phẩm	9
+chính_sách khuyến_khích phát_triển	9
+phát_triển nông_nghiệp	9
+dự_án đầu_tư khu	8
+sản_phẩm chủ_yếu	8
+giá_trị sản_xuất	8
+đầu_tư khu	8
+phát_triển công_nghệ	8
+sản_phẩm công_nghiệp hỗ_trợ	7
+đầu_tư mở_rộng	7
+quy_mô diện_tích	7
+mở_rộng sản_xuất	7
+phát_triển chăn_nuôi	6
+khu nnưdcnc phú_yên	6
+vật_tư nông_nghiệp	6
+đối_với sản_phẩm	6
+nguyên_liệu sản_xuất	6
+nghiên_cứu ứng_dụng	6
+sản_xuất tiêu_thụ	6
+chính_sách phát_triển	6
+cá_nhân sản_xuất	5
+nông thô	5
+sản_phẩm công_nghiệp	5
+đa_dạng_hóa sinh_kế nhân rộng mô_hình	5
+phục_vụ phát_triển	5
+sinh_học phục_vụ	5
+chi_phí sản_xuất	4
+diện_tích tối_thiểu	4
+nâng năng_suất	4
+sản_xuất vật_liệu xây_dựng	4
+chính_sách hỗ_trợ	4
+khuyến_khích nuôi	4
+khuyến_khích doanh_nghiệp đầu_tư	4
+khu bảo_tồn	4
+nông_nghiệp ứng_dụng	4
+quá_trình sản_xuất	4
+tái_cơ_cấu ngành	4
+dự_án phát_triển	4
+hợp_tác đầu_tư	3
+sản_phẩm chế_biến	3
+chính_sách hỗ_trợ đầu_tư xây_dựng	3
+hợp_tác_xã nông_nghiệp	3
+thực_hành sản_xuất	3
+dự_án đầu_tư	3
+doanh_nghiệp sản_xuất	3
+dự_án đầu_tư phát_triển	3
+chi_phí đầu_tư	3
+dây_chuyền sản_xuất	2
+khu công_nghiệp	2
+chương_trình phát_triển	2
+thu_hút đầu_tư	2
+mô_hình nghèo	2
+dự_án đầu_tư khu công_nghiệp	2
+sản_xuất vật_liệu	2
+dự_án lĩnh_vực	2
+phát_triển nông	2
+sinh_kế nhân rộng mô_hình nghèo	2
+khu nnưdcnc	2
+chính_sách hỗ_trợ nâng hiệu_quả chăn_nuôi nông_hộ	1
+điển_hình tiên_tiến	1
+đầu_tư chương_trình	1
+đầu_tư dự_án	1
+nông_nghiệp phát_triển	1
+đối_với cây_trồng	1
+chính_sách thu_hút	1
+đầu_tư xây_dựng	1
+hỗ_trợ đầu_tư xây_dựng	1
+đối_với dự_án	1
+đối_với diện_tích	1
+hỗ_trợ chi_phí	1
+nông_nghiệp công_nghiệp	1
+danh_mục dự_án	1
+nông_nghiệp phát_triển nông thô	1
+vật_liệu xây_dựng	1
+xây_dựng khu	1

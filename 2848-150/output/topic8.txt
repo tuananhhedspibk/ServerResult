@@ -1,0 +1,36 @@
+đứng đầu	158
+đứng đầu_cơ_quan	78
+cỡ chữ	46
+phó đứng đầu	40
+bình_quân đầu	38
+đọc xuất_bản_phẩm lưu_chiểu	35
+đầu dòng	35
+đầu tư_sản_xuất	34
+kiểu chữ đứng	33
+dòng chữ	31
+chữ in	28
+6 đầu	28
+gạch đầu dòng	25
+bổ_sung gạch đầu dòng	25
+đứng đầu_cơ_quan đại_diện	25
+chữ in hoa	25
+phó đứng đầu_cơ_quan	21
+thành_phần thể_thức	20
+kiểm_tra báo_chí lưu_chiểu	19
+trang_sách định_mức	18
+trách_nhiệm đứng đầu	18
+thù_lao đọc	13
+báo_chí lưu_chiểu	8
+đứng đầu đơn_vị	8
+luật báo_chí	5
+kiểu chữ	5
+in hoa	5
+phó đứng	4
+chi_trả thù_lao	4
+đọc xuất_bản_phẩm	3
+xuất_bản_phẩm lưu_chiểu	3
+trách_nhiệm đứng	3
+phó đơn_vị	3
+đầu_cơ_quan đại_diện	1
+trách_nhiệm kiểm_tra	1
+định_mức bình_quân	1

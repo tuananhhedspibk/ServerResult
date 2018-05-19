@@ -1,0 +1,47 @@
+thuế giá_trị gia_tăng	67
+cơ_sở giết_mổ	61
+thuế sát_sinh	55
+vệ_sinh thú_y	45
+cơ_sở chăn_nuôi	39
+thức_ăn chăn_nuôi	38
+hợp vệ_sinh	37
+bao_gồm thuế giá_trị gia_tăng	34
+giá_trị gia_tăng	32
+chăn_nuôi gia_cầm	29
+cơ_sở giết_mổ gia_súc	27
++ nuôi	26
+hộ chăn_nuôi	26
+bò thịt	26
+hoạt_động chăn_nuôi	23
+chuỗi giá_trị	23
+thuế giá_trị gia tăn	21
+hoá_đơn_giá_trị gia_tăng	20
++ duy_trì	19
+cơ_sở giết_mổ gia_súc xã	19
+chăn_nuôi gia_súc	18
+nuôi gốc	17
+giá_trị sản_lượng	15
+chuồng_trại chăn_nuôi	15
+chăn_nuôi tập_trung	14
+nợ_đọng thuế	11
+01 cơ_sở giết_mổ	10
++ quy_hoạch 01 cơ_sở giết_mổ	9
+giết_mổ gia_súc	9
++ quy_hoạch 01	8
+01 cơ_sở giết_mổ gia_súc	8
+chăn_nuôi nông_hộ	7
+nộp thuế giá_trị gia_tăng	6
+ít_nhất 01	5
+phòng_chống dịch_bệnh	5
+giá_trị 500	3
+duy_trì hoạt_động	3
+gia tăn	3
+cơ_sở chế_biến	3
+bao_gồm thuế giá_trị	2
+bao_gồm thuế	2
+phòng_chống dịch	2
+vệ_sinh phòng_dịch	2
+vệ_sinh phòng_bệnh	2
+01 01	1
+nộp thuế giá_trị	1
+ít_nhất 05	1

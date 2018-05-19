@@ -1,0 +1,48 @@
+xét tờ_trình	398
+ủy ban_hành_chính tỉnh	166
+ủy ban_hành_chính	137
+ủy ban_hành_chính khu	128
+xét tuyển	109
+xét miễn	81
+ủy ban_hành_chính địa_phương	80
+xét trợ_cấp	79
+ủy ban_hành_chính xã	67
+khu tự_trị	47
+uỷ_ban_hành_chính tỉnh	46
+trại cải_tạo	44
+xét học_bổng	41
+ủy ban_hành_chính huyện	40
+trưng_dụng ruộng_đất	28
+cải_tạo giam_giữ	25
+xét đề_nghị	25
+ủy ban kế_hoạch nhà_nước	23
+hội_đồng xét tuyển	21
+xét tuyển_dụng	21
+uỷ_ban_hành_chính địa_phương	20
+ủy ban	19
+xét cần_thiết	19
+hội_đồng xét	18
+có_thể xét	11
+thủ_tục xét	11
+đề_nghị xét	10
+xét thầu	10
+đề_nghị miễn	8
+đề_nghị ủy ban_hành_chính	7
+quốc phòn	5
+ngân_sách xã	5
+xét nâng	4
+đề_nghị xét miễn	4
+tuyển biên_chế	4
+hội_đồng xét_duyệt	4
+ủy ban kế_hoạch	3
+tiêu_chuẩn xét	3
+đề_nghị ủy	2
+sinh_đẻ kế_hoạch	2
+ngân_sách tỉnh	1
+ban_hành_chính khu	1
+xã già_yếu	1
+ban_hành_chính huyện	1
+ban_hành_chính xã	1
+thủ_tục cần_thiết	1
+ban kế_hoạch nhà_nước	1
+tờ_trình đề_nghị	1

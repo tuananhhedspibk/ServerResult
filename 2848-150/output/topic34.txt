@@ -1,0 +1,92 @@
+tổng_cục thống_kê	130
+chế_độ kế_toán	123
+đơn_vị kế_toán	114
+sổ_sách kế_toán	101
+sổ kế_toán	96
+phụ_trách kế_toán	92
+sổ theo_dõi	80
+hạch_toán kế_toán	80
+bổ_nhiệm kế_toán_trưởng	70
+công_tác kế_toán	63
+kế_toán thống_kê	57
+sổ_sách theo_dõi	56
+thuê kế_toán_trưởng	46
+kế hoạc	42
+báo_cáo kế_toán	41
+kế_toán – thống_kê	40
+ghi sổ	32
+khóa sổ	32
+kế_toán tài_vụ	32
+chứng kế_toán	29
+kiểm_tra kế_toán	27
+bố_trí kế_toán_trưởng	26
+ghi_chép ban_đầu	24
+kế toá	24
+thủ_tục bổ_nhiệm	23
+phó kế_toán_trưởng	21
+sổ theo_dõi biến_động đất_đai	20
+sổ_sách kế_toán theo_dõi	20
+tài_khoản kế_toán	19
+kế_toán_trưởng phụ_trách kế_toán	18
+– thống_kê	18
+thực_hiện chế_độ kế_toán	17
+bố_trí người_làm phụ_trách kế_toán	17
+thay_thế kế_toán_trưởng	16
+kiểm_toán độc_lập	16
+phụ_cấp kế_toán_trưởng	16
+chế_độ kế_toán hiện_hành	15
+pháp_lệnh kế_toán thống_kê	14
+lĩnh_vực kế_toán	14
+hợp_đồng thuê kế_toán_trưởng	13
+thực_hiện công_tác kế_toán	13
+kế_toán hiện_hành	13
+vào_sổ theo_dõi	13
+chế_độ báo_cáo	12
+kế_toán đơn_vị	12
+tổng_cục_trưởng tổng_cục	12
+hạch_toán độc_lập	11
+chế_độ kiêm_nhiệm	11
+kế_toán quyết_toán	11
+kế_toán_trưởng đơn_vị	10
+cục thống_kê	9
+hạch_toán tài_khoản	9
+kế_toán theo_dõi	9
+chế_độ báo_cáo thống_kê	6
+chế_độ tài_chính	6
+lĩnh_vực kế_toán thống_kê	6
+người_làm phụ_trách kế_toán	6
+thực_hiện thủ_tục	6
+chế_độ báo_cáo kế_toán	6
+ghi vào_sổ	6
+dự_trữ tài_chính	5
+dự toá	5
+pháp_lệnh kế_toán	5
+theo_dõi biến_động	4
+đơn_vị hạch_toán	4
+báo_cáo thống_kê	3
+đơn_vị phản_ánh	3
+kế_toán –	3
+chế_độ hiện_hành	3
+chế_độ hạch_toán	3
+phụ_cấp kiêm_nhiệm	2
+bộ_máy kế_toán	2
+– tài_chính	2
+chức_vụ kế_toán_trưởng	2
+kế_toán ghi_chép	2
+ghi tài_khoản	1
+sổ theo_dõi biến_động	1
+phụ_trách lĩnh_vực	1
+thực_hiện chế_độ hợp_đồng	1
+thực_hiện chế_độ	1
+phụ_trách công_tác	1
+hệ_thống tài_khoản	1
+phó đơn_vị	1
+chế_độ báo_cáo quyết_toán	1
+ghi hợp_đồng	1
+theo_dõi biến_động đất_đai	1
+nghiệp_vụ công_tác	1
+báo_cáo tài_chính	1
+phản_ánh tài_chính	1
+công_tác thực_tế kế_toán	1
+công_tác kiểm_tra	1
+tài_chính tổng_cục	1

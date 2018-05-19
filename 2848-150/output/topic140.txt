@@ -1,0 +1,58 @@
+kiểm_lâm nhân_dân	69
+ngành lâm_nghiệp	66
+chi_cục kiểm_lâm	66
+phú yên	65
+ty lâm_nghiệp	46
+hạt kiểm_lâm	46
+lực_lượng kiểm_lâm	43
+chế_biến gỗ	41
+cơ_quan kiểm_lâm	40
+lâm_trường quốc_doanh	40
+lực_lượng kiểm_lâm nhân_dân	38
+gỗ tròn	35
+gỗ quý	30
+kinh_tế lâm_nghiệp	29
+cục kiểm_lâm	26
+vật_tư lâm_sản	24
+yên bái	24
+tỉnh phú yên	23
+cơ_sở chế_biến gỗ	23
+hưng yên	21
+vận_chuyển lâm_sản	20
+sản_phẩm chế_biến lâm_sản	20
+kinh_tế đối_ngoại	18
+liên_hiệp lâm	18
+tổng_cục lâm_nghiệp	18
+thông_thường iv viii	17
+nông nghiệ	16
+khai_thác lâm_sản	16
+lâm_sản gỗ	16
+xây_dựng kinh_tế lâm_nghiệp	15
+gỗ thông_thường	13
+chi_cục_trưởng chi_cục kiểm_lâm	13
+hiệu_quả kinh_tế	12
+kinh_tế quốc_doanh	12
+mục_đích lâm_nghiệp	12
+chế_biến lâm_sản	10
+sản_xuất lâm_nghiệp	9
+gỗ tròn thông_thường	9
+đơn_vị kinh_tế	7
+sản_phẩm chế_biến	6
+kinh_tế tập_thể	6
+xí nghiệ	5
+quốc_doanh lâm_nghiệp	5
+nông_trường quốc_doanh	5
+đơn_vị kinh_tế quốc_doanh	4
+chi_cục_trưởng chi_cục	3
+tỉnh yên bái	3
+ngành kinh_tế	3
+cơ_sở chế_biến	3
+ngành tỉnh	3
+m3 gỗ	2
+tỉnh hưng yên	2
+hạt kiểm_lâm rừng	1
+quý iv	1
+đơn_vị kinh_tế cơ_sở	1
+khai_thác mỏ	1
+sản_xuất nông	1
+tỉnh hưng	1

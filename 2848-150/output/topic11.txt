@@ -1,0 +1,279 @@
+thành_phố trực_thuộc trung_ương	1601
+khoa_học công_nghệ	609
+công_nghệ môi_trường	303
+sở khoa_học công_nghệ	198
+nghiên_cứu khoa_học	189
+địa phươn	163
+nhiệm_vụ khoa_học công_nghệ	159
+nhiệm_vụ khoa_học công_nghệ tỉnh	139
+trung ươn	129
+khoa_học công_nghệ môi_trường	109
+uỷ_ban khoa_học kỹ_thuật nhà_nước	99
+khoa_học kỹ_thuật	94
+tổ_chức khoa_học công_nghệ	93
+thực_hiện nhiệm_vụ khoa_học công_nghệ	83
+đặc_khu trực_thuộc trung_ương	80
+thành_phố trực_thuộc trung_ương trách_nhiệm	80
+chủ_nhiệm đề_tài	73
+nghiên_cứu khoa_học kỹ_thuật	73
+sở khoa_học	71
+thành_phố trực_thuộc trung_ương quyết_định	67
+thành_phố trực_thuộc	66
+thực_hiện nhiệm_vụ khoa_học công_nghệ tỉnh	66
+hoạt_động khoa_học công_nghệ	63
+chuyển_giao công_nghệ	63
+đề_tài nghiên_cứu	62
+đối_với đề_tài	61
+nghiên_cứu khoa_học phát_triển công_nghệ	56
+thành_phố trực_thuộc trung_ương ( gọi	56
+thực_hiện đề_tài	54
+thành_phố trực_thuộc trung_ương ( gọi tỉn	53
+giám_đốc sở khoa_học công_nghệ	52
+trực_thuộc trung_ương	52
+giao trực_tiếp	50
+khoa_học công_nghệ tỉnh	47
+thành_phố trực_thuộc trung_ương chỉ_đạo	45
+cơ_sở nghiên_cứu	45
+thành_phố tỉnh	45
+thành_phố trực_thuộc tw	44
+đối_với nhiệm_vụ khoa_học công_nghệ	42
+kết_quả nghiên_cứu	41
+thành_phố trực_thuộc trung_ương (	37
+quỹ phát_triển khoa_học - kỹ_thuật tập_trung	35
+đề_tài nghiên_cứu khoa_học	35
+luật_khoa_học công_nghệ	34
+bộ_trưởng khoa_học công_nghệ	33
+thành_phố thành_phố trực_thuộc trung_ương thành_phố đô_thị i tỉnh	31
+nghiên_cứu khoa_học triển_khai kỹ_thuật	31
+uỷ_ban khoa_học nhà_nước	31
+nghiên_cứu đề_tài	30
+chủ_nhiệm nhiệm_vụ	30
+viện nghiên_cứu	29
+lĩnh_vực khoa_học công_nghệ	27
+phát_triển khoa_học công_nghệ	27
+trung_ương (	27
+xác_định nhiệm_vụ khoa_học công_nghệ	27
+thành_phố trực_thuộc trung_ương ( gọi tắt	26
+nghiên_cứu triển_khai	26
+thành_phố đặc_khu trực_thuộc trung_ương	26
+kết_quả nghiên_cứu khoa_học	26
+thành_phố trực_thuộc trung ươn	25
+tổ_chức nghiên_cứu khoa_học	24
+thành_phố trách_nhiệm	24
+nhiệm_vụ khoa_học công_nghệ cơ_sở	24
+( trung_ương địa phươn	23
+liên_hiệp hội khoa_học kỹ_thuật	23
+trung tâ	22
+chương_trình khoa_học công_nghệ trọng_điểm nhà_nước	22
+phát_triển công_nghệ	21
+đơn_vị thực_hiện đề_tài	21
+thành_phố trực_thuộc trung_ương trách_nhiệm chỉ_đạo	20
+lĩnh_vực khoa_học	20
+đề_nghị giám_đốc sở khoa_học công_nghệ	20
+kết_quả thực_hiện nhiệm_vụ khoa_học công_nghệ	20
+ứng_dụng tiến_bộ khoa_học công_nghệ	20
+ủy_ban khoa_học kỹ_thuật nhà_nước	19
+hội_đồng tư_vấn khoa_học công_nghệ	19
+hội_nghị tập_huấn triển_khai nhiệm_vụ đơn_vị sự_nghiệp công_lập	19
+kinh_phí nghiên_cứu khoa_học	18
+thành_phố tổ_chức	18
+trực_thuộc sở	18
+đơn_vị trực_thuộc	18
+đề_cương nghiên_cứu	18
+giao trực_tiếp tổ_chức cá_nhân thực_hiện nhiệm_vụ khoa_học công_nghệ tỉnh	18
+cơ_quan nghiên_cứu triển_khai	18
+ứng_dụng tiến_bộ khoa_học	18
+cơ_quan trung_ương	17
+thành_phố trực_thuộc trung	16
+huy_động tiềm_lực khoa_học công_nghệ	16
+nghiên_cứu cơ_bản	16
+ngân_sách trung_ương	16
+tiềm_lực khoa_học công_nghệ	16
+nhiệm_vụ khoa_học	15
+trọng_điểm nhà_nước	15
+nghiên_cứu ứng_dụng	15
+hoạt_động khoa_học	15
+đề_tài cấp_bộ	15
+kinh_phí thực_hiện đề_tài	14
+phát_triển khoa_học	14
+quỹ phát_triển khoa_học - kỹ_thuật	14
+trung_ương trách_nhiệm	14
+ngân_sách trung ươn	13
+kinh_phí thu_hồi nhiệm_vụ khoa_học	13
+thành_phố trực_thuộc trung_ương ( đối_với	13
+tổ_chức nghiên_cứu	13
+bộ_trưởng khoa_học	13
+quỹ phát_triển khoa_học công_nghệ	13
+công_tác nghiên_cứu khoa_học	13
+ngân_sách địa phươn	13
+thực_hiện nhiệm_vụ	13
+ứng_dụng kết_quả	12
+quy_trình công_nghệ	12
+sự_nghiệp khoa_học công_nghệ	12
+thành_phố trực_thuộc trung_ương trách_nhiệm tổ_chức	11
+đặc_khu trực_thuộc	11
+nhiệm_vụ khoa_học công_nghệ đặt_hàng	11
+giao trực_tiếp nhiệm_vụ khoa_học công_nghệ	11
+hoạt_động nghiên_cứu	11
+xác_định nhiệm_vụ	11
+kinh_phí đề_tài	11
+khoa_học công_nghệ cơ_sở	10
+kết_quả thực_hiện nhiệm_vụ khoa_học công_nghệ tỉnh	10
+đổi_mới công_nghệ	10
+chủ_nhiệm nhiệm_vụ khoa_học công_nghệ	10
+uỷ_ban khoa_học kỹ_thuật	10
+giao nhiệm_vụ	10
+tiến_bộ kỹ_thuật	9
+ứng_dụng công_nghệ	9
+tổ_chức khoa_học	9
+chủ_trì đề_tài	9
+danh_mục nhiệm_vụ khoa_học công_nghệ	9
+chương_trình khoa_học công_nghệ	8
+ứng_dụng tiến_bộ khoa_học kỹ_thuật	8
+công_nghệ môi_trường hướng_dẫn	8
+sự_nghiệp khoa_học	8
+nhiệm_vụ khoa_học công_nghệ sử_dụng ngân_sách nhà_nước	8
+thành_phố đặc_khu	8
+tiến_bộ khoa_học kỹ_thuật	7
+cá_nhân thực_hiện nhiệm_vụ khoa_học công_nghệ	7
+thành_phố tỉnh ( gọi	7
+chuyển_giao kết_quả	7
+quỹ phát_triển	7
+tiến_bộ khoa_học công_nghệ	7
+công_tác nghiên_cứu	6
+nhiệm_vụ giao	6
+nghiên_cứu khoa_học triển_khai	6
+nghiệm_thu nhiệm_vụ khoa_học công_nghệ	6
+chủ_nhiệm chương_trình	6
+tổ_chức thực_hiện	6
+giám_đốc sở khoa_học	6
+cán_bộ khoa_học	6
+khoa_học công_nghệ sử_dụng ngân_sách nhà_nước	6
+kết_quả thực_hiện	6
+trung_ương địa phươn	5
+thành_phố trực_thuộc trung_ương thành_phố đô_thị i tỉnh	5
+tổ_chức cá_nhân	5
+giao trực_tiếp tổ_chức cá_nhân thực_hiện nhiệm_vụ khoa_học công_nghệ	5
+kỹ_thuật nhà_nước	5
+( đối_với	5
+nghiệm_thu nhiệm_vụ	5
+đối_với hoạt_động	5
+thành_phố ( gọi	5
+đối_với nhiệm_vụ khoa_học	5
+kinh_phí thực_hiện	4
+kinh_phí sự_nghiệp khoa_học	4
+phát_triển sự_nghiệp	4
+giám_đốc sở	4
+ứng_dụng tiến_bộ	4
+kết_quả thực_hiện nhiệm_vụ	4
+đối_với kinh_phí thu_hồi	4
+kinh_phí hoạt_động	3
+khoa_học - kỹ_thuật	3
+khoa_học kỹ_thuật nhà_nước	3
+liên_hiệp hội khoa_học kỹ_thuật tỉnh	3
+nghiên_cứu khoa_học phát_triển	3
+khoa_học công_nghệ trọng_điểm nhà_nước	3
+kinh_phí sự_nghiệp	3
+( gọi	3
+đơn_vị giao nhiệm_vụ	3
+quy_trình kỹ_thuật	3
+cá_nhân thực_hiện nhiệm_vụ khoa_học công_nghệ tỉnh	3
+trung_ương trách_nhiệm chỉ_đạo	3
+trực_thuộc tw	3
+thành_phố trực_thuộc trung_ương thành_phố đô_thị i	3
+thành_phố đặc_khu trực_thuộc	3
+chương_trình khoa_học	3
+trực_thuộc trung_ương ( gọi tỉn	3
+kết_quả hoạt_động	3
+trung_ương ( gọi	3
+nhiệm_vụ khoa_học công_nghệ quốc_gia	3
+trách_nhiệm chỉ_đạo	2
+( gọi uỷ_ban nhân_dân tỉn	2
+trực_tiếp nhiệm_vụ	2
+đơn_vị trực_thuộc sở	2
+tiến_bộ khoa_học - kỹ_thuật	2
+quỹ phát_triển hoạt_động sự_nghiệp	2
+trung_ương trách_nhiệm hướng_dẫn	2
+trực_thuộc trung_ương trách_nhiệm	2
+trách_nhiệm tổ_chức	2
+ngân_sách nhà_nước	2
+triển_khai kỹ_thuật	2
+thực_hiện quyết_định	2
+đối_với cơ_sở	2
+tổ_chức sự_nghiệp	2
+hội khoa_học	2
+khoa_học công_nghệ đặt_hàng	2
+chủ_nhiệm uỷ_ban	2
+trực_thuộc trung_ương ( gọi	2
+hội_đồng tư_vấn xác_định nhiệm_vụ	2
+tổ_chức hoạt_động	2
+tắt tỉn	2
+sự_nghiệp trực_thuộc sở	2
+giao trực_tiếp tổ_chức	2
+nhà_nước giao	2
+cơ_sở đề_nghị	2
+công_nghệ trọng_điểm nhà_nước	2
+ứng_dụng khoa_học	2
+thành_phố đô_thị i tỉnh	2
+ngân_sách địa	2
+công_nghệ tỉnh	2
+hợp_đồng thực_hiện nhiệm_vụ khoa_học công_nghệ	2
+chủ_trì chủ_nhiệm	2
+hoạt_động tư_vấn	2
+tổ_chức tư_vấn	1
+hoạt_động lĩnh_vực	1
+( gọi cơ_quan	1
+cơ_quan nhà_nước	1
+công_nghệ trọng_điểm	1
+( đối_với đơn_vị trung_ương	1
+tập_trung chỉ_đạo	1
+đô_thị i	1
+- kỹ_thuật	1
+uỷ_ban khoa_học	1
+huy_động tiềm_lực	1
+kinh_phí đối_với nhiệm_vụ khoa_học công_nghệ	1
+trách_nhiệm hướng_dẫn	1
+khoa_học công_nghệ trọng_điểm	1
+chỉ_đạo sở	1
+trực_thuộc trung_ương (	1
+triển_khai hoạt_động	1
+i -	1
+trực_tiếp chỉ_đạo	1
+hội khoa_học kỹ_thuật	1
+trách_nhiệm thực_hiện	1
+thực_hiện nhiệm_vụ khoa_học	1
+trung_ương ( gọi tắt	1
+chủ_trì tổ_chức	1
+xã_hội liên_hiệp hội khoa_học kỹ_thuật	1
+thực_hiện chương_trình	1
+tư_vấn xác_định nhiệm_vụ	1
+trung_ương địa	1
+- đối_với	1
+kinh_phí thực_hiện nhiệm_vụ	1
+ứng_dụng kỹ_thuật	1
+xác_định nhiệm_vụ khoa_học	1
+ngân_sách tỉnh	1
+chỉ_đạo thực_hiện	1
+trực_thuộc trung_ương chỉ_đạo	1
+giao chủ_trì	1
+( gọi tỉn	1
+phát_triển khoa_học -	1
+tiến_bộ khoa_học	1
+trực_thuộc trung_ương ( gọi uỷ_ban nhân_dân tỉn	1
+đơn_vị chủ_trì thực_hiện	1
+tổ_chức thực_hiện chương_trình	1
+kỹ_thuật tiến_bộ	1
+hội_đồng tư_vấn	1
+chỉ_đạo đơn_vị	1
+tổ_chức chủ_trì	1
+uỷ_ban nhân_dân	1
+tỉnh quyết_định	1
+giao trực_tiếp nhiệm_vụ	1
+khoa_học phát_triển công_nghệ	1
+thành_phố thành_phố trực_thuộc trung_ương thành_phố đô_thị i	1
+trực_thuộc trung ươn	1
+quyết_định thu_hồi	1
+tổ_chức sự_nghiệp trực_thuộc	1
+trung_ương chỉ_đạo	1
+trách_nhiệm giám_đốc	1
+trung_ương trách_nhiệm tổ_chức	1

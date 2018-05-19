@@ -1,0 +1,287 @@
+chữa bệnh	882
+bệnh nghề_nghiệp	331
+sở y_tế	319
+khám chữa bệnh	283
+khám bệnh	253
+cơ_sở y_tế	229
+cơ_sở chữa bệnh	206
+trạm y_tế xã	203
+ngành y_tế	186
+cán_bộ y_tế	160
+cơ_sở khám	121
+cơ_quan y_tế	120
+cơ_sở khám bệnh	113
+trung_tâm y_tế huyện	109
+giá dịch_vụ khám bệnh	104
+mắc bệnh	102
+cơ_sở khám chữa bệnh	97
+khám sức_khoẻ	95
+thuốc chữa bệnh	87
+trung_tâm y_tế	82
+trạm y_tế	80
+cán_bộ y_tế xã	80
+trang_thiết_bị y_tế	77
+chữa bệnh phạm_vi thanh_toán quỹ bảo_hiểm_y_tế cơ_sở khám bệnh	73
+dịch_vụ khám bệnh	70
+y_tế xã	69
+bộ_trưởng y_tế	69
+cơ_sở y_tế công_lập	66
+lưu_trú tạm_thời cơ_sở chữa bệnh	65
+y_tế huyện	61
+y_tế dự_phòng	60
+phòng_khám bệnh	57
+chăm_sóc sức_khoẻ ban_đầu	56
+điều_trị bệnh	55
+chữa bệnh nhà_nước địa_bàn tỉnh	55
+y_tế địa_phương	53
+y_tế cơ_sở	50
+nhân_viên y_tế	49
+sở y_tế tỉnh	49
+công_tác y_tế	48
+ty y_tế	47
+bệnh truyền_nhiễm	47
+chữa bệnh nghèo	46
+khám chứng_nhận sức_khoẻ	46
+cơ_sở y_tế nhà_nước	46
+y_tế hướng_dẫn	45
+thiết_bị y_tế	45
+lĩnh_vực y_tế	43
+chăm_sóc sức_khoẻ	42
+bệnh_viện khám sức_khoẻ	41
+chi_phí khám	41
+chữa bệnh nhà_nước	41
+cơ_sở khám chữa bệnh bán_công	39
+y_học cổ_truyền	38
+chữa bệnh cơ_sở khám bệnh	37
+bệnh xã_hội	36
+kiểm_dịch y_tế	36
+viên_chức ngành y_tế	35
+y_tế trường_học	34
+sinh phẩm y_tế	33
+chuyên_môn y_tế	33
+khám sức_khỏe	33
+y_tế ban_hành	33
+chữa bệnh nhà_nước hướng_dẫn áp_dụng giá	32
+sữa chữa	32
+phòng y_tế	32
+chữa bệnh một_số trường_hợp	30
+trạm y_tế cơ_sở	30
+bảo_vệ sức_khoẻ	29
+chữa bệnh công_lập	29
+cơ_sở điều_trị	28
+quỹ khám	28
+trung_tâm y_tế dự_phòng	27
+thanh_toán chi_phí khám bệnh	27
+dụng_cụ y_tế	27
+y_tế quy_định_mức tối_đa khung_giá dịch_vụ khám bệnh	27
+mắc bệnh hiểm_nghèo	27
+cơ_sở chữa bệnh pháp_lệnh xử_lý vi_phạm hành_chính	26
+bệnh việ	26
+bệnh cũ	26
+cơ_quan kiểm_dịch y_tế biên_giới	26
+kiểm_dịch y_tế biên_giới	25
+công_nhân_viên_chức mắc bệnh nghề_nghiệp	24
+chữa bệnh bệnh_viện	24
+cán_bộ y_tế cơ_sở	24
+tổ_chức khám	23
+đi khám bệnh	23
+chữa bệnh bảo_hiểm_y_tế	22
+lưu_trú tạm_thời	21
+bệnh tâm_thần	21
+sự_nghiệp y_tế	21
+chăm_sóc sức_khoẻ nhân_dân	21
+bảo_vệ sức_khoẻ nhân_dân	20
+giám_định bệnh nghề_nghiệp	20
+thanh_toán chi_phí khám	19
+quy_định_mức giá dịch_vụ khám bệnh	19
+y dược phí	19
+khám chữa bệnh nghèo	19
+căn_cứ luật khám bệnh	19
+chăm_sóc sức_khỏe	19
+y dược	19
+bệnh lao	18
+chữa bệnh thông_thường	18
+thanh_toán chi_phí khám chữa bệnh	18
+bệnh kiểm_dịch	18
+liên_bộ y_tế	18
+bắt_buộc chữa bệnh	17
+mắc bệnh nghề_nghiệp	17
+sinh phẩm	17
+chăm_sóc nâng sức_khoẻ nhân_dân	17
+diệt khuẩn lĩnh_vực gia_dụng y_tế	17
+bệnh phong	17
+khám sức_khoẻ định_kỳ	16
+chữa bệnh cơ_sở y_tế	16
+khám thai	16
+y dược_học	16
+công_tác y_tế trường_học	16
+chữa bệnh phạm_vi thanh_toán quỹ bảo_hiểm_y_tế	16
+thuốc điều_trị	15
+bảo_vệ sức_khỏe	15
+thuốc chữa bệnh thông_thường	14
+y_tế học_đường	14
+tiền thuốc chữa bệnh	14
+chữa bệnh ngoại_trú	14
+giáo_dục sức_khoẻ	13
+liên_tịch y_tế	13
+khám bệnh chữa bệnh	13
+dịch_vụ khám	13
+chứng_nhận sức_khoẻ	12
+kiểm_tra sức_khỏe	12
+khám tuyển	12
+khám chứng_nhận sức_khoẻ lao_động	12
+ảnh_hưởng sức_khoẻ	12
+trưởng trạm	12
+chi_phí khám chữa bệnh	11
+chẩn_đoán bệnh	11
+phòng_chống bệnh	11
+quyết_định lưu_trú tạm_thời cơ_sở chữa bệnh	11
+nhân_lực y_tế	10
+kiểm_tra sức_khoẻ	10
+tình_trạng sức_khoẻ	10
+quỹ khám chữa bệnh	10
+chi_phí khám sức_khỏe	9
+chữa bệnh cơ_sở khám	9
+cơ_sở công_lập	9
+thuốc thông_thường	8
+cơ_sở vật_chất	8
+công_tác khám	8
+sức_khoẻ nhân_dân	8
+bệnh hiểm_nghèo	8
+dựa cơ_sở	8
+khám điều_trị	8
+khám chữa bệnh bảo_hiểm_y_tế	7
+khám chữa bệnh bán_công	7
+trực_tiếp khám	7
+chống bệnh	7
+quy_định_mức giá	7
+chữa bệnh phạm_vi	7
+cơ_quan kiểm_dịch y_tế	7
+chữa bệnh phạm_vi thanh_toán quỹ	6
+đối_với cơ_sở khám	6
+áp_dụng biện_pháp cơ_sở chữa bệnh	6
+y dược phí 24	6
+cơ_sở giáo_dục	6
+bệnh thông_thường	5
+điều_trị cơ_sở khám	5
+thuốc chữa	5
+công_tác chăm_sóc	5
+công_nhân_viên_chức mắc bệnh	5
+nâng sức_khoẻ	5
+y_tế công_lập	5
+hỗ_trợ chi_phí khám	5
+thanh_toán quỹ bảo_hiểm_y_tế cơ_sở khám bệnh	5
+xã nghèo	5
+chi_phí dịch_vụ	5
+áp_dụng giá	5
+sức_khoẻ lao_động	5
+cấp_phát thuốc	4
+khung_giá dịch_vụ khám bệnh	4
+phạm_vi thanh_toán quỹ bảo_hiểm_y_tế	4
+đi khám	4
+quỹ thuốc	4
+lao_động bệnh nghề_nghiệp	4
+cán_bộ xã	4
+bệnh_viện khám	4
+điều_trị bệnh_viện	4
+khám chữa	4
+một_số dịch_vụ khám	4
+chữa bệnh cơ_sở	4
+chữa bệnh bhyt	3
+bệnh bán_công	3
+dược phí	3
+địa_bàn xã	3
+quỹ bảo_hiểm_y_tế	3
+công_tác khám sức_khỏe	3
+y_tế quy_định_mức	2
+khám bệnh chữa	2
+trung_tâm dịch_vụ	2
+cán_bộ đi	2
+bệnh phạm_vi	2
+phạm_vi thanh_toán quỹ bảo_hiểm_y_tế cơ_sở	2
+cán_bộ nhân_viên	2
+quỹ dự_phòng	2
+cơ_sở chữa	2
+bệnh bệnh_viện	2
+phát_hiện bệnh	2
+phạm_vi thanh_toán quỹ bảo_hiểm_y_tế cơ_sở khám bệnh	2
+lĩnh_vực gia_dụng y_tế	2
+sức_khoẻ ban_đầu	2
+chăm_sóc nâng	2
+dịch_vụ điều_trị	2
+thanh_toán chi_phí	2
+dịch_vụ công_lập	2
+bệnh_viện huyện	2
+giám_định bệnh	2
+bảo_vệ chăm_sóc	2
+y_tế biên_giới	2
+thanh_toán giá	2
+bệnh nghề_nghiệp hưởng	2
+chứng_nhận sức_khoẻ lao_động	2
+luật bảo_vệ	2
+cơ_sở lưu_trú	2
+khám chứng_nhận	2
+chữa bệnh y_học	2
+giá dịch_vụ	2
+y_tế quy_định_mức tối_đa khung_giá dịch_vụ khám	2
+trung_tâm chữa bệnh	2
+diệt khuẩn	2
+xã_hội tỉnh	2
+phạm_vi thanh_toán	2
+truyền_nhiễm nguy_hiểm	2
+phí dịch_vụ	2
+viên_chức nhà_nước	2
+cơ_sở khám chữa	2
+chữa bệnh một_số	1
+bệnh nghèo	1
+lưu_trú tạm_thời cơ_sở chữa	1
+xã biên_giới	1
+trung_tâm hành_chính	1
+cơ_quan kiểm_dịch	1
+công_tác thanh_toán	1
+gia_dụng y_tế	1
+bệnh công_lập	1
+trường_hợp phát_hiện	1
+lao_động bệnh	1
+địa_bàn huyện	1
+chi_phí khám bệnh	1
+huyện nghèo	1
+đối_với cán_bộ y_tế	1
+chữa bệnh pháp_lệnh	1
+lưu_trú tạm_thời cơ_sở	1
+công_nhân_viên_chức nhà_nước	1
+trung_tâm giáo_dục	1
+một_số pháp_lệnh	1
+xử_lý trường_hợp	1
+quy_định_mức tối_đa khung_giá dịch_vụ khám bệnh	1
+chữa bệnh phạm_vi thanh_toán quỹ bảo_hiểm_y_tế cơ_sở khám	1
+nhân_dân xã	1
+công_tác phòng_chống	1
+tiền thuốc	1
+công_tác bảo_vệ	1
+chăm_sóc giáo_dục	1
+chữa bệnh bán_công	1
+đối_với nghèo	1
+áp_dụng đối_với	1
+trường_hợp vi_phạm	1
+trung_tâm phòng_chống	1
+một_số lĩnh_vực	1
+quỹ bảo_hiểm_y_tế cơ_sở khám bệnh	1
+áp_dụng biện_pháp cơ_sở chữa	1
+cán_bộ chuyên_môn	1
+sự_nghiệp bảo_vệ	1
+sức_khoẻ định_kỳ	1
+mỹ_phẩm ảnh_hưởng	1
+giám_định tư_pháp địa_bàn	1
+giá dịch_vụ khám	1
+nâng sức_khoẻ nhân_dân	1
+hành_chính nhà_nước	1
+xã_hội địa_phương	1
+biện_pháp cơ_sở chữa bệnh	1
+đối_tượng lưu_trú tạm_thời	1
+phát_hiện vi_phạm	1
+chữa bệnh nhà_nước hướng_dẫn	1
+đối_với cơ_sở	1
+cán_bộ công_nhân_viên_chức	1
+bệnh chữa	1
+một_số trường_hợp	1

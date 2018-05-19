@@ -1,0 +1,352 @@
+vốn đầu_tư	370
+sử_dụng vốn	239
+vốn ngân_sách nhà_nước	209
+vốn lưu_động	208
+vốn đối_ứng	163
+huy_động vốn	155
+ngân_sách nhà_nước	140
+vốn ngân_sách	134
+kế_hoạch vốn	127
+rút vốn	123
+đầu_tư phát_triển	106
+góp vốn	105
+đầu_tư vốn	93
+cấp_phát vốn	91
+tổng vốn	88
+sử_dụng vốn ngân_sách nhà_nước	87
+vốn góp	87
+bổ_sung vốn	86
+vốn điều_lệ	84
+bố_trí vốn	81
+phân_bổ vốn	79
+vốn vay	78
+hoàn vốn	70
+vốn huy_động	66
+quỹ đầu_tư phát_triển	64
+ngân_sách trung_ương	63
+định_mức vốn lưu_động	63
+vốn hỗ_trợ	62
+vốn đầu_tư phát_triển	61
+vốn đầu_tư xdcb	61
+kế_hoạch đầu_tư	59
+vốn lưu_động định_mức	58
+ngân_hàng_đầu_tư phát_triển	56
+vốn pháp_định	55
+vốn sự_nghiệp	53
+vốn ngân_sách trung_ương	52
+vốn viện_trợ	52
+vay vốn	51
+tổng vốn đầu_tư	50
+quyết_toán vốn đầu_tư	50
+quyết_toán vốn	48
+vốn tín_dụng	48
+định_mức phân_bổ	47
+viện_trợ hoàn	46
+bảo_toàn vốn	44
+hoàn_trả vốn	43
+quỹ hỗ_trợ phát_triển	43
+đầu_tư vốn ngân_sách nhà_nước	42
+quản_lý vốn	42
+ngân_sách địa_phương	41
+vốn đầu_tư nước_ngoài	40
+bổ_sung vốn lưu_động	39
+định_mức phân_bổ vốn ngân_sách trung_ương	38
+hỗ_trợ đầu_tư	37
+phương_án phân_bổ	36
+dự_án sử_dụng vốn	35
+vốn đối_ứng dự_án	34
+vốn ngân_sách tỉnh	34
+nhu_cầu vốn	33
+thanh_toán vốn	33
+ứng vốn	33
+tổng đầu_tư	32
+kế_hoạch vốn đầu_tư	32
+huy_động nguồn_lực	31
+vốn tạm_ứng	31
+tổng_cục đầu_tư phát_triển	30
+đầu_tư xdcb	30
+vốn đối_ứng chương_trình	30
+sử_dụng vốn đầu_tư	30
++ vốn	30
+vốn ngân_sách địa_phương	29
+hỗ_trợ phát_triển chính_thức ( od	29
+dự_án tổng vốn đầu_tư dự_kiến	29
+tổng_số vốn	27
+sử_dụng vốn nhà_nước_ngoài ngân_sách	26
+vốn ứng	26
+vốn tự_có	25
+thu_hồi vốn	25
+vốn dự_trữ	25
+tiêu_chí định_mức phân_bổ vốn đầu_tư phát_triển	25
+quản_lý sử_dụng vốn	25
+vốn lưu_động thừa	24
+hạch_toán vốn	24
+tỷ_lệ vốn đối_ứng ngân_sách địa_phương	23
+quỹ phát_triển hoạt_động sự_nghiệp	21
+thanh_toán vốn đầu_tư	21
+huy_động đóng_góp	21
+ngân_sách trung_ương hỗ_trợ	21
+phà đầu_tư vốn ngân_sách nhà_nước	21
+bảo_toàn phát_triển vốn	20
+( kinh_phí nghiệ	20
+thành_viên góp vốn	20
+vốn chương_trình	20
+vốn oda	20
+sử_dụng vốn ngân_sách	19
+cấp_phát vay	19
+vốn viện_trợ hoàn	19
+thanh_toán vốn đối_ứng	19
+dịch_vụ trông xe đầu_tư vốn ngân_sách nhà_nước	19
+xí_nghiệp vốn đầu_tư nước_ngoài	18
+góp vốn liên_doanh	18
+kế_hoạch vốn đối_ứng	18
+phân_bổ chi_tiết	17
+hỗ_trợ phát_triển chính_thức	17
+cân_đối ngân_sách	17
+kế_hoạch huy_động	17
+cơ_cấu vốn đầu_tư	17
+vốn nhà_nước_ngoài ngân_sách	16
+vốn trái_phiếu chính_phủ	16
+kế_hoạch nhà_nước	16
+phương_án phân_bổ vốn	16
+bố_trí vốn đối_ứng	16
+tổng vốn đầu_tư phát_triển	16
+cục đầu_tư phát_triển	16
+đơn rút vốn	16
+vốn huy_động dân	16
+trông xe đầu_tư vốn ngân_sách nhà_nước	16
+định_mức vốn	16
+ngân_sách nhà_nước hỗ_trợ	16
+sử_dụng vốn mục_đích	15
+cơ_cấu vốn	15
+vốn cố_định	15
+vốn cân_đối ngân_sách địa_phương	15
+đảm_bảo sử_dụng vốn	15
+huy_động hợp_pháp	14
+tín_dụng đầu_tư	14
+vay định_mức	14
+định_mức phân_bổ vốn	14
+cân_đối vốn	14
+vốn sự_nghiệp tính_chất	14
+tỷ_lệ vốn	13
+phê duyệ	13
+quỹ đầu_tư	13
+cấp_phát vốn ngân_sách	13
+: ngân_sách trung_ương hỗ_trợ	13
+sử_dụng quỹ	12
+toàn_bộ vốn	12
+quản_lý sử_dụng	12
+hỗ_trợ phát_triển	12
+vay vốn đầu_tư	12
+vốn tín_dụng đầu_tư	12
+vốn liên_doanh	12
+nhà_nước hỗ_trợ	12
+nhu_cầu vốn lưu_động	11
+phân_bổ vốn đầu_tư phát_triển	11
+cân_đối ngân_sách địa_phương	11
+vốn đầu_tư xây_dựng	11
+đối_ứng dự_án	10
+tiêu_chí định_mức phân_bổ	10
+quỹ phát_triển	10
+( od	10
+tỷ_lệ vốn đối_ứng ngân_sách địa_phương thực_hiện	10
+bố_trí kế_hoạch	10
+vốn đầu_tư công	10
+vốn lưu_động xí_nghiệp	10
+vốn hỗ_trợ phát_triển chính_thức ( od	9
+vốn quỹ	8
+bố_trí vốn đầu_tư	8
+ngân_sách tỉnh	8
+sử_dụng ngân_sách	8
+ưu_tiên đầu_tư	8
+giải_ngân vốn	8
+sử_dụng vốn hỗ_trợ	8
+dự_án đầu_tư	8
+vốn nsnn	8
+sử_dụng vốn oda	8
+phân_bổ kế_hoạch	8
+sử_dụng vốn vay	8
+trung_ương (	8
+nhu_cầu sử_dụng	8
+rút vốn bổ_sung	7
+phân_bổ vốn đầu_tư	7
+ưu_tiên bố_trí	7
+phân_bổ ngân_sách	7
+sử_dụng mục_đích	7
+nguồn_gốc ngân_sách nhà_nước	7
+sử_dụng ngân_sách nhà_nước	7
+bổ_sung mục_tiêu ngân_sách	7
+vốn hoàn_trả	7
+lưu_động định_mức	7
+đầu_tư vốn ngân_sách	6
+dự_án sử_dụng	6
+tình_hình sử_dụng vốn	6
+bổ_sung mục_tiêu	6
+đầu_tư trực_tiếp	6
+thành vốn ngân_sách	6
+vốn đầu_tư dự_án	6
+tỷ_lệ vốn đối_ứng	6
+điều_chuyển vốn	6
+ngân_sách nhà_nước cấp_phát	5
+kế_hoạch sử_dụng	5
+trung_ương hỗ_trợ	5
+đầu_tư mở_rộng	5
+hỗ_trợ ngân_sách trung_ương	5
+ngân_sách nhà_nước địa_bàn	5
+trung_ương địa_phương	5
+sử_dụng hiệu_quả	5
+kế_hoạch phân_bổ	5
+viện_trợ nước_ngoài	5
+kinh_phí nghiệ	5
+định_mức phân_bổ vốn đầu_tư phát_triển	5
+vốn đầu_tư ngân_sách	5
+phân_bổ kế_hoạch vốn	5
+phân_bổ vốn ngân_sách trung_ương	5
+vốn chương_trình mục_tiêu	5
+công nghiệ	4
+kế_hoạch phát_triển	4
+vốn đối_ứng ngân_sách địa_phương thực_hiện chương_trình mục_tiêu quốc_gia_giảm_nghèo bền_vững	4
+dự_án vốn đầu_tư	4
+ngân_sách nướ	4
+dự_kiến kế_hoạch	4
+đối_với vốn ngân_sách	4
+quản_lý sử_dụng vốn ngân_sách	4
+mục_đích hiệu_quả	4
+nhà_nước_ngoài ngân_sách	4
+phát_triển sự_nghiệp	4
+ngân_sách nhà_nước thực_hiện chương_trình	4
+vốn đối_ứng ngân_sách	4
+tình_hình sử_dụng	4
+dự_án phát_triển	4
+nguồn_gốc ngân_sách	4
+quỹ hỗ_trợ	4
+ngân_sách nhà_nước đảm_bảo	3
+ngân_sách tỉnh hỗ_trợ	3
+sử_dụng vốn ngân_sách địa_phương	3
+định_mức phân_bổ vốn đầu_tư	3
+oda viện_trợ	3
+phương_án bố_trí	3
+tỷ_lệ vốn đối_ứng ngân_sách địa_phương thực_hiện chương_trình	3
+cấp_phát kinh_phí	3
+sử_dụng ngân_sách nhà_nước địa_bàn tỉnh	3
+bổ_sung quỹ	3
+nhà_nước thu_hồi	3
+định_mức phân_bổ vốn ngân_sách	3
+dự_án đầu_tư sử_dụng vốn	3
+đầu_tư cân_đối ngân_sách	3
+tổng kinh_phí	3
+vốn đầu_tư phát_triển ngân_sách nhà_nước	3
+mục_đích sử_dụng	3
+đối_ứng ngân_sách địa_phương thực_hiện	3
+ngân_sách địa	3
+phân_bổ kinh_phí	3
+bảo_toàn phát_triển	3
+sử_dụng kinh_phí	3
+huy_động dân	3
+định_mức phân_bổ vốn ngân_sách trung_ương tỷ_lệ	3
+vốn trái_phiếu	3
+sử_dụng vốn hỗ_trợ phát_triển chính_thức ( od	3
+hoàn_trả vốn vay	3
+đầu_tư cân_đối	3
+vốn ngân_sách huyện	3
+vốn hỗ_trợ phát_triển chính_thức	3
+kinh_phí chương_trình	3
+vốn cân_đối	2
+nhu_cầu kinh_phí	2
+chợ đầu_tư vốn ngân_sách nhà_nước	2
+tiêu_chí định_mức	2
+tổng quyết_toán	2
+quỹ dự_phòng	2
+tiêu_chí định_mức phân_bổ vốn đầu_tư	2
+đối_ứng chương_trình	2
+dự_án sử_dụng vốn ngân_sách	2
+phát_triển quỹ	2
+nhà_nước cấp_phát	2
+quản_lý sử_dụng vốn ngân_sách địa_phương	2
+đầu_tư chương_trình	2
+hoạt_động sự_nghiệp	2
+đầu_tư công	2
+đầu_tư xây_dựng	2
+ngân_sách nhà_nước hỗ_trợ ( gọi	2
+thành vốn	2
+hỗ_trợ đầu_tư xây_dựng	2
+phà đầu_tư vốn	2
+tiêu_chí định_mức phân_bổ vốn	2
+quyết_toán dự_án	2
+sử_dụng quyết_toán	2
+đầu_tư nước_ngoài	2
+dự_án đầu_tư phát_triển	2
+ngân_hàng_đầu_tư xây_dựng	2
+( đối_với vốn ngân_sách	2
+vốn đầu_tư phát_triển ngân_sách	2
+quyết_toán quỹ	2
+nguồn_lực đầu_tư	2
+quản_lý nhà_nước	2
+ngân_sách huyện	2
+vốn đầu_tư trực_tiếp	2
+đầu_tư phát_triển kinh_phí sự_nghiệp ngân_sách nhà_nước	2
+hỗ_trợ hoạt_động	1
+trông xe đầu_tư vốn	1
+tỷ_lệ vốn đối_ứng ngân_sách	1
+tình_hình quản_lý	1
+trung_ương tỷ_lệ	1
+ưu_tiên phát_triển	1
+đối_ứng ngân_sách	1
+chương_trình phát_triển	1
+tổng_cục quản_lý	1
+kế_hoạch đầu_tư công	1
+nhà_nước địa_bàn	1
+vốn đầu_tư phát_triển kinh_phí sự_nghiệp	1
+trung_ương địa	1
+ngân_sách nhà_nước thực_hiện chương_trình mục_tiêu	1
+hoàn_trả toàn_bộ	1
+đầu_tư dự_án	1
+đầu_tư xây_dựng địa_bàn tỉnh	1
+nhà_nước thực_hiện chương_trình mục_tiêu	1
+đối_ứng ngân_sách địa_phương	1
+phà đầu_tư	1
+mục_tiêu chương_trình	1
+xây_dựng phương_án	1
+vốn nhà_nước_ngoài	1
+thực_hiện dự_án	1
+vốn hỗ_trợ phát_triển	1
+đầu_tư trực_tiếp nước_ngoài	1
+vốn đối_ứng ngân_sách địa_phương thực_hiện chương_trình mục_tiêu	1
+kinh_phí sự_nghiệp thực_hiện chương_trình	1
+dự_án oda	1
+trái_phiếu chính_phủ	1
+kinh_phí sự_nghiệp thực_hiện	1
+kinh_phí sự_nghiệp	1
+ngân_sách trung_ương ngân_sách	1
+xây_dựng sử_dụng vốn ngân_sách nhà_nước	1
+dự_án vay vốn	1
+cấp_phát quản_lý	1
+hỗ_trợ phát_triển chính_thức (	1
+sự_nghiệp ngân_sách nhà_nước	1
+kinh_phí ngân_sách nhà_nước	1
+đối_với dự_án	1
+định_mức phân_bổ vốn đầu_tư phát_triển ngân_sách nhà_nước	1
+dự_án tổng vốn đầu_tư	1
+dự_án đầu_tư xây_dựng sử_dụng vốn	1
+đối_với hoạt_động	1
+đầu_tư xây_dựng sử_dụng vốn ngân_sách	1
+hạch_toán quyết_toán	1
+dịch_vụ trông xe đầu_tư vốn ngân_sách	1
+phân_bổ vốn ngân_sách	1
+ngân_sách địa_phương đảm_bảo	1
+chợ đầu_tư vốn	1
+trung_ương tỷ_lệ vốn đối_ứng ngân_sách địa_phương thực_hiện	1
+sử_dụng ngân_sách nhà_nước địa_bàn	1
+kinh_phí ngân_sách nhà_nước hỗ_trợ	1
+kinh_phí sự_nghiệp ngân_sách nhà_nước	1
+trung_ương quản_lý	1
+tỷ_lệ vốn đối_ứng ngân_sách địa_phương thực_hiện chương_trình mục_tiêu quốc_gia_giảm_nghèo	1
+cân_đối kế_hoạch	1
+đóng_góp quỹ	1
+quyết_toán chính_thức	1
+quỹ dự_trữ	1
+xây_dựng sử_dụng vốn nhà_nước_ngoài ngân_sách	1
+xây_dựng kế_hoạch	1
+chương_trình mục_tiêu	1
+lưu_động xí_nghiệp	1
+bổ_sung kinh_phí	1

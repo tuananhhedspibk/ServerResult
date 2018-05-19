@@ -1,0 +1,167 @@
+nông_nghiệp phát_triển nông_thôn	565
+khu công_nghiệp	443
+khu dân_cư	284
+sở nông_nghiệp phát_triển nông_thôn	246
+cụm công_nghiệp	211
+ban quản_lý khu kinh_tế	177
+khu kinh_tế	160
+ban quản_lý	119
+khu kinh_tế cửa_khẩu	113
+khu du_lịch	101
+ban quản_lý khu công_nghiệp	84
+khu chế_xuất	78
+nông_nghiệp ptnt	71
+ban quản_lý khu công_nghiệp tỉnh	67
+nông_nghiệp công_nghiệp thực_phẩm	60
+khu công_nghệ_cao	55
+phát_triển du_lịch	46
+dân_cư nông_thôn	46
+phân khu	42
+khu du_lịch địa_bàn tỉnh	40
+bộ_trưởng nông_nghiệp phát_triển nông_thôn	40
+phối_hợp ban quản_lý khu kinh_tế	40
+phát_triển nông_thôn	38
+phát_triển kinh_tế	37
+giám_đốc sở nông_nghiệp phát_triển nông_thôn	36
+doanh_nghiệp khu công_nghiệp	35
+lĩnh_vực nông_nghiệp phát_triển nông_thôn	34
+kinh_tế trang_trại	31
+phát_triển công_nghiệp	29
+nông thô	27
+phối_hợp sở nông_nghiệp phát_triển nông_thôn	27
+sở nông_nghiệp ptnt	26
+vật_tư nông_nghiệp	26
+phi nông_nghiệp	26
+ứng_phó biến_đổi khí_hậu	25
+chợ khu kinh_tế cửa_khẩu	25
+công_nghiệp tỉnh	24
+ban quản_lý khu kinh_tế nghi_sơn khu công_nghiệp	24
+công_nghiệp nông_thôn	23
+khu vự	23
+biến_đổi khí_hậu	23
+ban quản_lý khu	22
+khu công_nghiệp địa_bàn tỉnh	22
+dự_án đầu_tư khu công_nghiệp	21
+cụm dân_cư	21
+cộng_đồng dân_cư	21
+gửi sở nông_nghiệp phát_triển nông_thôn	21
+khu chế_xuất khu kinh_tế	21
+khu chức_năng khu kinh_tế cửa_khẩu khu công_nghiệp tỉnh	21
+thuỷ_lợi phát_triển nông_thôn	20
+động_viên công_nghiệp	20
+quản_lý khu du_lịch	20
+ban quản_lý khu kinh_tế chu_lai	20
+( ban quản_lý khu kinh_tế trực_tiếp_quản_lý )	20
+khu phân khu	19
+chính_phủ quy_định khu công_nghiệp	19
+cụm dân_cư nông_thôn	19
+khu chức_năng	18
+phát_triển nông_nghiệp	18
+đề_nghị giám_đốc sở nông_nghiệp phát_triển nông_thôn tờ_trình	18
+trưởng ban quản_lý khu kinh_tế	17
+thích_ứng biến_đổi khí_hậu	17
+khu kinh_tế chu_lai	17
+nông_nghiệp phát_triển nông_thôn hướng_dẫn	16
+sở nông_nghiệp phát_triển nông_thôn chủ_trì	15
+phối_hợp ban quản_lý	15
+công_nghiệp địa_bàn	14
+sở nông_nghiệp	14
+ban chỉ_huy	14
+khu công_nghiệp khu kinh_tế	14
+khu chức_năng khu kinh_tế	13
+nông_thôn địa_bàn tỉnh	13
+phát_triển cụm công_nghiệp	12
+quản_lý khu	12
+môi_trường khu công_nghiệp	12
+trưởng ban quản_lý	11
+đầu_tư phát_triển	10
+khu chức_năng khu kinh_tế cửa_khẩu	10
+du_lịch khu du_lịch	10
+sở nông_nghiệp phát_triển	9
+giám_đốc sở	9
+sở nông_nghiệp phát_triển nông_thôn trách_nhiệm	9
+trưởng ban	8
+khu du_lịch địa_bàn	8
+khu công_nghiệp tỉnh	8
+cụm công_nghiệp địa_bàn tỉnh	7
+công_nghiệp thực_phẩm	7
+nông_nghiệp phát_triển nông_thôn trách_nhiệm	7
+chợ nông_thôn địa_bàn tỉnh	7
+nông_thôn (	7
+nghi_sơn khu công_nghiệp	7
+sở nông_nghiệp phát_triển nông_thôn tờ_trình	6
+khu kinh_tế cửa_khẩu khu công_nghiệp	6
+nông_thôn địa_bàn	6
+cụm công_nghiệp địa_bàn	6
+lĩnh_vực nông_nghiệp	6
+ban quản_lý khu kinh_tế trực_tiếp_quản_lý	6
+nông_nghiệp phát_triển nông thô	6
+bộ_trưởng nông_nghiệp	5
+phát_triển nông thô	5
+trưởng ban quản_lý khu	5
+đầu_tư khu công_nghiệp	5
+khu công_nghiệp địa_bàn	5
+kỹ_thuật cụm công_nghiệp	4
+chợ nông_thôn	4
+du_lịch khu	4
+nông_nghiệp phát_triển nông_thôn chủ_trì	4
+công_nghiệp địa_bàn tỉnh	4
+quy_hoạch phát_triển	4
+du_lịch địa_bàn tỉnh	4
+nông_nghiệp công_nghiệp	4
+chính_phủ quản_lý	4
+lĩnh_vực quản_lý	3
+khu kinh_tế nghi_sơn khu công_nghiệp	3
+khu dân_cư địa_bàn	3
+đề_nghị giám_đốc sở nông_nghiệp phát_triển nông_thôn	3
+phối_hợp ban	3
+nông_nghiệp phát_triển	3
+sở du_lịch	3
+dân_cư địa_bàn	3
+quản_lý khu công_nghiệp	3
+tài_chính - nông_nghiệp phát_triển nông_thôn	3
+nông_nghiệp phát_triển nông	3
+du_lịch địa_bàn	3
+hướng_dẫn quản_lý	2
+nông_nghiệp phát_triển nông_thôn tổng_hợp	2
+ban kinh_tế	2
+phát_triển nông_thôn hướng_dẫn	2
+- nông_nghiệp phát_triển nông_thôn hướng_dẫn	2
+phối_hợp sở	2
+thích_ứng biến_đổi	2
+gửi sở	2
+khu chức_năng khu kinh_tế cửa_khẩu khu công_nghiệp	2
+phát_triển nông	2
+quản_lý khu kinh_tế	2
+bộ_trưởng nông_nghiệp phát_triển	2
+tài_chính - nông_nghiệp phát_triển nông_thôn hướng_dẫn	2
+nông_nghiệp phát_triển nông_thôn tờ_trình	2
+dự_án phát_triển	2
+nông_thôn chủ_trì	1
+nông_thôn hướng_dẫn	1
+đề_nghị trưởng ban	1
+khu kinh_tế cửa_khẩu khu công_nghiệp tỉnh	1
+chủ_trì phối_hợp	1
+trực_tiếp_quản_lý )	1
+quản_lý dự_án	1
+dự_án đầu_tư khu	1
+hướng_dẫn chức_năng	1
+khu công_nghiệp khu	1
+đề_nghị trưởng	1
+chức_năng quản_lý	1
+chức_năng khu kinh_tế	1
+khu kinh_tế nghi_sơn	1
+địa_bàn tỉnh	1
+đề_nghị giám_đốc sở	1
+trách_nhiệm phối_hợp	1
+phát_triển nông_thôn tổng_hợp	1
+đề_nghị sở	1
+phát_triển nông_thôn chủ_trì	1
+công_nghiệp khu	1
+ban quản_lý khu kinh_tế nghi_sơn	1
+doanh_nghiệp công_nghệ_cao	1
+doanh_nghiệp khu	1
+ban quản_lý dự_án	1
+quản_lý )	1
+phát_triển quản_lý chợ	1
+phối_hợp ban quản_lý khu	1

@@ -1,0 +1,33 @@
+hội thi	117
+hội cựu_chiến_binh	84
+hội quần_chúng	51
+hội nông_dân	47
+hội cựu_chiến_binh việt nam	43
+hội nhà_báo	41
+tổ_chức hội	39
+tương đươn	31
+hội_viên hội	26
+hội nghề_nghiệp	24
+hội nông_dân việt nam	21
+tổ_chức thi	20
+hội phụ_nữ	18
+hội liên_hiệp phụ_nữ	18
+hội đồn	17
+tổ_chức quần_chúng	16
+việt nam	15
+uỷ_ban toàn_quốc liên_hiệp hội	14
+văn_học nghệ_thuật việt nam	14
+chủ_tịch hội	13
+toàn_quốc liên_hiệp hội văn_học nghệ_thuật việt nam	3
+uỷ_ban toàn_quốc liên_hiệp	3
+hội nông_dân việt	3
+hội liên_hiệp	3
+liên_hiệp phụ_nữ	3
+văn_học nghệ_thuật	2
+hội cựu_chiến_binh cơ_quan	2
+toàn_quốc liên_hiệp	1
+liên_hiệp hội văn_học nghệ_thuật việt nam	1
+hội văn_học nghệ_thuật	1
+liên_hiệp hội văn_học nghệ_thuật	1
+cựu_chiến_binh cơ_quan	1
+uỷ_ban toàn_quốc liên_hiệp hội văn_học nghệ_thuật	1

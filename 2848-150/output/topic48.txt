@@ -1,0 +1,109 @@
+khóa ix	219
+thực_hiện nghị_quyết	179
+quy_định nghị_quyết	153
+căn_cứ nghị_quyết	146
+dự_thảo nghị_quyết	135
+ban_hành kèm nghị_quyết	132
+giám_sát thực_hiện nghị_quyết	108
+khóa xvi	83
+nghị_quyết quy_định	77
+tổ_chức thực_hiện	72
+bãi_bỏ nghị_quyết	63
+bổ_sung nghị_quyết	63
+đề_nghị xây_dựng nghị_quyết	55
+khóa xvii	55
+tổ_chức thực_hiện nghị_quyết	54
+kèm nghị_quyết	52
+ban_hành nghị_quyết	49
+triển_khai thực_hiện nghị_quyết	49
+thực_hiện quy_định	49
+nghị_quyết thay_thế nghị_quyết	47
+khóa vi	41
+khoá ix	40
+ban_hành quy_định	36
+khóa xviii	35
+# nghị_quyết	35
+khóa xiv	33
+khóa xi	30
+khóa xii	30
+thông_qua nghị_quyết	30
+tinh_thần nghị_quyết	29
+khoá xvi	29
+khóa vii	29
+thay_thế nghị_quyết	25
+khoá xiv	24
+tổ_chức triển_khai thực_hiện nghị_quyết	24
+( ban_hành kèm nghị_quyết	24
+nghị_quyết quy_định_mức	21
+ban_hành quy_định nguyên_tắc	21
+khoá xvii	19
+nghị_quyết 35	17
+32 quốc_hội	17
+quy_định nguyên_tắc	17
+quốc_hội thông_qua	16
+khóa xv	15
+hồ_sơ đề_nghị xây_dựng nghị_quyết	15
+ban_hành nghị_quyết quy_định	15
+nghị_quyết quốc_hội	15
+đề_nghị ban_hành nghị_quyết	15
+giám_sát triển_khai thực_hiện nghị_quyết	15
+giám_sát thực_hiện	14
+nghị_quyết hiệu_lực	13
+đề_nghị ban_hành nghị_quyết quy_định	13
+thực_hiện chính_sách	13
+nghị_quyết đại_hội	12
+lập đề_nghị xây_dựng nghị_quyết	12
+ban_hành thay_thế	11
+nghị_quyết quy_định nội_dung	11
+nghị_quyết 120	10
+nội_dung quy_định	10
+lập đề_nghị xây_dựng	9
+triển_khai thực_hiện	9
+tổ_chức triển_khai thực_hiện nghị_quyết quy_định pháp_luật	9
+ban_hành kèm nghị_quyết quy_định	9
+tổ_chức thực_hiện nghị_quyết quy_định pháp_luật	9
+thực_hiện nội_dung	8
+nghị_quyết hội_nghị	7
+tỉnh giám_sát thực_hiện nghị_quyết	7
+quy_định pháp_luật	7
+nghị_quyết quy_định chi	7
+ban_hành quy_định_mức	6
+ban_hành quy_định một_số chính_sách	6
+đề_nghị ban_hành	5
+trách_nhiệm tổ_chức triển_khai thực_hiện nghị_quyết	5
+thực_hiện nghị_quyết quy_định	5
+triển_khai thực_hiện nghị_quyết quy_định pháp_luật	4
+ban_hành quy_định_chế_độ	4
+tổ_chức triển_khai	4
+đề_nghị xây_dựng	4
+quy_định nghị_quyết thực_hiện	4
+ban_hành quy_định một_số	4
+tổ_chức triển_khai thực_hiện	3
+xây_dựng nghị_quyết	3
+triển_khai thực_hiện quy_định	3
+thực_hiện tinh_giản	2
+triển_khai thực_hiện nghị_quyết quy_định	2
+khoá ix -	2
+khóa ix -	2
+quy_định một_số chính_sách	2
+thực_hiện một_số	2
+nghị_quyết thay_thế	2
+thực_hiện nghị_quyết quy_định pháp_luật	2
+ban_hành kèm	2
+giám_sát triển_khai	1
+quy_định một_số	1
+quyết_định 12/2017	1
+tỉnh ban_hành quy_định	1
+giám_sát triển_khai thực_hiện	1
+căn_cứ nội_dung	1
+một_số quy_định ban_hành kèm	1
+dự_thảo quyết_định	1
+nghị_quyết quy_định_chế_độ	1
+một_số quy_định	1
+thực_hiện nguyên_tắc	1
+bãi_bỏ một_số	1
+thực_hiện quy_định pháp_luật	1
+tổ_chức hội_nghị	1
+bổ_sung thay_thế	1
+hồ_sơ dự_thảo	1
+hiệu_lực pháp_luật	1

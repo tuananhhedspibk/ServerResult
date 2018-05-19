@@ -1,0 +1,721 @@
+ngân_sách nhà_nước	881
+lập dự_toán	579
+ngân_sách địa_phương	519
+quyết_toán kinh_phí	365
+báo_cáo quyết_toán	328
+ngân_sách trung_ương	321
+sử_dụng kinh_phí	313
+lập kế_hoạch	311
+cấp_phát kinh_phí	265
+dự_toán kinh_phí	255
+gửi tài_chính	244
+uỷ_ban kế_hoạch nhà_nước	225
+chi ngân_sách	204
+dự_toán ngân_sách	186
+kinh_phí ngân_sách nhà_nước	161
+hạn_mức kinh_phí	153
+báo_cáo tài_chính	143
+đơn_vị dự_toán	141
+dự_toán chi	131
+kinh_phí sự_nghiệp	119
+lập dự_toán kinh_phí	110
+mục_lục ngân_sách nhà_nước	107
+chi ngân_sách nhà_nước	107
+giao dự_toán	103
+gửi cơ_quan_tài_chính	100
+sử_dụng ngân_sách nhà_nước	99
+kinh_phí thu_hồi	95
+căn_cứ kế_hoạch	94
+gửi báo_cáo quyết_toán	93
+quyết_toán ngân_sách	92
+tổng_hợp quyết_toán	91
+xét_duyệt quyết_toán	91
+hiện_hành nhà_nước	91
+tổng_hợp kế_hoạch	90
+lập báo_cáo quyết_toán	87
+phân_bổ dự_toán	86
+sử_dụng quyết_toán kinh_phí	84
+kinh_phí uỷ_quyền	83
+lập báo_cáo	82
+kế_hoạch tài_chính	79
+phân_bổ kinh_phí	79
+mục_lục ngân_sách nhà_nước hiện_hành	78
+dự_toán ngân_sách nhà_nước	76
+dự_toán duyệt	75
+đơn_vị sử_dụng ngân_sách	74
+lập dự_toán chi	74
+tổng_hợp dự_toán	74
+dự_toán ngân_sách hàng	71
+kinh_phí thực_hiện	70
+đơn_vị dự_toán ngân_sách	70
+kinh_phí công_đoàn	69
+tổng_hợp báo_cáo quyết_toán	68
+nhà_nước giao	68
+nộp ngân_sách nhà_nước	68
+ngân_sách nhà_nước bảo_đảm	64
+lập dự_toán ngân_sách	64
+giao kế_hoạch	64
+quản_lý sử_dụng kinh_phí	63
+chế_độ chi_tiêu tài_chính hiện_hành	62
+kế_hoạch nhà_nước	60
+dự_toán thu	60
+sử_dụng quyết_toán kinh_phí ngân_sách nhà_nước	59
+kế_hoạch duyệt	58
+tổng kinh_phí	57
+tài_chính quy_định lập dự_toán	57
+lập dự_toán thu	55
+thu_chi ngân_sách	54
+dự_toán giao	53
+thu_hồi kinh_phí	53
+kế_hoạch thu	52
+gửi báo_cáo	52
+xây_dựng kế_hoạch	51
+đồng gửi	50
+ngân_sách hàng	50
+bố_trí kinh_phí	50
+chấp_hành quyết_toán ngân_sách nhà_nước	50
+kinh_phí chi_trả	49
+cân_đối ngân_sách	49
+đơn_vị dự_toán i	49
+đơn_vị dự_toán 2	48
+kinh_phí chi	47
+kinh_phí ngân_sách	47
+báo_cáo quyết_toán ngân_sách	46
+tổng_hợp gửi tài_chính	46
+tài_chính thông_báo	45
+tổng_hợp dự_toán ngân_sách	45
+chi ngân_sách địa_phương	44
+tổng_hợp báo_cáo	44
+căn_cứ dự_toán	44
+phân_bổ dự_toán ngân_sách	43
+địa_phương quản_lý	43
+tài_chính cấp_phát	43
+dự_toán chi ngân_sách	43
+ngân_sách trung_ương hỗ_trợ	43
+tổng dự_toán	42
+quyết_toán thu	42
+duyệt quyết_toán	42
+giao chỉ_tiêu	42
+quy_định lập dự_toán	42
+quyết_toán ngân_sách nhà_nước	41
+cấp_phát quyết_toán kinh_phí	41
+sử_dụng mục_đích	40
+lập kế_hoạch tài_chính	40
+chỉ_tiêu kế_hoạch	40
+khoản kinh_phí	39
+ngân_sách nhà_nước hỗ_trợ	39
+ngân_sách nhà_nước đảm_bảo	38
+dự_toán ngân_sách giao	38
+bộ_trưởng tài_chính	38
+ngân_sách trung_ương ngân_sách địa_phương	37
+trách_nhiệm quyết_toán	37
+chế_độ chi_tiêu	37
+sử_dụng kinh_phí ngân_sách nhà_nước	37
+phân_phối hạn_mức kinh_phí	37
+uỷ_ban kế_hoạch	37
+nộp kinh_phí	36
+cân_đối ngân_sách địa_phương	36
+ngân_sách huyện	36
+ngân_sách nhà_nước đài_thọ	36
+trích nộp kinh_phí công_đoàn	35
+lập phương_án	35
+phân_cấp ngân_sách hiện_hành	34
+sử_dụng ngân_sách	34
+ngân_sách xã	34
+ngân_sách địa_phương đảm_bảo	34
+ngân_sách nhà_nước hiện_hành	34
+cơ_quan_tài_chính đồng	34
+phân_bổ ngân_sách địa_phương	33
+bố_trí dự_toán	33
+phân_phối hạn_mức	33
+cấp_phát quản_lý	33
+thu_chi tài_chính	33
+đơn_vị sử_dụng	32
+kinh_phí ngân_sách trung_ương	32
+tổng_hợp gửi cơ_quan_tài_chính	32
+bố_trí dự_toán ngân_sách	32
+ngân_sách trung_ương đảm_bảo	31
+kinh_phí hỗ_trợ	31
+thu ngân_sách nhà_nước	31
+luật ngân_sách nhà_nước	31
+sử_dụng kinh_phí mục_đích	31
+bổ_sung kinh_phí	31
+dự_trù kinh_phí	30
+phân_bổ giao dự_toán	30
+xây_dựng dự_toán kinh_phí	30
+quyết_toán ngân_sách địa_phương	30
+chi hàng kiến_thiết	30
+lập kế_hoạch thu	30
+phạm_vi dự_toán	30
+quy_định thời_hạn phê_chuẩn quyết_toán ngân_sách	30
+kinh_phí ngân_sách nhà_nước hỗ_trợ	30
+hỗ_trợ kinh_phí	30
+mục chi mục_lục ngân_sách nhà_nước	29
+kế_hoạch thu_chi	29
+khả_năng tài_chính	29
+kinh_phí sự_nghiệp kinh_tế	29
+ngân_sách nhà_nước_hàng	29
+nhà_nước đặt_hàng	29
+giao dự_toán ngân_sách	29
+lập dự_trù	29
+kinh_phí bảo_đảm	29
+bố_trí dự_toán ngân_sách hàng	29
+nhà_nước hỗ_trợ	29
+mục_lục ngân_sách	28
+ngân_sách địa_phương bảo_đảm	28
+ngân_sách địa_phương đài_thọ	28
+chế_độ hiện_hành	28
+căn_cứ dự_toán ngân_sách	28
+chấp_hành quyết_toán kinh_phí	27
+lập báo_cáo tài_chính	27
+hệ_thống mục_lục ngân_sách nhà_nước	27
+ngân_sách nhà_nước cấp_phát	26
+báo_cáo tài_chính hàng	26
+sử_dụng kinh_phí sự_nghiệp	26
+lập kế_hoạch thu_chi	26
+ngân_sách trung_ương bảo_đảm	25
+ghi kế_hoạch	25
+đơn_vị sử_dụng kinh_phí	25
+đơn_vị dự_toán 3	25
+khả_năng ngân_sách địa_phương	25
+kinh_phí chương_trình	25
+chi ngân_sách hàng	24
+sử_dụng quyết_toán kinh_phí trích	24
+mục_lục ngân_sách hiện_hành	24
+kế_hoạch hàng	24
+chế_độ quản_lý	24
+cơ_quan_tài_chính trách_nhiệm	24
+tài_chính tổng_hợp	23
+thẩm_định báo_cáo quyết_toán	23
+phương_án phân_bổ	23
+trung_ương địa_phương	23
+phân_cấp quản_lý ngân_sách hiện_hành	23
+cơ_quan_tài_chính địa_phương	23
+kinh_phí sự_nghiệp ngân_sách nhà_nước	23
+kinh_phí chi_tiêu	23
+tài_chính cấp_phát kinh_phí	23
+hỗ_trợ ngân_sách trung_ương	22
+kế_hoạch tài_chính - ngân_sách nhà_nước 03 địa_phương	22
+chi_tiêu tài_chính	22
+báo_cáo quyết_toán kinh_phí	22
+tình_hình sử_dụng kinh_phí	22
+dự_toán chi ngân_sách nhà_nước	22
+gửi báo_cáo quyết_toán ngân_sách	22
+quản_lý_tài_sản nhà_nước	22
+cấp_phát quyết_toán	22
+cấp_phát hạn_mức	22
+thực_hiện kế_hoạch	22
+tương_ứng mục_lục ngân_sách nhà_nước	22
+hướng_dẫn lập	22
+nhiệm_vụ chi ngân_sách	21
+sai mục_đích	21
+khoá_sổ thu_chi ngân_sách	21
+khoản tương_ứng mục_lục ngân_sách nhà_nước	21
+phê_chuẩn hạn_mức	21
+quyết_toán quy_định hiện_hành	21
+chế_độ cấp_phát	21
+chấp_hành dự_toán	21
+trung_ương hỗ_trợ	20
+giao dự_toán chi	20
+đảm_bảo kinh_phí	20
+giao hàng	20
+chấp_hành quyết_toán ngân_sách nhà_nước "	20
+đồng gửi tài_chính	20
+chế_độ báo_cáo quyết_toán	20
+thông_báo hạn_mức kinh_phí	20
+kinh_phí đảm_bảo	20
+sử_dụng quyết_toán	20
+tài_chính xem_xét	19
+uỷ_ban kế_hoạch nhà_nước tài_chính	19
+chế_độ tài_chính	19
+khả_năng kinh_phí	19
+sử_dụng kinh_phí chương_trình	19
+quản_lý sử_dụng	19
+cấp_phát hạn_mức kinh_phí	19
+tổng_hợp gửi	19
+tổng_hợp dự_toán kinh_phí	19
+xét_duyệt báo_cáo quyết_toán	19
+bố_trí dự_toán chi	19
+tài_chính hướng_dẫn	19
+12 2016 bộ_trưởng tài_chính quy_định lập dự_toán	19
+trung_ương quản_lý	19
+kế_hoạch tài_chính 05 địa_phương	19
+nhu_cầu kinh_phí	18
+dự_kiến giao dự_toán ngân_sách	18
+báo_cáo tình_hình sử_dụng kinh_phí	18
+trách_nhiệm lập	18
+quy_định hiện_hành	18
+phân_bổ chỉ_tiêu	18
+thẩm_định quyết_toán	18
+quyết_toán kinh_phí chương_trình	18
+tổng_hợp dự_toán chi	18
+nộp ngân_sách	18
+duyệt thông_báo	18
+nhiệm_vụ chi ngân_sách địa_phương	18
+bảo_đảm kinh_phí	18
+dự_toán kinh_phí hỗ_trợ	18
+xét_duyệt tổng_hợp	17
+kế_hoạch tài_chính hàng	17
+quyết_toán khoản	17
+xây_dựng dự_toán ngân_sách	17
+phân_bổ ngân_sách	17
+chế_độ hiện_hành nhà_nước	17
+thông_báo duyệt quyết_toán	17
+điều_hành ngân_sách	17
+quản_lý sử_dụng kinh_phí sự_nghiệp	17
+quy_định hiện_hành nhà_nước	17
+khả_năng ngân_sách	17
+bố_trí kế_hoạch	17
+sinh_đẻ kế_hoạch	17
+kinh_phí thừa	17
+phân_phối sử_dụng	17
+xét_duyệt cấp_phát	17
+quyết_toán thu_chi	16
+thời_hạn ủy_ban nhân_dân gửi báo_cáo quyết_toán ngân_sách	16
+bố_trí dự_toán chi ngân_sách	16
+chi_tiết mục_lục ngân_sách nhà_nước	16
+xét_duyệt kế_hoạch	16
+thu_chi ngân_sách nhà_nước	16
+căn_cứ khả_năng ngân_sách	16
+- uỷ_ban kế_hoạch nhà_nước	16
+phê_chuẩn quyết_toán ngân_sách địa_phương	16
+ngân_sách trung_ương đài_thọ	16
+căn_cứ chỉ_tiêu	15
+phương_án phân_bổ dự_toán ngân_sách	15
+trách_nhiệm tổng_hợp	15
+lập dự_toán chi ngân_sách	15
+phân_bổ giao	15
+rút dự_toán	15
+tài_chính uỷ_ban kế_hoạch nhà_nước	15
+tình_hình sử_dụng	15
+sai chế_độ	15
+hướng_dẫn quản_lý sử_dụng kinh_phí	15
+chi_tiêu tài_chính hiện_hành	15
+chấp_hành chế_độ	15
+chế_độ báo_cáo	15
+thời_hạn phê_chuẩn quyết_toán ngân_sách huyện	15
+quyết_toán kinh_phí thực_hiện	15
+dự_toán kinh_phí đề_tài	15
+dự_toán ngân_sách nhà_nước giao	15
+gửi kế_hoạch	15
+xét_duyệt dự_toán	15
+lập dự_trù kinh_phí	14
+kiểm_tra sử_dụng kinh_phí	14
+quyết_toán hàng	14
+lập gửi	14
+căn_cứ khả_năng	14
+nộp kinh_phí công_đoàn	14
+đơn_vị giao nhiệm_vụ	14
+phân_bổ kế_hoạch	14
+hạch_toán quyết_toán	14
+tài_chính hiện_hành	14
+dự_toán quyết_toán	14
+ngân_sách địa_phương hàng	14
+duyệt hàng	14
+nhà_nước đảm_bảo	13
+kế_hoạch thu_chi tài_chính	13
+chi sự_nghiệp	13
+điều_chỉnh dự_toán	13
+cơ_quan_tài_chính xem_xét	13
+xây_dựng dự_toán	13
+ngân_sách nhà_nước chi_trả	13
+rút kinh_phí	13
+lập dự_toán kinh_phí thực_hiện	13
+ngân_sách nhà_nước bảo_đảm kinh_phí	13
+chi ngân_sách nhà_nước_hàng	13
+thu ngân_sách	13
+liên_bộ uỷ_ban kế_hoạch nhà_nước	13
+hướng_dẫn lập dự_toán	13
+kinh_phí duyệt	13
+xem_xét tổng_hợp	13
+kế_hoạch tài_chính - ngân_sách nhà_nước 03	12
+giao dự_toán thu	12
+tổng quyết_toán	12
+quy_trình lập	12
+tài_chính quy_định	12
+lập dự_toán quyết_toán	12
+giao chỉ_tiêu kế_hoạch	12
+gửi tài_chính xem_xét	12
+trách_nhiệm xét_duyệt	12
+quyết_toán kinh_phí hỗ_trợ	12
+căn_cứ dự_toán chi	12
+dự_toán thu_chi	12
+chế_độ chi_tiêu tài_chính	11
+quyết_toán kinh_phí uỷ_quyền	11
+phê_chuẩn quyết_toán ngân_sách	11
+phạm_vi dự_toán ngân_sách	11
+dự_toán ngân_sách địa_phương	11
+chế_độ tài_chính hiện_hành	11
+kế_hoạch ngân_sách hàng	11
+chỉ_tiêu kế_hoạch nhà_nước	11
+thông_báo hạn_mức	11
+ngân_sách nhà_nướ	11
+2017 tài_chính quy_định lập dự_toán	11
+tổng_hợp quyết_toán ngân_sách	11
+dự_toán kinh_phí thực_hiện	11
+quy_định luật ngân_sách nhà_nước	11
+báo_cáo quyết_toán hàng	11
+quản_lý kinh_phí sự_nghiệp	11
+kế_hoạch nhà_nước giao	10
+cơ_quan_tài_chính cấp_phát	10
+kế_hoạch sử_dụng	10
+gửi cơ_quan_tài_chính đồng	10
+phân_bổ chi_tiết	10
+ngân_sách nướ	10
+chi ngân_sách trung_ương	10
+quản_lý chi_tiêu	10
+cân_đối kế_hoạch	10
+tiếp_tục sử_dụng	10
+khoản kinh_phí ngân_sách	10
+quyết_toán kinh_phí ngân_sách nhà_nước	9
+báo_cáo quyết_toán gửi	9
+thẩm_tra xét_duyệt	9
+sử_dụng kinh_phí ngân_sách	9
+trích nộp kinh_phí	9
+tổng_hợp quyết_toán kinh_phí	9
+báo_cáo quyết_toán quý	9
+thời_hạn gửi	9
+lập báo_cáo quyết_toán kinh_phí	9
+khoản chi_tiêu	9
+tài_chính - ngân_sách	9
+chi thường_xuyên ngân_sách nhà_nước	9
+phê_duyệt quyết_toán	9
+tài_chính hướng_dẫn chế_độ quản_lý	9
+cấp_phát đầy_đủ	9
+phân_cấp quản_lý ngân_sách	9
+báo_cáo quyết_toán thu	9
+hướng_dẫn quản_lý	8
+căn_cứ dự_toán ngân_sách nhà_nước	8
+chi xây_dựng	8
+nộp ngân_sách trung_ương	8
+sử_dụng quyết_toán kinh_phí bảo_đảm	8
+thời_hạn nộp	8
+báo_cáo liên_bộ	8
+kinh_phí thực_hiện chế_độ	8
+quyết_toán gửi	8
+ngân_sách địa_phương thực_hiện	8
+sử_dụng quyết_toán kinh_phí bảo_đảm công_tác	8
+đơn_vị sử_dụng kinh_phí chương_trình	8
+đơn_vị giao	8
+tổng_hợp dự_toán chi ngân_sách	8
+sử_dụng kinh_phí hỗ_trợ	8
+trung_ương trách_nhiệm	8
+nhà_nước hiện_hành	8
+cấp_phát quản_lý kinh_phí	8
+nhà_nước cấp_phát	8
+gửi đơn_vị dự_toán	8
+kế_hoạch phân_bổ	8
+quốc_hội phê_chuẩn	8
+dự_toán chi ngân_sách hàng	7
+phân_cấp ngân_sách	7
+toàn_bộ kinh_phí	7
+tài_chính xét_duyệt	7
+hạn_mức kinh_phí đơn_vị	7
+đơn_vị trung_ương quản_lý	7
+kinh_phí nsnn	7
+chi sai	7
+khoản chi	7
+kế_hoạch tài_chính - ngân_sách	7
+thời_hạn gửi báo_cáo	7
+thời_hạn phê_chuẩn quyết_toán ngân_sách	7
+chấp_hành quyết_toán ngân_sách	7
+vốn ngân_sách	7
+khả_năng cân_đối ngân_sách	7
+dự_toán ngân_sách nhà_nước_hàng	7
+dự_toán ngân_sách đơn_vị trực_thuộc	7
+dự_toán thu_chi ngân_sách	7
+lập kế_hoạch vốn	7
+hàng gửi	7
+nhà_nước đài_thọ	6
+05 địa_phương	6
+2016 tài_chính quy_định lập dự_toán	6
+lập gửi báo_cáo	6
+lập báo_cáo quyết_toán gửi	6
+hỗ_trợ ngân_sách	6
+sử_dụng kinh_phí ngân_sách nhà_nước hỗ_trợ	6
+quyết_toán ngân_sách đơn_vị	6
+ngân_sách nhà_nước phân_cấp	6
+kinh_phí ngân_sách nhà_nước bảo_đảm	6
+kinh_phí thực_hiện chương_trình	6
+tình_hình thu	6
+trách_nhiệm quản_lý	6
+đơn_vị kinh_tế	6
+kế_hoạch phân_phối	6
+liên_bộ uỷ_ban kế_hoạch nhà_nước -	6
+ngân_sách trung_ương ngân_sách	6
+thu ngân_sách địa_phương	6
+khả_năng chi_trả	6
+báo_cáo thẩm_tra	6
+sử_dụng quyết_toán kinh_phí ngân_sách nhà_nước bảo_đảm công_tác	6
+kinh_phí trích	6
+gửi tài_chính tổng_hợp	6
+thực_hiện chi_trả	6
+quyết_toán đơn_vị	6
+dự_toán kinh_phí thực_hiện nhiệm_vụ	6
+nhiệm_vụ giao	5
+nhà_nước bảo_đảm	5
+dự_kiến giao	5
+địa_phương đài_thọ	5
+đơn_vị quản_lý	5
+chi hỗ_trợ	5
+tài_chính hướng_dẫn quản_lý	5
+dự_toán ngân_sách quốc_phòng	5
+chấp_hành quyết_toán	5
+luật nsnn	5
+thực_hiện chế_độ	5
+kinh_phí đề_tài	5
+phương_án phân_bổ dự_toán	5
+đơn_vị địa_phương quản_lý	5
+quản_lý nhà_nước	5
+quyết_toán chính_thức	5
+thời_hạn quy_định	5
+quyết_toán ngân_sách xã	5
+thường_xuyên ngân_sách nhà_nước	5
+dự_toán ngân_sách thẩm_quyền giao	5
+bộ_trưởng tài_chính quy_định lập dự_toán	5
+trung_ương xem_xét	5
+dự_kiến kế_hoạch	5
+quyết_toán kinh_phí ngân_sách	5
+đơn_vị hạch_toán	5
+báo_cáo tổng_hợp	5
+ghi chi	5
+hướng_dẫn chế_độ quản_lý	5
+trách_nhiệm báo_cáo	5
+ngân_sách hiện_hành	5
+giao nhiệm_vụ	5
+phê_duyệt dự_toán	4
+chế_độ quy_định	4
+quyết_toán đơn_vị dự_toán	4
+quy_định quản_lý sử_dụng kinh_phí	4
+kinh_phí chi_trả chế_độ	4
+hướng_dẫn cấp_phát quản_lý	4
+giao dự_toán đơn_vị	4
+mục chi mục_lục	4
+kế_hoạch tài_chính 05	4
+báo_cáo tình_hình	4
+nộp ngân_sách địa_phương	4
+tài_chính hướng_dẫn thực_hiện	4
+quyết_toán kinh_phí sự_nghiệp	4
+tổng_hợp nhu_cầu	4
+xét_duyệt quyết_toán đơn_vị	4
+tài_chính thẩm_định	4
+hướng_dẫn quản_lý kinh_phí	4
+ngân_sách chi sự_nghiệp	4
+thu sự_nghiệp	4
+trung_ương ngân_sách địa_phương	4
+đảm_bảo thực_hiện	4
+báo_cáo quyết_toán vốn	4
+tổng kinh_phí hỗ_trợ	4
+sử_dụng kinh_phí sự_nghiệp kinh_tế	4
+xây_dựng phương_án	4
+nhu_cầu sử_dụng	4
+bố_trí kinh_phí thực_hiện	4
+căn_cứ luật ngân_sách nhà_nước	4
+sự_nghiệp thu	4
+hướng_dẫn cấp_phát quản_lý kinh_phí	3
+khoản chi ngân_sách	3
+quyết_toán vốn	3
+vốn ngân_sách nhà_nước	3
+chi công_tác quản_lý nhà_nước	3
+nhiệm_vụ chi	3
+chi quý	3
+giao dự_toán chi ngân_sách	3
+quý gửi	3
+trách_nhiệm hướng_dẫn	3
+ngân_sách nhà_nước thu sự_nghiệp	3
+dự_kiến giao dự_toán	3
+thông_báo chính_thức	3
+điều_chỉnh kế_hoạch	3
+quyết_toán kinh_phí bảo_đảm	3
+khoản thu	3
+đồng_thời thông_báo	3
+uỷ_ban kế_hoạch nhà_nước - tài_chính	3
+nhu_cầu chi	3
+khoản thu_hồi	3
+mục chi	3
+phê_chuẩn quyết_toán ngân_sách huyện	3
+trách_nhiệm lập báo_cáo	3
+khoản chi ngân_sách nhà_nước	3
+đồng gửi cơ_quan_tài_chính	3
+hạng tương_ứng mục_lục ngân_sách	3
+dự_toán ngân_sách chi	3
+chấp_hành quy_định	3
+đồng_thời đảm_bảo	3
+bảo_đảm thực_hiện	3
+ngân_sách nhà_nước thực_hiện chương_trình	3
+gửi uỷ_ban	3
+thời_hạn phê_chuẩn quyết_toán	3
+khoản thu_chi	3
+18/7/1998 tài_chính	3
+dự_toán ngân_sách đơn_vị	3
+vốn sự_nghiệp	2
+quy_định hiện_hành luật ngân_sách nhà_nước	2
+mục chi mục_lục ngân_sách	2
+tương_ứng mục_lục	2
+phân_cấp quản_lý	2
+- tài_chính	2
+sử_dụng vốn	2
+thời_hạn ủy_ban nhân_dân gửi báo_cáo	2
+sử_dụng vốn ngân_sách	2
+ngân_sách nhà_nước 03	2
+phương_án bố_trí	2
+chế_độ phân_phối	2
+2016 bộ_trưởng tài_chính quy_định lập dự_toán	2
+bộ_trưởng tài_chính quy_định	2
+quy_định chi_tiết	2
+thuyết_minh chi_tiết	2
+phân_bổ dự_toán ngân_sách đơn_vị	2
+quyết_toán quý	2
+trung_ương đài_thọ	2
+ngân_sách đơn_vị trực_thuộc	2
+chi_tiết mục_lục ngân_sách	2
+phạm_vi quản_lý	2
+cân_đối dự_toán	2
+chi mục_lục ngân_sách nhà_nước	2
+quyết_toán ngân_sách huyện	2
+tình_hình thực_hiện	2
+phân_bổ dự_toán chi	2
+sử_dụng vốn ngân_sách nhà_nước	2
+phê_duyệt báo_cáo	2
+nhà_nước - tài_chính	2
+kinh_phí sự_nghiệp thực_hiện	2
+tài_chính quy_định quản_lý sử_dụng kinh_phí	2
+phê_chuẩn quyết_toán	2
+sự_nghiệp kinh_tế	2
+thẩm_quyền duyệt	2
+thời_hạn ủy_ban nhân_dân gửi báo_cáo quyết_toán	2
+phân_bổ chi	2
+chi chương_trình	2
+ủy_ban nhân_dân gửi báo_cáo quyết_toán ngân_sách	2
+thực_hiện quy_định luật ngân_sách nhà_nước	2
+khả_năng cân_đối	2
+tình_hình thực_hiện kế_hoạch	2
+phân giao	2
+nhà_nước trung_ương	2
+quản_lý điều_hành	2
+tình_hình quản_lý	2
+tài_chính - ngân_sách nhà_nước	2
+hàng kiến_thiết	2
+cấp_phát vốn	2
+thẩm_tra phê_duyệt quyết_toán	2
+kế_hoạch nhà_nước tài_chính	2
+chi_tiết mục	2
+thẩm_quyền giao dự_toán	2
+tài_chính hướng_dẫn quản_lý kinh_phí	2
+trách_nhiệm thông_báo	2
+kiểm_tra quản_lý sử_dụng	2
+chế_độ thu	2
+quản_lý sử_dụng vốn	2
+thời_hạn sử_dụng	2
+dự_toán chi sự_nghiệp	2
+xét_duyệt báo_cáo	2
+nộp nsnn	2
+quyết_toán kinh_phí trích	2
+thực_hiện chế_độ chi_tiêu	2
+tài_chính quy_định quản_lý sử_dụng	2
+địa_phương đảm_bảo	2
+thu sử_dụng vốn	1
+thông_báo duyệt	1
+kế_hoạch tài_chính - ngân_sách nhà_nước	1
+mục i	1
+phân_cấp thu	1
+kinh_phí sự_nghiệp thực_hiện chương_trình	1
+khoản tương_ứng mục_lục	1
+kinh_phí thực_hiện đề_tài	1
+2017 tài_chính	1
+dự_toán i	1
+báo_cáo uỷ_ban	1
+chi thường_xuyên hàng	1
+lập báo_cáo tình_hình	1
+vốn ngân_sách địa_phương	1
+tiếp_tục thực_hiện	1
+thẩm_định thông_báo	1
+kinh_phí mục_đích	1
+hạng tương_ứng mục_lục	1
+phân_cấp trách_nhiệm	1
+căn_cứ nhu_cầu	1
+ngân_sách nhà_nước 03 địa_phương	1
+hướng_dẫn quản_lý kinh_phí sự_nghiệp	1
+phân_cấp nhiệm_vụ chi	1
+đơn_vị sự_nghiệp thu	1
+thu nộp	1
+quy_định phân_cấp thu	1
+tổng_hợp tình_hình	1
+thẩm_quyền phê_duyệt dự_toán	1
+tài_chính - ngân_sách nhà_nước 03	1
+quy_định luật ngân_sách	1
+thông_báo thu_hồi	1
+thường_xuyên ngân_sách	1
+tài_chính -	1
+khoản mục	1
+đơn_vị sự_nghiệp	1
+sự_nghiệp ngân_sách nhà_nước	1
+lập phương_án phân_bổ	1
+xây_dựng hệ_thống	1
+giao dự_toán ngân_sách đơn_vị	1
+sử_dụng quyết_toán kinh_phí ngân_sách nhà_nước bảo_đảm	1
+nộp toàn_bộ ngân_sách nhà_nước	1
+thực_hiện chế_độ báo_cáo	1
+nhiệm_vụ quản_lý	1
+phê_duyệt kế_hoạch	1
+sử_dụng quyết_toán kinh_phí ngân_sách nhà_nước bảo_đảm công_tác xây_dựng	1
+đồng_thời tổng_hợp	1
+tổng công_đoàn	1
+khoản nộp	1
+chi_trả chế_độ	1
+tài_chính 05 địa_phương	1
+tổng kinh_phí thực_hiện	1
+tài_chính - ngân_sách nhà_nước 03 địa_phương	1
+quản_lý vốn	1
+quyết_toán kinh_phí ngân_sách nhà_nước bảo_đảm công_tác	1
+trích nộp ngân_sách	1
+dự_toán ngân_sách đơn_vị dự_toán	1
+chi công_tác	1
+đơn_vị trực_thuộc	1
+hiện_hành luật ngân_sách nhà_nước	1
+tài_chính quy_định lập	1
+thẩm_quyền xét_duyệt	1
+dự_toán chi thường_xuyên	1
+ghi thu	1
+thực_hiện quy_định	1
+đảm_bảo công_tác	1
+sai quy_định	1
+quản_lý sử_dụng vốn ngân_sách	1
+- chi	1
+đơn_vị thực_hiện đề_tài	1
+trách_nhiệm bố_trí	1
+trung_ương đảm_bảo	1
+sử_dụng quyết_toán kinh_phí ngân_sách	1
+nhà_nước 03 địa_phương	1
+kiểm_tra chấp_hành	1
+báo_cáo thẩm_định	1
+kinh_phí ngân_sách nhà_nước bảo_đảm công_tác xây_dựng	1
+phân_cấp ủy_ban	1
+dự_toán xây_dựng	1
+tài_chính - uỷ_ban	1
+luật ngân_sách	1
+kinh_phí thường_xuyên	1
+chi_tiết mục chi	1
+tài_chính 05	1
+chi_tiết hướng_dẫn	1
+hạch_toán khoản	1
+quyết_toán gửi tài_chính	1
+chi xây_dựng báo_cáo	1
+dự_toán phương_án	1
+sự_nghiệp nhà_nước	1
+thời_hạn 05	1
+hạng tương_ứng	1
+dự_toán quyết_toán kinh_phí	1
+quyết_toán ngân_sách đơn_vị dự_toán	1
+mục_đích sử_dụng	1
+khả_năng thu_hồi	1
+ngân_sách đơn_vị dự_toán	1
+thực_hiện công_tác	1
+thẩm_quyền thẩm_định	1
+đồng_thời báo_cáo	1
+ủy_ban nhân_dân gửi báo_cáo quyết_toán	1
+đơn_vị dự_toán trực_thuộc	1
+kinh_phí ngân_sách nhà_nước bảo_đảm công_tác	1
+3 -	1
+liên_bộ tài_chính	1
+tài_chính " hướng_dẫn	1

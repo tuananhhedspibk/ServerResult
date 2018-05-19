@@ -1,0 +1,174 @@
+đo_đạc bản_đồ	152
+hoạt_động đo_đạc bản_đồ	109
+cơ_sở dữ_liệu	103
+bản_đồ địa_chính	98
+chi_cục quản_lý đất_đai	88
+bảo_vệ bí_mật nhà_nước	84
+tổng_cục địa_chính	78
+cơ_sở dữ_liệu đất_đai	77
+tài_liệu lưu_trữ	69
+sở địa_chính	69
+hồ_sơ địa_chính	67
+sản_phẩm đo_đạc bản_đồ	59
+dữ_liệu đo_đạc bản_đồ	58
+cắm mốc	57
+đo_đạc bản_đồ quản_lý đất_đai	48
+cắm mốc biên_giới	45
+bí_mật nhà_nước	43
+giấy_phép hoạt_động đo_đạc bản_đồ	41
+thành_lập bản_đồ	41
+quản_lý đất_đai	40
+đo vẽ	38
+trích_lục bản_đồ địa_chính	38
+danh_mục bí_mật nhà_nước	35
+bản_đồ hành_chính	34
+cơ_sở tôn_giáo	34
+xây_dựng cơ_sở dữ_liệu	33
+lập bản_đồ	33
+vật_mang bí_mật nhà_nước	32
+khí_tượng thủy_văn	31
+xuất_bản bản_đồ	31
+lưu_trữ lịch_sử tỉnh	31
+tổng_cục quản_lý ruộng_đất	30
+công_tác đo_đạc	30
+cơ_quan địa_chính	29
+dấu mốc đo_đạc	29
+công_tác bảo_vệ bí_mật nhà_nước	29
+sản_phẩm bản_đồ	28
+nội_dung bí_mật nhà_nước	27
+cơ_sở dữ_liệu quốc_gia	27
+bản_đồ địa_hình	27
+độ mật	24
+trích đo địa_chính	24
+phát dữ_liệu đo_đạc	23
+phạm_vi bí_mật nhà_nước	23
+chỉnh_lý hồ_sơ địa_chính	22
+trích đo	21
+chỉnh_lý biến_động	21
+bay chụp ảnh	21
+tổng_kiểm_kê đất_đai	19
+lập bản_đồ địa_chính	18
+xây_dựng bản_đồ hiện_trạng sử_dụng đất	18
+kiểm_kê đất_đai	18
+cục đo_đạc bản_đồ nhà_nước	18
+gửi số_liệu địa_chính cơ_quan thuế	17
+trích_lục bản_đồ	17
+trích đo địa_chính đất	17
+cục đo_đạc bản_đồ	17
+hệ_thống cơ_sở dữ_liệu	17
+số_liệu địa_chính	16
+kinh_phí đo_đạc bản_đồ quản_lý đất_đai	16
+ảnh chụp	15
+chi_cục quản_lý đất_đai kiểm_tra	15
+quản_lý ruộng_đất	15
+thông_tin địa_chính cơ_quan thuế	13
+chi_cục văn_thư	13
+cơ_sở pháp_lý	13
+cơ_sở dữ_liệu giá	13
+bay chụp	12
+hoạt_động đo_đạc	11
+hồ_sơ chi_cục quản_lý đất_đai	11
+danh_mục tài_liệu	11
+đo_đạc lập bản_đồ	11
+biến_động đất_đai	10
+đo_đạc thành_lập bản_đồ	10
+địa_chính cơ_quan thuế	10
+chụp ảnh	10
+lưu_trữ lịch_sử	10
+dữ_liệu đo_đạc	9
+công_tác đo_đạc bản_đồ	9
+phạm_vi quản_lý	9
+lưu_trữ hồ_sơ	9
+sổ địa_chính	8
+công_trình đo_đạc bản_đồ	8
+biến_động hồ_sơ địa_chính	8
+thông_tin địa_lý	8
+tổng_cục quản_lý	7
+lập hồ_sơ	7
+công_trình xây_dựng đo_đạc	7
+trích lục	7
+bảo_vệ công_trình	7
+lịch_sử tỉnh	7
+mốc địa_giới	6
+cục đo_đạc	6
+thu_thập tài_liệu	6
+bản_đồ hiện_trạng sử_dụng đất	6
+quản_lý nhà_nước	6
+thông_tin cơ_sở dữ_liệu	5
+danh_mục bí_mật	5
+cập_nhật thông_tin	5
+quản_lý nhà_nước hoạt_động	5
+quản_lý bảo_vệ	5
+sản_phẩm cuối_cùng	5
+quản_lý hoạt_động	4
+cơ_quan quản_lý nhà_nước	4
+giao_nộp sản_phẩm	4
+công_trình đo_đạc	4
+bản_đồ hiện_trạng	4
+đo_đạc lập	4
+tóm_tắt nội_dung	4
+xây_dựng cơ_sở	4
+lập danh_mục	4
+đo_đạc thành_lập	4
+sản_phẩm đo_đạc	3
+cục quản_lý	3
+sử_dụng cơ_sở dữ_liệu	3
+giấy_phép xây_dựng	3
+dấu mốc	3
+cục xuất_bản	3
+phạm_vi quản_lý sở	3
+phạm_vi bảo_vệ	3
+bảo_vệ bí_mật	3
+hồ_sơ giấy_phép	2
+số_liệu địa_chính cơ_quan	2
+công_tác quản_lý nhà_nước	2
+bản_đồ địa_giới	2
+xây_dựng hệ_thống	2
+hiện_trạng sử_dụng	2
+dữ_liệu quốc_gia	2
+phạm_vi toàn_quốc	2
+phạm_vi bí_mật	2
+thông_tin địa_chính	2
+biên_giới quốc_gia	2
+cơ_quan quản_lý	2
+mốc biên_giới	2
+in_ấn tài_liệu	2
+kiểm_tra yếu_tố	2
+hoạt_động xuất_bản	2
+đo_đạc bản_đồ chuyên_ngành	2
+hệ_thống cơ_sở	2
+bản_đồ chuyên_ngành	2
+vật_mang bí_mật	1
+cơ_quan thuế	1
+lưu hồ_sơ	1
+kinh_phí hoạt_động	1
+địa_chính cơ_quan	1
+nội_dung bí_mật	1
+danh_mục sản_phẩm	1
+xây_dựng công_trình	1
+gửi sở	1
+kinh_phí đo_đạc	1
+quản_lý sử_dụng	1
+dữ_liệu đất_đai	1
+hồ_sơ tài_liệu	1
+gửi cục	1
+kiểm_tra hồ_sơ	1
+cục thuế	1
+công_tác xây_dựng	1
+mốc đo_đạc	1
+đo địa_chính	1
+quản_lý hành_chính	1
+phạm_vi quản_lý nhà_nước	1
+hệ_thống thông_tin	1
+sử_dụng sản_phẩm	1
+công_tác quản_lý	1
+chỉnh_lý hồ_sơ	1
+giấy_phép hoạt_động	1
+chi_cục_trưởng chi_cục	1
+địa_giới hành_chính	1
+lập sổ	1
+công_tác kiểm_tra	1
+công_tác quản_lý bảo_vệ	1
+đo_đạc bản_đồ địa_bàn	1
+xây_dựng bản_đồ hiện_trạng	1
+nhà_nước hoạt_động	1

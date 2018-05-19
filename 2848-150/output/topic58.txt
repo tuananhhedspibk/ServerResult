@@ -1,0 +1,155 @@
+sở thương_mại	132
+giao hạn_ngạch	90
+hàng giả	77
+gian_lận thương_mại hàng giả	74
+gian_lận thương_mại	64
+hoa kỳ	62
+hàng xuất_khẩu	61
+lưu_thông thị_trường	57
+xúc_tiến thương_mại	56
+hoạt_động thương_mại	55
+triển_lãm thương_mại	54
+hàng dệt_may	53
+( cat	52
+thương_mại du_lịch	51
+trung_tâm thương_mại	51
+thực_hiện hạn_ngạch	44
+chủng_loại hàng	41
+buôn_bán hàng giả	41
+xuất_khẩu hàng dệt_may	35
+thương_nhân nước_ngoài	35
+liên_bộ thương_mại	33
+chống hàng giả	31
+phát_triển thương_mại	31
+số_lượng hạn_ngạch	30
+kim_ngạch xuất_khẩu	29
+năng_lực sản_xuất	28
+xuất_khẩu thị_trường	27
+chuyển_nhượng hạn_ngạch	26
+mặt_hàng chính_sách	25
+kết_cấu_hạ_tầng thương_mại	24
+phòng thương_mại công_nghiệp	24
+doanh_nghiệp xuất_khẩu	24
+xuất_khẩu hàng	23
+thương_mại điện_tử	23
+giao hàng xuất_khẩu	23
+áp_dụng hạn_ngạch	22
+visa tự_động	21
+hạn_ngạch thương_nhân	21
+nguyên phụ_liệu	21
+lô hàng	21
+thị_trường hoa kỳ	21
+hàng kém chất_lượng	19
+vải sản_xuất	19
+hạn_ngạch thương_mại	19
+liên_bộ thương_mại - công_nghiệp	18
+sử_dụng hạn_ngạch	18
+giao thực_hiện hạn_ngạch	18
+hạn_ngạch hàng dệt_may	18
+thành_viên eu	18
+phân giao	18
+hợp_tác_xã thương_mại dịch_vụ	18
+đối_với chủng_loại ( cat	17
+xuất_khẩu gạo	17
+thương_nhân chuyển_nhượng	17
+thực_hiện khuyến_mại	16
+hạn_ngạch công_nghiệp	16
+chương_trình khuyến_mại	16
+giấy_phép xuất_khẩu (	16
+hàng dệt_may xuất_khẩu	15
+thành_tích xuất_khẩu	15
+thị_trường eu	14
+sở thương_mại du_lịch	14
+liên_bộ thương_mại -	14
+chi_nhánh thương_nhân	13
+thương_mại công_nghiệp	13
+hàng tiêu_dùng	13
+liên_kết chuỗi	12
+thưởng hạn_ngạch	12
+giao hàng	12
+một_số mặt_hàng	12
+hạ_tầng thương_mại	12
+nhu_cầu tiêu_dùng	12
+gian_lận thương_mại hàng giả địa_bàn tỉnh	11
+kiểm_soát thị_trường	10
+xuất_khẩu hoa kỳ	10
+đối_với mặt_hàng	10
+nguyên_liệu sản_xuất	10
+hạn_ngạch xuất_khẩu	9
+hải phòng	9
+đăng_ký thực_hiện khuyến_mại	9
+hạn_ngạch xuất_khẩu hàng	9
+hạn_ngạch hàng dệt_may xuất_khẩu	9
+thương_mại địa_bàn	9
+hàng kém	8
+giấy_phép đầu_tư	8
+giấy_phép xuất_khẩu	8
+doanh_nghiệp thương_mại	8
+dự_trữ lưu_thông	8
+thương_mại dịch_vụ	7
+chủng_loại ( cat	7
+thương_mại hàng	7
+hạn_ngạch xuất_khẩu hàng dệt_may	7
+lô hàng xuất_khẩu	7
+chi_nhánh nước_ngoài	6
+% hạn_ngạch	6
+sản_xuất tiêu_dùng	6
+dự_trữ mặt_hàng	6
+phòng thương_mại	6
+buôn_bán hàng	5
+doanh_nghiệp sản_xuất	5
+nhu_cầu thị_trường	5
+liên_bộ xem_xét	5
+thưởng khuyến_khích	5
+hạn_ngạch hàng	4
+gian_lận thương_mại hàng giả địa_bàn	4
+dệt_may xuất_khẩu	4
+nhu_cầu sử_dụng	4
+khuyến_khích doanh_nghiệp	3
+hàng dệt	3
+hàng_hóa xuất_khẩu	3
+hợp_tác_xã thương_mại	3
+sở du_lịch	3
+hạn_ngạch chủng_loại	3
+thương_mại hàng giả	3
+xuất_khẩu hàng dệt_may thị_trường	3
+hoạt_động xúc_tiến	2
+trị_giá hàng	2
+gia_công hàng	2
+hàng dệt_may thị_trường	2
+số_lượng chất_lượng	2
+thực_hiện hiệp_định	2
+đối_với hàng_hóa	2
+đối_với sản_phẩm	2
+sản_phẩm sản_xuất	2
+đối_với hoạt_động	2
+phát_triển thị_trường	2
+cơ_chế chính_sách	2
+phát_triển sản_xuất	2
+nước_ngoài (	2
+chính_sách phát_triển	2
+chính_sách khuyến_khích	1
+- kỳ	1
+đối_với lô hàng	1
+kinh_doanh kết_cấu_hạ_tầng	1
+hàng dệt_may xuất_khẩu thị_trường	1
+sản_phẩm công_nghiệp	1
+đối_với chủng_loại (	1
+đẩy_mạnh sản_xuất	1
+chủng_loại (	1
+đối_với doanh_nghiệp	1
+đăng_ký hoạt_động	1
+( đối_với	1
+mua hàng	1
+giao sở	1
+kinh_doanh mặt_hàng	1
+- đối_với	1
+thông_báo sở	1
+- nguyên_liệu	1
+sản_xuất sản_phẩm	1
+hoạt_động dịch_vụ	1
+thương_nhân kinh_doanh	1
+thực_hiện chính_sách	1
+dệt_may xuất_khẩu thị_trường	1
+dệt_may việt	1
+khuyến_khích phát_triển	1

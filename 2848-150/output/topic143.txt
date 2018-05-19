@@ -1,0 +1,75 @@
+" "	98
+hậu_quả nghiêm_trọng	85
+chính_phủ "	55
+khắc_phục hậu_quả	54
+" hướng_dẫn	53
+dự_án "	38
+tài_khoản "	36
+ghi "	32
+khắc_phục hậu_quả thiên_tai	30
+hình_thức "	28
+tình_tiết "	26
+tài_chính " hướng_dẫn	26
+văn_hoá "	24
+" quy_chế	23
+" hậu_quả nghiêm_trọng "	23
+toàn dân	22
+đặc_biệt nghiêm_trọng	22
+tội "	21
+chữ "	21
+danh_hiệu "	18
+phong_trào “ toàn dân đoàn_kết xây_dựng đời_sống	18
+" dự_án "	18
+đóng_dấu "	18
+nước_ngoài trái_phép "	16
+toàn dân đoàn_kết xây_dựng đời_sống văn_hóa	16
+vận_động "	15
+sở_hữu toàn dân	13
+nghiêm_trọng "	13
+" hậu_quả đặc_biệt nghiêm_trọng "	12
+dân tộ	12
+" hậu_quả nghiêm_trọng	11
+" nhà_giáo	11
+bất_kỳ hình_thức	10
+hậu_quả đặc_biệt nghiêm_trọng	9
+nước_ngoài "	9
+" hướng_dẫn chế_độ	9
+trái_phép "	8
+hậu_quả đặc_biệt nghiêm_trọng "	8
+tiên_tiến "	8
+" toàn dân đoàn_kết xây_dựng	7
+" tội	7
+toàn dân đoàn_kết xây_dựng đời_sống văn_hoá	6
+đời_sống văn_hóa	6
+“ toàn dân đoàn_kết xây_dựng đời_sống văn_hoá	5
+đời_sống văn_hoá	5
+nước_ngoài trái_phép	5
+thống_nhất hướng_dẫn	5
+toàn dân đoàn_kết xây_dựng đời_sống	4
+xây_dựng quy_chế	4
+vận_động " toàn dân	4
+xây_dựng đời_sống văn_hoá	3
+tiếp dân	3
+xây_dựng đời_sống văn_hóa	3
+hậu_quả nghiêm_trọng "	3
+“ toàn dân đoàn_kết xây_dựng đời_sống	3
+ghi tài_khoản	2
+hậu_quả thiên_tai	2
+toàn dân đoàn_kết	2
+chính_phủ hướng_dẫn	2
+tài_chính hướng_dẫn	2
+thống_nhất tài_chính	2
+sở_hữu toàn	1
+đoàn_kết xây_dựng đời_sống văn_hoá	1
+" hậu_quả	1
+“ toàn dân đoàn_kết xây_dựng	1
+tài_khoản đặc_biệt	1
+đặc_biệt nghiêm_trọng "	1
+“ toàn dân	1
+hậu_quả bão	1
+phong_trào “ toàn dân	1
+toàn dân đoàn_kết xây_dựng	1
+tiếp nước_ngoài	1
+đoàn_kết xây_dựng	1
+đoàn_kết xây_dựng đời_sống văn_hóa	1
+hình_thức sở_hữu	1

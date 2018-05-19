@@ -1,0 +1,37 @@
+chủ_tịch hội_đồng_bộ_trưởng	256
+kinh doan	50
+trình hội_đồng_bộ_trưởng	31
+hội_đồng_bộ_trưởng ban_hành	31
+kinh tế-xã hội	28
+lý trình	26
+hội_đồng_bộ_trưởng quyết_định	25
+quyết_định 176	24
+quốc doan	23
+hội_đồng_bộ trưởn	17
+hội_đồng_bộ_trưởng uỷ_quyền	17
+hệ_số trượt_giá	17
+xây_dựng thực_hiện hương_ước	17
+³ ³	16
+hội_đồng_bộ_trưởng thông_tư	15
+quyết_định 203	13
+phát_triển kinh tế-xã hội	10
+trình chủ_tịch	9
+quốc phòn	7
+thực_hiện quyết_định	7
+trợ cấ	7
+di_chuyển chỗ	5
+thực_hiện chỉ_thị	5
+thực_hiện hương_ước	5
+chủ_tịch hội_đồng_bộ_trưởng (	4
+hội_đồng_bộ_trưởng ban_hành điều_lệ	4
+thành_phố đặc_khu	4
+quyết_định 131	3
+hội_đồng_bộ_trưởng (	3
+phát_triển kinh	2
+ban_hành quyết_định	2
+trongquá trình thực_hiện	2
+trongquá trình	2
+chủ_tịch hội	1
+khuyến_khích phát_triển	1
+xem_xét quyết_định	1
+bảo_hiểm_xã hội ban_hành	1

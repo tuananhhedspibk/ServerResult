@@ -1,0 +1,134 @@
+tài_sản cố_định	316
+khấu_hao cơ_bản	109
+giá_trị tài_sản	108
+tài_sản nhà_nước	91
+đối_với tài_sản	89
+khấu_hao tài_sản cố_định	76
+trích khấu_hao	71
+nguyên vật_liệu	65
+nợ tk	61
+tài_sản cầm_cố	54
+sử_dụng tài_sản	53
+tài_sản kê_biên	46
+nguyên giá	46
+kê_biên tài_sản	42
+định_giá tài_sản	40
+tài_sản giao	39
+tài_sản lưu_động	39
+mua tài_sản	37
+tài_sản tạm	33
+mua_sắm tài_sản	33
+kiến_thiết cơ_bản	32
+giao tài_sản	32
+mua_sắm tài_sản cố_định	30
+xác_định_giá_trị tài_sản	27
+đánh_giá tscđ	27
+tài_sản trí_tuệ	26
+nguyên nhiên vật_liệu	26
+tài_sản giá_trị	26
+toàn_bộ tài_sản	25
+nhà_nước giao	25
+xác_minh tài_sản	24
+vốn cố_định	24
+bàn_giao tài_sản	24
+đấu_giá tài_sản	24
+khấu_hao sửa_chữa_lớn	23
+chiếm_đoạt tài_sản	23
+hội_đồng định_giá tài_sản	23
+kết_quả kiểm_kê	22
+sửa_chữa_lớn tài_sản cố_định	21
+kiểm_kê tài_sản	21
+tài_sản thừa	20
+nguyên giá tscđ	20
+bảo_quản tài_sản	20
+sử_dụng trích khấu_hao tài_sản cố_định	20
+bảng tổng_kết tài_sản	20
+tài_sản chiếm_đoạt giá_trị	19
+thuê tài_sản	19
+tiến_hành kiểm_kê	18
+nguyên giá tài_sản cố_định	18
+trích khấu_hao cơ_bản	18
+tổn_thất tài_sản	17
+giá_trị hao_mòn	17
+sử_dụng tài_sản nhà_nước	17
+tỷ_lệ khấu_hao	17
+tài_sản mua_sắm	17
+tiếp_tục sử_dụng	17
+tiến_hành xác_minh	16
+khấu_hao tscđ	15
+tổng giá_trị	15
+giá tài_sản	14
+cầm_cố tài_sản	14
+tiến_hành xác_minh tài_sản	13
+khấu_hao tài_sản	12
+tài_sản xhcn	12
+tài_sản cố_định hợp_tác_xã	12
+mau hỏng	12
+giá_trị sử_dụng	12
+sửa_chữa tài_sản	12
+xử_lý kết_quả	11
+tiền khấu_hao cơ_bản	11
+thời_điểm bàn_giao	11
+kiểm_kê đánh_giá	11
+tk 85 ( 85	10
+bàn_giao toàn_bộ	10
+vốn kiến_thiết cơ_bản	10
+85 ( 85	10
+thiệt_hại tài_sản	9
+xử_lý tổn_thất	9
+trích khấu_hao tài_sản cố_định	9
+tạm chờ xử_lý	9
+nhượng tài_sản	9
+thế_chấp tài_sản	8
+hội_đồng định_giá	8
+tài_sản thế_chấp	7
+chờ xử_lý	7
+số_lượng giá_trị	7
+phát_triển tài_sản trí_tuệ	7
+tài_sản hình_thành	6
+chi_phí khấu_hao	6
+tiền khấu_hao	6
+mua bảo_hiểm	5
+vật_chứng tài_sản	4
+giá_trị hiện_vật	4
+nhiên vật_liệu	4
+vốn khấu_hao	4
+giá_trị 500	4
+sửa_chữa_lớn tài_sản	4
+vốn tài_sản	4
+nhà_nước định_giá	4
+tài_sản thuê	3
+tổng_kiểm_kê đánh_giá	3
+( 85	3
+vốn tài_sản nhà_nước	3
+trích tỷ_lệ	3
+xác_định tỷ_lệ	3
+giá tài_sản cố_định	3
+toàn_bộ vốn	2
+kết_quả xác_minh	2
+tổng_kết tài_sản	2
+giá vật_liệu	2
+tk 85	2
+sử_dụng trích khấu_hao	2
+sử_dụng vốn	2
+kết_quả xử_lý	2
+quản_lý_tài_sản nhà_nước	2
+giá mua	2
+tài_sản chiếm_đoạt	2
+chuyển_nhượng tài_sản	2
+tiền sử_dụng	1
+toàn_bộ chi_phí	1
+hoàn_trả toàn_bộ	1
+bảng tổng_kết	1
+bảng giá	1
+tạm trích	1
+cố_định hợp_tác_xã	1
+( đối_với	1
+đánh_giá kết_quả	1
+tỷ_lệ phân_chia	1
+hoàn_trả vốn	1
+giá tscđ	1
+nguyên giá tài_sản	1
+tiền mua	1
+cũ (	1
+kết_quả đánh_giá	1

@@ -1,0 +1,165 @@
+bổ_sung :	247
+bổ_sung một_số	208
+bổ_sung một_số nghị_định	186
+chính_phủ sửa_đổi	156
+bổ_sung phù_hợp	147
+hướng_dẫn bổ_sung	111
+luật sửa_đổi	109
+bổ_sung một_số thông_tư	98
+một_số nội_dung	91
+bổ_sung một_số quy_định	84
+nội_dung quy_định	71
+: “	71
+văn_bản hướng_dẫn	69
+giải_thích từ_ngữ	69
+“ 1	64
+bổ_sung một_số luật	62
+sửa_đổi bổ_sung	59
+sửa_đổi phù_hợp	58
+sửa_đổi một_số	54
+văn_bản sửa_đổi	48
+tài_chính sửa_đổi	46
+cụm “	46
+bổ_sung thay_thế	46
+bộ_trưởng tài_chính	45
+quyết_định :	44
+bổ_sung một_số quyết_định	44
+bổ_sung nội_dung	43
+bộ_trưởng tài_chính hướng_dẫn	43
+bổ_sung thông_tư	41
+bộ_trưởng tài_chính quy_định	39
+bổ_sung mục_tiêu	39
+quy_định nghị_định	36
+bộ_trưởng tài_chính ban_hành	36
+nghiên_cứu sửa_đổi	35
+hướng_dẫn một_số	35
+bổ_sung sửa_đổi	34
+bổ_sung một_số nội_dung	32
+hướng_dẫn một_số :	32
+nội_dung :	31
+bổ_sung một_số luật thi_đua	30
+tài_chính hướng_dẫn	29
+hướng_dẫn một_số nội_dung	29
+giải_thích hướng_dẫn bổ_sung	26
+quy_định luật sửa_đổi	25
+2017 chính_phủ sửa_đổi	25
+một_số nghị_định	25
+bổ_sung quy_chế	23
+quy_định luật	22
+bãi_bỏ một_số	22
+bổ_sung a :	21
+bổ_sung thay_thế văn_bản áp_dụng	19
+sửa_đổi bổ_sung phù_hợp	19
+bổ_sung một_số luật thuế sửa_đổi	18
+bổ_sung a	18
+bổ_sung một_số luật hình_sự	18
+2016 chính_phủ sửa_đổi	18
+quy_định một_số	17
+bổ_sung một_số quy_chế	17
+đối_với một_số	17
+bổ_sung kinh_phí	17
+06/01/2017 chính_phủ sửa_đổi	16
+ban_hành quy_định một_số	16
+một_số nội_dung :	16
+tài_chính ban_hành	16
+bổ_sung hoàn_thiện	15
+quy_định một_số nội_dung	15
+tài_chính hướng_dẫn một_số	15
+bộ_trưởng tài_chính sửa_đổi	14
+bổ_sung kịp_thời	14
+một_số từ_ngữ	14
+ban_hành quy_định	13
+một_số quy_định	13
+chính_phủ quy_định	13
+phù_hợp nội_dung	12
+bổ_sung một_số luật thuế	12
+tài_chính quy_định_chế_độ	11
+tài_chính quy_định	10
+từ_ngữ :	10
+tài_chính hướng_dẫn quản_lý	9
+bổ_sung danh_mục	9
+2016 bộ_trưởng tài_chính sửa_đổi	9
+tài_chính nghiên_cứu	9
+một_số nội_dung quản_lý	8
+phù_hợp quy_định	8
+hướng_dẫn thông_tư	7
+sửa_đổi bổ_sung một_số	7
+quy_định quyết_định	7
+bổ_sung một_số thông_tư 77/2014	7
+chính_phủ hướng_dẫn	7
+quy_định thông_tư	6
+2016 tài_chính sửa_đổi	6
+thay_đổi nội_dung	6
+thay_đổi bổ_sung	6
+thay_thế văn_bản	6
+xem_xét sửa_đổi	6
+tài_chính hướng_dẫn một_số nghị_định	6
+chính_phủ sửa_đổi bổ_sung	5
+quy_định quy_chế	5
+bổ_sung thay_thế văn_bản áp_dụng văn_bản	5
+sửa_đổi bổ_sung một_số nghị_định	5
+quy_định a	5
+hướng_dẫn quản_lý	4
+hướng_dẫn một_số nghị_định	4
+chiếu áp_dụng	4
+nghiên_cứu sửa_đổi bổ_sung	4
+2016 bộ_trưởng tài_chính	4
+một_số luật	4
+tài_chính hướng_dẫn một_số nghị_định 45/2014	4
+hướng_dẫn áp_dụng	4
+áp_dụng văn_bản sửa_đổi	3
+nghị_định 154/2016	3
+áp_dụng quy_định luật	3
+bổ_sung một_số nghị_định quy_định	3
+bộ_trưởng tài_chính quy_định quản_lý	3
+một_số mặt_hàng	3
+văn_bản hướng_dẫn luật	3
+bộ_trưởng tài_chính quy_định_chế_độ	3
+bãi_bỏ quyết_định	3
+hướng_dẫn bổ_sung kịp_thời	3
+chính_phủ sửa_đổi bổ_sung một_số	3
+chính_phủ quản_lý	3
+bổ_sung thay_thế văn_bản	3
+2016 tài_chính quy_định	3
+chính_phủ văn_bản hướng_dẫn	2
+ban_hành văn_bản	2
+2016 tài_chính hướng_dẫn	2
+hướng_dẫn một_số nghị_định 45/2014	2
+bổ_sung một_số thông_tư 56/2014	2
+giải_thích hướng_dẫn	2
+2016 chính_phủ quy_định	2
+áp_dụng quy_định	2
+2016 bộ_trưởng tài_chính hướng_dẫn	2
+thông_tư áp_dụng	2
+quy_chế áp_dụng đối_với	2
+ban_hành quy_chế	2
+quyết_định thay_đổi	2
+tài_chính quy_định quản_lý	2
+2016 tài_chính	2
+quy_chế áp_dụng	2
+2016 bộ_trưởng	2
+2017 bộ_trưởng	2
+bộ_trưởng tài_chính hướng_dẫn một_số	2
+nội_dung cụ_thể :	1
+ban_hành quyết_định	1
+quy_định áp_dụng đối_với	1
+thay_thế quyết_định	1
+một_số thông_tư	1
+quy_định_chế_độ áp_dụng	1
+thông_tư hướng_dẫn	1
+thay_thế thông_tư	1
+2016 bộ_trưởng tài_chính quy_định	1
+nội_dung văn_bản	1
+bãi_bỏ văn_bản	1
+thay_thế văn_bản áp_dụng văn_bản	1
+áp_dụng đối_với	1
+một_số quy_chế	1
+áp_dụng thông_tư	1
+ban_hành quy_định quản_lý	1
+tài_chính ban_hành thông_tư	1
+quy_chế quy_định	1
+ban_hành nghị_định	1
+ban_hành danh_mục	1
+xem_xét quyết_định	1
+thông_tư bãi_bỏ	1
+chính_phủ thông_tư hướng_dẫn	1

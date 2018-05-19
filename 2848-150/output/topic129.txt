@@ -1,0 +1,208 @@
+phiên họp	159
+thành_viên hội_đồng	157
+hội_đồng tư_vấn	149
+chủ_tịch hội_đồng	95
+hồ_sơ dự_thầu	94
+hội_đồng quản_trị	92
+hồ_sơ mời_thầu	74
+tổ thẩm_định	66
+thành_lập hội_đồng	66
+kết_quả đấu_thầu	61
+hội_đồng thẩm_định	61
+tổ_chức đấu_thầu	60
+quyết_định thành_lập	59
+tổ_chức họp	51
+quy_chế đấu_thầu	51
+thành_phần hội_đồng	48
+đại_diện lãnh_đạo	47
+hội_đồng kỷ_luật	46
+đề_xuất đặt_hàng	44
+biên_bản họp	43
+chủ_tịch hội_đồng quản_trị	41
+đánh_giá hồ_sơ	38
+hội_đồng định_giá	36
+hội_đồng bình_chọn	34
+tổ_chức tư_vấn	34
+thành_viên chuyên_trách hội_đồng quản_trị	34
+thành_viên tham_gia	32
+cử đại_diện	32
+ý_kiến tư_vấn	31
+họp hội_đồng	30
+tổ_chức thẩm_định	30
+dự họp	29
+kết_luận hội_đồng	29
+thư_ký hội_đồng	29
+tham_dự họp	28
+đơn đặt_hàng	28
+hoạt_động tư_vấn	28
+hội_đồng tuyển_chọn	27
+quyết_định phê_duyệt	27
+chủ_tịch phó_chủ_tịch	26
+lựa_chọn nhà_thầu	26
+phó_chủ_tịch hội_đồng	26
+tổ_chức chủ_trì	25
+sản_phẩm cuối_cùng	25
+đánh_giá nghiệm_thu	24
+đơn_vị thành_viên	24
+thành_viên hội_đồng quản_trị	23
+đánh_giá kết_quả	22
+thành_viên đại_diện	22
+tiêu_chí thành_phần	22
+ít_nhất 2/3	21
+kế_hoạch đấu_thầu	21
+chủ_trì họp	21
+hồ_sơ đăng_ký tham_gia tuyển_chọn	21
+tham_gia tuyển_chọn	20
+bổ_nhiệm thành_viên chuyên_trách hội_đồng quản_trị	20
+phiên họp hội_đồng	19
+đánh_giá hồ_sơ dự_thầu	19
+hội_đồng nghiệm_thu	19
+bảo_lãnh dự_thầu	18
+xét thầu	18
+cử tham_gia	18
+hình_thức kỷ_luật	17
+quyết_định cử	17
+đơn_vị tư_vấn	17
+tổ_chức họp hội_đồng tư_vấn	17
+thường_trực hội_đồng	17
+tổ thư_ký	17
+thành_lập tổ	17
+quyết_định thành_lập hội_đồng	17
+thành_viên ban	16
+công_nhận kết_quả	16
+tham_gia hội_đồng	16
+thẩm_định hồ_sơ	16
+thành_lập hội_đồng tư_vấn	16
+ý_kiến nhận_xét	15
+ban thư_ký	15
+thành_viên hội_đồng tư_vấn	15
+mời đại_diện	15
+thành_viên tổ	15
+thẩm_định tư_vấn	15
+hội_đồng tuyển_chọn thẩm_phán	14
+hội_đồng xét	14
+thành_lập hội_đồng định_giá	14
+bổ_nhiệm thẩm_phán	14
+tham_gia đấu_thầu	14
+kết_quả lựa_chọn nhà_thầu	14
+đăng_ký tham_gia tuyển_chọn	13
+tổ chuyên_gia	13
+làm_chủ_tịch hội_đồng	13
+tham_gia ý_kiến	13
+tham_gia bình_chọn	13
+thuê tư_vấn	13
+đấu_thầu mua_sắm	13
+quyết_định công_nhận kết_quả	12
+thuê chuyên_gia thẩm_định	12
+hồ_sơ mời sơ_tuyển	12
+uỷ_viên thường_trực	12
+thành_viên đội	12
+có_thể uỷ_quyền	11
+ý_kiến thành_viên	11
+đại_diện ban	11
+hình_thức đấu_thầu	11
+tổ_chức hoạt_động	11
+phê_duyệt kết_quả	11
+họp bàn	11
+kiểm phiếu	10
+bỏ_phiếu kín	10
+chỉ_định thầu	10
+thành_viên tham_dự	10
+ban đại_diện hội_đồng quản_trị nhcsxh	10
+đăng_ký tham_gia bình_chọn	10
+số_lượng thành_viên	9
+thẩm_định phê_duyệt	9
+hoàn_thiện hồ_sơ	8
+giúp_việc hội_đồng	8
+hồ_sơ đề_xuất	8
+thành_viên chuyên_trách	8
+kết_quả thẩm_định	8
+thuê chuyên_gia	8
+quyết_định công_nhận	8
+hoạt_động hội_đồng	8
+quyết_định phê_duyệt kết_quả	8
+đại_biểu tham_dự	8
+đại_diện hội_đồng quản_trị	8
+thành_lập ban	8
+thành_phần hồ_sơ	8
+tuyển_chọn thẩm_phán	7
+ý_kiến kết_luận	7
+quyết_định bổ_nhiệm	7
+uỷ_viên hội_đồng	7
+thành_viên đoàn	7
+mời tham_dự	7
+đơn_vị trúng_thầu	7
+nghiệm_thu kết_quả	7
+họp hội_đồng tư_vấn	7
+hồ_sơ mời	7
+kết_quả đánh_giá	7
+kết_quả tuyển_chọn	6
+hồ_sơ đăng_ký	6
+tổ_chức bình_chọn	6
+có_thể thành_lập	6
+phê_duyệt đề_án	6
+mời sơ_tuyển	6
+phó_chủ_tịch thường_trực	5
+quyết_định thành_lập đoàn	5
+lựa_chọn hình_thức	5
+đăng_ký tham_gia	5
+tổ_chức họp hội_đồng	5
+ý_kiến tham_gia	5
+hội_đồng thẩm_định_giá	5
+tổng_số thành_viên	4
+chuẩn_bị hồ_sơ	4
+đại_diện hội_đồng quản_trị nhcsxh	4
+đoàn chủ_tịch	4
+biên_bản nghiệm_thu	4
+kết_quả hoạt_động	4
+đề_xuất ý_kiến	4
+thẩm_định đề_án	3
+bình_chọn sản_phẩm	3
+hội_đồng tư_vấn xác_định	3
+đấu_thầu lựa_chọn	3
+kinh_nghiệm thực_tiễn	3
+ban quản_trị	3
+hồ_sơ trình	3
+đề_án thành_lập	3
+họp bất_thường	3
+ban đại_diện hội_đồng quản_trị	3
+tổ_trưởng tổ	3
+quy_chế tổ_chức hoạt_động	3
+đại_biểu mời	3
+thẩm_định trình	3
+tham_gia đoàn	3
+lưu_giữ hồ_sơ	2
+phê_duyệt kế_hoạch lựa_chọn nhà_thầu	2
+quyết_định thành_lập ban	2
+thành_lập quyết_định	2
+ý_kiến thảo_luận	2
+hoàn_chỉnh hồ_sơ	2
+phê_duyệt kế_hoạch	2
+trình lãnh_đạo	2
+quy_chế dân_chủ	2
+báo_cáo kết_quả thẩm_định tư_vấn	2
+hoạt_động chuyên_trách	2
+kế_hoạch lựa_chọn nhà_thầu	2
+chuyên_gia thẩm_định	2
+hồ_sơ đăng_ký tham_gia	1
+thông_qua hội_đồng	1
+phiên họp ubnd	1
+thành_phần đoàn	1
+ban tổ_chức	1
+đơn_vị chủ_trì	1
+tham_gia hoạt_động	1
+trình hội_đồng	1
+thành_lập đoàn	1
+trình chủ_tịch	1
+quy_chế hoạt_động	1
+chủ_trì tổ_chức	1
+ý_nghĩa quan_trọng	1
+tổ_chức lựa_chọn	1
+báo_cáo thẩm_định	1
+ban hội_đồng	1
+thông_qua đề_án	1
+tiêu_chí xác_định	1
+đại_biểu dự	1
+đoàn đại_biểu	1
+kết_quả thẩm_định trình	1
+đơn đăng_ký	1
